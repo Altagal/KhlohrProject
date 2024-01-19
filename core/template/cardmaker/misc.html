@@ -1,0 +1,41 @@
+<tr>
+    <td colspan="8" class="card_type">
+        <div>
+           {{card.type | title }} - {{card.rarity.name | title}}
+        </div>
+    </td>
+</tr>
+
+
+<tr>
+    <td colspan="8" class="card_type">
+        <div>
+                {{card.category | default_if_none:""}}{{card.adventuring_gear | default_if_none:""}}{{card.wondrous_item | default_if_none:""}}
+            </div>
+    </td>
+</tr>
+
+{%if card.weight%}
+<tr>
+    <td class="card_weight_component">
+        <div>Weight</div>
+        {{card.weight|floatformat:-1}} lb.
+    </td>
+</tr>
+{% endif %}
+
+
+<tr class="card_description">
+    <td colspan="8">
+        <div style="font-size:">
+            {% if card.attunement_description %}
+            <p style="text-align:center;">
+                {{card.attunement_description}}
+            </p>
+            {% endif %}
+                {% autoescape on %}
+                {{ card.description | safe }}
+                {% endautoescape %}
+        </div>
+    </td>
+</tr>

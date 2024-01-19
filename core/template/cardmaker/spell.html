@@ -1,0 +1,56 @@
+<tr>
+    <td colspan="8" class="card_type">
+        <div class="reduce_to_fit">
+            {{card.type | title}} - {{card.full_level}} of {{card.magic_school.name}}{% if card.is_ritual or card.is_chronomancy or card.is_renaissance %} -{% endif %}{% if card.is_ritual %} Ritual{% endif %}{% if card.is_chronomancy %} Chronomancy{% endif %}{% if card.is_renaissance %} Renaissance{% endif %}
+        </div>
+    </td>
+</tr>
+<tr>
+    <td colspan="4" class="tiny_label" style="border: 0; width:50%;">
+        <div>Casting Time</div>
+        {{card.casting_time.name}}
+    </td>
+    <td colspan="4" class="tiny_label">
+        <div>Range</div>
+        {{card.range.name}}
+    </td>
+</tr>
+<tr>
+    <td class="tiny_label">
+        <div>V</div>
+        {% if card.is_verbal %} ◆ {% else %} ◇ {% endif %}
+    </td>
+    <td class="tiny_label">
+        <div>S</div>
+        {% if card.is_somatic %} ◆ {% else %} ◇ {% endif %}
+    </td>
+    <td class="tiny_label">
+        <div>M</div>
+        {% if card.requiring_materials %} ◆ {% else %} ◇ {% endif %}
+    </td>
+    <td class="tiny_label">
+        <div>C</div>
+        {% if card.is_concentration %} ◆ {% else %} ◇ {% endif %}
+    </td>
+    <td colspan="4" class="tiny_label">
+
+        <div>Duration</div>
+        {% if card.is_concentration %} Up to {% endif %}{{card.duration.name}}
+
+    </td>
+</tr>
+<tr class="card_description">
+    <td colspan="8">
+        <div style="font-size:mm">{% if card.requiring_materials %}<p style="text-align: center;">{{card.requiring_materials}}</p>
+            {% endif %}
+                {% autoescape on %}
+                  {{ card.description | safe  }}
+               {% endautoescape %}
+
+            {% if card.at_higher_levels %}<p><b>At Higher Levels: </b>{{card.at_higher_levels}}</p>{% endif %}
+            <!--            {% if card.casters.all %}-->
+            <!--            <p><b>Casters:</b> {% for caster in card.casters.all %}{% if not forloop.first %}, {% endif %}{{caster.name }}{% endfor %}</p>-->
+            <!--            {% endif %}-->
+        </div>
+    </td>
+</tr>

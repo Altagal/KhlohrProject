@@ -1,0 +1,58 @@
+
+<tr>
+	<td colspan="8" class="card_type">
+		<div>
+			{% if card.is_martial %}Martial {% endif %}{{card.weapon_subtype.name | title}} - {{card.category}}
+		</div>
+	</td>
+</tr>
+{% if card.category or card.is_adventuring_gear %}
+<tr>
+	<td colspan="8" class="card_type">
+		<div>
+			{{card.is_adventuring_gear|default_if_none:""}}
+			{% if card.category and  card.is_adventuring_gear %} -
+			{% endif %}
+			 {{card.rarity.name | title}}
+		</div>
+	</td>
+</tr>
+{% endif %}
+<tr>
+	 <td class="card_component">
+        <div>Damage</div>
+			{{card.damage}}
+	</td>
+	{% if card.range %}
+	 <td class="card_component">
+        <div>Range</div>
+			{{card.range}}
+	</td>
+	{% endif %}
+	 <td class="card_weight_component">
+        <div>Weight</div>
+			{{card.weight|floatformat:-2}} lb.
+	</td>
+</tr>
+<tr>
+	<td colspan="14" class="card_type">
+		<div>
+			{% for propriety in card.properties.all %}{% if not forloop.first %}, {% endif %}{{propriety.name }}{% endfor %}
+		</div>
+	</td>
+	</tr>
+
+<tr class="card_description">
+    <td colspan="8" >
+        <div style="font-size:mm">
+			{% if card.attunement_description %}
+			<p style="text-align:center;">
+				{{card.attunement_description}}
+			</p>
+			{% endif %}
+                {% autoescape on %}
+                {{ card.description | default_if_none:"&nbsp;" | safe }}
+                {% endautoescape %}
+        </div>
+    </td>
+</tr>

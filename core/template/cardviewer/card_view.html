@@ -1,0 +1,17 @@
+{% extends "cardviewer/card_base.html" %}
+
+{% block card %}
+
+{% autoescape off %}
+{{obj_card.desc}}
+{% endautoescape %}
+
+<div class="row">
+    <div class="col">
+        <p>
+            <b>Source</b>: {{obj_card.source.name}}
+        </p>
+    </div>
+</div>
+
+{% endblock %}

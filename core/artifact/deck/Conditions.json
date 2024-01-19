@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "blinded",
+    "name": "Blinded",
+    "desc": "",
+    "source": "Player’s Handbook"
+  },
+  {
+    "slug": "charmed",
+    "name": "Charmed",
+    "desc": "",
+    "source": "Player’s Handbook"
+  },
+  {
+    "slug": "deafened",
+    "name": "Deafened",
+    "desc": "",
+    "source": "Player’s Handbook"
+  },
+  {
+    "slug": "frightened",
+    "name": "Frightened",
+    "desc": "",
+    "source": "Player’s Handbook"
+  },
+  {
+    "slug": "grappled",
+    "name": "Grappled",
+    "desc": "",
+    "source": "Player’s Handbook"
+  },
+  {
+    "slug": "incapacitated",
+    "name": "Incapacitated",
+    "desc": "",
+    "source": "Player’s Handbook"
+  },
+  {
+    "slug": "invisible",
+    "name": "Invisible",
+    "desc": "",
+    "source": "Player’s Handbook"
+  },
+  {
+    "slug": "paralyzed",
+    "name": "Paralyzed",
+    "desc": "",
+    "source": "Player’s Handbook"
+  },
+  {
+    "slug": "petrified",
+    "name": "Petrified",
+    "desc": "",
+    "source": "Player’s Handbook"
+  },
+  {
+    "slug": "poisoned",
+    "name": "Poisoned",
+    "desc": "",
+    "source": "Player’s Handbook"
+  },
+  {
+    "slug": "prone",
+    "name": "Prone",
+    "desc": "",
+    "source": "Player’s Handbook"
+  },
+  {
+    "slug": "restrained",
+    "name": "Restrained",
+    "desc": "",
+    "source": "Player’s Handbook"
+  },
+  {
+    "slug": "stunned",
+    "name": "Stunned",
+    "desc": "",
+    "source": "Player’s Handbook"
+  },
+  {
+    "slug": "unconscious",
+    "name": "Unconscious",
+    "desc": "",
+    "source": "Player’s Handbook"
+  },
+  {
+    "slug": "exhaustion",
+    "name": "Exhaustion",
+    "desc": "",
+    "source": "Player’s Handbook"
+  }
+]

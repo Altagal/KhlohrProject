@@ -1,0 +1,94 @@
+[
+  {
+    "slug": "blinded",
+    "type": "Condition"
+  },
+  {
+    "slug": "charmed",
+    "type": "Condition"
+  },
+  {
+    "slug": "deafened",
+    "type": "Condition"
+  },
+  {
+    "slug": "frightened",
+    "type": "Condition"
+  },
+  {
+    "slug": "grappled",
+    "type": "Condition"
+  },
+  {
+    "slug": "incapacitated",
+    "type": "Condition"
+  },
+  {
+    "slug": "invisible",
+    "type": "Condition"
+  },
+  {
+    "slug": "paralyzed",
+    "type": "Condition"
+  },
+  {
+    "slug": "petrified",
+    "type": "Condition"
+  },
+  {
+    "slug": "poisoned",
+    "type": "Condition"
+  },
+  {
+    "slug": "prone",
+    "type": "Condition"
+  },
+  {
+    "slug": "restrained",
+    "type": "Condition"
+  },
+  {
+    "slug": "stunned",
+    "type": "Condition"
+  },
+  {
+    "slug": "unconscious",
+    "type": "Condition"
+  },
+  {
+    "slug": "exhaustion",
+    "type": "Condition"
+  },
+  {
+    "slug": "abjuration",
+    "type": "MagicSchool"
+  },
+  {
+    "slug": "conjuration",
+    "type": "MagicSchool"
+  },
+  {
+    "slug": "divination",
+    "type": "MagicSchool"
+  },
+  {
+    "slug": "enchantment",
+    "type": "MagicSchool"
+  },
+  {
+    "slug": "evocation",
+    "type": "MagicSchool"
+  },
+  {
+    "slug": "ilusion",
+    "type": "MagicSchool"
+  },
+  {
+    "slug": "necromancy",
+    "type": "MagicSchool"
+  },
+  {
+    "slug": "transmutation",
+    "type": "MagicSchool"
+  }
+]

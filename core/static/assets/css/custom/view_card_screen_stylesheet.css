@@ -1,0 +1,127 @@
+.card_print{
+    font-family: Times New Roman;
+    
+    float: left;
+
+    margin-top: 1mm;
+    margin-bottom: 1mm;
+    margin-right: 0mm;
+    margin-left: 15mm;/* grimore */
+    /*margin-left: 10mm;*/
+    
+    text-align: center;
+    font-size: 4mm;
+
+    break-inside: avoid;
+}
+
+.card_print table{
+    border-collapse: collapse;
+}
+
+.card_print > table{
+
+    width: 80mm;
+    max-width: 80mm;
+    min-height: 170mm; /* Spellbook height*/
+    /* min-height: 130mm; A5 height*/
+    /* max-height: 200mm; A4 height */
+    border: 2mm solid;
+}
+
+.card_print td {
+    border: 1mm solid black;
+}
+
+.card_inner{
+    border: 1mm solid;
+}
+
+.card_title{
+    font-size: 7mm;
+    max-height: 8mm;
+    padding: 0mm 2mm 0mm 2mm;
+    line-height: 125%;
+
+}
+
+.card_type{
+    height: 5mm;
+    width:8mm;
+    padding: 0mm 2mm 0mm 2mm;
+}
+
+.card_type div{
+    font-size: 4mm;
+}
+
+.card_component{
+    height: 1mm;
+}
+
+.tiny_label{
+    height: 1mm;
+
+}
+.tiny_label div{
+    font-size: 3mm;
+    text-align: center;
+}
+
+.card_weight_component{
+    width:17.5%;
+    height: 1mm;
+
+}
+.card_weight_component div{
+    font-size: 3mm;
+    text-align: center;
+}
+
+.card_component div{
+    font-size: 3mm;
+    text-align: center;
+}
+
+.card_requiring_materials{
+    height: 1mm;
+    
+}
+.card_requiring_materials td{
+    border-bottom:solid 1px black;
+}
+
+
+.card_requiring_materials td p{
+    padding: 3mm 3mm 0mm 3mm;
+}
+
+.card_description{
+    vertical-align:top;
+    text-align: justify;
+
+}
+
+.card_description td{
+    padding: 0mm 3mm 0mm 3mm;
+}
+
+.card_description td div ul{
+   padding-left: 20px;
+
+}
+.card_description td div table{
+   text-align: center;
+
+}
+
+.card_source, .t_card_caster{
+    vertical-align:bottom;
+    height: 1mm;
+}
+
+
+.card_source td div, .t_card_caster td div {
+    text-align: left;
+    font-size: 2.5mm;
+}

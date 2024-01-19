@@ -1,0 +1,18 @@
+{% if card.type %}
+<tr>
+	<td colspan="8" class="card_type">
+		<div class="reduce_to_fit">
+            {{card.type | title}} - {{card.subclass_fk.class_fk.name}} {{card.subclass_fk.name}} {{card.level}}º Level
+		</div>
+	</td>
+</tr>
+{% endif %}
+<tr class="card_description">
+    <td colspan="8" >
+        <div style="font-size:mm">
+                {% autoescape on %}
+                {{ card.description | safe }}
+                {% endautoescape %}
+        </div>
+    </td>
+</tr>

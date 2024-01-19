@@ -1,0 +1,88 @@
+<tr>
+    <td colspan="100" class="card_type">
+        <div>
+            {{card.type | title}} - {{card.size.name | title}}
+        </div>
+    </td>
+</tr>
+<tr>
+    <td colspan="100" class="card_type">
+        <div>
+            {% for monster_type in card.monster_type.all %} {{monster_type.name| title }} {% endfor %}
+        </div>
+    </td>
+</tr>
+<tr>
+     <td colspan="50" class="tiny_label">
+        <div>Challenge</div>
+        0/0 (0.000 XP)
+    </td>
+    <td colspan="50" class="tiny_label" style="border: 0; width:50%;">
+        <div>Alainment</div>
+        Chaotic Neutral
+    </td>
+</tr>
+<tr>
+    <td colspan="50" class="tiny_label">
+        <div>AC</div>
+        00
+    </td>
+    <td colspan="50" class="tiny_label">
+        <div>HP</div>
+        00
+    </td>
+</tr>
+<tr>
+    <td colspan="100" class="tiny_label">
+        <div>Speed</div>
+         Walking {% if not card.walking_speed %}0{% else %}{{ card.walking_speed }}ft.{% endif %}
+        {% if card.hover_speed %}, Hover {{ card.hover_speed }}ft.{% endif %}
+        {% if card.flying_speed %}, Fly {{ card.flying_speed }}ft.{% endif %}
+        {% if card.swimming_speed %}, Swimm {{ card.swimming_speed }}ft.{% endif %}
+        {% if card.climbing_speed %}, Climb {{ card.climbing_speed }}ft.{% endif %}
+        {% if card.burrowing_speed %}, Burrow {{ card.burrowing_speed }}ft.{% endif %}
+    </td>
+</tr>
+<tr>
+    <td colspan="20" class="tiny_label">
+        <div>STR</div>
+        (+0)
+        <div>00</div>
+    </td>
+    <td colspan="15" class="tiny_label">
+        <div>DEX</div>
+        (+0)
+        <div>00</div>
+    </td>
+    <td colspan="15" class="tiny_label">
+        <div>CON</div>
+        (+0)
+        <div>00</div>
+    </td>
+    <td  class="tiny_label">
+        <div>INT</div>
+        (+0)
+        <div>00</div>
+    </td>
+    <td class="tiny_label">
+        <div>WIN</div>
+        (+0)
+        <div>00</div>
+    </td>
+    <td class="tiny_label">
+        <div>CAR</div>
+        (+0)
+        <div>00</div>
+    </td>
+
+</tr>
+
+<tr class="card_description">
+    <td colspan="100">
+        <div style="font-size:">
+                {% autoescape on %}
+                {{ card.description | safe }}
+                {% endautoescape %}
+        </div>
+    </td>
+</tr>

@@ -1,0 +1,27 @@
+{% extends "layout/card_base.html" %}
+
+{% block card %}
+
+{% autoescape off %}
+{{obj_card.desc}}
+{% endautoescape %}
+
+<table class="table table-hover">
+    <thead>
+    <tr>
+        <th scope="col" style="width: 99%;">Name</th>
+        <th class="text-center" style="width: 1%;" scope="col"></th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for cardbase in cardbase_list %}
+    <tr>
+        <td>{{cardbase.name}}</td>
+        <td>
+            <a href="{% url 'card_view' cardbase.slug %}"><i class="fas fa-search text-danger"></i></a>
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

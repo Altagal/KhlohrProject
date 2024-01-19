@@ -1,0 +1,41 @@
+<tr>
+    <td colspan="8" class="card_type">
+        <div>
+            {{card.type | title}} - {{card.size_fk.name}} {% for creature_type in card.creature_type.all %}{{creature_type.name| title }} {% endfor %}
+        </div>
+    </td>
+</tr>
+<tr class="card_component">
+    <td colspan="8" >
+        <div>
+            Speed     
+        </div>
+        Walking {% if not card.walking_speed %}0{% else %}{{ card.walking_speed }}ft.{% endif %}
+        {% if card.hover_speed %}, Hover {{ card.hover_speed }}ft.{% endif %}
+        {% if card.flying_speed %}, Fly {{ card.flying_speed }}ft.{% endif %}
+        {% if card.swimming_speed %}, Swimm {{ card.swimming_speed }}ft.{% endif %}
+        {% if card.climbing_speed %}, Climb {{ card.climbing_speed }}ft.{% endif %}
+        {% if card.burrowing_speed %}, Burrow {{ card.burrowing_speed }}ft.{% endif %}
+
+    </td>
+</tr>
+<tr class="card_description">
+
+    <td colspan="8" >
+        <div style="font-size:">
+            {% if card.description %}
+                {% autoescape on %}
+                {{ card.description | safe }}
+                {% endautoescape %}
+            {% endif %}
+            <p>
+            <b>Ability Score Increase:</b> {{card.ability_score_increase}}
+            </p>
+            {% if card.racial_traits.all %}
+            <p>
+            <b>Racial Traits:</b> {% for racial_trait in card.racial_traits.all %}{%if not forloop.first %}, {% endif %}{{racial_trait.name}}{% endfor %}
+            </p>
+            {% endif %}
+        </div>
+    </td>
+</tr>

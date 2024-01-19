@@ -1,0 +1,58 @@
+{% extends "layout/base.html" %}
+{% load static %}
+{% block title %}{{plural_type_name}}{% endblock %}
+
+{% block stylesheet %}{% endblock %}
+
+{% block content %}
+<div class="page-inner">
+    <div class="row">
+        <div class="col">
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">{{plural_type_name}}</div>
+                </div>
+                <div class="card-body">
+                    <table class="table table-hover">
+                        <thead>
+                        <tr>
+                            <th scope="col" style="width: 50%;">Class</th>
+                            <th class="text-center" style="width: 1%;" scope="col"></th>
+                            <th scope="col" style="width: 50%;">Subclass</th>
+                            <th class="text-center" style="width: 1%;" scope="col"></th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        {% for classe in table_list %}
+                        <tr>
+                            <td rowspan="{{ classe.subclass_set.count | add:1 }}">{{classe.name}}</td>
+                            <td rowspan="{{ classe.subclass_set.count | add:1 }}">
+                                <a href="{% url 'card_view' classe.slug %}"><i class="fas fa-search text-danger"></i></a>
+                            </td>
+
+                        {% for subclass in classe.subclass_set.all %}
+                        <tr>
+                            <td>
+                                {{subclass.name}}
+                            </td>
+                            <td>
+                                <a href="{% url 'card_view' subclass.slug %}"><i class="fas fa-search text-danger"></i></a>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                        </tr>
+                        {% endfor %}
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block javascript %}
+<script src="{% static 'assets/js/custom/misc_script.js' %}"></script>
+
+{% endblock %}

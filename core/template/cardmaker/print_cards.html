@@ -1,0 +1,78 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>View Cards</title>
+    <link rel="icon" href="{% static 'assets/img/DnD-Emblem.ico' %}" type="image/x-icon"/>
+    <link rel="stylesheet" href="{% static 'assets/css/custom/view_card_screen_stylesheet.css' %}" media="print">
+    <link rel="stylesheet" href="{% static 'assets/css/custom/view_card_screen_stylesheet.css' %}" media="screen">
+</head>
+
+<body>
+    {% for card in card_list|dictsort:"name" %}
+    <div class="card_print">
+        <table>
+            <thead>
+                <tr>
+                    <th colspan="100">
+                        <div class="card_title reduce_to_fit">{{card.name|default_if_none:"&nbsp"}}</div>
+                    </th>
+                </tr>
+            </thead>
+            <tbody class="card_inner">
+
+                    {% if card.type == "spell" %}
+                    {% include 'cardmaker/view_spell.html'%}
+                    {% elif card.type == "magic school" %}
+                    {% include 'cardmaker/view_magic_school.html'%}
+                    {% elif card.type == "race" %}
+                    {% include 'cardmaker/view_race.html'%}
+                    {% elif card.type == "racial trait" %}
+                    {% include 'cardmaker/view_racial_trait.html'%}
+                    {% elif card.type == "classe" %}
+                    {% include 'cardmaker/view_classe.html'%}
+                    {% elif card.type == "subclass" %}
+                    {% include 'cardmaker/view_subclass.html'%}
+                    {% elif card.type == "class feat" %}
+                    {% include 'cardmaker/view_class_feat.html'%}
+                    {% elif card.type == "subclass feat" %}
+                    {% include 'cardmaker/view_subclass_feat.html'%}
+                    {% elif card.type == "feat" %}
+                    {% include 'cardmaker/view_feat.html'%}
+                    {% elif card.type == "armor" %}
+                    {% include 'cardmaker/view_item_armor.html'%}
+                    {% elif card.type == "weapon" %}
+                    {% include 'cardmaker/view_item_weapon.html'%}
+                    {% elif card.type == "item" %}
+                    {% include 'cardmaker/view_item_misc.html'%}
+                    {% elif card.type == "monster" %}
+                    {% include 'cardmaker/view_mosnter.html'%}
+                    {% elif card.type == "character sheet" %}
+                    {% include 'cardmaker/view_ooo.html'%}
+                    {% else %}
+                    {% include 'cardmaker/other.html'%}
+                    {% endif %}
+                {% if card.source %}
+                <tr class="card_source">
+                    <td colspan="100">
+                        <div>
+                            <b>Source: </b>{{card.source.name}}
+                        </div>
+                    </td>
+                </tr>
+                {% endif %}
+
+            </tbody>
+        </table>
+    </div>
+    {% endfor %}
+
+    {% block javascript %}
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="{% static 'assets/js/AntiOverflowFontResizer/AntiOverflowFontResizer.js' %}"></script>
+    <script src="{% static 'assets/js/custom/card_maker_script.js' %}"></script>
+    {% endblock %}
+
+</body>
+</html>

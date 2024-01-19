@@ -1,0 +1,17 @@
+{% load static %}
+<nav class="navbar navbar-header navbar-expand-lg" data-background-color="red2">
+    <div class="container-fluid">
+        <ul class="navbar-nav topbar-nav ml-md-auto align-items-center">
+            <li class="nav-item">
+                <div class="btn-group">
+                    <a href="{% url 'cart_view' %}" >
+                        <button type="button" class="btn btn-danger" >
+                            <i class="fas fa-print"></i>
+                                <!-- {{cart}} -->
+                        </button>
+                    </a>
+                </div>
+            </li>
+        </ul>
+    </div>
+</nav>
