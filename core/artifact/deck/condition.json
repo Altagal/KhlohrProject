@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "blinded",
+    "name": "Blinded",
+    "type": "condition",
+    "full_type": "Condition",
+    "desc": "</ul><ul> <li>A blinded creature can't see and automatically fails any ability check that requires sight.</li> </ul><ul><li> Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</li> </ul>",
+    "source": "Player's Handbook"
+  },
+  {
+    "slug": "charmed",
+    "name": "Charmed",
+    "type": "condition",
+    "full_type": "Condition",
+    "desc": "<ul> <li>A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.</li> </ul><ul><li>The charmer has advantage on any ability check to interact socially with the creature.</li> </ul>",
+    "source": "Player's Handbook"
+  },
+  {
+    "slug": "deafened",
+    "name": "Deafened",
+    "type": "condition",
+    "full_type": "Condition",
+    "desc": "<ul><li>A deafened creature can't hear and automatically fails any ability check that requires hearing.</li></ul>",
+    "source": "Player's Handbook"
+  },
+  {
+    "slug": "frightened",
+    "name": "Frightened",
+    "type": "condition",
+    "full_type": "Condition",
+    "desc": "<ul> <li>A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.</li></ul><ul> <li>The creature can't willingly move closer to the source of its fear.</li> </ul>",
+    "source": "Player's Handbook"
+  },
+  {
+    "slug": "grappled",
+    "name": "Grappled",
+    "type": "condition",
+    "full_type": "Condition",
+    "desc": "<ul> <li>A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.</li></ul><ul> <li>The condition ends if the grappler is incapacitated (see the condition).</li> </ul><ul> <li>The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the <em>thunderwave</em> spell.</li> </ul>",
+    "source": "Player's Handbook"
+  },
+  {
+    "slug": "incapacitated",
+    "name": "Incapacitated",
+    "type": "condition",
+    "full_type": "Condition",
+    "desc": "<ul><li>An incapacitated creature can't take actions or reactions.</li></ul>",
+    "source": "Player's Handbook"
+  },
+  {
+    "slug": "invisible",
+    "name": "Invisible",
+    "type": "condition",
+    "full_type": "Condition",
+    "desc": "<ul> <li>An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.</li> </ul><ul> <li> Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.</li> </ul>",
+    "source": "Player's Handbook"
+  },
+  {
+    "slug": "paralyzed",
+    "name": "Paralyzed",
+    "type": "condition",
+    "full_type": "Condition",
+    "desc": "<ul> <li>A paralyzed creature is incapacitated (see the condition) and can't move or speak.</li> </ul><ul> <li>The creature automatically fails Strength and Dexterity saving throws.</li> </ul><ul> <li> Attack rolls against the creature have advantage.</li> </ul><ul> <li>Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.</li> </ul>",
+    "source": "Player's Handbook"
+  },
+  {
+    "slug": "petrified",
+    "name": "Petrified",
+    "type": "condition",
+    "full_type": "Condition",
+    "desc": "<ul> <li>A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.</li> </ul><ul> <li>The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.</li> </ul><ul> <li> Attack rolls against the creature have advantage.</li> </ul><ul> <li>The creature automatically fails Strength and Dexterity saving throws.</li> </ul><ul> <li>The creature has resistance to all damage.</li> </ul><ul> <li>The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.</li> </ul>",
+    "source": "Player's Handbook"
+  },
+  {
+    "slug": "poisoned",
+    "name": "Poisoned",
+    "type": "condition",
+    "full_type": "Condition",
+    "desc": "<ul><li>A poisoned creature has disadvantage on attack rolls and ability checks.</li></ul>",
+    "source": "Player's Handbook"
+  },
+  {
+    "slug": "prone",
+    "name": "Prone",
+    "type": "condition",
+    "full_type": "Condition",
+    "desc": "<ul> <li>A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</li> </ul><ul> <li>The creature has disadvantage on attack rolls.</li> </ul><ul> <li>An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</li> </ul>",
+    "source": "Player's Handbook"
+  },
+  {
+    "slug": "restrained",
+    "name": "Restrained",
+    "type": "condition",
+    "full_type": "Condition",
+    "desc": "<ul> <li>A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.</li> </ul><ul> <li> Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</li> </ul><ul> <li>The creature has disadvantage on Dexterity saving throws.</li> </ul>",
+    "source": "Player's Handbook"
+  },
+  {
+    "slug": "stunned",
+    "name": "Stunned",
+    "type": "condition",
+    "full_type": "Condition",
+    "desc": "<ul> <li>A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.</li> </ul><ul> <li>The creature automatically fails Strength and Dexterity saving throws.</li> </ul><ul> <li> Attack rolls against the creature have advantage.</li> </ul>",
+    "source": "Player's Handbook"
+  },
+  {
+    "slug": "unconscious",
+    "name": "Unconscious",
+    "type": "condition",
+    "full_type": "Condition",
+    "desc": "<ul> <li>An unconscious creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings</li> </ul><ul> <li>The creature drops whatever it's holding and falls prone.</li> </ul><ul> <li>The creature automatically fails Strength and Dexterity saving throws.</li> </ul><ul> <li> Attack rolls against the creature have advantage.</li> </ul><ul> <li>Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.</li> </ul>",
+    "source": "Player's Handbook"
+  },
+  {
+    "slug": "exhaustion",
+    "name": "Exhaustion",
+    "type": "condition",
+    "full_type": "Condition",
+    "desc": "<p>Some special abilities and environmental hazards, such as starvation and the long-&shy;term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.</p> <table> <caption>Exhaustion Effects</caption> <thead><tr> <th>Level</th> <th>Effect</th> </tr></thead> <tbody> <tr> <td>1</td> <td> Disadvantage on ability checks </td> </tr> <tr> <td>2</td> <td> Speed halved</td> </tr> <tr> <td>3</td> <td> Disadvantage on attack rolls and saving throws </td> </tr> <tr> <td>4</td> <td>Hit point maximum halved</td> </tr> <tr> <td>5</td> <td>Speed reduced to 0</td> </tr> <tr> <td>6</td> <td>Death</td> </tr> </tbody> </table> <p>If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.</p><p>A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.</p><p>An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.</p><p>Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink.</p>",
+    "source": "Player's Handbook"
+  }
+]

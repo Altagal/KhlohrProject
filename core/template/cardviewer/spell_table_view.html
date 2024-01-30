@@ -85,15 +85,15 @@
                                     {% for spell in table_list %}
                                     <tr>
                                         <td>{{spell.name}}</td>
-                                        <td class="text-center">{{spell.short_level}}
+                                        <td class="text-center">{% if spell.level == 0 %}Cantrip{% else %}{{spell.level}}º{% endif %}
                                         </td>
                                         <td class="text-center">
-                                            {{spell.casting_time.name}}
+                                            {{spell.casting_time}}
                                         </td>
-                                        <td class="text-center">{{spell.range.name}}</td>
+                                        <td class="text-center">{{spell.range}}</td>
                                         <td class="text-center">{% if spell.is_concentration %}Concentration, up to
                                             {% endif %}
-                                            {{spell.duration.name}}
+                                            {{spell.duration}}
                                         </td>
                                         <td class="text-center">
                                             {% if spell.is_verbal %} Verbal<br> {% endif %}
@@ -107,7 +107,7 @@
                                             {{spell.magic_school.name}}
                                         </td>
                                         <td>
-                                            <a href="{% url 'visualize_card' spell.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                            <a href="{% url 'card_view' spell.slug %}"><i class="fas fa-search text-danger"></i></a>
                                         </td>
                                     </tr>
                                     {% endfor %}
@@ -137,12 +137,12 @@
                                     <tr>
                                         <td>{{spell.name}}</td>
                                         <td class="text-center">
-                                            {{ spell.casting_time.name }}
+                                            {{ spell.casting_time }}
                                         </td>
-                                        <td class="text-center">{{ spell.range.name }}</td>
+                                        <td class="text-center">{{ spell.range }}</td>
                                         <td class="text-center">{% if spell.is_concentration %}Concentration, up to
                                             {% endif %}
-                                            {{ spell.duration.name }}
+                                            {{ spell.duration }}
                                         </td>
                                         <td class="text-center">
                                             {% if spell.is_verbal %} Verbal<br> {% endif %}

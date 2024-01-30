@@ -1,20 +1,29 @@
 import json
 
-from django.apps import apps
-
-from cardmaker.models import Other
-
 
 def get_card_from_slug(card_slug):
-    for card_type in apps.get_models():
-        if hasattr(card_type, "slug"):
-            try:
-                return card_type.objects.get(slug=card_slug)
-            except:
-                pass
+    f = open("core/artifact/deck/index.json")
+    index_data = json.load(f)
+    for index_obj in index_data:
+        if index_obj["slug"] == card_slug:
+            f = open("core/artifact/deck/" + index_obj["type"] + ".json")
+            deck_data = json.load(f)
+            for card_obj in deck_data:
+                if card_obj["slug"] == card_slug:
+                    card = card_obj
+                    break
+            break
+        else:
+            # Return Not Found card.
+            card = {
+                "slug": "err",
+                "name": "Card Not Found",
+                "type": "error",
+                "type_full": "Error",
+                "desc": "",
+                "source": "Stone Mirror"
+            }
 
-    card = Other.objects.get(slug="err")
-    card.set_error_face(card_slug)
     return card
 
 

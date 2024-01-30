@@ -11,18 +11,18 @@
                     <h4 class="text-section">Spell</h4>
                 </li>
                 <li class="nav-item">
-                    <a href="#">
+                    <a href="{% url 'spell_list' %}">
                         <i class="fas fa-magic"></i>
                         <p>Spells</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a data-toggle="collapse" href="#base">
+                    <a data-toggle="collapse" href="#magic_school_nav">
                         <i class="fas fa-school"></i>
                         <p>Magic Schools</p>
                         <span class="caret"></span>
                     </a>
-                    <div class="collapse" id="base">
+                    <div class="collapse" id="magic_school_nav">
                         <ul class="nav nav-collapse">
                             {% for cardbase in magic_school_list_context_processors %}
                             <li>
@@ -72,10 +72,22 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="{% url 'condition_list' %}">
+                    <a data-toggle="collapse" href="#condition_nav">
                         <i class="fas fa-diagnoses"></i>
                         <p>Conditions</p>
+                        <span class="caret"></span>
                     </a>
+                    <div class="collapse" id="condition_nav">
+                        <ul class="nav nav-collapse">
+                            {% for cardbase in conditon_list_context_processors %}
+                            <li>
+                                <a href="{% url 'card_view' cardbase.slug %}">
+                                    <span class="sub-item">{{cardbase.name}}</span>
+                                </a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
                 </li>
                 <li class="nav-item">
                     <a href="#">

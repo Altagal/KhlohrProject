@@ -1,94 +1,97 @@
 [
   {
     "slug": "blinded",
-    "type": "Condition"
+    "type": "condition"
   },
   {
     "slug": "charmed",
-    "type": "Condition"
+    "type": "condition"
   },
   {
     "slug": "deafened",
-    "type": "Condition"
+    "type": "condition"
   },
   {
     "slug": "frightened",
-    "type": "Condition"
+    "type": "condition"
   },
   {
     "slug": "grappled",
-    "type": "Condition"
+    "type": "condition"
   },
   {
     "slug": "incapacitated",
-    "type": "Condition"
+    "type": "condition"
   },
   {
     "slug": "invisible",
-    "type": "Condition"
+    "type": "condition"
   },
   {
     "slug": "paralyzed",
-    "type": "Condition"
+    "type": "condition"
   },
   {
     "slug": "petrified",
-    "type": "Condition"
+    "type": "condition"
   },
   {
     "slug": "poisoned",
-    "type": "Condition"
+    "type": "condition"
   },
   {
     "slug": "prone",
-    "type": "Condition"
+    "type": "condition"
   },
   {
     "slug": "restrained",
-    "type": "Condition"
+    "type": "condition"
   },
   {
     "slug": "stunned",
-    "type": "Condition"
+    "type": "condition"
   },
   {
     "slug": "unconscious",
-    "type": "Condition"
+    "type": "condition"
   },
   {
     "slug": "exhaustion",
-    "type": "Condition"
+    "type": "condition"
   },
   {
     "slug": "abjuration",
-    "type": "MagicSchool"
+    "type": "magic_school"
   },
   {
     "slug": "conjuration",
-    "type": "MagicSchool"
+    "type": "magic_school"
   },
   {
     "slug": "divination",
-    "type": "MagicSchool"
+    "type": "magic_school"
   },
   {
     "slug": "enchantment",
-    "type": "MagicSchool"
+    "type": "magic_school"
   },
   {
     "slug": "evocation",
-    "type": "MagicSchool"
+    "type": "magic_school"
   },
   {
     "slug": "ilusion",
-    "type": "MagicSchool"
+    "type": "magic_school"
   },
   {
     "slug": "necromancy",
-    "type": "MagicSchool"
+    "type": "magic_school"
   },
   {
     "slug": "transmutation",
-    "type": "MagicSchool"
+    "type": "magic_school"
+  },  {
+    "slug": "light",
+    "type": "spell"
   }
 ]
