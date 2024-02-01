@@ -22,42 +22,19 @@
             </thead>
             <tbody class="card_inner">
 
-                    {% if card.type == "spell" %}
-                    {% include 'cardmaker/view_spell.html'%}
-                    {% elif card.type == "magic school" %}
-                    {% include 'cardmaker/view_magic_school.html'%}
-                    {% elif card.type == "race" %}
-                    {% include 'cardmaker/view_race.html'%}
-                    {% elif card.type == "racial trait" %}
-                    {% include 'cardmaker/view_racial_trait.html'%}
-                    {% elif card.type == "classe" %}
-                    {% include 'cardmaker/view_classe.html'%}
-                    {% elif card.type == "subclass" %}
-                    {% include 'cardmaker/view_subclass.html'%}
-                    {% elif card.type == "class feat" %}
-                    {% include 'cardmaker/view_class_feat.html'%}
-                    {% elif card.type == "subclass feat" %}
-                    {% include 'cardmaker/view_subclass_feat.html'%}
-                    {% elif card.type == "feat" %}
-                    {% include 'cardmaker/view_feat.html'%}
-                    {% elif card.type == "armor" %}
-                    {% include 'cardmaker/view_item_armor.html'%}
-                    {% elif card.type == "weapon" %}
-                    {% include 'cardmaker/view_item_weapon.html'%}
-                    {% elif card.type == "item" %}
-                    {% include 'cardmaker/view_item_misc.html'%}
-                    {% elif card.type == "monster" %}
-                    {% include 'cardmaker/view_mosnter.html'%}
-                    {% elif card.type == "character sheet" %}
+                {% if card.type.slug == "spell" %}
+                    {% include 'cardmaker/card_spell.html'%}
+                {% elif card.type.name == "character sheet" %}
                     {% include 'cardmaker/view_ooo.html'%}
-                    {% else %}
-                    {% include 'cardmaker/other.html'%}
-                    {% endif %}
+                {% else %}
+                    {% include 'cardmaker/card_generic.html'%}
+                {% endif %}
+
                 {% if card.source %}
                 <tr class="card_source">
                     <td colspan="100">
                         <div>
-                            <b>Source: </b>{{card.source.name}}
+                            <b>Source: </b>{{card.source}}
                         </div>
                     </td>
                 </tr>

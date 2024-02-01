@@ -14,7 +14,7 @@ def home(request):
 def card_view(request, card_slug):
     card = get_card_from_slug(card_slug)
 
-    if card["type"] == "magic_school":
+    if card["type"]["slug"] == "magic_school":
         magic_school_spell_list = []
         for spell_card in get_deck("spell"):
             # Se spell.magic_scholl é igual a magic_school slug

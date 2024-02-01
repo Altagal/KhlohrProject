@@ -20,12 +20,12 @@
                     </div>
                 </div>
                 <div class="card-body">
-                    {% if card.type == "spell" %}
+                    {% if card.type.slug == "spell" %}
                         {% include 'cardviewer/card_spell.html'%}
-                    {% elif card.type == "magic_school" %}
+                    {% elif card.type.slug == "magic_school" %}
                         {% include 'cardviewer/card_magic_school_view.html'%}
                     {% else %}
-                        {% include 'cardviewer/card_base.html'%}
+                        {% include 'cardviewer/card_generic.html'%}
                     {% endif %}
                 </div>
             </div>
@@ -36,5 +36,19 @@
 
 {% block javascript %}
 <script src="{% static 'assets/js/custom/card_script.js' %}"></script>
+<script src="{% static 'assets/js/custom/table_view_script.js' %}"></script>
 
+<script>
+    $(document).ready(function() {
+        // Evento de clique no botão, por exemplo
+        $('#store_card').click(function() {
+            // Fazer a chamada Ajax
+            $.ajax({
+                url: '{% url 'store_card_in_cart' card.slug %}',  // A URL que você configurou em suas urls.py
+                type: 'GET',  // Ou 'POST' dependendo da sua view
+            });
+        });
+    });
+
+</script>
 {% endblock %}

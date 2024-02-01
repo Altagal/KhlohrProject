@@ -36,7 +36,7 @@
                         <tr>
                             <td>Q</td>
                             <td>{{card.name}}</td>
-                            <td>{{card.type | default_if_none:"" | title }}</td>
+                            <td>{{card.type.name | default_if_none:"" | title }}</td>
                             <td><a href="{% url 'remove_stored_card' card.slug %}"><i class="fas fa-trash-alt text-danger"></i></a></td>
                         </tr>
                         {% endfor %}

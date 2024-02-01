@@ -26,7 +26,7 @@ $(document).ready(function() {
 			    bLengthChange: false,
 			    columnDefs: [{ orderable: false, targets: -1 }, ],
 			    info: false,
-			    searching:false,
+			    searching:true,
 
             } );
 		});
