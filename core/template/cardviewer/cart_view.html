@@ -28,7 +28,7 @@
                             <th scope="col" style="width: 1%;">Qty.</th>
                             <th scope="col" style="width: 50%;">Name</th>
                             <th scope="col">Type</th>
-                            <th scope="col" style="width: 1%;"><a href="{% url 'remove_all_stored_card' %}"><i class="fas fa-trash-alt text-danger"></i></a></th>
+                            <th scope="col" style="width: 1%;" ><a href="#" id="remove_all_stored_card"><i class="fas fa-trash-alt text-danger"></i></a></th>
                         </tr>
                         </thead>
                         <tbody>
@@ -50,5 +50,31 @@
 {% endblock %}
 
 {% block javascript %}
+<script>
+    $('#remove_all_stored_card').click(function(e) {
+				swal({
+					title: 'Are you sure?',
+					text: "You won't be able to revert this!",
+					icon: 'warning',
+					buttons:{
+						confirm: {
+							text : 'Yes, delete it!',
+							className : 'btn btn-success'
+						},
+						cancel: {
+							visible: true,
+							className: 'btn btn-danger'
+						}
+					}
+				}).then((Delete) => {
+					if (Delete) {
 
+						window.location.href = "{% url 'remove_all_stored_card' %}";
+
+					} else {
+						swal.close();
+					}
+				});
+			});
+</script>
 {% endblock %}
