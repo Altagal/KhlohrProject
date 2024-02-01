@@ -90,8 +90,1281 @@
   {
     "slug": "transmutation",
     "type": "magic_school"
-  },  {
+  },
+  {
+    "slug": "acid-arrow",
+    "type": "spell"
+  },
+  {
+    "slug": "acid-splash",
+    "type": "spell"
+  },
+  {
+    "slug": "aid",
+    "type": "spell"
+  },
+  {
+    "slug": "alarm",
+    "type": "spell"
+  },
+  {
+    "slug": "alter-self",
+    "type": "spell"
+  },
+  {
+    "slug": "animal-friendship",
+    "type": "spell"
+  },
+  {
+    "slug": "animal-messenger",
+    "type": "spell"
+  },
+  {
+    "slug": "animal-shapes",
+    "type": "spell"
+  },
+  {
+    "slug": "animate-dead",
+    "type": "spell"
+  },
+  {
+    "slug": "animate-objects",
+    "type": "spell"
+  },
+  {
+    "slug": "antilife-shell",
+    "type": "spell"
+  },
+  {
+    "slug": "antimagic-field",
+    "type": "spell"
+  },
+  {
+    "slug": "antipathy-sympathy",
+    "type": "spell"
+  },
+  {
+    "slug": "arcane-eye",
+    "type": "spell"
+  },
+  {
+    "slug": "arcane-hand",
+    "type": "spell"
+  },
+  {
+    "slug": "arcane-lock",
+    "type": "spell"
+  },
+  {
+    "slug": "arcane-sword",
+    "type": "spell"
+  },
+  {
+    "slug": "arcanists-magic-aura",
+    "type": "spell"
+  },
+  {
+    "slug": "astral-projection",
+    "type": "spell"
+  },
+  {
+    "slug": "augury",
+    "type": "spell"
+  },
+  {
+    "slug": "awaken",
+    "type": "spell"
+  },
+  {
+    "slug": "bane",
+    "type": "spell"
+  },
+  {
+    "slug": "banishment",
+    "type": "spell"
+  },
+  {
+    "slug": "barkskin",
+    "type": "spell"
+  },
+  {
+    "slug": "beacon-of-hope",
+    "type": "spell"
+  },
+  {
+    "slug": "bestow-curse",
+    "type": "spell"
+  },
+  {
+    "slug": "black-tentacles",
+    "type": "spell"
+  },
+  {
+    "slug": "blade-barrier",
+    "type": "spell"
+  },
+  {
+    "slug": "bless",
+    "type": "spell"
+  },
+  {
+    "slug": "blight",
+    "type": "spell"
+  },
+  {
+    "slug": "blindness-deafness",
+    "type": "spell"
+  },
+  {
+    "slug": "blink",
+    "type": "spell"
+  },
+  {
+    "slug": "blur",
+    "type": "spell"
+  },
+  {
+    "slug": "branding-smite",
+    "type": "spell"
+  },
+  {
+    "slug": "burning-hands",
+    "type": "spell"
+  },
+  {
+    "slug": "call-lightning",
+    "type": "spell"
+  },
+  {
+    "slug": "calm-emotions",
+    "type": "spell"
+  },
+  {
+    "slug": "chain-lightning",
+    "type": "spell"
+  },
+  {
+    "slug": "charm-person",
+    "type": "spell"
+  },
+  {
+    "slug": "chill-touch",
+    "type": "spell"
+  },
+  {
+    "slug": "circle-of-death",
+    "type": "spell"
+  },
+  {
+    "slug": "clairvoyance",
+    "type": "spell"
+  },
+  {
+    "slug": "clone",
+    "type": "spell"
+  },
+  {
+    "slug": "cloudkill",
+    "type": "spell"
+  },
+  {
+    "slug": "color-spray",
+    "type": "spell"
+  },
+  {
+    "slug": "command",
+    "type": "spell"
+  },
+  {
+    "slug": "commune",
+    "type": "spell"
+  },
+  {
+    "slug": "commune-with-nature",
+    "type": "spell"
+  },
+  {
+    "slug": "comprehend-languages",
+    "type": "spell"
+  },
+  {
+    "slug": "compulsion",
+    "type": "spell"
+  },
+  {
+    "slug": "cone-of-cold",
+    "type": "spell"
+  },
+  {
+    "slug": "confusion",
+    "type": "spell"
+  },
+  {
+    "slug": "conjure-animals",
+    "type": "spell"
+  },
+  {
+    "slug": "conjure-celestial",
+    "type": "spell"
+  },
+  {
+    "slug": "conjure-elemental",
+    "type": "spell"
+  },
+  {
+    "slug": "conjure-fey",
+    "type": "spell"
+  },
+  {
+    "slug": "conjure-minor-elementals",
+    "type": "spell"
+  },
+  {
+    "slug": "conjure-woodland-beings",
+    "type": "spell"
+  },
+  {
+    "slug": "contact-other-plane",
+    "type": "spell"
+  },
+  {
+    "slug": "contagion",
+    "type": "spell"
+  },
+  {
+    "slug": "contingency",
+    "type": "spell"
+  },
+  {
+    "slug": "continual-flame",
+    "type": "spell"
+  },
+  {
+    "slug": "control-water",
+    "type": "spell"
+  },
+  {
+    "slug": "control-weather",
+    "type": "spell"
+  },
+  {
+    "slug": "counterspell",
+    "type": "spell"
+  },
+  {
+    "slug": "create-food-and-water",
+    "type": "spell"
+  },
+  {
+    "slug": "create-undead",
+    "type": "spell"
+  },
+  {
+    "slug": "create-or-destroy-water",
+    "type": "spell"
+  },
+  {
+    "slug": "creation",
+    "type": "spell"
+  },
+  {
+    "slug": "cure-wounds",
+    "type": "spell"
+  },
+  {
+    "slug": "dancing-lights",
+    "type": "spell"
+  },
+  {
+    "slug": "darkness",
+    "type": "spell"
+  },
+  {
+    "slug": "darkvision",
+    "type": "spell"
+  },
+  {
+    "slug": "daylight",
+    "type": "spell"
+  },
+  {
+    "slug": "death-ward",
+    "type": "spell"
+  },
+  {
+    "slug": "delayed-blast-fireball",
+    "type": "spell"
+  },
+  {
+    "slug": "demiplane",
+    "type": "spell"
+  },
+  {
+    "slug": "detect-evil-and-good",
+    "type": "spell"
+  },
+  {
+    "slug": "detect-magic",
+    "type": "spell"
+  },
+  {
+    "slug": "detect-poison-and-disease",
+    "type": "spell"
+  },
+  {
+    "slug": "detect-thoughts",
+    "type": "spell"
+  },
+  {
+    "slug": "dimension-door",
+    "type": "spell"
+  },
+  {
+    "slug": "disguise-self",
+    "type": "spell"
+  },
+  {
+    "slug": "disintegrate",
+    "type": "spell"
+  },
+  {
+    "slug": "dispel-evil-and-good",
+    "type": "spell"
+  },
+  {
+    "slug": "dispel-magic",
+    "type": "spell"
+  },
+  {
+    "slug": "divination",
+    "type": "spell"
+  },
+  {
+    "slug": "divine-favor",
+    "type": "spell"
+  },
+  {
+    "slug": "divine-word",
+    "type": "spell"
+  },
+  {
+    "slug": "dominate-beast",
+    "type": "spell"
+  },
+  {
+    "slug": "dominate-monster",
+    "type": "spell"
+  },
+  {
+    "slug": "dominate-person",
+    "type": "spell"
+  },
+  {
+    "slug": "dream",
+    "type": "spell"
+  },
+  {
+    "slug": "druidcraft",
+    "type": "spell"
+  },
+  {
+    "slug": "earthquake",
+    "type": "spell"
+  },
+  {
+    "slug": "eldritch-blast",
+    "type": "spell"
+  },
+  {
+    "slug": "enhance-ability",
+    "type": "spell"
+  },
+  {
+    "slug": "enlarge-reduce",
+    "type": "spell"
+  },
+  {
+    "slug": "entangle",
+    "type": "spell"
+  },
+  {
+    "slug": "enthrall",
+    "type": "spell"
+  },
+  {
+    "slug": "etherealness",
+    "type": "spell"
+  },
+  {
+    "slug": "expeditious-retreat",
+    "type": "spell"
+  },
+  {
+    "slug": "eyebite",
+    "type": "spell"
+  },
+  {
+    "slug": "fabricate",
+    "type": "spell"
+  },
+  {
+    "slug": "faerie-fire",
+    "type": "spell"
+  },
+  {
+    "slug": "faithful-hound",
+    "type": "spell"
+  },
+  {
+    "slug": "false-life",
+    "type": "spell"
+  },
+  {
+    "slug": "fear",
+    "type": "spell"
+  },
+  {
+    "slug": "feather-fall",
+    "type": "spell"
+  },
+  {
+    "slug": "feeblemind",
+    "type": "spell"
+  },
+  {
+    "slug": "find-familiar",
+    "type": "spell"
+  },
+  {
+    "slug": "find-steed",
+    "type": "spell"
+  },
+  {
+    "slug": "find-traps",
+    "type": "spell"
+  },
+  {
+    "slug": "find-the-path",
+    "type": "spell"
+  },
+  {
+    "slug": "finger-of-death",
+    "type": "spell"
+  },
+  {
+    "slug": "fire-bolt",
+    "type": "spell"
+  },
+  {
+    "slug": "fire-shield",
+    "type": "spell"
+  },
+  {
+    "slug": "fire-storm",
+    "type": "spell"
+  },
+  {
+    "slug": "fireball",
+    "type": "spell"
+  },
+  {
+    "slug": "flame-blade",
+    "type": "spell"
+  },
+  {
+    "slug": "flame-strike",
+    "type": "spell"
+  },
+  {
+    "slug": "flaming-sphere",
+    "type": "spell"
+  },
+  {
+    "slug": "flesh-to-stone",
+    "type": "spell"
+  },
+  {
+    "slug": "floating-disk",
+    "type": "spell"
+  },
+  {
+    "slug": "fly",
+    "type": "spell"
+  },
+  {
+    "slug": "fog-cloud",
+    "type": "spell"
+  },
+  {
+    "slug": "forbiddance",
+    "type": "spell"
+  },
+  {
+    "slug": "forcecage",
+    "type": "spell"
+  },
+  {
+    "slug": "foresight",
+    "type": "spell"
+  },
+  {
+    "slug": "freedom-of-movement",
+    "type": "spell"
+  },
+  {
+    "slug": "freezing-sphere",
+    "type": "spell"
+  },
+  {
+    "slug": "gaseous-form",
+    "type": "spell"
+  },
+  {
+    "slug": "gate",
+    "type": "spell"
+  },
+  {
+    "slug": "geas",
+    "type": "spell"
+  },
+  {
+    "slug": "gentle-repose",
+    "type": "spell"
+  },
+  {
+    "slug": "giant-insect",
+    "type": "spell"
+  },
+  {
+    "slug": "glibness",
+    "type": "spell"
+  },
+  {
+    "slug": "globe-of-invulnerability",
+    "type": "spell"
+  },
+  {
+    "slug": "glyph-of-warding",
+    "type": "spell"
+  },
+  {
+    "slug": "goodberry",
+    "type": "spell"
+  },
+  {
+    "slug": "grease",
+    "type": "spell"
+  },
+  {
+    "slug": "greater-invisibility",
+    "type": "spell"
+  },
+  {
+    "slug": "greater-restoration",
+    "type": "spell"
+  },
+  {
+    "slug": "guardian-of-faith",
+    "type": "spell"
+  },
+  {
+    "slug": "guards-and-wards",
+    "type": "spell"
+  },
+  {
+    "slug": "guidance",
+    "type": "spell"
+  },
+  {
+    "slug": "guiding-bolt",
+    "type": "spell"
+  },
+  {
+    "slug": "gust-of-wind",
+    "type": "spell"
+  },
+  {
+    "slug": "hallow",
+    "type": "spell"
+  },
+  {
+    "slug": "hallucinatory-terrain",
+    "type": "spell"
+  },
+  {
+    "slug": "harm",
+    "type": "spell"
+  },
+  {
+    "slug": "haste",
+    "type": "spell"
+  },
+  {
+    "slug": "heal",
+    "type": "spell"
+  },
+  {
+    "slug": "healing-word",
+    "type": "spell"
+  },
+  {
+    "slug": "heat-metal",
+    "type": "spell"
+  },
+  {
+    "slug": "hellish-rebuke",
+    "type": "spell"
+  },
+  {
+    "slug": "heroes-feast",
+    "type": "spell"
+  },
+  {
+    "slug": "heroism",
+    "type": "spell"
+  },
+  {
+    "slug": "hideous-laughter",
+    "type": "spell"
+  },
+  {
+    "slug": "hold-monster",
+    "type": "spell"
+  },
+  {
+    "slug": "hold-person",
+    "type": "spell"
+  },
+  {
+    "slug": "holy-aura",
+    "type": "spell"
+  },
+  {
+    "slug": "hunters-mark",
+    "type": "spell"
+  },
+  {
+    "slug": "hypnotic-pattern",
+    "type": "spell"
+  },
+  {
+    "slug": "ice-storm",
+    "type": "spell"
+  },
+  {
+    "slug": "identify",
+    "type": "spell"
+  },
+  {
+    "slug": "illusory-script",
+    "type": "spell"
+  },
+  {
+    "slug": "imprisonment",
+    "type": "spell"
+  },
+  {
+    "slug": "incendiary-cloud",
+    "type": "spell"
+  },
+  {
+    "slug": "inflict-wounds",
+    "type": "spell"
+  },
+  {
+    "slug": "insect-plague",
+    "type": "spell"
+  },
+  {
+    "slug": "instant-summons",
+    "type": "spell"
+  },
+  {
+    "slug": "invisibility",
+    "type": "spell"
+  },
+  {
+    "slug": "irresistible-dance",
+    "type": "spell"
+  },
+  {
+    "slug": "jump",
+    "type": "spell"
+  },
+  {
+    "slug": "knock",
+    "type": "spell"
+  },
+  {
+    "slug": "legend-lore",
+    "type": "spell"
+  },
+  {
+    "slug": "lesser-restoration",
+    "type": "spell"
+  },
+  {
+    "slug": "levitate",
+    "type": "spell"
+  },
+  {
     "slug": "light",
+    "type": "spell"
+  },
+  {
+    "slug": "lightning-bolt",
+    "type": "spell"
+  },
+  {
+    "slug": "locate-animals-or-plants",
+    "type": "spell"
+  },
+  {
+    "slug": "locate-creature",
+    "type": "spell"
+  },
+  {
+    "slug": "locate-object",
+    "type": "spell"
+  },
+  {
+    "slug": "longstrider",
+    "type": "spell"
+  },
+  {
+    "slug": "mage-armor",
+    "type": "spell"
+  },
+  {
+    "slug": "mage-hand",
+    "type": "spell"
+  },
+  {
+    "slug": "magic-circle",
+    "type": "spell"
+  },
+  {
+    "slug": "magic-jar",
+    "type": "spell"
+  },
+  {
+    "slug": "magic-missile",
+    "type": "spell"
+  },
+  {
+    "slug": "magic-mouth",
+    "type": "spell"
+  },
+  {
+    "slug": "magic-weapon",
+    "type": "spell"
+  },
+  {
+    "slug": "magnificent-mansion",
+    "type": "spell"
+  },
+  {
+    "slug": "major-image",
+    "type": "spell"
+  },
+  {
+    "slug": "mass-cure-wounds",
+    "type": "spell"
+  },
+  {
+    "slug": "mass-heal",
+    "type": "spell"
+  },
+  {
+    "slug": "mass-healing-word",
+    "type": "spell"
+  },
+  {
+    "slug": "mass-suggestion",
+    "type": "spell"
+  },
+  {
+    "slug": "maze",
+    "type": "spell"
+  },
+  {
+    "slug": "meld-into-stone",
+    "type": "spell"
+  },
+  {
+    "slug": "mending",
+    "type": "spell"
+  },
+  {
+    "slug": "message",
+    "type": "spell"
+  },
+  {
+    "slug": "meteor-swarm",
+    "type": "spell"
+  },
+  {
+    "slug": "mind-blank",
+    "type": "spell"
+  },
+  {
+    "slug": "minor-illusion",
+    "type": "spell"
+  },
+  {
+    "slug": "mirage-arcane",
+    "type": "spell"
+  },
+  {
+    "slug": "mirror-image",
+    "type": "spell"
+  },
+  {
+    "slug": "mislead",
+    "type": "spell"
+  },
+  {
+    "slug": "misty-step",
+    "type": "spell"
+  },
+  {
+    "slug": "modify-memory",
+    "type": "spell"
+  },
+  {
+    "slug": "moonbeam",
+    "type": "spell"
+  },
+  {
+    "slug": "move-earth",
+    "type": "spell"
+  },
+  {
+    "slug": "nondetection",
+    "type": "spell"
+  },
+  {
+    "slug": "pass-without-trace",
+    "type": "spell"
+  },
+  {
+    "slug": "passwall",
+    "type": "spell"
+  },
+  {
+    "slug": "phantasmal-killer",
+    "type": "spell"
+  },
+  {
+    "slug": "phantom-steed",
+    "type": "spell"
+  },
+  {
+    "slug": "planar-ally",
+    "type": "spell"
+  },
+  {
+    "slug": "planar-binding",
+    "type": "spell"
+  },
+  {
+    "slug": "plane-shift",
+    "type": "spell"
+  },
+  {
+    "slug": "plant-growth",
+    "type": "spell"
+  },
+  {
+    "slug": "poison-spray",
+    "type": "spell"
+  },
+  {
+    "slug": "polymorph",
+    "type": "spell"
+  },
+  {
+    "slug": "power-word-kill",
+    "type": "spell"
+  },
+  {
+    "slug": "power-word-stun",
+    "type": "spell"
+  },
+  {
+    "slug": "prayer-of-healing",
+    "type": "spell"
+  },
+  {
+    "slug": "prestidigitation",
+    "type": "spell"
+  },
+  {
+    "slug": "prismatic-spray",
+    "type": "spell"
+  },
+  {
+    "slug": "prismatic-wall",
+    "type": "spell"
+  },
+  {
+    "slug": "private-sanctum",
+    "type": "spell"
+  },
+  {
+    "slug": "produce-flame",
+    "type": "spell"
+  },
+  {
+    "slug": "programmed-illusion",
+    "type": "spell"
+  },
+  {
+    "slug": "project-image",
+    "type": "spell"
+  },
+  {
+    "slug": "protection-from-energy",
+    "type": "spell"
+  },
+  {
+    "slug": "protection-from-evil-and-good",
+    "type": "spell"
+  },
+  {
+    "slug": "protection-from-poison",
+    "type": "spell"
+  },
+  {
+    "slug": "purify-food-and-drink",
+    "type": "spell"
+  },
+  {
+    "slug": "raise-dead",
+    "type": "spell"
+  },
+  {
+    "slug": "ray-of-enfeeblement",
+    "type": "spell"
+  },
+  {
+    "slug": "ray-of-frost",
+    "type": "spell"
+  },
+  {
+    "slug": "regenerate",
+    "type": "spell"
+  },
+  {
+    "slug": "reincarnate",
+    "type": "spell"
+  },
+  {
+    "slug": "remove-curse",
+    "type": "spell"
+  },
+  {
+    "slug": "resilient-sphere",
+    "type": "spell"
+  },
+  {
+    "slug": "resistance",
+    "type": "spell"
+  },
+  {
+    "slug": "resurrection",
+    "type": "spell"
+  },
+  {
+    "slug": "reverse-gravity",
+    "type": "spell"
+  },
+  {
+    "slug": "revivify",
+    "type": "spell"
+  },
+  {
+    "slug": "rope-trick",
+    "type": "spell"
+  },
+  {
+    "slug": "sacred-flame",
+    "type": "spell"
+  },
+  {
+    "slug": "sanctuary",
+    "type": "spell"
+  },
+  {
+    "slug": "scorching-ray",
+    "type": "spell"
+  },
+  {
+    "slug": "scrying",
+    "type": "spell"
+  },
+  {
+    "slug": "secret-chest",
+    "type": "spell"
+  },
+  {
+    "slug": "see-invisibility",
+    "type": "spell"
+  },
+  {
+    "slug": "seeming",
+    "type": "spell"
+  },
+  {
+    "slug": "sending",
+    "type": "spell"
+  },
+  {
+    "slug": "sequester",
+    "type": "spell"
+  },
+  {
+    "slug": "shapechange",
+    "type": "spell"
+  },
+  {
+    "slug": "shatter",
+    "type": "spell"
+  },
+  {
+    "slug": "shield",
+    "type": "spell"
+  },
+  {
+    "slug": "shield-of-faith",
+    "type": "spell"
+  },
+  {
+    "slug": "shillelagh",
+    "type": "spell"
+  },
+  {
+    "slug": "shocking-grasp",
+    "type": "spell"
+  },
+  {
+    "slug": "silence",
+    "type": "spell"
+  },
+  {
+    "slug": "silent-image",
+    "type": "spell"
+  },
+  {
+    "slug": "simulacrum",
+    "type": "spell"
+  },
+  {
+    "slug": "sleep",
+    "type": "spell"
+  },
+  {
+    "slug": "sleet-storm",
+    "type": "spell"
+  },
+  {
+    "slug": "slow",
+    "type": "spell"
+  },
+  {
+    "slug": "spare-the-dying",
+    "type": "spell"
+  },
+  {
+    "slug": "speak-with-animals",
+    "type": "spell"
+  },
+  {
+    "slug": "speak-with-dead",
+    "type": "spell"
+  },
+  {
+    "slug": "speak-with-plants",
+    "type": "spell"
+  },
+  {
+    "slug": "spider-climb",
+    "type": "spell"
+  },
+  {
+    "slug": "spike-growth",
+    "type": "spell"
+  },
+  {
+    "slug": "spirit-guardians",
+    "type": "spell"
+  },
+  {
+    "slug": "spiritual-weapon",
+    "type": "spell"
+  },
+  {
+    "slug": "stinking-cloud",
+    "type": "spell"
+  },
+  {
+    "slug": "stone-shape",
+    "type": "spell"
+  },
+  {
+    "slug": "stoneskin",
+    "type": "spell"
+  },
+  {
+    "slug": "storm-of-vengeance",
+    "type": "spell"
+  },
+  {
+    "slug": "suggestion",
+    "type": "spell"
+  },
+  {
+    "slug": "sunbeam",
+    "type": "spell"
+  },
+  {
+    "slug": "sunburst",
+    "type": "spell"
+  },
+  {
+    "slug": "symbol",
+    "type": "spell"
+  },
+  {
+    "slug": "telekinesis",
+    "type": "spell"
+  },
+  {
+    "slug": "telepathic-bond",
+    "type": "spell"
+  },
+  {
+    "slug": "teleport",
+    "type": "spell"
+  },
+  {
+    "slug": "teleportation-circle",
+    "type": "spell"
+  },
+  {
+    "slug": "thaumaturgy",
+    "type": "spell"
+  },
+  {
+    "slug": "thunderwave",
+    "type": "spell"
+  },
+  {
+    "slug": "time-stop",
+    "type": "spell"
+  },
+  {
+    "slug": "tiny-hut",
+    "type": "spell"
+  },
+  {
+    "slug": "tongues",
+    "type": "spell"
+  },
+  {
+    "slug": "transport-via-plants",
+    "type": "spell"
+  },
+  {
+    "slug": "tree-stride",
+    "type": "spell"
+  },
+  {
+    "slug": "true-polymorph",
+    "type": "spell"
+  },
+  {
+    "slug": "true-resurrection",
+    "type": "spell"
+  },
+  {
+    "slug": "true-seeing",
+    "type": "spell"
+  },
+  {
+    "slug": "true-strike",
+    "type": "spell"
+  },
+  {
+    "slug": "unseen-servant",
+    "type": "spell"
+  },
+  {
+    "slug": "vampiric-touch",
+    "type": "spell"
+  },
+  {
+    "slug": "vicious-mockery",
+    "type": "spell"
+  },
+  {
+    "slug": "wall-of-fire",
+    "type": "spell"
+  },
+  {
+    "slug": "wall-of-force",
+    "type": "spell"
+  },
+  {
+    "slug": "wall-of-ice",
+    "type": "spell"
+  },
+  {
+    "slug": "wall-of-stone",
+    "type": "spell"
+  },
+  {
+    "slug": "wall-of-thorns",
+    "type": "spell"
+  },
+  {
+    "slug": "warding-bond",
+    "type": "spell"
+  },
+  {
+    "slug": "water-breathing",
+    "type": "spell"
+  },
+  {
+    "slug": "water-walk",
+    "type": "spell"
+  },
+  {
+    "slug": "web",
+    "type": "spell"
+  },
+  {
+    "slug": "weird",
+    "type": "spell"
+  },
+  {
+    "slug": "wind-walk",
+    "type": "spell"
+  },
+  {
+    "slug": "wind-wall",
+    "type": "spell"
+  },
+  {
+    "slug": "wish",
+    "type": "spell"
+  },
+  {
+    "slug": "word-of-recall",
+    "type": "spell"
+  },
+  {
+    "slug": "zone-of-truth",
     "type": "spell"
   }
 ]
