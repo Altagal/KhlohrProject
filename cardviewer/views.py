@@ -23,6 +23,7 @@ def card_view(request, card_slug):
 
         context = {
             'card': card,
+            "range": range(10),
             'table_list': magic_school_spell_list,
 
         }

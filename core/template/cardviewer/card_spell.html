@@ -1,11 +1,78 @@
-{% autoescape off %}
-{{card.desc}}
-{% endautoescape %}
-
 <div class="row">
     <div class="col">
         <p>
-            <b>Sourcespell</b>: {{card.source}}
+            <b>
+                Spell - {% if card.level == 0 %}Cantrip{% else %}{{ card.level }}º level{% endif %}
+                of
+                {{card.magic_school.name}}
+                {% if card.is_ritual or card.is_chronomancy or card.is_renaissance %}
+                -
+                {% endif %}
+                {% if card.is_ritual %}
+                Ritual
+                {% endif %}
+                {% if card.is_chronomancy %}
+                Chronomancy
+                {% endif %}
+                {% if card.is_renaissance %}
+                Renaissance
+                {% endif %}
+            </b>
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col">
+        <p>
+            <b>Range</b>: {{card.range}}
+        </p>
+        <p>
+            <b>Components</b>:
+            {% if card.is_verbal %} V {% endif %}
+            {% if card.is_somatic %} S {% endif %}
+            {% if card.required_material %} M {% endif %}
+        </p>
+    </div>
+
+    <div class="col">
+        <p>
+            <b>Casting Time</b>:
+            {{card.casting_time}}
+        </p>
+        <p>
+            <b>Duração</b>: {% if card.is_concentration %}Concentration, up to {% endif %}
+            {{card.duration}}<br>
+        </p>
+    </div>
+</div>
+{% if card.required_material %}
+<div class="row">
+    <div class="col">
+        <p><b>Requiring Materials</b>: {{card.required_material}}</p>
+    </div>
+</div>
+{% endif %}
+
+<div class="row">
+    <div class="col">
+        {% autoescape off %}
+            {{card.desc}}
+        {% endautoescape %}
+    </div>
+</div>
+{% if card.at_higher_level %}
+<div class="row">
+    <div class="col">
+        <p>
+            <b>At Higher Levels</b>: {{card.at_higher_level}}
+        </p>
+    </div>
+</div>
+{% endif %}
+<div class="row">
+    <div class="col">
+        <p>
+            <b>Source</b>: {{card.source}}
         </p>
     </div>
 </div>
