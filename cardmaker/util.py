@@ -2,12 +2,14 @@ import json
 
 
 def get_card_from_slug(card_slug):
-    f = open("core/artifact/deck/index.json")
-    index_data = json.load(f)
+    with open("core/artifact/deck/index.json", 'r') as f:
+        index_data = json.load(f)
+
     for index_obj in index_data:
         if index_obj["slug"] == card_slug:
-            f = open("core/artifact/deck/" + index_obj["type"] + ".json")
-            deck_data = json.load(f)
+            with open("core/artifact/deck/" + index_obj["type"] + ".json", 'r') as f:
+                deck_data = json.load(f)
+
             for card_obj in deck_data:
                 if card_obj["slug"] == card_slug:
                     card = card_obj
