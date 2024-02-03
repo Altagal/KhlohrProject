@@ -1,0 +1,210 @@
+[
+  {
+    "slug": "arcane-propulsion-armor",
+    "name": "Arcane Propulsion Armor",
+    "type": {
+      "slug": "infusion",
+      "name": "Infusion"
+    },
+    "prerequisite_artificer_level": 14,
+    "material": "A suit of armor.",
+    "requires_attunement": true,
+    "desc": "<p>The wearer of this armor gains these benefits:</p> <ul> <li>The wearer's walking speed increases by 5 feet.</li> </ul> <ul> <li>The armor includes gauntlets, each of which is a magic melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets, and each one deals 1d8 force damage on a hit and has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When thrown, the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches.</li> </ul> <ul> <li>The armor can't be removed against the wearer's will.</li> </ul> <ul> <li>If the wearer is missing any limbs, the armor replaces those limbs - hands, arms, feet, legs, or similar appendages. The replacements function identically to the body parts they replace.</li> </ul>",
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "slug": "armor-of-magical-strength",
+    "name": "Armor of Magical Strength",
+    "type": {
+      "slug": "infusion",
+      "name": "Infusion"
+    },
+    "prerequisite_artificer_level": false,
+    "material": "A suit of armor.",
+    "requires_attunement": "Requires attunement",
+    "desc": "<p>This armor has 6 charges. The wearer can expend the armor's charges in the following ways:</p> <ul> <li>When the wearer makes a Strength check or a Strength saving throw, it can expend 1 charge to add a bonus to the roll equal to its Intelligence modifier.</li> </ul> <ul> <li>If the creature would be knocked prone, it can use its reaction to expend 1 charge to avoid being knocked prone.</li> </ul> <p>The armor regains 1d6 expended charges daily at dawn.</p>",
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "slug": "boots-of-the-winding-path",
+    "name": "Boots of the Winding Path",
+    "type": {
+      "slug": "infusion",
+      "name": "Infusion"
+    },
+    "prerequisite_artificer_level": 6,
+    "material": "A pair of boots.",
+    "requires_attunement": true,
+    "desc": "<p>While wearing these boots, a creature can teleport up to 15 feet as a bonus action to an unoccupied space the creature can see. The creature must have occupied that space at some point during the current turn.</p>",
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "slug": "enhanced-arcane-focus",
+    "name": "Enhanced Arcane Focus",
+    "type": {
+      "slug": "infusion",
+      "name": "Infusion"
+    },
+    "prerequisite_artificer_level": false,
+    "material": "A rod, staff or wand.",
+    "requires_attunement": true,
+    "desc": "<p>While holding this item, a creature gains +1 bonus to spell attack rolls. In addition, the creature ignores half cover when making a spell attack.</p> <p>The bonus increases to +2 when you reach 10th level in this class.</p> ",
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "slug": "enhanced-defense",
+    "name": "Enhanced Defense",
+    "type": {
+      "slug": "infusion",
+      "name": "Infusion"
+    },
+    "prerequisite_artificer_level": false,
+    "material": "A suit of armor or a shield.",
+    "requires_attunement": false,
+    "desc": "<p>A creature gains a +1 bonus to Armor Class while wearing (armor) or wielding (shield) the infused item.</p> <p>The bonus increases to +2 when you reach 10th level in this class.</p>",
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "slug": "enhanced-weapon",
+    "name": "Enhanced Weapon",
+    "type": {
+      "slug": "infusion",
+      "name": "Infusion"
+    },
+    "prerequisite_artificer_level": false,
+    "material": "A simple or martial weapon.",
+    "requires_attunement": false,
+    "desc": "<p>This magic weapon grants a +1 bonus to attack and damage rolls made with it.</p> <p>The bonus increases to +2 when you reach 10th level in this class.</p>",
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "slug": "helm-of-awareness",
+    "name": "Helm of Awareness",
+    "type": {
+      "slug": "infusion",
+      "name": "Infusion"
+    },
+    "prerequisite_artificer_level": 10,
+    "material": "A helmet.",
+    "requires_attunement": true,
+    "desc": "<p>While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can't be surprised, provided it isn't incapacitated.</p>",
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "slug": "homunculus-servant",
+    "name": "Homunculus Servant",
+    "type": {
+      "slug": "infusion",
+      "name": "Infusion"
+    },
+    "prerequisite_artificer_level": false,
+    "material": "A gem or crystal worth at least 100 gp.",
+    "requires_attunement": false,
+    "desc": "<p>You learn intricate methods for magically creating a special homunculus that serves you. The item you infuse serves as the creature's heart, around which the creature's body instantly forms.</p> <p>You determine the homunculus's appearance. Some artificers prefer mechanical-looking birds, whereas some like winged vials or miniature, animate cauldrons.</p> <p>The homunculus is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the Homunculus Servant stat block, which uses your proficiency bonus (PB) in several places.</p> <p>In combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the homunculus can take any action of its choice, not just Dodge.</p> <p>The homunculus regains 2d6 hit points if the mending spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space.</p>",
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "slug": "mind-sharpener",
+    "name": "Mind Sharpener",
+    "type": {
+      "slug": "infusion",
+      "name": "Infusion"
+    },
+    "prerequisite_artificer_level": false,
+    "material": "A suit of armor or robes.",
+    "requires_attunement": false,
+    "desc": "<p>The infused item can send a jolt to the wearer to refocus their mind. The item has 4 charges. When the wearer fails a Constitution saving throw to maintain concentration on a spell, the wearer can use its reaction to expend 1 of the item's charges to succeed instead. The item regains 1d4 expended charges daily at dawn.</p>",
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "slug": "radiant-weapon",
+    "name": "Radiant Weapon",
+    "type": {
+      "slug": "infusion",
+      "name": "Infusion"
+    },
+    "prerequisite_artificer_level": 6,
+    "material": "A simple or martial weapon.",
+    "requires_attunement": true,
+    "desc": "<p>This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.</p> <p>The weapon has 4 charges. As a reaction immediately after being hit by an attack, the wielder can expend 1 charge and cause the attacker to be blinded until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. The weapon regains 1d4 expended charges daily at dawn.</p>",
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "slug": "repeating-shot",
+    "name": "Repeating Shot",
+    "type": {
+      "slug": "infusion",
+      "name": "Infusion"
+    },
+    "prerequisite_artificer_level": false,
+    "material": "A simple or martial weapon with the ammunition property.",
+    "requires_attunement": true,
+    "desc": "<p>This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.</p> <p>If the weapon lacks ammunition, it produces its own, automatically creating one piece of magic ammunition when the wielder makes a ranged attack with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target.</p>",
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "slug": "replicate-magic-item",
+    "name": "Replicate Magic Item",
+    "type": {
+      "slug": "infusion",
+      "name": "Infusion"
+    },
+    "prerequisite_artificer_level": false,
+    "material": false,
+    "requires_attunement": false,
+    "desc": "<p>Using this infusion, you replicate a particular magic item. You can learn this infusion multiple times; each time you do so, choose a magic item that you can make with it, picking from the Replicable Items tables. A table's title tells you the level you must be in the class to choose an item from the table. Alternatively, you can choose the magic item from among the common magic items in the game, not including potions or scrolls.</p> <p>In the tables, an item's entry tells you whether the item requires_attunement. See the item's description in the <em>Dungeon Master's Guide</em> for more information about it, including the type of object required for its making.</p> <p>If you have <em>Xanathar's Guide to Everything</em>, you can choose from among the common magic items in that book when you pick a magic item you can replicate with this infusion.</p>",
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "slug": "repulsion-shield",
+    "name": "Repulsion Shield",
+    "type": {
+      "slug": "infusion",
+      "name": "Infusion"
+    },
+    "prerequisite_artificer_level": 6,
+    "material": "A shield.",
+    "requires_attunement": true,
+    "desc": "<p>A creature gains a +1 bonus to Armor Class while wielding this shield.</p> <p>The shield has 4 charges. While holding it, the wielder can use a reaction immediately after being hit by a melee attack to expend 1 of the shield's charges and push the attacker up to 15 feet away. The shield regains 1d4 expended charges daily at dawn.</p>",
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "slug": "resistant-armor",
+    "name": "Resistant Armor",
+    "type": {
+      "slug": "infusion",
+      "name": "Infusion"
+    },
+    "prerequisite_artificer_level": 6,
+    "material": "A suit of armor.",
+    "requires_attunement": true,
+    "desc": "<p>While wearing this armor, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.</p>",
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "slug": "returning-weapon",
+    "name": "Returning Weapon",
+    "type": {
+      "slug": "infusion",
+      "name": "Infusion"
+    },
+    "prerequisite_artificer_level": false,
+    "material": "A simple or martial weapon with the thrown property.",
+    "requires_attunement": false,
+    "desc": "<p>This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.</p>",
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "slug": "spell-refueling-ring",
+    "name": "Spell-Refueling Ring",
+    "type": {
+      "slug": "infusion",
+      "name": "Infusion"
+    },
+    "prerequisite_artificer_level": 6,
+    "material": "A ring.",
+    "requires_attunement": true,
+    "desc": "<p>While wearing this ring, the creature can recover one expended spell slot as an action. The recovered slot can be of 3rd level or lower. Once used, the ring can't be used again until the next dawn.</p>",
+    "source": "Tasha's Cauldron of Everything"
+  }
+]

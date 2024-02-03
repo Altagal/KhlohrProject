@@ -1366,5 +1366,113 @@
   {
     "slug": "zone-of-truth",
     "type": "spell"
+  },
+  {
+    "slug": "ammunition",
+    "type": "weapon_property"
+  },
+  {
+    "slug": "finesse",
+    "type": "weapon_property"
+  },
+  {
+    "slug": "heavy",
+    "type": "weapon_property"
+  },
+  {
+    "slug": "light-weapon",
+    "type": "weapon_property"
+  },
+  {
+    "slug": "loading",
+    "type": "weapon_property"
+  },
+  {
+    "slug": "range",
+    "type": "weapon_property"
+  },
+  {
+    "slug": "reach",
+    "type": "weapon_property"
+  },
+  {
+    "slug": "special",
+    "type": "weapon_property"
+  },
+  {
+    "slug": "thrown",
+    "type": "weapon_property"
+  },
+  {
+    "slug": "two-handed",
+    "type": "weapon_property"
+  },
+  {
+    "slug": "versatile",
+    "type": "weapon_property"
+  },
+  {
+    "slug": "arcane-propulsion-armor",
+    "type": "infusion"
+  },
+  {
+    "slug": "armor-of-magical-strength",
+    "type": "infusion"
+  },
+  {
+    "slug": "boots-of-the-winding-path",
+    "type": "infusion"
+  },
+  {
+    "slug": "enhanced-arcane-focus",
+    "type": "infusion"
+  },
+  {
+    "slug": "enhanced-defense",
+    "type": "infusion"
+  },
+  {
+    "slug": "enhanced-weapon",
+    "type": "infusion"
+  },
+  {
+    "slug": "helm-of-awareness",
+    "type": "infusion"
+  },
+  {
+    "slug": "homunculus-servant",
+    "type": "infusion"
+  },
+  {
+    "slug": "mind-sharpener",
+    "type": "infusion"
+  },
+  {
+    "slug": "radiant-weapon",
+    "type": "infusion"
+  },
+  {
+    "slug": "repeating-shot",
+    "type": "infusion"
+  },
+  {
+    "slug": "replicate-magic-item",
+    "type": "infusion"
+  },
+  {
+    "slug": "repulsion-shield",
+    "type": "infusion"
+  },
+  {
+    "slug": "resistant-armor",
+    "type": "infusion"
+  },
+  {
+    "slug": "returning-weapon",
+    "type": "infusion"
+  },
+  {
+    "slug": "spell-refueling-ring",
+    "type": "infusion"
   }
 ]
