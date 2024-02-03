@@ -24,6 +24,8 @@
 
                 {% if card.type.slug == "spell" %}
                     {% include 'cardmaker/card_spell.html'%}
+                {% elif card.type.slug == "infusion" %}
+                        {% include 'cardmaker/card_infusion.html'%}
                 {% elif card.type.name == "character sheet" %}
                     {% include 'cardmaker/view_ooo.html'%}
                 {% else %}

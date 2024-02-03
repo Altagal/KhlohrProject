@@ -20,9 +20,11 @@ def get_card_from_slug(card_slug):
             card = {
                 "slug": "err",
                 "name": "Card Not Found",
-                "type": "error",
-                "type_full": "Error",
-                "desc": "",
+                "type": {
+                    "slug": "error",
+                    "name": "Error"
+                },
+                "desc": "<p>This card may not be indexed yet.</p>",
                 "source": "Stone Mirror"
             }
 

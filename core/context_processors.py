@@ -4,6 +4,8 @@ from cardmaker.util import get_deck
 def sidebar_context(request):
     context = {
         "magic_school_list_context_processors": get_deck("magic_school"),
-        "conditon_list_context_processors": get_deck("condition")
+        "conditon_list_context_processors": get_deck("condition"),
+        "weapon_property_list_context_processors": get_deck("weapon_property"),
+
     }
     return context

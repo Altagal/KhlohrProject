@@ -1,5 +1,3 @@
-import json
-
 from django.shortcuts import render
 from cardmaker.util import get_card_from_slug, get_deck
 
@@ -51,3 +49,22 @@ def spell_list(request):
     }
 
     return render(request, 'cardviewer/spell_table_view.html', context)
+
+
+def item_list(request):
+    context = {
+        "plural_type_name": "Itens",
+        "rarity_list": ["Common", "Uncommon", "Rare", "Very Rare", "Legendary", "Artifact", "Other"],
+        "table_list": get_deck("item"),
+    }
+
+    return render(request, 'cardviewer/item_table_view.html', context)
+
+
+def infusion_list(request):
+    context = {
+        "plural_type_name": "Infusions",
+        "table_list": get_deck("infusion"),
+    }
+
+    return render(request, 'cardviewer/infuse_table_view.html', context)

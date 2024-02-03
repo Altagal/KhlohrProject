@@ -1,0 +1,101 @@
+{% extends "layout/base.html" %}
+{% load static %}
+{% block title %}{{plural_type_name}}{% endblock %}
+
+{% block stylesheet %}{% endblock %}
+
+{% block content %}
+<div class="page-inner">
+    <div class="row">
+        <div class="col">
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">{{plural_type_name}}</div>
+                </div>
+                <div class="card-body">
+                    <ul class="nav nav-tabs nav-danger mb-3">
+                        <!-- PILL ALL RARITY -->
+                        <li class="nav-item">
+                            <a class="nav-link active show" id="pill-rarity-all"
+                               data-toggle="pill" href="#tab-rarity-all" role="tab"
+                               aria-controls="pills-home" aria-selected="false">
+                                All Rarities</a>
+                        </li>
+                        <!-- PILL RARITYS -->
+                        {% for rarity in rarity_list %}
+                        <li class="nav-item">
+                            <a class="nav-link" id="pills-rarity-{{ rarity }}"
+                               data-toggle="pill" href="#tab-rarity-{{ rarity }}" role="tab"
+                               aria-controls="pills-home" aria-selected="false">{{rarity}}</a>
+                        </li>
+                        {% endfor %}
+
+                    </ul>
+                    <!-- TABELA ALL RARITY -->
+                    <div class="tab-content">
+                        <div class="tab-pane fade active show" id="tab-rarity-all" role="tabpanel" aria-labelledby="pills-contact-tab">
+                            <div class="table-responsive">
+                                <table class="table table-hover all-item-table">
+                                    <thead>
+                                    <tr>
+                                        <th scope="col">Name</th>
+                                        <th class="text-center" scope="col" style="width: 5%;" >Rariry</th>
+
+                                        <th class="text-center" scope="col"></th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    {% for item in table_list %}
+                                    <tr>
+                                        <td>{{item.name}}</td>
+                                        <td>{{item.rarity}}</td>
+
+                                        <td>
+                                            <a href="{% url 'card_view' item.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                        </td>
+                                    </tr>
+                                    {% endfor %}
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <!-- TABELA RARITY -->
+                        {% for rarity in rarity_list %}
+                        <div class="tab-pane fade" id="tab-rarity-{{ rarity }}" role="tabpanel" aria-labelledby="pills-contact-tab">
+                            <div class="table-responsive">
+                                <table class="table table-hover item-table">
+                                    <thead>
+                                    <tr>
+                                        <th scope="col">Name</th>
+
+                                        <th class="text-center" scope="col" style="width: 5%;"></th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    {% for item in table_list %}
+                                    {% if item.rarity == rarity %}
+                                    <tr>
+                                        <td>{{item.name}}</td>
+
+                                        <td>
+                                            <a href="{% url 'card_view' item.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                        </td>
+                                    </tr>
+                                    {% endif %}
+                                    {% endfor %}
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block javascript %}
+<script src="{% static 'assets/js/custom/table_view_script.js' %}"></script>
+{% endblock %}

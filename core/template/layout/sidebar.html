@@ -103,10 +103,28 @@
                     <h4 class="text-section">Itens</h4>
                 </li>
                 <li class="nav-item">
-                    <a href="#">
+                    <a href="{% url 'item_list' %}">
                         <i class="fas fa-flask"></i>
                         <p>Itens</p>
                     </a>
+                </li>
+                <li class="nav-item">
+                    <a data-toggle="collapse" href="#weapon_property_nav">
+                        <i class="fas fa-shield-alt"></i>
+                        <p>Weapon Properties</p>
+                        <span class="caret"></span>
+                    </a>
+                    <div class="collapse" id="weapon_property_nav">
+                        <ul class="nav nav-collapse">
+                            {% for cardbase in weapon_property_list_context_processors %}
+                            <li>
+                                <a href="{% url 'card_view' cardbase.slug %}">
+                                    <span class="sub-item">{{cardbase.name}}</span>
+                                </a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
                 </li>
                 <li class="nav-section">
 							<span class="sidebar-mini-icon">
@@ -124,6 +142,12 @@
                     <a href="#">
                         <i class="fas fa-cog"></i>
                         <p>Other</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="{% url 'infusion_list' %}">
+                        <i class="fas fa-cog"></i>
+                        <p>Infusions</p>
                     </a>
                 </li>
             </ul>

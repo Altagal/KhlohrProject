@@ -1,0 +1,31 @@
+{% if card.prerequisite_artificer_level %}
+<div class="row">
+    <div class="col">
+        <p>
+            <b>Prerequisite</b>: {{card.prerequisite_artificer_level}}th-level artificer
+        </p>
+    </div>
+</div>
+{% endif %}
+
+{% if card.material %}
+<div class="row">
+    <div class="col">
+        <p>
+            <b>Item</b>: {{card.material}}{% if card.requires_attunement %} Requires attunement.{% endif %}
+        </p>
+    </div>
+</div>
+{% endif %}
+
+{% autoescape off %}
+{{card.desc}}
+{% endautoescape %}
+
+<div class="row">
+    <div class="col">
+        <p>
+            <b>Source</b>: {{card.source}}
+        </p>
+    </div>
+</div>

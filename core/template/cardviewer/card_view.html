@@ -23,7 +23,9 @@
                     {% if card.type.slug == "spell" %}
                         {% include 'cardviewer/card_spell.html'%}
                     {% elif card.type.slug == "magic_school" %}
-                        {% include 'cardviewer/card_magic_school_view.html'%}
+                        {% include 'cardviewer/card_magic_school.html'%}
+                     {% elif card.type.slug == "infusion" %}
+                        {% include 'cardviewer/card_infusion.html'%}
                     {% else %}
                         {% include 'cardviewer/card_generic.html'%}
                     {% endif %}

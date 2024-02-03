@@ -6,8 +6,9 @@ urlpatterns = [
     path('', views.home, name='home'),
     path('card/<slug:card_slug>', views.card_view, name='card_view'),
 
-    path('conditions', views.condition_list, name='condition_list'),
     path('spells', views.spell_list, name='spell_list'),
+    path('itens', views.item_list, name='item_list'),
+    path('infusions', views.infusion_list, name='infusion_list'),
 
 
 ]

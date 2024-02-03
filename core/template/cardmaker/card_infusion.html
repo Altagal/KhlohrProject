@@ -1,0 +1,25 @@
+<tr>
+    <td colspan="8" class="card_type">
+        <div class="reduce_to_fit">
+            {{card.type.name | title}}
+        </div>
+    </td>
+</tr>
+
+<tr class="card_description">
+    <td colspan="8">
+        <div style="font-size:mm">
+            {% if card.prerequisite_artificer_level %}
+            <p style="text-align: center;">Requires {{card.prerequisite_artificer_level}}th-level artificer.</p>
+            {% endif %}
+            {% if card.material %}
+            <p style="text-align: center;">{{card.material}}{% if card.requires_attunement %} Requires attunement.{% endif %}</p>
+            {% endif %}
+
+            {% autoescape on %}
+            {{ card.desc | safe }}
+            {% endautoescape %}
+
+        </div>
+    </td>
+</tr>
