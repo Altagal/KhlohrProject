@@ -13,14 +13,12 @@
                     <div class="card-title">{{plural_type_name}}</div>
                 </div>
                 <div class="card-body">
-                    <table class="table table-hover">
+                    <table class="table table-hover generic-table">
                         <thead>
                         <tr>
                             <th scope="col" style="width: 25%;">Name</th>
                             <th>Prerequisite</th>
                             <th></th>
-
-
                             <th class="text-center" style="width: 1%;" scope="col"></th>
                         </tr>
                         </thead>
@@ -46,6 +44,5 @@
 {% endblock %}
 
 {% block javascript %}
-<script src="{% static 'assets/js/custom/misc_script.js' %}"></script>
-
+<script src="{% static 'assets/js/custom/table_view_script.js' %}"></script>
 {% endblock %}

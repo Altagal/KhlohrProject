@@ -13,7 +13,7 @@
                     <div class="card-title">{{plural_type_name}}</div>
                 </div>
                 <div class="card-body">
-                    <table class="table table-hover">
+                    <table class="table table-hover generic-table">
                         <thead>
                         <tr>
                             <th scope="col" style="width: 99%;">Name</th>
@@ -40,6 +40,5 @@
 {% endblock %}
 
 {% block javascript %}
-    <script src="{% static 'assets/js/custom/misc_script.js' %}"></script>
-
+    <script src="{% static 'assets/js/custom/table_view_script.js' %}"></script>
 {% endblock %}
