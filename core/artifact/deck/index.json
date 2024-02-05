@@ -1914,5 +1914,57 @@
   {
     "slug": "wood-elf-magic",
     "type": "feat"
+  },
+  {
+    "slug": "artificer",
+    "type": "class"
+  },
+  {
+    "slug": "barbarian",
+    "type": "class"
+  },
+  {
+    "slug": "bard",
+    "type": "class"
+  },
+  {
+    "slug": "cleric",
+    "type": "class"
+  },
+  {
+    "slug": "druid",
+    "type": "class"
+  },
+  {
+    "slug": "Fighter",
+    "type": "class"
+  },
+  {
+    "slug": "monk",
+    "type": "class"
+  },
+  {
+    "slug": "paladin",
+    "type": "class"
+  },
+  {
+    "slug": "ranger",
+    "type": "class"
+  },
+  {
+    "slug": "rogue",
+    "type": "class"
+  },
+  {
+    "slug": "sorcerer",
+    "type": "class"
+  },
+  {
+    "slug": "warlock",
+    "type": "class"
+  },
+  {
+    "slug": "wizard",
+    "type": "class"
   }
 ]

@@ -87,3 +87,12 @@ def feat_list(request):
     }
 
     return render(request, 'cardviewer/feat_table_view.html', context)
+
+
+def class_subclass_list(request):
+    context = {
+        "plural_type_name": "Classes and Subclasses",
+        "class_list": get_deck("class"),
+    }
+
+    return render(request, 'cardviewer/class_subclass_table_view.html', context)

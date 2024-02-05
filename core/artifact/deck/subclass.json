@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "artificer",
+    "name": "Artificer",
+    "type": {
+      "slug": "class",
+      "name": "Class"
+    },
+    "desc": "",
+    "subclasses": [
+      {
+        "slug": "",
+        "name": ""
+      },
+      {
+        "slug": "",
+        "name": ""
+      }
+    ],
+    "hit_die": 12,
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    }
+  }
+]
+
+
+
+
+
+
+

@@ -13,24 +13,30 @@
                     <div class="card-title">{{plural_type_name}}</div>
                 </div>
                 <div class="card-body">
-                    <table class="table table-hover generic-table">
+                    <table class="table table-hover infusion-table">
                         <thead>
                         <tr>
-                            <th scope="col" style="width: 25%;">Name</th>
-                            <th>Prerequisite</th>
-                            <th>Ability Score Increase</th>
+                            <th scope="col" style="width: 30%;">Class</th>
+                            <th class="text-center" style="width: 1%;" scope="col"></th>
+                            <th scope="col" style="width: 40%;">Subclass</th>
                             <th class="text-center" style="width: 1%;" scope="col"></th>
                         </tr>
                         </thead>
                         <tbody>
-                        {% for card in table_list %}
+                        {% for card_class in class_list %}
                         <tr>
-                            <td>{{card.name}}</td>
-                            <td>{% if card.prerequisite %}{{card.prerequisite}}{% endif %}</td>
-                            <td>{% if card.ability_score_increase %}{{card.ability_score_increase}}{% endif %}</td>
-                            <td>
-                                <a href="{% url 'card_view' card.slug %}"><i class="fas fa-search text-danger"></i></a>
+                            <td rowspan="{{ card_class.subclasses|length|add:1 }}">{{card_class.name}}</td>
+                            <td rowspan="{{ card_class.subclasses|length| add:1 }}">
+                                <a href="{% url 'card_view' card_class.slug %}"><i class="fas fa-search text-danger"></i></a>
                             </td>
+                            {% for card_subclass in card_class.subclasses %}
+                        <tr>
+                            <td rowspan="">{{card_subclass.name}}</td>
+                            <td>
+                                <a href="{% url 'card_view' card_subclass.slug %}"><i class="fas fa-search text-danger"></i></a>
+                            </td>
+                        </tr>
+                        {% endfor %}
                         </tr>
                         {% endfor %}
                         </tbody>
@@ -45,4 +51,5 @@
 
 {% block javascript %}
 <script src="{% static 'assets/js/custom/table_view_script.js' %}"></script>
+
 {% endblock %}

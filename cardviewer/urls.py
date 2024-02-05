@@ -11,6 +11,9 @@ urlpatterns = [
     path('infusions', views.infusion_list, name='infusion_list'),
     path('ability-scores-and-skills', views.ability_score_skill_list, name='ability_score_skill_list'),
     path('feats', views.feat_list, name='feat_list'),
+    path('classes-and-subclasses', views.class_subclass_list, name='class_subclass_list'),
+
+
 
 
 ]
