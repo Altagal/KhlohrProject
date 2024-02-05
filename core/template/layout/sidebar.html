@@ -90,7 +90,7 @@
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a href="#">
+                    <a href="{% url 'feat_list' %}">
                         <i class="fas fa-user-graduate"></i>
                         <p>Feat</p>
                     </a>
@@ -148,6 +148,12 @@
                     <a href="{% url 'infusion_list' %}">
                         <i class="fas fa-cog"></i>
                         <p>Infusions</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="{% url 'ability_score_skill_list' %}">
+                        <i class="fas fa-user-md"></i>
+                        <p>Ability Score and Skills</p>
                     </a>
                 </li>
             </ul>

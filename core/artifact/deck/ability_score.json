@@ -1,0 +1,164 @@
+[
+  {
+    "slug": "strength",
+    "name": "Strength",
+    "type": {
+      "slug": "ability_score",
+      "name": "Ability Score"
+    },
+    "skill": [
+      {
+        "slug": "athletics",
+        "name": "Athletics"
+      }
+    ],
+    "desc": "<p>A Strength check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The Athletics skill reflects aptitude in certain kinds of Strength checks.</p><p><b>Other Strength Checks.</b> The GM might also call for a Strength check when you try to accomplish tasks like the following:</p><ul><li>Force open a stuck, locked, or barred door</li> <li>Break free of bonds</li> <li>Push through a tunnel that is too small</li> <li>Hang on to a wagon while being dragged behind it</li> <li>Tip over a statue</li> <li>Keep a boulder from rolling</li></ul>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "dexterity",
+    "name": "Dexterity",
+    "type": {
+      "slug": "ability_score",
+      "name": "Ability Score"
+    },
+    "skill": [
+      {
+        "slug": "acrobatics",
+        "name": "Acrobatics"
+      },
+      {
+        "slug": "sleight-of-hand",
+        "name": "Sleight of Hand"
+      },
+      {
+        "slug": "stealth",
+        "name": "Stealth"
+      }
+    ],
+    "desc": "<p>A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The Acrobatics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks.</p><p><b>Other Dexterity Checks.</b> The GM might call for a Dexterity check when you try to accomplish tasks like the following:</p><ul><li>Control a heavily laden cart on a steep descent</li> <li>Steer a chariot around a tight turn</li> <li>Pick a lock</li> <li>Disable a trap</li> <li>Securely tie up a prisoner</li> <li>Wriggle free of bonds</li> <li>Play a stringed instrument</li> <li>Craft a small or detailed object</li></ul>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "constitution",
+    "name": "Constitution",
+    "type": {
+      "slug": "ability_score",
+      "name": "Ability Score"
+    },
+    "skill": [
+    ],
+    "desc": "<p>Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster. A Constitution check can model your attempt to push beyond normal limits, however.</p><p>The GM might call for a Constitution check when you try to accomplish tasks like the following:</p><ul> <li>Hold your breath</li> <li>March or labor for hours without <a href=\"https://roll20.net/compendium/dnd5e/Rules:Resting?expansion=0#content\" target=\"_blank\">rest</a> </li> <li>Go without sleep</li> <li>Survive without food or water</li> <li>Quaff an entire stein of ale in one go</li> </ul>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "intelligence",
+    "name": "Intelligence",
+    "type": {
+      "slug": "ability_score",
+      "name": "Ability Score"
+    },
+    "skill": [
+      {
+        "slug": "arcana",
+        "name": "Arcana"
+      },
+      {
+        "slug": "history",
+        "name": "History"
+      },
+      {
+        "slug": "investigation",
+        "name": "Investigation"
+      },
+      {
+        "slug": "nature",
+        "name": "Nature"
+      },
+      {
+        "slug": "religion",
+        "name": "Religion"
+      }
+    ],
+    "desc": "<p>An Intelligence check comes into play when you need to draw on logic, education, memory, or deductive reasoning. The Arcana, History, Investigation, Nature, and Religion skills reflect aptitude in certain kinds of Intelligence checks.</p><p><b>Other Intelligence Checks.</b> The GM might call for an Intelligence check when you try to accomplish tasks like the following:</p><ul><li>Communicate with a creature without using words</li> <li>Estimate the value of a precious item</li> <li>Pull together a disguise to pass as a city guard</li> <li>Forge a document</li> <li>Recall lore about a craft or trade</li> <li>Win a game of skill</li></ul>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "wisdom",
+    "name": "Wisdom",
+    "type": {
+      "slug": "ability_score",
+      "name": "Ability Score"
+    },
+    "skill": [
+      {
+        "slug": "animal-handling",
+        "name": "Animal Handling"
+      },
+      {
+        "slug": "insight",
+        "name": "Insight"
+      },
+      {
+        "slug": "medicine",
+        "name": "Medicine"
+      },
+      {
+        "slug": "perception",
+        "name": "Perception"
+      },
+      {
+        "slug": "survival",
+        "name": "Survival"
+      }
+    ],
+    "desc": "<p>A Wisdom check might reflect an effort to read body language, understand someone's feelings, notice things about the environment, or care for an injured person. The Animal Handling, Insight, Medicine, Perception, and Survival skills reflect aptitude in certain kinds of Wisdom checks.</p><p><b>Other Wisdom Checks.</b> The GM might call for a Wisdom check when you try to accomplish tasks like the following:</p><ul><li>Get a gut feeling about what course of action to follow</li> <li>Discern whether a seemingly dead or living creature is undead</li></ul>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "charisma",
+    "name": "Charisma",
+    "type": {
+      "slug": "ability_score",
+      "name": "Ability Score"
+    },
+    "skill": [
+      {
+        "slug": "deception",
+        "name": "Deception"
+      },
+      {
+        "slug": "intimidation",
+        "name": "Intimidation"
+      },
+      {
+        "slug": "performance",
+        "name": "Performance"
+      },
+      {
+        "slug": "persuasion",
+        "name": "Persuasion"
+      }
+    ],
+    "desc": "<p>A Charisma check might arise when you try to influence or entertain others, when you try to make an impression or tell a convincing lie, or when you are navigating a tricky social situation. The Deception, Intimidation, Performance, and Persuasion skills reflect aptitude in certain kinds of Charisma checks.</p><p><b>Other Charisma Checks.</b> The GM might call for a Charisma check when you try to accomplish tasks like the following:</p><ul><li>Find the best person to talk to for news, rumors, and gossip</li> <li>Blend into a crowd to get the sense of key topics of conversation</li></ul>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  }
+]

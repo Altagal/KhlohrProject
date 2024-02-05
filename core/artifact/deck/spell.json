@@ -29,7 +29,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "acid-splash",
@@ -63,7 +66,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "aid",
@@ -99,7 +105,10 @@
         "name": "Paladin"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "alarm",
@@ -134,7 +143,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "alter-self",
@@ -168,7 +180,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "animal-friendship",
@@ -207,7 +222,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "animal-messenger",
@@ -247,7 +265,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "animal-shapes",
@@ -277,7 +298,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "animate-dead",
@@ -313,7 +337,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "animate-objects",
@@ -352,7 +379,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "antilife-shell",
@@ -382,7 +412,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "antimagic-field",
@@ -417,7 +450,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "antipathy-sympathy",
@@ -452,7 +488,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "arcane-eye",
@@ -487,7 +526,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "arcane-hand",
@@ -519,7 +561,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "arcane-lock",
@@ -550,7 +595,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "arcane-sword",
@@ -585,7 +633,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "arcanists-magic-aura",
@@ -616,7 +667,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "astral-projection",
@@ -655,7 +709,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "augury",
@@ -686,7 +743,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "awaken",
@@ -721,7 +781,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "bane",
@@ -757,7 +820,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "banishment",
@@ -805,7 +871,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "barkskin",
@@ -840,7 +909,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "beacon-of-hope",
@@ -870,7 +942,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "bestow-curse",
@@ -909,7 +984,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "black-tentacles",
@@ -940,7 +1018,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "blade-barrier",
@@ -970,7 +1051,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "bless",
@@ -1006,7 +1090,10 @@
         "name": "Paladin"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "blight",
@@ -1049,7 +1136,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "blindness-deafness",
@@ -1092,7 +1182,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "blink",
@@ -1126,7 +1219,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "blur",
@@ -1160,7 +1256,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "branding-smite",
@@ -1191,7 +1290,10 @@
         "name": "Paladin"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "burning-hands",
@@ -1226,7 +1328,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "call-lightning",
@@ -1257,7 +1362,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "calm-emotions",
@@ -1291,7 +1399,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "chain-lightning",
@@ -1327,7 +1438,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "charm-person",
@@ -1374,7 +1488,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "chill-touch",
@@ -1412,7 +1529,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "circle-of-death",
@@ -1452,7 +1572,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "clairvoyance",
@@ -1495,7 +1618,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "clone",
@@ -1526,7 +1652,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "cloudkill",
@@ -1561,7 +1690,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "color-spray",
@@ -1597,7 +1729,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "command",
@@ -1632,7 +1767,10 @@
         "name": "Paladin"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "commune",
@@ -1663,7 +1801,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "commune-with-nature",
@@ -1697,7 +1838,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "comprehend-languages",
@@ -1740,7 +1884,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "compulsion",
@@ -1770,7 +1917,10 @@
         "name": "Bard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "cone-of-cold",
@@ -1806,7 +1956,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "confusion",
@@ -1850,7 +2003,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "conjure-animals",
@@ -1885,7 +2041,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "conjure-celestial",
@@ -1916,7 +2075,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "conjure-elemental",
@@ -1952,7 +2114,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "conjure-fey",
@@ -1987,7 +2152,10 @@
         "name": "Warlock"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "conjure-minor-elementals",
@@ -2022,7 +2190,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "conjure-woodland-beings",
@@ -2058,7 +2229,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "contact-other-plane",
@@ -2092,7 +2266,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "contagion",
@@ -2126,7 +2303,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "contingency",
@@ -2157,7 +2337,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "continual-flame",
@@ -2192,7 +2375,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "control-water",
@@ -2231,7 +2417,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "control-weather",
@@ -2270,7 +2459,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "counterspell",
@@ -2309,7 +2501,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "create-food-and-water",
@@ -2347,7 +2542,10 @@
         "name": "Paladin"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "create-undead",
@@ -2387,7 +2585,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "create-or-destroy-water",
@@ -2423,7 +2624,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "creation",
@@ -2459,7 +2663,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "cure-wounds",
@@ -2506,7 +2713,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "dancing-lights",
@@ -2545,7 +2755,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "darkness",
@@ -2584,7 +2797,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "darkvision",
@@ -2627,7 +2843,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "daylight",
@@ -2673,7 +2892,10 @@
         "name": "Sorcerer"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "death-ward",
@@ -2707,7 +2929,10 @@
         "name": "Paladin"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "delayed-blast-fireball",
@@ -2743,7 +2968,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "demiplane",
@@ -2777,7 +3005,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-evil-and-good",
@@ -2811,7 +3042,10 @@
         "name": "Paladin"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-magic",
@@ -2865,7 +3099,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-poison-and-disease",
@@ -2908,7 +3145,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-thoughts",
@@ -2947,7 +3187,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "dimension-door",
@@ -2989,7 +3232,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "disguise-self",
@@ -3027,7 +3273,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "disintegrate",
@@ -3063,7 +3312,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "dispel-evil-and-good",
@@ -3098,7 +3350,10 @@
         "name": "Paladin"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "dispel-magic",
@@ -3153,7 +3408,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "divination",
@@ -3184,7 +3442,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "divine-favor",
@@ -3214,7 +3475,10 @@
         "name": "Paladin"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "divine-word",
@@ -3244,7 +3508,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "dominate-beast",
@@ -3279,7 +3546,10 @@
         "name": "Sorcerer"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "dominate-monster",
@@ -3322,7 +3592,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "dominate-person",
@@ -3361,7 +3634,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "dream",
@@ -3400,7 +3676,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "druidcraft",
@@ -3430,7 +3709,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "earthquake",
@@ -3469,7 +3751,10 @@
         "name": "Sorcerer"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "eldritch-blast",
@@ -3499,7 +3784,10 @@
         "name": "Warlock"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "enhance-ability",
@@ -3543,7 +3831,10 @@
         "name": "Sorcerer"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "enlarge-reduce",
@@ -3578,7 +3869,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "entangle",
@@ -3608,7 +3902,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "enthrall",
@@ -3642,7 +3939,10 @@
         "name": "Warlock"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "etherealness",
@@ -3689,7 +3989,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "expeditious-retreat",
@@ -3727,7 +4030,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "eyebite",
@@ -3769,7 +4075,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "fabricate",
@@ -3799,7 +4108,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "faerie-fire",
@@ -3829,7 +4141,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "faithful-hound",
@@ -3860,7 +4175,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "false-life",
@@ -3896,7 +4214,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "fear",
@@ -3939,7 +4260,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "feather-fall",
@@ -3978,7 +4302,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "feeblemind",
@@ -4021,7 +4348,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "find-familiar",
@@ -4052,7 +4382,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "find-steed",
@@ -4082,7 +4415,10 @@
         "name": "Paladin"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "find-traps",
@@ -4120,7 +4456,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "find-the-path",
@@ -4159,7 +4498,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "finger-of-death",
@@ -4197,7 +4539,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "fire-bolt",
@@ -4231,7 +4576,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "fire-shield",
@@ -4262,7 +4610,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "fire-storm",
@@ -4300,7 +4651,10 @@
         "name": "Sorcerer"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "fireball",
@@ -4336,7 +4690,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "flame-blade",
@@ -4368,7 +4725,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "flame-strike",
@@ -4400,7 +4760,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "flaming-sphere",
@@ -4436,7 +4799,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "flesh-to-stone",
@@ -4471,7 +4837,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "floating-disk",
@@ -4502,7 +4871,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "fly",
@@ -4542,7 +4914,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "fog-cloud",
@@ -4585,7 +4960,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "forbiddance",
@@ -4616,7 +4994,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "forcecage",
@@ -4655,7 +5036,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "foresight",
@@ -4698,7 +5082,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "freedom-of-movement",
@@ -4741,7 +5128,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "freezing-sphere",
@@ -4773,7 +5163,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "gaseous-form",
@@ -4812,7 +5205,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "gate",
@@ -4851,7 +5247,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "geas",
@@ -4898,7 +5297,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "gentle-repose",
@@ -4933,7 +5335,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "giant-insect",
@@ -4963,7 +5368,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "glibness",
@@ -4997,7 +5405,10 @@
         "name": "Warlock"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "globe-of-invulnerability",
@@ -5033,7 +5444,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "glyph-of-warding",
@@ -5073,7 +5487,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "goodberry",
@@ -5108,7 +5525,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "grease",
@@ -5139,7 +5559,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "greater-invisibility",
@@ -5177,7 +5600,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "greater-restoration",
@@ -5216,7 +5642,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "guardian-of-faith",
@@ -5246,7 +5675,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "guards-and-wards",
@@ -5281,7 +5713,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "guidance",
@@ -5315,7 +5750,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "guiding-bolt",
@@ -5346,7 +5784,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "gust-of-wind",
@@ -5385,7 +5826,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "hallow",
@@ -5416,7 +5860,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "hallucinatory-terrain",
@@ -5459,7 +5906,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "harm",
@@ -5489,7 +5939,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "haste",
@@ -5524,7 +5977,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "heal",
@@ -5559,7 +6015,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "healing-word",
@@ -5598,7 +6057,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "heat-metal",
@@ -5634,7 +6096,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "hellish-rebuke",
@@ -5665,7 +6130,10 @@
         "name": "Warlock"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "heroes-feast",
@@ -5700,7 +6168,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "heroism",
@@ -5734,7 +6205,10 @@
         "name": "Paladin"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "hideous-laughter",
@@ -5769,7 +6243,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "hold-monster",
@@ -5813,7 +6290,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "hold-person",
@@ -5865,7 +6345,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "holy-aura",
@@ -5896,7 +6379,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "hunters-mark",
@@ -5927,7 +6413,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "hypnotic-pattern",
@@ -5970,7 +6459,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "ice-storm",
@@ -6010,7 +6502,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "identify",
@@ -6045,7 +6540,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "illusory-script",
@@ -6084,7 +6582,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "imprisonment",
@@ -6119,7 +6620,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "incendiary-cloud",
@@ -6153,7 +6657,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "inflict-wounds",
@@ -6184,7 +6691,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "insect-plague",
@@ -6224,7 +6734,10 @@
         "name": "Sorcerer"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "instant-summons",
@@ -6255,7 +6768,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "invisibility",
@@ -6299,7 +6815,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "irresistible-dance",
@@ -6333,7 +6852,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "jump",
@@ -6376,7 +6898,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "knock",
@@ -6414,7 +6939,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "legend-lore",
@@ -6453,7 +6981,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "lesser-restoration",
@@ -6499,7 +7030,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "levitate",
@@ -6534,7 +7068,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "light",
@@ -6577,7 +7114,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "lightning-bolt",
@@ -6613,7 +7153,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "locate-animals-or-plants",
@@ -6652,7 +7195,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "locate-creature",
@@ -6703,7 +7249,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "locate-object",
@@ -6754,7 +7303,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "longstrider",
@@ -6798,7 +7350,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "mage-armor",
@@ -6833,7 +7388,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "mage-hand",
@@ -6875,7 +7433,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "magic-circle",
@@ -6919,7 +7480,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "magic-jar",
@@ -6950,7 +7514,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "magic-missile",
@@ -6985,7 +7552,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "magic-mouth",
@@ -7020,7 +7590,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "magic-weapon",
@@ -7055,7 +7628,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "magnificent-mansion",
@@ -7090,7 +7666,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "major-image",
@@ -7134,7 +7713,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "mass-cure-wounds",
@@ -7173,7 +7755,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "mass-heal",
@@ -7203,7 +7788,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "mass-healing-word",
@@ -7234,7 +7822,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "mass-suggestion",
@@ -7278,7 +7869,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "maze",
@@ -7308,7 +7902,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "meld-into-stone",
@@ -7338,7 +7935,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "mending",
@@ -7385,7 +7985,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "message",
@@ -7424,7 +8027,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "meteor-swarm",
@@ -7458,7 +8064,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "mind-blank",
@@ -7492,7 +8101,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "minor-illusion",
@@ -7535,7 +8147,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "mirage-arcane",
@@ -7573,7 +8188,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "mirror-image",
@@ -7611,7 +8229,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "mislead",
@@ -7645,7 +8266,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "misty-step",
@@ -7683,7 +8307,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "modify-memory",
@@ -7718,7 +8345,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "moonbeam",
@@ -7750,7 +8380,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "move-earth",
@@ -7789,7 +8422,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "nondetection",
@@ -7828,7 +8464,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "pass-without-trace",
@@ -7863,7 +8502,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "passwall",
@@ -7894,7 +8536,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "phantasmal-killer",
@@ -7925,7 +8570,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "phantom-steed",
@@ -7955,7 +8603,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "planar-ally",
@@ -7985,7 +8636,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "planar-binding",
@@ -8029,7 +8683,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "plane-shift",
@@ -8076,7 +8733,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "plant-growth",
@@ -8114,7 +8774,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "poison-spray",
@@ -8156,7 +8819,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "polymorph",
@@ -8199,7 +8865,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "power-word-kill",
@@ -8241,7 +8910,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "power-word-stun",
@@ -8283,7 +8955,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "prayer-of-healing",
@@ -8314,7 +8989,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "prestidigitation",
@@ -8356,7 +9034,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "prismatic-spray",
@@ -8390,7 +9071,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "prismatic-wall",
@@ -8420,7 +9104,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "private-sanctum",
@@ -8452,7 +9139,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "produce-flame",
@@ -8482,7 +9172,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "programmed-illusion",
@@ -8517,7 +9210,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "project-image",
@@ -8552,7 +9248,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "protection-from-energy",
@@ -8598,7 +9297,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "protection-from-evil-and-good",
@@ -8641,7 +9343,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "protection-from-poison",
@@ -8683,7 +9388,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "purify-food-and-drink",
@@ -8721,7 +9429,10 @@
         "name": "Paladin"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "raise-dead",
@@ -8760,7 +9471,10 @@
         "name": "Paladin"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "ray-of-enfeeblement",
@@ -8794,7 +9508,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "ray-of-frost",
@@ -8828,7 +9545,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "regenerate",
@@ -8867,7 +9587,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "reincarnate",
@@ -8898,7 +9621,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "remove-curse",
@@ -8940,7 +9666,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "resilient-sphere",
@@ -8971,7 +9700,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "resistance",
@@ -9006,7 +9738,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "resurrection",
@@ -9041,7 +9776,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "reverse-gravity",
@@ -9080,7 +9818,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "revivify",
@@ -9115,7 +9856,10 @@
         "name": "Paladin"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "rope-trick",
@@ -9146,7 +9890,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "sacred-flame",
@@ -9176,7 +9923,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "sanctuary",
@@ -9207,7 +9957,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "scorching-ray",
@@ -9242,7 +9995,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "scrying",
@@ -9289,7 +10045,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "secret-chest",
@@ -9320,7 +10079,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "see-invisibility",
@@ -9359,7 +10121,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "seeming",
@@ -9397,7 +10162,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "sending",
@@ -9436,7 +10204,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "sequester",
@@ -9467,7 +10238,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "shapechange",
@@ -9502,7 +10276,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "shatter",
@@ -9546,7 +10323,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "shield",
@@ -9580,7 +10360,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "shield-of-faith",
@@ -9615,7 +10398,10 @@
         "name": "Paladin"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "shillelagh",
@@ -9646,7 +10432,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "shocking-grasp",
@@ -9680,7 +10469,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "silence",
@@ -9718,7 +10510,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "silent-image",
@@ -9757,7 +10552,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "simulacrum",
@@ -9788,7 +10586,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "sleep",
@@ -9828,7 +10629,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "sleet-storm",
@@ -9867,7 +10671,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "slow",
@@ -9902,7 +10709,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "spare-the-dying",
@@ -9932,7 +10742,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "speak-with-animals",
@@ -9970,7 +10783,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "speak-with-dead",
@@ -10005,7 +10821,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "speak-with-plants",
@@ -10043,7 +10862,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "spider-climb",
@@ -10082,7 +10904,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "spike-growth",
@@ -10117,7 +10942,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "spirit-guardians",
@@ -10149,7 +10977,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "spiritual-weapon",
@@ -10180,7 +11011,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "stinking-cloud",
@@ -10219,7 +11053,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "stone-shape",
@@ -10258,7 +11095,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "stoneskin",
@@ -10301,7 +11141,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "storm-of-vengeance",
@@ -10331,7 +11174,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "suggestion",
@@ -10374,7 +11220,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "sunbeam",
@@ -10413,7 +11262,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "sunburst",
@@ -10452,7 +11304,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "symbol",
@@ -10491,7 +11346,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "telekinesis",
@@ -10525,7 +11383,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "telepathic-bond",
@@ -10556,7 +11417,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "teleport",
@@ -10594,7 +11458,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "teleportation-circle",
@@ -10633,7 +11500,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "thaumaturgy",
@@ -10663,7 +11533,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "thunderwave",
@@ -10706,7 +11579,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "time-stop",
@@ -10740,7 +11616,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tiny-hut",
@@ -10775,7 +11654,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tongues",
@@ -10822,7 +11704,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "transport-via-plants",
@@ -10852,7 +11737,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tree-stride",
@@ -10886,7 +11774,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "true-polymorph",
@@ -10925,7 +11816,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "true-resurrection",
@@ -10960,7 +11854,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "true-seeing",
@@ -11007,7 +11904,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "true-strike",
@@ -11049,7 +11949,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "unseen-servant",
@@ -11088,7 +11991,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "vampiric-touch",
@@ -11123,7 +12029,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "vicious-mockery",
@@ -11153,7 +12062,10 @@
         "name": "Bard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wall-of-fire",
@@ -11193,7 +12105,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wall-of-force",
@@ -11224,7 +12139,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wall-of-ice",
@@ -11256,7 +12174,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wall-of-stone",
@@ -11295,7 +12216,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wall-of-thorns",
@@ -11327,7 +12251,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "warding-bond",
@@ -11358,7 +12285,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "water-breathing",
@@ -11401,7 +12331,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "water-walk",
@@ -11444,7 +12377,10 @@
         "name": "Sorcerer"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "web",
@@ -11479,7 +12415,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "weird",
@@ -11509,7 +12448,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wind-walk",
@@ -11540,7 +12482,10 @@
         "name": "Druid"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wind-wall",
@@ -11575,7 +12520,10 @@
         "name": "Ranger"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wish",
@@ -11609,7 +12557,10 @@
         "name": "Wizard"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "word-of-recall",
@@ -11639,7 +12590,10 @@
         "name": "Cleric"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "zone-of-truth",
@@ -11677,6 +12631,9 @@
         "name": "Paladin"
       }
     ],
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   }
 ]

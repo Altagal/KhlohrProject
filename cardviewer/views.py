@@ -68,3 +68,22 @@ def infusion_list(request):
     }
 
     return render(request, 'cardviewer/infuse_table_view.html', context)
+
+
+def ability_score_skill_list(request):
+    context = {
+        "plural_type_name": "Ability Scores and Skills",
+        "ability_score_list": get_deck("ability_score"),
+        "skill_list": get_deck("skill"),
+    }
+
+    return render(request, 'cardviewer/ability_score_skill_table_view.html', context)
+
+
+def feat_list(request):
+    context = {
+        "plural_type_name": "Feats",
+        "table_list": get_deck("feat"),
+    }
+
+    return render(request, 'cardviewer/feat_table_view.html', context)

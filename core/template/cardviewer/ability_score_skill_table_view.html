@@ -1,0 +1,57 @@
+{% extends "layout/base.html" %}
+{% load static %}
+{% block title %}{{plural_type_name}}{% endblock %}
+
+{% block stylesheet %}{% endblock %}
+
+{% block content %}
+<div class="page-inner">
+    <div class="row">
+        <div class="col">
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">{{plural_type_name}}</div>
+                </div>
+                <div class="card-body">
+                    <table class="table table-hover infusion-table">
+                        <thead>
+                        <tr>
+                            <th scope="col" style="width: 30%;">Ability Score</th>
+                            <th class="text-center" style="width: 1%;" scope="col"></th>
+                            <th scope="col" style="width: 40%;">Skill</th>
+                            <th class="text-center" style="width: 1%;" scope="col"></th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        {% for card_ability_score in ability_score_list %}
+                        <tr>
+                            <td rowspan="{{ card_ability_score.skill|length|add:1 }}">{{card_ability_score.name}}</td>
+                            <td rowspan="{{ card_ability_score.skill|length| add:1 }}">
+                                <a href="{% url 'card_view' card_ability_score.slug %}"><i class="fas fa-search text-danger"></i></a>
+                            </td>
+                            {% for card_skill in skill_list %}
+                            {% if card_ability_score.slug == card_skill.ability_score.slug %}
+                        <tr>
+                            <td rowspan="">{{card_skill.name}}</td>
+                            <td>
+                                <a href="{% url 'card_view' card_skill.slug %}"><i class="fas fa-search text-danger"></i></a>
+                            </td>
+                        </tr>
+                        {% endif %}
+                        {% endfor %}
+                        </tr>
+                        {% endfor %}
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block javascript %}
+<script src="{% static 'assets/js/custom/table_view_script.js' %}"></script>
+
+{% endblock %}

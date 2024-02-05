@@ -1474,5 +1474,101 @@
   {
     "slug": "spell-refueling-ring",
     "type": "infusion"
+  },
+  {
+    "slug": "athletics",
+    "type": "skill"
+  },
+  {
+    "slug": "acrobatics",
+    "type": "skill"
+  },
+  {
+    "slug": "sleight-of-hand",
+    "type": "skill"
+  },
+  {
+    "slug": "stealth",
+    "type": "skill"
+  },
+  {
+    "slug": "arcana",
+    "type": "skill"
+  },
+  {
+    "slug": "history",
+    "type": "skill"
+  },
+  {
+    "slug": "investigation",
+    "type": "skill"
+  },
+  {
+    "slug": "nature",
+    "type": "skill"
+  },
+  {
+    "slug": "religion",
+    "type": "skill"
+  },
+  {
+    "slug": "animal-handling",
+    "type": "skill"
+  },
+  {
+    "slug": "insight",
+    "type": "skill"
+  },
+  {
+    "slug": "medicine",
+    "type": "skill"
+  },
+  {
+    "slug": "perception",
+    "type": "skill"
+  },
+  {
+    "slug": "survival",
+    "type": "skill"
+  },
+  {
+    "slug": "deception",
+    "type": "skill"
+  },
+  {
+    "slug": "intimidation",
+    "type": "skill"
+  },
+  {
+    "slug": "performance",
+    "type": "skill"
+  },
+  {
+    "slug": "persuasion",
+    "type": "skill"
+  },
+  {
+    "slug": "strength",
+    "type": "ability_score"
+  },
+  {
+    "slug": "dexterity",
+    "type": "ability_score"
+  },
+  {
+    "slug": "constitution",
+    "type": "ability_score"
+  },
+  {
+    "slug": "intelligence",
+    "type": "ability_score"
+  },
+  {
+    "slug": "wisdom",
+    "type": "ability_score"
+  },
+  {
+    "slug": "charisma",
+    "type": "ability_score"
   }
 ]

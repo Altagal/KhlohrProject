@@ -2,98 +2,169 @@
   {
     "slug": "artificer",
     "name": "Artificer",
-    "type": "class",
-    "full_type": "Class",
+    "type": {
+      "slug": "class",
+      "name": "Class"
+    },
     "desc": "",
-    "source": "Player's Handbook"
+    "subclasses": [
+      {
+        "slug": "",
+        "name": ""
+      },
+      {
+        "slug": "",
+        "name": ""
+      }
+    ],
+    "hit_die": 12,
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    }
   },
   {
     "slug": "Barbarian",
     "name": "Barbarian",
-    "type": "class",
-    "full_type": "Class",
+    "type": {
+      "slug": "condition",
+      "name": "Condition"
+    },
     "desc": "",
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "Bard",
     "name": "Bard",
-    "type": "class",
-    "full_type": "Class",
+    "type": {
+      "slug": "condition",
+      "name": "Condition"
+    },
     "desc": "",
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "Cleric",
     "name": "Cleric",
-    "type": "class",
-    "full_type": "Class",
+    "type": {
+      "slug": "condition",
+      "name": "Condition"
+    },
     "desc": "",
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "Druid",
     "name": "Druid",
-    "type": "class",
-    "full_type": "Class",
+    "type": {
+      "slug": "condition",
+      "name": "Condition"
+    },
     "desc": "",
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "Monk",
     "name": "Monk",
-    "type": "class",
-    "full_type": "Class",
+    "type": {
+      "slug": "condition",
+      "name": "Condition"
+    },
     "desc": "",
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "Paladin",
     "name": "Paladin",
-    "type": "class",
-    "full_type": "Class",
+    "type": {
+      "slug": "condition",
+      "name": "Condition"
+    },
     "desc": "",
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "Ranger",
     "name": "Ranger",
-    "type": "class",
-    "full_type": "Class",
+    "type": {
+      "slug": "condition",
+      "name": "Condition"
+    },
     "desc": "",
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "Rogue",
     "name": "Rogue",
-    "type": "class",
-    "full_type": "Class",
+    "type": {
+      "slug": "condition",
+      "name": "Condition"
+    },
     "desc": "",
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "Sorcerer",
     "name": "Sorcerer",
-    "type": "class",
-    "full_type": "Class",
+    "type": {
+      "slug": "condition",
+      "name": "Condition"
+    },
     "desc": "",
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "Warlock",
     "name": "Warlock",
-    "type": "class",
-    "full_type": "Class",
+    "type": {
+      "slug": "condition",
+      "name": "Condition"
+    },
     "desc": "",
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "Wizard",
     "name": "Wizard",
-    "type": "class",
-    "full_type": "Class",
+    "type": {
+      "slug": "condition",
+      "name": "Condition"
+    },
     "desc": "",
-    "source": "Player's Handbook"
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   }
 ]
 
