@@ -75,7 +75,7 @@
     }
   },
   {
-    "slug": "Bountiful Luck",
+    "slug": "bountiful-luck",
     "name": "Bountiful Luck",
     "type": {
       "slug": "feat",
@@ -192,7 +192,7 @@
     }
   },
   {
-    "slug": "Dragon Hide",
+    "slug": "dragon-hide",
     "name": "Dragon Hide",
     "type": {
       "slug": "feat",
@@ -207,7 +207,7 @@
     }
   },
   {
-    "slug": "Drow High Magic",
+    "slug": "drow-high-magic",
     "name": "Drow High Magic",
     "type": {
       "slug": "feat",
@@ -312,7 +312,7 @@
     }
   },
   {
-    "slug": "Elven Accuracy",
+    "slug": "elven-accuracy",
     "name": "Elven Accuracy",
     "type": {
       "slug": "feat",
@@ -327,7 +327,7 @@
     }
   },
   {
-    "slug": "Fade Away",
+    "slug": "fade-away",
     "name": "Fade Away",
     "type": {
       "slug": "feat",
@@ -342,7 +342,7 @@
     }
   },
   {
-    "slug": "Fey Teleportation",
+    "slug": "fey-teleportation",
     "name": "Fey Teleportation",
     "type": {
       "slug": "feat",
@@ -402,7 +402,7 @@
     }
   },
   {
-    "slug": "Flames of Phlegethos",
+    "slug": "flames-of-phlegethos",
     "name": "Flames of Phlegethos",
     "type": {
       "slug": "feat",
@@ -477,7 +477,7 @@
     }
   },
   {
-    "slug": "Grappler",
+    "slug": "grappler",
     "name": "Grappler",
     "type": {
       "slug": "feat",
@@ -582,7 +582,7 @@
     }
   },
   {
-    "slug": "Infernal Constitution",
+    "slug": "infernal-constitution",
     "name": "Infernal Constitution",
     "type": {
       "slug": "feat",
@@ -822,7 +822,7 @@
     }
   },
   {
-    "slug": "Orcish Fury",
+    "slug": "orcish-fury",
     "name": "Orcish Fury",
     "type": {
       "slug": "feat",
@@ -882,7 +882,7 @@
     }
   },
   {
-    "slug": "Orcish Fury",
+    "slug": "orcish-fury",
     "name": "Orcish Fury",
     "type": {
       "slug": "feat",
@@ -912,7 +912,7 @@
     }
   },
   {
-    "slug": "Revenant Blade",
+    "slug": "revenant-blade",
     "name": "Revenant Blade",
     "type": {
       "slug": "feat",
@@ -972,7 +972,7 @@
     }
   },
   {
-    "slug": "Second Chance",
+    "slug": "second-chance",
     "name": "Second Chance",
     "type": {
       "slug": "feat",
@@ -1167,7 +1167,7 @@
     }
   },
   {
-    "slug": "Svirfneblin Magic",
+    "slug": "svirfneblin-magic",
     "name": "Svirfneblin Magic",
     "type": {
       "slug": "feat",
@@ -1182,7 +1182,7 @@
     }
   },
   {
-    "slug": "Tavern Brawler",
+    "slug": "tavern-brawler",
     "name": "Tavern Brawler",
     "type": {
       "slug": "feat",
@@ -1227,7 +1227,7 @@
     }
   },
   {
-    "slug": "Tough",
+    "slug": "tough",
     "name": "Tough",
     "type": {
       "slug": "feat",
@@ -1242,7 +1242,7 @@
     }
   },
   {
-    "slug": "War Caster",
+    "slug": "war-caster",
     "name": "War Caster",
     "type": {
       "slug": "feat",
@@ -1272,7 +1272,7 @@
     }
   },
   {
-    "slug": "Wood Elf Magic",
+    "slug": "wood-elf-magic",
     "name": "Wood Elf Magic",
     "type": {
       "slug": "feat",

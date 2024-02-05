@@ -1570,5 +1570,349 @@
   {
     "slug": "charisma",
     "type": "ability_score"
+  },
+  {
+    "slug": "aberrant-dragonmark",
+    "type": "feat"
+  },
+  {
+    "slug": "actor",
+    "type": "feat"
+  },
+  {
+    "slug": "alert",
+    "type": "feat"
+  },
+  {
+    "slug": "artificer-initiate",
+    "type": "feat"
+  },
+  {
+    "slug": "athlete",
+    "type": "feat"
+  },
+  {
+    "slug": "bountiful-luck",
+    "type": "feat"
+  },
+  {
+    "slug": "cartomancer",
+    "type": "feat"
+  },
+  {
+    "slug": "charger",
+    "type": "feat"
+  },
+  {
+    "slug": "chef",
+    "type": "feat"
+  },
+  {
+    "slug": "crossbow-expert",
+    "type": "feat"
+  },
+  {
+    "slug": "crusher",
+    "type": "feat"
+  },
+  {
+    "slug": "defensive-duelist",
+    "type": "feat"
+  },
+  {
+    "slug": "dragon-fear",
+    "type": "feat"
+  },
+  {
+    "slug": "dragon-hide",
+    "type": "feat"
+  },
+  {
+    "slug": "drow-high-magic",
+    "type": "feat"
+  },
+  {
+    "slug": "dual-wielder",
+    "type": "feat"
+  },
+  {
+    "slug": "dungeon-delver",
+    "type": "feat"
+  },
+  {
+    "slug": "dwarven-fortitude",
+    "type": "feat"
+  },
+  {
+    "slug": "durable",
+    "type": "feat"
+  },
+  {
+    "slug": "eldritch-adept",
+    "type": "feat"
+  },
+  {
+    "slug": "elemental-adept",
+    "type": "feat"
+  },
+  {
+    "slug": "elven-accuracy",
+    "type": "feat"
+  },
+  {
+    "slug": "fade-away",
+    "type": "feat"
+  },
+  {
+    "slug": "fey-teleportation",
+    "type": "feat"
+  },
+  {
+    "slug": "ember-of-the-fire-giant",
+    "type": "feat"
+  },
+  {
+    "slug": "fey-touched",
+    "type": "feat"
+  },
+  {
+    "slug": "fighting-initiate",
+    "type": "feat"
+  },
+  {
+    "slug": "flames-of-phlegethos",
+    "type": "feat"
+  },
+  {
+    "slug": "fury-of-the-frost-giant",
+    "type": "feat"
+  },
+  {
+    "slug": "gift-of-the-chromatic-dragon",
+    "type": "feat"
+  },
+  {
+    "slug": "gift-of-the-gem-dragon",
+    "type": "feat"
+  },
+  {
+    "slug": "gift-of-the-metallic-dragon",
+    "type": "feat"
+  },
+  {
+    "slug": "grappler",
+    "type": "feat"
+  },
+  {
+    "slug": "great-weapon-master",
+    "type": "feat"
+  },
+  {
+    "slug": "guile-of-the-cloud-giant",
+    "type": "feat"
+  },
+  {
+    "slug": "gunner",
+    "type": "feat"
+  },
+  {
+    "slug": "healer",
+    "type": "feat"
+  },
+  {
+    "slug": "heavily-armored",
+    "type": "feat"
+  },
+  {
+    "slug": "heavy-armor-master",
+    "type": "feat"
+  },
+  {
+    "slug": "infernal-constitution",
+    "type": "feat"
+  },
+  {
+    "slug": "inspiring-leader",
+    "type": "feat"
+  },
+  {
+    "slug": "keen-mind",
+    "type": "feat"
+  },
+  {
+    "slug": "keenness-of-the-stone-giant",
+    "type": "feat"
+  },
+  {
+    "slug": "lightly-armored",
+    "type": "feat"
+  },
+  {
+    "slug": "linguist",
+    "type": "feat"
+  },
+  {
+    "slug": "lucky",
+    "type": "feat"
+  },
+  {
+    "slug": "mage-slayer",
+    "type": "feat"
+  },
+  {
+    "slug": "magic-initiate",
+    "type": "feat"
+  },
+  {
+    "slug": "martial-adept",
+    "type": "feat"
+  },
+  {
+    "slug": "medium-armor-master",
+    "type": "feat"
+  },
+  {
+    "slug": "metamagic-adept",
+    "type": "feat"
+  },
+  {
+    "slug": "mobile",
+    "type": "feat"
+  },
+  {
+    "slug": "moderately-armored",
+    "type": "feat"
+  },
+  {
+    "slug": "mounted-combatant",
+    "type": "feat"
+  },
+  {
+    "slug": "observant",
+    "type": "feat"
+  },
+  {
+    "slug": "orcish-fury",
+    "type": "feat"
+  },
+  {
+    "slug": "piercer",
+    "type": "feat"
+  },
+  {
+    "slug": "poisoner",
+    "type": "feat"
+  },
+  {
+    "slug": "polearm-master",
+    "type": "feat"
+  },
+  {
+    "slug": "orcish-fury",
+    "type": "feat"
+  },
+  {
+    "slug": "resilient",
+    "type": "feat"
+  },
+  {
+    "slug": "revenant-blade",
+    "type": "feat"
+  },
+  {
+    "slug": "ritual-caster",
+    "type": "feat"
+  },
+  {
+    "slug": "rune-shaper",
+    "type": "feat"
+  },
+  {
+    "slug": "savage-attacker",
+    "type": "feat"
+  },
+  {
+    "slug": "second-chance",
+    "type": "feat"
+  },
+  {
+    "slug": "sentinel",
+    "type": "feat"
+  },
+  {
+    "slug": "shadow-touched",
+    "type": "feat"
+  },
+  {
+    "slug": "sharpshooter",
+    "type": "feat"
+  },
+  {
+    "slug": "shield-master",
+    "type": "feat"
+  },
+  {
+    "slug": "skill-expert",
+    "type": "feat"
+  },
+  {
+    "slug": "skilled",
+    "type": "feat"
+  },
+  {
+    "slug": "skulker",
+    "type": "feat"
+  },
+  {
+    "slug": "slasher",
+    "type": "feat"
+  },
+  {
+    "slug": "spell-sniper",
+    "type": "feat"
+  },
+  {
+    "slug": "squat-nimbleness",
+    "type": "feat"
+  },
+  {
+    "slug": "strixhaven-initiate",
+    "type": "feat"
+  },
+  {
+    "slug": "strixhaven-mascot",
+    "type": "feat"
+  },
+  {
+    "slug": "svirfneblin-magic",
+    "type": "feat"
+  },
+  {
+    "slug": "tavern-brawler",
+    "type": "feat"
+  },
+  {
+    "slug": "telekinetic",
+    "type": "feat"
+  },
+  {
+    "slug": "telepathic",
+    "type": "feat"
+  },
+  {
+    "slug": "tough",
+    "type": "feat"
+  },
+  {
+    "slug": "war-caster",
+    "type": "feat"
+  },
+  {
+    "slug": "weapon-master",
+    "type": "feat"
+  },
+  {
+    "slug": "wood-elf-magic",
+    "type": "feat"
   }
 ]
