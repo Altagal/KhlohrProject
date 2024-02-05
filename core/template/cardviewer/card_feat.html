@@ -1,19 +1,14 @@
-{% if card.prerequisite_artificer_level %}
+{% if card.prerequisite %}
 <div class="row">
     <div class="col">
-        <p>
-            <b>Prerequisite</b>: {{card.prerequisite_artificer_level}}th-level artificer
-        </p>
+        <p><b>Prerequisite:</b> {{card.prerequisite}}.</p>
     </div>
 </div>
 {% endif %}
-
-{% if card.material %}
+{% if card.ability_score_increase %}
 <div class="row">
     <div class="col">
-        <p>
-            <b>Item</b>: {{card.material}}{% if card.requires_attunement %} Requires attunement.{% endif %}
-        </p>
+        <p><b>Ability Score Increase:</b> {{card.ability_score_increase}}</p>
     </div>
 </div>
 {% endif %}

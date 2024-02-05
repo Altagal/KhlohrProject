@@ -27,7 +27,7 @@
                         <tr>
                             <td>{{card.name}}</td>
                             <td>{% if card.prerequisite %}{{card.prerequisite}}{% endif %}</td>
-                            <td>{% if card.modifier %}{{card.modifier}}{% endif %}</td>
+                            <td>{% if card.ability_score_increase %}{{card.ability_score_increase}}{% endif %}</td>
                             <td>
                                 <a href="{% url 'card_view' card.slug %}"><i class="fas fa-search text-danger"></i></a>
                             </td>

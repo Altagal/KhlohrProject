@@ -10,48 +10,50 @@
 </head>
 
 <body>
-    {% for card in card_list|dictsort:"name" %}
-    <div class="card_print">
-        <table>
-            <thead>
-                <tr>
-                    <th colspan="100">
-                        <div class="card_title reduce_to_fit">{{card.name|default_if_none:"&nbsp"}}</div>
-                    </th>
-                </tr>
-            </thead>
-            <tbody class="card_inner">
+{% for card in card_list|dictsort:"name" %}
+<div class="card_print">
+    <table>
+        <thead>
+        <tr>
+            <th colspan="100">
+                <div class="card_title reduce_to_fit">{{card.name|default_if_none:"&nbsp"}}</div>
+            </th>
+        </tr>
+        </thead>
+        <tbody class="card_inner">
 
-                {% if card.type.slug == "spell" %}
-                    {% include 'cardmaker/card_spell.html'%}
-                {% elif card.type.slug == "infusion" %}
-                        {% include 'cardmaker/card_infusion.html'%}
-                {% elif card.type.name == "character sheet" %}
-                    {% include 'cardmaker/view_ooo.html'%}
-                {% else %}
-                    {% include 'cardmaker/card_generic.html'%}
-                {% endif %}
+        {% if card.type.slug == "spell" %}
+        {% include 'cardmaker/card_spell.html'%}
+        {% elif card.type.slug == "infusion" %}
+        {% include 'cardmaker/card_infusion.html'%}
+        {% elif card.type.slug == "feat" %}
+        {% include 'cardmaker/card_feat.html'%}
+        {% elif card.type.name == "character sheet" %}
+        {% include 'cardmaker/view_ooo.html'%}
+        {% else %}
+        {% include 'cardmaker/card_generic.html'%}
+        {% endif %}
 
-                {% if card.source %}
-                <tr class="card_source">
-                    <td colspan="100">
-                        <div>
-                            <b>Source: </b>{{card.source.name}}
-                        </div>
-                    </td>
-                </tr>
-                {% endif %}
+        {% if card.source %}
+        <tr class="card_source">
+            <td colspan="100">
+                <div>
+                    <b>Source:</b> {{card.source.name}}
+                </div>
+            </td>
+        </tr>
+        {% endif %}
 
-            </tbody>
-        </table>
-    </div>
-    {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endfor %}
 
-    {% block javascript %}
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="{% static 'assets/js/AntiOverflowFontResizer/AntiOverflowFontResizer.js' %}"></script>
-    <script src="{% static 'assets/js/custom/card_maker_script.js' %}"></script>
-    {% endblock %}
+{% block javascript %}
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="{% static 'assets/js/AntiOverflowFontResizer/AntiOverflowFontResizer.js' %}"></script>
+<script src="{% static 'assets/js/custom/card_maker_script.js' %}"></script>
+{% endblock %}
 
 </body>
 </html>

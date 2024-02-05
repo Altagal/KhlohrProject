@@ -26,6 +26,8 @@
                         {% include 'cardviewer/card_magic_school.html'%}
                      {% elif card.type.slug == "infusion" %}
                         {% include 'cardviewer/card_infusion.html'%}
+                    {% elif card.type.slug == "feat" %}
+                        {% include 'cardviewer/card_feat.html'%}
                     {% else %}
                         {% include 'cardviewer/card_generic.html'%}
                     {% endif %}

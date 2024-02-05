@@ -1,18 +1,18 @@
 {% if card.type %}
 <tr>
-	<td colspan="8" class="card_type">
-		<div>
-			{{card.type.name}}
-		</div>
-	</td>
+    <td colspan="8" class="card_type">
+        <div>
+            {{card.type.name}}
+        </div>
+    </td>
 </tr>
 {% endif %}
 <tr class="card_description">
-    <td colspan="8" >
+    <td colspan="8">
         <div style="font-size:">
-                {% autoescape on %}
-                {{ card.desc | safe }}
-                {% endautoescape %}
+            {% autoescape on %}
+            {{ card.desc | safe }}
+            {% endautoescape %}
         </div>
     </td>
 </tr>

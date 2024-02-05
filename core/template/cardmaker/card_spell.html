@@ -43,14 +43,14 @@
     <td colspan="8">
         <div style="font-size:mm">{% if card.required_material %}<p style="text-align: center;">{{card.required_material}}</p>
             {% endif %}
-                {% autoescape on %}
-                  {{ card.desc | safe  }}
-               {% endautoescape %}
+            {% autoescape on %}
+            {{ card.desc | safe }}
+            {% endautoescape %}
 
             {% if card.at_higher_level %}<p><b>At Higher Levels: </b>{{card.at_higher_level}}</p>{% endif %}
-            <!--            {% if card.casters.all %}-->
-            <!--            <p><b>Casters:</b> {% for caster in card.casters.all %}{% if not forloop.first %}, {% endif %}{{caster.name }}{% endfor %}</p>-->
-            <!--            {% endif %}-->
+            <!-- {% if card.casters.all %}-->
+            <!-- <p><b>Casters:</b> {% for caster in card.casters.all %}{% if not forloop.first %}, {% endif %}{{caster.name }}{% endfor %}</p>-->
+            <!-- {% endif %}-->
         </div>
     </td>
 </tr>
