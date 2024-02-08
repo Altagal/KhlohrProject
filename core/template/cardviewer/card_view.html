@@ -20,17 +20,7 @@
                     </div>
                 </div>
                 <div class="card-body">
-                    {% if card.type.slug == "spell" %}
-                        {% include 'cardviewer/card_spell.html'%}
-                    {% elif card.type.slug == "magic_school" %}
-                        {% include 'cardviewer/card_magic_school.html'%}
-                     {% elif card.type.slug == "infusion" %}
-                        {% include 'cardviewer/card_infusion.html'%}
-                    {% elif card.type.slug == "feat" %}
-                        {% include 'cardviewer/card_feat.html'%}
-                    {% else %}
-                        {% include 'cardviewer/card_generic.html'%}
-                    {% endif %}
+                    {% include 'cardviewer/card_type_chooser.html'%}
                 </div>
             </div>
         </div>

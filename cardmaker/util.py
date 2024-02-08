@@ -1,4 +1,8 @@
+import datetime
 import json
+import random
+
+from core import settings
 
 
 def get_card_from_slug(card_slug):
@@ -43,3 +47,11 @@ def get_deck(deck_name):
     f = open("core/artifact/deck/" + deck_name + ".json")
     data = json.load(f)
     return data
+
+
+def get_daily_card():
+    deck = get_deck("index")
+    seed = f'{settings.SECRET_KEY}{datetime.date.today()}'
+    card_slug = random.Random(seed).choice(deck)
+    card = get_card_from_slug(card_slug["slug"])
+    return card

@@ -5,7 +5,28 @@
 {% block stylesheet %}{% endblock %}
 
 {% block content %}
-
+<div class="page-inner">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title text-center">{{card.type.name | title}} of the day</div>
+                </div>
+                <div class="card-header">
+                    <div class="card-head-row">
+                        <div class="card-title">{{card.name}}</div>
+                        <div class="card-tools">
+                            <a class="btn btn-danger" href="{% url 'card_view' card.slug %}"><i class="fas fa-search"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body">
+                    {% include 'cardviewer/card_type_chooser.html'%}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 {% endblock %}
 
 {% block javascript %}

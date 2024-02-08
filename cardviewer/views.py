@@ -1,9 +1,15 @@
+import datetime
+import random
+
 from django.shortcuts import render
-from cardmaker.util import get_card_from_slug, get_deck
+from cardmaker.util import get_card_from_slug, get_deck, get_daily_card
+from core import settings
 
 
 def home(request):
+
     context = {
+        "card": get_daily_card(),
     }
 
     return render(request, 'cardviewer/home.html', context)
