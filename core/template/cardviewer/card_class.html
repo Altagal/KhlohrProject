@@ -1,0 +1,56 @@
+
+<div class="row">
+    <div class="col">
+        <p>
+            {{card.multiclass_prerequisite}}
+        </p>
+
+    </div>
+</div>
+
+<div class="row mb-3">
+    <div class="col">
+        {% autoescape off %}
+        {{card.desc}}
+        {% endautoescape %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col">
+        <p>
+            <b>Hit Dice:</b> 1d{{card.hit_die}} per {{card.name|lower}} level<br>
+            <b>Hit Points at 1st Level:</b> {{card.hit_die}} + your Constitution modifier<br>
+            <b>Hit Points at Higher Levels:</b> 1d{{card.hit_die}} + your Constitution modifier per {{card.name|lower}} level after 1st<br>
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col">
+        <p>
+            <b>Armor Proficiencies:</b> {{card.armor_proficiency}}<br>
+            <b>Weapon Proficiencies:</b> {{card.weapon_proficiency}}<br>
+            <b>Tool Proficiencies:</b> {{card.tool_proficiency}}<br>
+            <b>Saving Throw:</b> {{card.saving_throw_proficiency}}<br>
+            <b>Skill Proficiencies:</b> {{card.skill_proficiency}}<br>
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col">
+        <b>Equipment</b>
+        {% autoescape off %}
+        {{card.equipment}}
+        {% endautoescape %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col">
+        <p>
+            <b>Source:</b> {{card.source.name}}
+        </p>
+    </div>
+</div>

@@ -28,8 +28,9 @@
         {% include 'cardmaker/card_infusion.html'%}
         {% elif card.type.slug == "feat" %}
         {% include 'cardmaker/card_feat.html'%}
-        {% elif card.type.name == "character sheet" %}
-        {% include 'cardmaker/view_ooo.html'%}
+        {% elif card.type.slug == "class" %}
+        {% include 'cardmaker/card_class.html'%}
+
         {% else %}
         {% include 'cardmaker/card_generic.html'%}
         {% endif %}

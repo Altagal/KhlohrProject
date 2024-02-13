@@ -6,7 +6,9 @@
       "slug": "class",
       "name": "Class"
     },
-    "desc": "",
+    "desc": "<table class='compact_table'> <tbody><tr> <th colspan=\"4\">The Artificer</th> <th colspan=\"8\">Spell Slots per Spell Level</th> </tr> <tr> <th>Lv.</th> <th>P.B.</th> <th>Features</th> <th>Infusions Known</th> <th>Infused Items</th> <th>Cantrips Known</th> <th>1st</th> <th>2nd</th> <th>3rd</th> <th>4th</th> <th>5th</th> </tr> <tr> <td>1st</td> <td>+2</td> <td>Magical Tinkering, Spellcasting</td> <td>-</td> <td>-</td> <td>2</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>2nd</td> <td>+2</td> <td>Infuse Item</td> <td>4</td> <td>2</td> <td>2</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>3rd</td> <td>+2</td> <td>Artificer Specialist, The Right Tool for the Job</td> <td>4</td> <td>2</td> <td>2</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>4th</td> <td>+2</td> <td>Ability Score Improvement</td> <td>4</td> <td>2</td> <td>2</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>5th</td> <td>+3</td> <td>Artificer Specialist feature</td> <td>4</td> <td>2</td> <td>2</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>6th</td> <td>+3</td> <td>Tool Expertise</td> <td>6</td> <td>3</td> <td>2</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>7th</td> <td>+3</td> <td>Flash of Genius</td> <td>6</td> <td>3</td> <td>2</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>8th</td> <td>+3</td> <td>Ability Score Improvement</td> <td>6</td> <td>3</td> <td>2</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>9th</td> <td>+4</td> <td>Artificer Specialist feature</td> <td>6</td> <td>3</td> <td>2</td> <td>4</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> </tr> <tr> <td>10th</td> <td>+4</td> <td>Magic Item Adept</td> <td>8</td> <td>4</td> <td>3</td> <td>4</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> </tr> <tr> <td>11th</td> <td>+4</td> <td>Spell-Storing Item</td> <td>8</td> <td>4</td> <td>3</td> <td>4</td> <td>3</td> <td>3</td> <td>-</td> <td>-</td> </tr> <tr> <td>12th</td> <td>+4</td> <td>Ability Score Improvement</td> <td>8</td> <td>4</td> <td>3</td> <td>4</td> <td>3</td> <td>3</td> <td>-</td> <td>-</td> </tr> <tr> <td>13th</td> <td>+5</td> <td>-</td> <td>8</td> <td>4</td> <td>3</td> <td>4</td> <td>3</td> <td>3</td> <td>1</td> <td>-</td> </tr> <tr> <td>14th</td> <td>+5</td> <td>Magic Item Savant</td> <td>10</td> <td>5</td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>1</td> <td>-</td> </tr> <tr> <td>15th</td> <td>+5</td> <td>Artificer Specialist feature</td> <td>10</td> <td>5</td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>2</td> <td>-</td> </tr> <tr> <td>16th</td> <td>+5</td> <td>Ability Score Improvement</td> <td>10</td> <td>5</td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>2</td> <td>-</td> </tr> <tr> <td>17th</td> <td>+6</td> <td>-</td> <td>10</td> <td>5</td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>1</td> </tr> <tr> <td>18th</td> <td>+6</td> <td>Magic Item Master</td> <td>12</td> <td>6</td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>1</td> </tr> <tr> <td>19th</td> <td>+6</td> <td>Ability Score Improvement</td> <td>12</td> <td>6</td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> </tr> <tr> <td>20th</td> <td>+6</td> <td>Soul of Artifice</td> <td>12</td> <td>6</td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> </tr> </tbody></table>",
+    "multiclass_prerequisite": "You must have an Intelligence score of 13 or higher in order to multiclass in or out of this class.",
+    "hit_die": 8,
     "subclasses": [
       {
         "slug": "alchemist",
@@ -22,10 +24,15 @@
       },
       {
         "slug": "battle-smith",
-        "name": "Battle Smith "
+        "name": "Battle Smith"
       }
     ],
-    "hit_die": 8,
+    "armor_proficiency": "Light armor, medium armor, shields",
+    "weapon_proficiency": "Simple weapons",
+    "tool_proficiency": "Thieves' tools, tinker's tools, one type of artisan's tools of your choice",
+    "saving_throw_proficiency": "Constitution, Intelligence",
+    "skill_proficiency": "Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand",
+    "equipment": "<p>You start with the following equipment, in addition to the equipment granted by your background:</p><ul> <li>any two simple weapons</li> <li>a light crossbow and 20 bolts</li> <li>(a) studded leather armor or (b) scale mail</li> <li>thieves' tools and a dungeoneer's pack</li> </ul><p>Alternatively, you may start with 5d4x10 starting gold</p>",
     "source": {
       "slug": "TCE",
       "name": "Tasha's Cauldron of Everything"
@@ -38,7 +45,9 @@
       "slug": "class",
       "name": "Class"
     },
-    "desc": "",
+    "desc": "<table class='compact_table'> <tbody><tr> <th colspan=\"5\">The Barbarian</th> </tr> <tr> <th>Lv.</th> <th>P.B.</th> <th>Features</th> <th>Rages</th> <th>Rage Damage</th> </tr> <tr> <td>1st</td> <td>+2</td> <td>Rage, Unarmored Defense</td> <td>2</td> <td>+2</td> </tr> <tr> <td>2nd</td> <td>+2</td> <td>Reckless Attack, Danger Sense</td> <td>2</td> <td>+2</td> </tr> <tr> <td>3rd</td> <td>+2</td> <td>Primal Path, <em>Primal Knowledge (Optional)</em></td> <td>3</td> <td>+2</td> </tr> <tr> <td>4th</td> <td>+2</td> <td>Ability Score Improvement</td> <td>3</td> <td>+2</td> </tr> <tr> <td>5th</td> <td>+3</td> <td>Extra Attack, Fast Movement</td> <td>3</td> <td>+2</td> </tr> <tr> <td>6th</td> <td>+3</td> <td>Path feature</td> <td>4</td> <td>+2</td> </tr> <tr> <td>7th</td> <td>+3</td> <td>Feral Instinct, <em>Instinctive Pounce (Optional)</em></td> <td>4</td> <td>+2</td> </tr> <tr> <td>8th</td> <td>+3</td> <td>Ability Score Improvement</td> <td>4</td> <td>+2</td> </tr> <tr> <td>9th</td> <td>+4</td> <td>Brutal Critical (1 die)</td> <td>4</td> <td>+3</td> </tr> <tr> <td>10th</td> <td>+4</td> <td>Path feature, <em>Primal Knowledge (Optional)</em></td> <td>4</td> <td>+3</td> </tr> <tr> <td>11th</td> <td>+4</td> <td>Relentless Rage</td> <td>4</td> <td>+3</td> </tr> <tr> <td>12th</td> <td>+4</td> <td>Ability Score Improvement</td> <td>5</td> <td>+3</td> </tr> <tr> <td>13th</td> <td>+5</td> <td>Brutal Critical (2 dice)</td> <td>5</td> <td>+3</td> </tr> <tr> <td>14th</td> <td>+5</td> <td>Path feature</td> <td>5</td> <td>+3</td> </tr> <tr> <td>15th</td> <td>+5</td> <td>Persistent Rage</td> <td>5</td> <td>+3</td> </tr> <tr> <td>16th</td> <td>+5</td> <td>Ability Score Improvement</td> <td>5</td> <td>+4</td> </tr> <tr> <td>17th</td> <td>+6</td> <td>Brutal Critical (3 dice)</td> <td>6</td> <td>+4</td> </tr> <tr> <td>18th</td> <td>+6</td> <td>Indomitable Might</td> <td>6</td> <td>+4</td> </tr> <tr> <td>19th</td> <td>+6</td> <td>Ability Score Improvement</td> <td>6</td> <td>+4</td> </tr> <tr> <td>20th</td> <td>+6</td> <td>Primal Champion</td> <td>Unlimited</td> <td>+4</td> </tr> </tbody></table>",
+    "multiclass_prerequisite": "You must have a Strength score of 13 or higher in order to multiclass in or out of this class.",
+    "hit_die": 12,
     "subclasses": [
       {
         "slug": "path-of-the-ancestral-guardian",
@@ -77,7 +86,12 @@
         "name": "Path of the Zealot"
       }
     ],
-    "hit_die": 12,
+    "armor_proficiency": "Light armor, medium armor, shields",
+    "weapon_proficiency": "Simple weapons, martial weapons",
+    "tool_proficiency": "None",
+    "saving_throw_proficiency": "Strength, Constitution",
+    "skill_proficiency": "Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival",
+    "equipment": "<p>You start with the following equipment, in addition to the equipment granted by your background:</p><ul> <li>(a) a greataxe or (b) any martial melee weapon</li> <li>(a) two handaxes or (b) any simple weapon</li> <li>An explorer's pack and four javelins</li> </ul>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -90,7 +104,9 @@
       "slug": "class",
       "name": "Class"
     },
-    "desc": "",
+    "desc": "<table class='compact_table'><tbody><tr> <th colspan=\"5\">The Bard</th> <th colspan=\"9\">Spell Slots per Spell Level</th> </tr> <tr> <th>Lv.</th> <th>P.B.</th> <th>Features</th> <th>Cantrips Known</th> <th>Spells Known</th> <th>1st</th> <th>2nd</th> <th>3rd</th> <th>4th</th> <th>5th</th> <th>6th</th> <th>7th</th> <th>8th</th> <th>9th</th> </tr> <tr> <td>1st</td> <td>+2</td> <td>Spellcasting, Bardic Inspiration (d6)</td> <td>2</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>2nd</td> <td>+2</td> <td>Jack of All Trades, Song of Rest (d6), <em>Magical Inspiration (Optional)</em></td> <td>2</td> <td>5</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>3rd</td> <td>+2</td> <td>Bard College, Expertise</td> <td>2</td> <td>6</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>4th</td> <td>+2</td> <td>Ability Score Improvement, <em>Bardic Versatility (Optional)</em></td> <td>3</td> <td>7</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>5th</td> <td>+3</td> <td>Bardic Inspiration (d8), Font of Inspiration</td> <td>3</td> <td>8</td> <td>4</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>6th</td> <td>+3</td> <td>Countercharm, Bard College feature</td> <td>3</td> <td>9</td> <td>4</td> <td>3</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>7th</td> <td>+3</td> <td></td> <td>3</td> <td>10</td> <td>4</td> <td>3</td> <td>3</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>8th</td> <td>+3</td> <td>Ability Score Improvement, <em>Bardic Versatility (Optional)</em></td> <td>3</td> <td>11</td> <td>4</td> <td>3</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>9th</td> <td>+4</td> <td>Song of Rest (d8)</td> <td>3</td> <td>12</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>10th</td> <td>+4</td> <td>Bardic Inspiration (d10), Expertise, Magical Secrets</td> <td>4</td> <td>14</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>11th</td> <td>+4</td> <td></td> <td>4</td> <td>15</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>12th</td> <td>+4</td> <td>Ability Score Improvement, <em>Bardic Versatility (Optional)</em></td> <td>4</td> <td>15</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>13th</td> <td>+5</td> <td>Song of Rest (d10)</td> <td>4</td> <td>16</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>-</td> <td>-</td> </tr> <tr> <td>14th</td> <td>+5</td> <td>Magical Secrets, Bard College feature</td> <td>4</td> <td>18</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>-</td> <td>-</td> </tr> <tr> <td>15th</td> <td>+5</td> <td>Bardic Inspiration (d12)</td> <td>4</td> <td>19</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>-</td> </tr> <tr> <td>16th</td> <td>+5</td> <td>Ability Score Improvement, <em>Bardic Versatility (Optional)</em></td> <td>4</td> <td>19</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>-</td> </tr> <tr> <td>17th</td> <td>+6</td> <td>Song of Rest (d12)</td> <td>4</td> <td>20</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>18th</td> <td>+6</td> <td>Magical Secrets</td> <td>4</td> <td>22</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>3</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>19th</td> <td>+6</td> <td>Ability Score Improvement, <em>Bardic Versatility (Optional)</em></td> <td>4</td> <td>22</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>20th</td> <td>+6</td> <td>Superior Inspiration</td> <td>4</td> <td>22</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>2</td> <td>1</td> <td>1</td> </tr> </tbody></table>",
+    "multiclass_prerequisite": "You must have a Charisma score of 13 or higher in order to multiclass in or out of this class.",
+    "hit_die": 8,
     "subclasses": [
       {
         "slug": "college-of-creation",
@@ -125,11 +141,11 @@
         "name": "College of Whispers"
       }
     ],
-    "hit_die": 8,
-    "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
-    }
+    "armor_proficiency": "Light armor",
+    "weapon_proficiency": "Simple weapons, hand crossbows, longswords, rapiers, shortswords",
+    "tool_proficiency": "Three musical instruments of your choice",
+    "saving_throw_proficiency": "Dexterity, Charisma",
+    "skill_proficiency": "Choose any three"
   },
   {
     "slug": "cleric",
@@ -138,7 +154,9 @@
       "slug": "class",
       "name": "Class"
     },
-    "desc": "",
+    "desc": "<table class='compact_table'> <tbody><tr> <th colspan=\"4\">The Cleric</th> <th colspan=\"9\">Spell Slots per Spell Level</th> </tr> <tr> <th>Lv.</th> <th>P.B.</th> <th>Features</th> <th>Cantrips Known</th> <th>1st</th> <th>2nd</th> <th>3rd</th> <th>4th</th> <th>5th</th> <th>6th</th> <th>7th</th> <th>8th</th> <th>9th</th> </tr> <tr> <td>1st</td> <td>+2</td> <td>Spellcasting, Divine Domain</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>2nd</td> <td>+2</td> <td>Channel Divinity (x1), Divine Domain feature, <em>Harness Divine Power (Optional)</em></td> <td>3</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>3rd</td> <td>+2</td> <td></td> <td>3</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>4th</td> <td>+2</td> <td>Ability Score Improvement, <em>Cantrip Versatility (Optional)</em></td> <td>4</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>5th</td> <td>+3</td> <td>Destroy Undead (CR 1/2)</td> <td>4</td> <td>4</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>6th</td> <td>+3</td> <td>Channel Divinity (x2), Divine Domain feature</td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>7th</td> <td>+3</td> <td></td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>8th</td> <td>+3</td> <td>Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature, <em>Cantrip Versatility (Optional)</em></td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>9th</td> <td>+4</td> <td></td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>10th</td> <td>+4</td> <td>Divine Intervention</td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>11th</td> <td>+4</td> <td>Destroy Undead (CR 2)</td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>12th</td> <td>+4</td> <td>Ability Score Improvement, <em>Cantrip Versatility (Optional)</em></td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>13th</td> <td>+5</td> <td></td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>-</td> <td>-</td> </tr> <tr> <td>14th</td> <td>+5</td> <td>Destroy Undead (CR 3)</td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>-</td> <td>-</td> </tr> <tr> <td>15th</td> <td>+5</td> <td></td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>-</td> </tr> <tr> <td>16th</td> <td>+5</td> <td>Ability Score Improvement, <em>Cantrip Versatility (Optional)</em></td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>-</td> </tr> <tr> <td>17th</td> <td>+6</td> <td>Destroy Undead (CR 4), Divine Domain feature</td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>18th</td> <td>+6</td> <td>Channel Divinity (x3)</td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>3</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>19th</td> <td>+6</td> <td>Ability Score Improvement, <em>Cantrip Versatility (Optional)</em></td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>20th</td> <td>+6</td> <td>Divine Intervention improvement</td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>2</td> <td>1</td> <td>1</td> </tr> </tbody></table>",
+    "multiclass_prerequisite": "You must have a Wisdom score of 13 or higher in order to multiclass in or out of this class.",
+    "hit_die": 8,
     "subclasses": [
       {
         "slug": "arcana-domain",
@@ -217,7 +235,12 @@
         "name": "Fate Domain"
       }
     ],
-    "hit_die": 8,
+    "armor_proficiency": "Light armor, medium armor, shields",
+    "weapon_proficiency": "All simple weapons",
+    "tool_proficiency": "None",
+    "saving_throw_proficiency": "Wisdom, Charisma",
+    "skill_proficiency": "Choose two from History, Insight, Medicine, Persuasion, and Religion",
+    "equipment": "<p>You start with the following equipment, in addition to the equipment granted by your background:</p><ul> <li>(a) a mace or (b) a warhammer (if proficient)</li> <li>(a) scale mail, (b) leather armor, or (c) chain mail (if proficient)</li> <li>(a) a light crossbow and 20 bolts or (b) any simple weapon</li> <li>(a) a priest's pack or (b) an explorer's pack</li> <li>A shield and a holy symbol</li> </ul>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -230,7 +253,9 @@
       "slug": "class",
       "name": "Class"
     },
-    "desc": "",
+    "desc": "<table class='compact_table'> <tbody><tr> <th colspan=\"4\">The Druid</th> <th colspan=\"10\">Spell Slots per Spell Level</th> </tr> <tr> <th>Lv.</th> <th>P.B.</th> <th>Features</th> <th>Cantrips Known</th> <th>1st</th> <th>2nd</th> <th>3rd</th> <th>4th</th> <th>5th</th> <th>6th</th> <th>7th</th> <th>8th</th> <th>9th</th> </tr> <tr> <td>1st</td> <td>+2</td> <td>Druidic, Spellcasting</td> <td>2</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>2nd</td> <td>+2</td> <td>Wild Shape, Druid Circle, <em>Wild Companion (Optional)</em></td> <td>2</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>3rd</td> <td>+2</td> <td></td> <td>2</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>4th</td> <td>+2</td> <td>Wild Shape improvement, Ability Score Improvement, <em>Cantrip Versatility (Optional)</em></td> <td>3</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>5th</td> <td>+3</td> <td></td> <td>3</td> <td>4</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>6th</td> <td>+3</td> <td>Druid Circle feature</td> <td>3</td> <td>4</td> <td>3</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>7th</td> <td>+3</td> <td></td> <td>3</td> <td>4</td> <td>3</td> <td>3</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>8th</td> <td>+3</td> <td>Wild Shape improvement, Ability Score Improvement, <em>Cantrip Versatility (Optional)</em></td> <td>3</td> <td>4</td> <td>3</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>9th</td> <td>+4</td> <td></td> <td>3</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>10th</td> <td>+4</td> <td>Druid Circle feature</td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>11th</td> <td>+4</td> <td></td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>12th</td> <td>+4</td> <td>Ability Score Improvement, <em>Cantrip Versatility (Optional)</em></td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>13th</td> <td>+5</td> <td></td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>-</td> <td>-</td> </tr> <tr> <td>14th</td> <td>+5</td> <td>Druid Circle feature</td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>-</td> <td>-</td> </tr> <tr> <td>15th</td> <td>+5</td> <td></td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>-</td> </tr> <tr> <td>16th</td> <td>+5</td> <td>Ability Score Improvement, <em>Cantrip Versatility (Optional)</em></td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>-</td> </tr> <tr> <td>17th</td> <td>+6</td> <td></td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>18th</td> <td>+6</td> <td>Timeless Body, Beast Spells</td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>3</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>19th</td> <td>+6</td> <td>Ability Score Improvement, <em>Cantrip Versatility (Optional)</em></td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>20th</td> <td>+6</td> <td>Archdruid</td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>2</td> <td>1</td> <td>1</td> </tr> </tbody></table>",
+    "multiclass_prerequisite": "You must have a Wisdom score of 13 or higher in order to multiclass in or out of this class.",
+    "hit_die": 8,
     "subclasses": [
       {
         "slug": "circle-of-dreams",
@@ -265,20 +290,27 @@
         "name": "Circle of the Primeval"
       }
     ],
-    "hit_die": 8,
+    "armor_proficiency": "Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)",
+    "weapon_proficiency": "Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears",
+    "tool_proficiency": "Herbalism kit",
+    "saving_throw_proficiency": "Intelligence, Wisdom",
+    "skill_proficiency": "Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival",
+    "equipment": "<p>You start with the following equipment, in addition to the equipment granted by your background:</p><ul> <li>(a) a wooden shield or (b) any simple weapon</li> <li>(a) a scimitar or (b) any simple melee weapon</li> <li>Leather armor, an explorer's pack, and a druidic focus</li></ul>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
     }
   },
   {
-    "slug": "Fighter",
+    "slug": "fighter",
     "name": "Fighter",
     "type": {
       "slug": "class",
       "name": "Class"
     },
-    "desc": "",
+    "desc": "<table class='compact_table'> <tbody><tr> <th colspan=\"5\">The Fighter</th> </tr> <tr> <th>Lv.</th> <th>P.B.</th> <th>Features</th> </tr> <tr> <td>1st</td> <td>+2</td> <td>Fighting Style, Second Wind</td> </tr> <tr> <td>2nd</td> <td>+2</td> <td>Action Surge (x1)</td> </tr> <tr> <td>3rd</td> <td>+2</td> <td>Martial Archetype</td> </tr> <tr> <td>4th</td> <td>+2</td> <td>Ability Score Improvement, <em>Martial Versatility (Optional)</em></td> </tr> <tr> <td>5th</td> <td>+3</td> <td>Extra Attack (x1)</td> </tr> <tr> <td>6th</td> <td>+3</td> <td>Ability Score Improvement, <em>Martial Versatility (Optional)</em></td> </tr> <tr> <td>7th</td> <td>+3</td> <td>Martial Archetype feature</td> </tr> <tr> <td>8th</td> <td>+3</td> <td>Ability Score Improvement, <em>Martial Versatility (Optional)</em></td> </tr> <tr> <td>9th</td> <td>+4</td> <td>Indomitable (x1)</td> </tr> <tr> <td>10th</td> <td>+4</td> <td>Martial Archetype feature</td> </tr> <tr> <td>11th</td> <td>+4</td> <td>Extra Attack (x2)</td> </tr> <tr> <td>12th</td> <td>+4</td> <td>Ability Score Improvement, <em>Martial Versatility (Optional)</em></td> </tr> <tr> <td>13th</td> <td>+5</td> <td>Indomitable (x2)</td> </tr> <tr> <td>14th</td> <td>+5</td> <td>Ability Score Improvement, <em>Martial Versatility (Optional)</em></td> </tr> <tr> <td>15th</td> <td>+5</td> <td>Martial Archetype feature</td> </tr> <tr> <td>16th</td> <td>+5</td> <td>Ability Score Improvement, <em>Martial Versatility (Optional)</em></td> </tr> <tr> <td>17th</td> <td>+6</td> <td>Action Surge (x2), Indomitable (x3)</td> </tr> <tr> <td>18th</td> <td>+6</td> <td>Martial Archetype feature</td> </tr> <tr> <td>19th</td> <td>+6</td> <td>Ability Score Improvement, <em>Martial Versatility (Optional)</em></td> </tr> <tr> <td>20th</td> <td>+6</td> <td>Extra Attack (x3)</td> </tr> </tbody></table>",
+    "multiclass_prerequisite": "You must have a Dexterity or Strength score of 13 or higher in order to multiclass in or out of this class.",
+    "hit_die": 10,
     "subclasses": [
       {
         "slug": "arcane-archer",
@@ -325,7 +357,12 @@
         "name": "Battle Maneuvers"
       }
     ],
-    "hit_die": 10,
+    "armor_proficiency": "All armor, shields",
+    "weapon_proficiency": "Simple weapons, martial weapons",
+    "tool_proficiency": "None",
+    "saving_throw_proficiency": "Strength, Constitution",
+    "skill_proficiency": "Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival",
+    "equipment": "<ul> <li>(a) chain mail or (b) leather, longbow, and 20 arrows</li> <li>(a) a martial weapon and a shield or (b) two martial weapons</li> <li>(a) a light crossbow and 20 bolts or (b) two handaxes</li> <li>(a) a dungeoneer's pack or (b) an explorer's pack</li> </ul>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -338,7 +375,9 @@
       "slug": "class",
       "name": "Class"
     },
-    "desc": "",
+    "desc": "<table class='compact_table'><tbody><tr> <th colspan=\"6\">The Monk</th> </tr> <tr> <th>Lv.</th> <th>P.B.</th> <th>Martial Arts</th> <th>Ki Points</th> <th>Unarmored Movement</th> <th>Features</th> </tr> <tr> <td>1st</td> <td>+2</td> <td>1d4</td> <td>–</td> <td>–&nbsp;</td> <td>Unarmored Defense, Martial Arts</td> </tr> <tr> <td>2nd</td> <td>+2</td> <td>1d4</td> <td>2</td> <td>+10 ft.</td> <td>Ki, Unarmored Movement, <em>Dedicated Weapon (Optional)</em></td> </tr> <tr> <td>3rd</td> <td>+2</td> <td>1d4</td> <td>3</td> <td>+10 ft.</td> <td>Monastic Tradition, Deflect Missiles, <em>Ki-Fueled Attack (Optional)</em></td> </tr> <tr> <td>4th</td> <td>+2</td> <td>1d4</td> <td>4</td> <td>+10 ft.</td> <td>Ability Score Improvement, Slow Fall, <em>Quickened Healing (Optional)</em></td> </tr> <tr> <td>5th</td> <td>+3</td> <td>1d6</td> <td>5</td> <td>+10 ft.</td> <td>Extra Attack, Stunning Strike, <em>Focused Aim (Optional)</em></td> </tr> <tr> <td>6th</td> <td>+3</td> <td>1d6</td> <td>6</td> <td>+15 ft.</td> <td>Ki-Empowered Strikes, Monastic Tradition feature</td> </tr> <tr> <td>7th</td> <td>+3</td> <td>1d6</td> <td>7</td> <td>+15 ft.</td> <td>Evasion, Stillness of Mind</td> </tr> <tr> <td>8th</td> <td>+3</td> <td>1d6</td> <td>8</td> <td>+15 ft.</td> <td>Ability Score Improvement</td> </tr> <tr> <td>9th</td> <td>+4</td> <td>1d6</td> <td>9</td> <td>+15 ft.</td> <td>Unarmored Movement improvement</td> </tr> <tr> <td>10th</td> <td>+4</td> <td>1d6</td> <td>10</td> <td>+20 ft.</td> <td>Purity of Body</td> </tr> <tr> <td>11th</td> <td>+4</td> <td>1d8</td> <td>11</td> <td>+20 ft.</td> <td>Monastic Tradition feature</td> </tr> <tr> <td>12th</td> <td>+4</td> <td>1d8</td> <td>12</td> <td>+20 ft.</td> <td>Ability Score Improvement</td> </tr> <tr> <td>13th</td> <td>+5</td> <td>1d8</td> <td>13</td> <td>+20 ft.</td> <td>Tongue of the Sun and Moon</td> </tr> <tr> <td>14th</td> <td>+5</td> <td>1d8</td> <td>14</td> <td>+25 ft.</td> <td>Diamond Soul</td> </tr> <tr> <td>15th</td> <td>+5</td> <td>1d8</td> <td>15</td> <td>+25 ft.</td> <td>Timeless Body</td> </tr> <tr> <td>16th</td> <td>+5</td> <td>1d8</td> <td>16</td> <td>+25 ft.</td> <td>Ability Score Improvement</td> </tr> <tr> <td>17th</td> <td>+6</td> <td>1d10</td> <td>17</td> <td>+25 ft.</td> <td>Monastic Tradition feature</td> </tr> <tr> <td>18th</td> <td>+6</td> <td>1d10</td> <td>18</td> <td>+30 ft.</td> <td>Empty Body</td> </tr> <tr> <td>19th</td> <td>+6</td> <td>1d10</td> <td>19</td> <td>+30 ft.</td> <td>Ability Score Improvement</td> </tr> <tr> <td>20th</td> <td>+6</td> <td>1d10</td> <td>20</td> <td>+30 ft.</td> <td>Perfect Self</td> </tr> </tbody></table>",
+    "multiclass_prerequisite": "You must have a Dexterity score and a Wisdom score of 13 or higher in order to multiclass in or out of this class.",
+    "hit_die": 8,
     "subclasses": [
       {
         "slug": "way-of-mercy",
@@ -381,7 +420,12 @@
         "name": "Way of the Sun Soul"
       }
     ],
-    "hit_die": 8,
+    "armor_proficiency": "None",
+    "weapon_proficiency": "Simple weapons, shortswords",
+    "tool_proficiency": "Choose one type of artisan's tools or one musical instrument",
+    "saving_throw_proficiency": "Strength, Dexterity",
+    "skill_proficiency": "Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth",
+    "equipment": "<p>You start with the following equipment, in addition to the equipment granted by your background:</p><ul> <li>(a) a shortsword or (b) any simple weapon</li> <li>(a) a dungeoneer's pack or (b) an explorer's pack</li> <li>10 darts</li> </ul>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -394,7 +438,9 @@
       "slug": "class",
       "name": "Class"
     },
-    "desc": "",
+    "desc": "<table class='compact_table'> <tbody><tr> <th colspan=\"3\">The Paladin</th> <th colspan=\"9\">Spell Slots per Spell Level</th> </tr> <tr> <th>Lv.</th> <th>P.B.</th> <th>Features</th> <th>1st</th> <th>2nd</th> <th>3rd</th> <th>4th</th> <th>5th</th> </tr> <tr> <td>1st</td> <td>+2</td> <td>Divine Sense, Lay on Hands</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>2nd</td> <td>+2</td> <td>Fighting Style, Spellcasting, Divine Smite</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>3rd</td> <td>+2</td> <td>Divine Health, Sacred Oath, <em>Harness Divine Power (Optional)</em></td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>4th</td> <td>+2</td> <td>Ability Score Improvement, <em>Martial Versatility (Optional)</em></td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>5th</td> <td>+3</td> <td>Extra Attack</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>6th</td> <td>+3</td> <td>Aura of Protection</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>7th</td> <td>+3</td> <td>Sacred Oath feature</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>8th</td> <td>+3</td> <td>Ability Score Improvement, <em>Martial Versatility (Optional)</em></td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>9th</td> <td>+4</td> <td></td> <td>4</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> </tr> <tr> <td>10th</td> <td>+4</td> <td>Aura of Courage</td> <td>4</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> </tr> <tr> <td>11th</td> <td>+4</td> <td>Improved Divine Smite</td> <td>4</td> <td>3</td> <td>3</td> <td>-</td> <td>-</td> </tr> <tr> <td>12th</td> <td>+4</td> <td>Ability Score Improvement, <em>Martial Versatility (Optional)</em></td> <td>4</td> <td>3</td> <td>3</td> <td>-</td> <td>-</td> </tr> <tr> <td>13th</td> <td>+5</td> <td></td> <td>4</td> <td>3</td> <td>3</td> <td>1</td> <td>-</td> </tr> <tr> <td>14th</td> <td>+5</td> <td>Cleansing Touch</td> <td>4</td> <td>3</td> <td>3</td> <td>1</td> <td>-</td> </tr> <tr> <td>15th</td> <td>+5</td> <td>Sacred Oath feature</td> <td>4</td> <td>3</td> <td>3</td> <td>2</td> <td>-</td> </tr> <tr> <td>16th</td> <td>+5</td> <td>Ability Score Improvement, <em>Martial Versatility (Optional)</em></td> <td>4</td> <td>3</td> <td>3</td> <td>2</td> <td>-</td> </tr> <tr> <td>17th</td> <td>+6</td> <td></td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>1</td> </tr> <tr> <td>18th</td> <td>+6</td> <td>Aura improvements</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>1</td> </tr> <tr> <td>19th</td> <td>+6</td> <td>Ability Score Improvement, <em>Martial Versatility (Optional)</em></td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> </tr> <tr> <td>20th</td> <td>+6</td> <td>Sacred Oath feature</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> </tr> </tbody></table>",
+    "multiclass_prerequisite": "You must have a Charisma score and a Strength score of 13 or higher in order to multiclass in or out of this class.",
+    "hit_die": 10,
     "subclasses": [
       {
         "slug": "oath-of-the-ancients",
@@ -433,7 +479,12 @@
         "name": "Oathbreaker"
       }
     ],
-    "hit_die": 10,
+    "armor_proficiency": "All armor, shields",
+    "weapon_proficiency": "Simple weapons, martial weapons",
+    "tool_proficiency": "None",
+    "saving_throw_proficiency": "Wisdom, Charisma",
+    "skill_proficiency": "Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion",
+    "equipment": "<p>You start with the following equipment, in addition to the equipment granted by your background:</p><ul> <li>(a) a martial weapon and a shield or (b) two martial weapons</li> <li>(a) five javelins or (b) any simple melee weapon</li> <li>(a) a priest's pack or (b) an explorer's pack</li> <li>Chain mail and a holy symbol</li> </ul>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -446,7 +497,9 @@
       "slug": "class",
       "name": "Class"
     },
-    "desc": "",
+    "desc": "<table class='compact_table'><tbody><tr> <th colspan=\"4\">The Ranger</th> <th colspan=\"9\">Spell Slots per Spell Level</th> </tr> <tr> <th>Lv.</th> <th>P.B.</th> <th>Features</th> <th>Spells Known</th> <th>1st</th> <th>2nd</th> <th>3rd</th> <th>4th</th> <th>5th</th> </tr> <tr> <td>1st</td> <td>+2</td> <td>Favored Enemy, Natural Explorer, <em>Deft Explorer (Optional)</em>, <em>Favored Foe (Optional)</em></td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>2nd</td> <td>+2</td> <td>Fighting Style, Spellcasting, <em>Spellcasting Focus (Optional)</em></td> <td>2</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>3rd</td> <td>+2</td> <td>Primeval Awareness, Ranger Conclave, <em>Primal Awareness (Optional)</em></td> <td>3</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>4th</td> <td>+2</td> <td>Ability Score Improvement, <em>Martial Versatility (Optional)</em></td> <td>3</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>5th</td> <td>+3</td> <td>Extra Attack</td> <td>4</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>6th</td> <td>+3</td> <td>Favored Enemy Improvement, Natural Explorer Improvement, <em>Deft Explorer Improvement (Optional)</em></td> <td>4</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>7th</td> <td>+3</td> <td>Ranger Conclave feature</td> <td>5</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>8th</td> <td>+3</td> <td>Ability Score Improvement, Land's Stride, <em>Martial Versatility (Optional)</em></td> <td>5</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>9th</td> <td>+4</td> <td></td> <td>6</td> <td>4</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> </tr> <tr> <td>10th</td> <td>+4</td> <td>Natural Explorer Improvement, Hide in Plain Sight, <em>Deft Explorer Feature (Optional)</em>, <em>Nature's Veil (Optional)</em></td> <td>6</td> <td>4</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> </tr> <tr> <td>11th</td> <td>+4</td> <td>Ranger Conclave feature</td> <td>7</td> <td>4</td> <td>3</td> <td>3</td> <td>-</td> <td>-</td> </tr> <tr> <td>12th</td> <td>+4</td> <td>Ability Score Improvement, <em>Martial Versatility (Optional)</em></td> <td>7</td> <td>4</td> <td>3</td> <td>3</td> <td>-</td> <td>-</td> </tr> <tr> <td>13th</td> <td>+5</td> <td></td> <td>8</td> <td>4</td> <td>3</td> <td>3</td> <td>1</td> <td>-</td> </tr> <tr> <td>14th</td> <td>+5</td> <td>Favored Enemy Improvement, Vanish</td> <td>8</td> <td>4</td> <td>3</td> <td>3</td> <td>1</td> <td>-</td> </tr> <tr> <td>15th</td> <td>+5</td> <td>Ranger Conclave feature</td> <td>9</td> <td>4</td> <td>3</td> <td>3</td> <td>2</td> <td>-</td> </tr> <tr> <td>16th</td> <td>+5</td> <td>Ability Score Improvement, <em>Martial Versatility (Optional)</em></td> <td>9</td> <td>4</td> <td>3</td> <td>3</td> <td>2</td> <td>-</td> </tr> <tr> <td>17th</td> <td>+6</td> <td></td> <td>10</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>1</td> </tr> <tr> <td>18th</td> <td>+6</td> <td>Feral Senses</td> <td>10</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>1</td> </tr> <tr> <td>19th</td> <td>+6</td> <td>Ability Score Improvement, <em>Martial Versatility (Optional)</em></td> <td>11</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> </tr> <tr> <td>20th</td> <td>+6</td> <td>Foe Slayer</td> <td>11</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> </tr> </tbody></table>",
+    "multiclass_prerequisite": "You must have a Dexterity score and a Wisdom score of 13 or higher in order to multiclass in or out of this class.",
+    "hit_die": 10,
     "subclasses": [
       {
         "slug": "beast-master-conclave",
@@ -481,7 +534,12 @@
         "name": "Swarmkeeper"
       }
     ],
-    "hit_die": 10,
+    "armor_proficiency": "Light armor, medium armor, shields",
+    "weapon_proficiency": "Simple weapons, martial weapons",
+    "tool_proficiency": "None",
+    "saving_throw_proficiency": "Strength, Dexterity",
+    "skill_proficiency": "Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival",
+    "equipment": "<p>You start with the following equipment, in addition to the equipment granted by your background:</p><ul> <li>(a) scale mail or (b) leather armor</li> <li>(a) two shortswords or (b) two simple melee weapons</li> <li>(a) a dungeoneer's pack or (b) an explorer's pack</li> <li>A longbow and a quiver of 20 arrows</li> </ul>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -494,7 +552,9 @@
       "slug": "class",
       "name": "Class"
     },
-    "desc": "",
+    "desc": "<table class='compact_table'><tbody><tr> <th colspan=\"6\">The Rogue</th> </tr> <tr> <th>Lv.</th> <th>P.B.</th> <th>Sneak Attack</th> <th>Features</th> </tr> <tr> <td>1st</td> <td>+2</td> <td>1d6</td> <td>Expertise, Sneak Attack, Thieves' Cant</td> </tr> <tr> <td>2nd</td> <td>+2</td> <td>1d6</td> <td>Cunning Action</td> </tr> <tr> <td>3rd</td> <td>+2</td> <td>2d6</td> <td>Roguish Archetype, <em>Steady Aim (Optional)</em></td> </tr> <tr> <td>4th</td> <td>+2</td> <td>2d6</td> <td>Ability Score Improvement</td> </tr> <tr> <td>5th</td> <td>+3</td> <td>3d6</td> <td>Uncanny Dodge</td> </tr> <tr> <td>6th</td> <td>+3</td> <td>3d6</td> <td>Expertise</td> </tr> <tr> <td>7th</td> <td>+3</td> <td>4d6</td> <td>Evasion</td> </tr> <tr> <td>8th</td> <td>+3</td> <td>4d6</td> <td>Ability Score Improvement</td> </tr> <tr> <td>9th</td> <td>+4</td> <td>5d6</td> <td>Roguish Archetype feature</td> </tr> <tr> <td>10th</td> <td>+4</td> <td>5d6</td> <td>Ability Score Improvement</td> </tr> <tr> <td>11th</td> <td>+4</td> <td>6d6</td> <td>Reliable Talent</td> </tr> <tr> <td>12th</td> <td>+4</td> <td>6d6</td> <td>Ability Score Improvement</td> </tr> <tr> <td>13th</td> <td>+5</td> <td>7d6</td> <td>Roguish Archetype feature</td> </tr> <tr> <td>14th</td> <td>+5</td> <td>7d6</td> <td>Blindsense</td> </tr> <tr> <td>15th</td> <td>+5</td> <td>8d6</td> <td>Slippery Mind</td> </tr> <tr> <td>16th</td> <td>+5</td> <td>8d6</td> <td>Ability Score Improvement</td> </tr> <tr> <td>17th</td> <td>+6</td> <td>9d6</td> <td>Roguish Archetype feature</td> </tr> <tr> <td>18th</td> <td>+6</td> <td>9d6</td> <td>Elusive</td> </tr> <tr> <td>19th</td> <td>+6</td> <td>10d6</td> <td>Ability Score Improvement</td> </tr> <tr> <td>20th</td> <td>+6</td> <td>10d6</td> <td>Stroke of Luck</td> </tr> </tbody></table>",
+    "multiclass_prerequisite": "You must have a Dexterity score of 13 or higher in order to multiclass in or out of this class.",
+    "hit_die": 8,
     "subclasses": [
       {
         "slug": "arcane-trickster",
@@ -533,7 +593,12 @@
         "name": "Thief"
       }
     ],
-    "hit_die": 8,
+    "armor_proficiency": "Light armor",
+    "weapon_proficiency": "Simple weapons, hand crossbows, longswords, rapiers, shortswords",
+    "tool_proficiency": "Thieves' tools",
+    "saving_throw_proficiency": "Dexterity, Intelligence",
+    "skill_proficiency": "Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth",
+    "equipment": "<p>You start with the following equipment, in addition to the equipment granted by your background:</p><ul> <li>(a) a rapier or (b) a shortsword</li> <li>(a) a shortbow and quiver of 20 arrows or (b) a shortsword</li> <li>(a) a burglar's pack, (b) dungeoneer's pack, or (c) an explorer's pack</li> <li>Leather armor, two daggers, and thieves' tools</li> </ul>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -546,7 +611,9 @@
       "slug": "class",
       "name": "Class"
     },
-    "desc": "",
+    "desc": "<table class='compact_table'> <tbody><tr> <th colspan=\"6\">The Sorcerer</th> <th colspan=\"9\">Spell Slots per Spell Level</th> </tr> <tr> <th>Lv.</th> <th>P.B.</th> <th>S.P.</th> <th>Features</th> <th>Cantrips Known</th> <th>Spells Known</th> <th>1st</th> <th>2nd</th> <th>3rd</th> <th>4th</th> <th>5th</th> <th>6th</th> <th>7th</th> <th>8th</th> <th>9th</th> </tr> <tr> <td>1st</td> <td>+2</td> <td>-</td> <td>Spellcasting, Sorcerous Origin</td> <td>4</td> <td>2</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>2nd</td> <td>+2</td> <td>2</td> <td>Font of Magic</td> <td>4</td> <td>3</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>3rd</td> <td>+2</td> <td>3</td> <td>Metamagic</td> <td>4</td> <td>4</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>4th</td> <td>+2</td> <td>4</td> <td>Ability Score Improvement, <em>Sorcerous Versatility (Optional)</em></td> <td>5</td> <td>5</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>5th</td> <td>+3</td> <td>5</td> <td><em>Magical Guidance (Optional)</em></td> <td>5</td> <td>6</td> <td>4</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>6th</td> <td>+3</td> <td>6</td> <td>Sorcerous Origin feature</td> <td>5</td> <td>7</td> <td>4</td> <td>3</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>7th</td> <td>+3</td> <td>7</td> <td></td> <td>5</td> <td>8</td> <td>4</td> <td>3</td> <td>3</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>8th</td> <td>+3</td> <td>8</td> <td>Ability Score Improvement, <em>Sorcerous Versatility (Optional)</em></td> <td>5</td> <td>9</td> <td>4</td> <td>3</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>9th</td> <td>+4</td> <td>9</td> <td></td> <td>5</td> <td>10</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>10th</td> <td>+4</td> <td>10</td> <td>Metamagic</td> <td>6</td> <td>11</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>11th</td> <td>+4</td> <td>11</td> <td></td> <td>6</td> <td>12</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>12th</td> <td>+4</td> <td>12</td> <td>Ability Score Improvement, <em>Sorcerous Versatility (Optional)</em></td> <td>6</td> <td>12</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>13th</td> <td>+5</td> <td>13</td> <td></td> <td>6</td> <td>13</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>-</td> <td>-</td> </tr> <tr> <td>14th</td> <td>+5</td> <td>14</td> <td>Sorcerous Origin feature</td> <td>6</td> <td>13</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>-</td> <td>-</td> </tr> <tr> <td>15th</td> <td>+5</td> <td>15</td> <td></td> <td>6</td> <td>14</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>-</td> </tr> <tr> <td>16th</td> <td>+5</td> <td>16</td> <td>Ability Score Improvement, <em>Sorcerous Versatility (Optional)</em></td> <td>6</td> <td>14</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>-</td> </tr> <tr> <td>17th</td> <td>+6</td> <td>17</td> <td>Metamagic</td> <td>6</td> <td>15</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>18th</td> <td>+6</td> <td>18</td> <td>Sorcerous Origin feature</td> <td>6</td> <td>15</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>3</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>19th</td> <td>+6</td> <td>19</td> <td>Ability Score Improvement, <em>Sorcerous Versatility (Optional)</em></td> <td>6</td> <td>15</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>20th</td> <td>+6</td> <td>20</td> <td>Sorcerous Restoration</td> <td>6</td> <td>15</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>2</td> <td>1</td> <td>1</td> </tr> </tbody></table>",
+    "multiclass_prerequisite": "You must have a Charisma score of 13 or higher in order to multiclass in or out of this class.",
+    "hit_die": 6,
     "subclasses": [
       {
         "slug": "aberrant-mind",
@@ -585,7 +652,12 @@
         "name": "Pyromancy"
       }
     ],
-    "hit_die": 6,
+    "armor_proficiency": "None",
+    "weapon_proficiency": "Daggers, darts, slings, quarterstaffs, light crossbows",
+    "tool_proficiency": "None",
+    "saving_throw_proficiency": "Constitution, Charisma",
+    "skill_proficiency": "Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion",
+    "equipment": "<p>You start with the following equipment, in addition to the equipment granted by your background:</p><ul> <li>(a) a light crossbow and 20 bolts or (b) any simple weapon</li> <li>(a) a component pouch or (b) an arcane focus</li> <li>(a) a dungeoneer's pack or (b) an explorer's pack</li> <li>Two daggers</li> </ul>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -598,7 +670,9 @@
       "slug": "class",
       "name": "Class"
     },
-    "desc": "",
+    "desc": "<table class='compact_table'> <tbody><tr> <th colspan=\"8\">The Warlock</th> </tr> <tr> <th>Lv.</th> <th>P.B.</th> <th>Features</th> <th>Cantrips Known</th> <th>Spells Known</th> <th>Spell Slots</th> <th>Slot Level</th> <th>Invocations Known</th> </tr> <tr> <td>1st</td> <td>+2</td> <td>Otherworldly Patron, Pact Magic</td> <td>2</td> <td>2</td> <td>1</td> <td>1st</td> <td>-</td> </tr> <tr> <td>2nd</td> <td>+2</td> <td>Eldritch Invocations</td> <td>2</td> <td>3</td> <td>2</td> <td>1st</td> <td>2</td> </tr> <tr> <td>3rd</td> <td>+2</td> <td>Pact Boon</td> <td>2</td> <td>4</td> <td>2</td> <td>2nd</td> <td>2</td> </tr> <tr> <td>4th</td> <td>+2</td> <td>Ability Score Improvement, <em>Eldritch Versatility (Optional)</em></td> <td>3</td> <td>5</td> <td>2</td> <td>2nd</td> <td>2</td> </tr> <tr> <td>5th</td> <td>+3</td> <td></td> <td>3</td> <td>6</td> <td>2</td> <td>3rd</td> <td>3</td> </tr> <tr> <td>6th</td> <td>+3</td> <td>Otherworldly Patron feature</td> <td>3</td> <td>7</td> <td>2</td> <td>3rd</td> <td>3</td> </tr> <tr> <td>7th</td> <td>+3</td> <td></td> <td>3</td> <td>8</td> <td>2</td> <td>4th</td> <td>4</td> </tr> <tr> <td>8th</td> <td>+3</td> <td>Ability Score Improvement, <em>Eldritch Versatility (Optional)</em></td> <td>3</td> <td>9</td> <td>2</td> <td>4th</td> <td>4</td> </tr> <tr> <td>9th</td> <td>+4</td> <td></td> <td>3</td> <td>10</td> <td>2</td> <td>5th</td> <td>5</td> </tr> <tr> <td>10th</td> <td>+4</td> <td>Otherworldly Patron feature</td> <td>4</td> <td>10</td> <td>2</td> <td>5th</td> <td>5</td> </tr> <tr> <td>11th</td> <td>+4</td> <td>Mystic Arcanum (6th level)</td> <td>4</td> <td>11</td> <td>3</td> <td>5th</td> <td>5</td> </tr> <tr> <td>12th</td> <td>+4</td> <td>Ability Score Improvement, <em>Eldritch Versatility (Optional)</em></td> <td>4</td> <td>11</td> <td>3</td> <td>5th</td> <td>6</td> </tr> <tr> <td>13th</td> <td>+5</td> <td>Mystic Arcanum (7th level)</td> <td>4</td> <td>12</td> <td>3</td> <td>5th</td> <td>6</td> </tr> <tr> <td>14th</td> <td>+5</td> <td>Otherworldly Patron feature</td> <td>4</td> <td>12</td> <td>3</td> <td>5th</td> <td>6</td> </tr> <tr> <td>15th</td> <td>+5</td> <td>Mystic Arcanum (8th level)</td> <td>4</td> <td>13</td> <td>3</td> <td>5th</td> <td>7</td> </tr> <tr> <td>16th</td> <td>+5</td> <td>Ability Score Improvement, <em>Eldritch Versatility (Optional)</em></td> <td>4</td> <td>13</td> <td>3</td> <td>5th</td> <td>7</td> </tr> <tr> <td>17th</td> <td>+6</td> <td>Mystic Arcanum (9th level)</td> <td>4</td> <td>14</td> <td>4</td> <td>5th</td> <td>7</td> </tr> <tr> <td>18th</td> <td>+6</td> <td></td> <td>4</td> <td>14</td> <td>4</td> <td>5th</td> <td>8</td> </tr> <tr> <td>19th</td> <td>+6</td> <td>Ability Score Improvement, <em>Eldritch Versatility (Optional)</em></td> <td>4</td> <td>15</td> <td>4</td> <td>5th</td> <td>8</td> </tr> <tr> <td>20th</td> <td>+6</td> <td>Eldritch Master</td> <td>4</td> <td>15</td> <td>4</td> <td>5th</td> <td>8</td> </tr> </tbody></table>",
+    "multiclass_prerequisite": "You must have a Charisma score of 13 or higher in order to multiclass in or out of this class.",
+    "hit_die": 8,
     "subclasses": [
       {
         "slug": "archfey",
@@ -637,7 +711,12 @@
         "name": "Undying"
       }
     ],
-    "hit_die": 8,
+    "armor_proficiency": "Light armor",
+    "weapon_proficiency": "Simple weapons",
+    "tool_proficiency": "None",
+    "saving_throw_proficiency": "Wisdom, Charisma",
+    "skill_proficiency": "Choose two from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion",
+    "equipment": "<p>You start with the following equipment, in addition to the equipment granted by your background:</p><ul> <li>(a) a light crossbow and 20 bolts or (b) any simple weapon</li> <li>(a) a component pouch or (b) an arcane focus</li> <li>(a) a scholar's pack or (b) a dungeoneer's pack</li> <li>Leather armor, any simple weapon, and two daggers</li> </ul>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -650,7 +729,9 @@
       "slug": "class",
       "name": "Class"
     },
-    "desc": "",
+    "desc": "<table class='compact_table'> <tbody><tr> <th colspan=\"4\">The Wizard</th> <th colspan=\"9\">Spell Slots per Spell Level</th> </tr> <tr> <th>Lv.</th> <th>P.B.</th> <th>Features</th> <th>Cantrips Known</th> <th>1st</th> <th>2nd</th> <th>3rd</th> <th>4th</th> <th>5th</th> <th>6th</th> <th>7th</th> <th>8th</th> <th>9th</th> </tr> <tr> <td>1st</td> <td>+2</td> <td>Spellcasting, Arcane Recovery</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>2nd</td> <td>+2</td> <td>Arcane Tradition</td> <td>3</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>3rd</td> <td>+2</td> <td><em>Cantrip Formulas (Optional)</em></td> <td>3</td> <td>4</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>4th</td> <td>+2</td> <td>Ability Score Improvement</td> <td>4</td> <td>4</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>5th</td> <td>+3</td> <td></td> <td>4</td> <td>4</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>6th</td> <td>+3</td> <td>Arcane Tradition feature</td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>7th</td> <td>+3</td> <td></td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>8th</td> <td>+3</td> <td>Ability Score Improvement</td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>9th</td> <td>+4</td> <td></td> <td>4</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>10th</td> <td>+4</td> <td>Arcane Tradition feature</td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>-</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>11th</td> <td>+4</td> <td></td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>12th</td> <td>+4</td> <td>Ability Score Improvement</td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>-</td> <td>-</td> <td>-</td> </tr> <tr> <td>13th</td> <td>+5</td> <td></td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>-</td> <td>-</td> </tr> <tr> <td>14th</td> <td>+5</td> <td>Arcane Tradition feature</td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>-</td> <td>-</td> </tr> <tr> <td>15th</td> <td>+5</td> <td></td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>-</td> </tr> <tr> <td>16th</td> <td>+5</td> <td>Ability Score Improvement</td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>-</td> </tr> <tr> <td>17th</td> <td>+6</td> <td></td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>18th</td> <td>+6</td> <td>Spell Mastery</td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>3</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>19th</td> <td>+6</td> <td>Ability Score Improvement</td> <td>5</td> <td>4</td> <td>3</td> <td>3</td> <td>3</td> <td>3</td> <td>2</td> <td>1</td> <td>1</td> <td>1</td> </tr> <tr> <td>20th</td> <td>+6</td> <td>Signature Spells</td> <td>5</td> <td>4</td><td>3</td> <td>3</td> <td>3</td> <td>3</td><td>2</td> <td>2</td> <td>1</td> <td>1</td> </tr> </tbody></table>",
+    "multiclass_prerequisite": "You must have an Intelligence score of 13 or higher in order to multiclass in or out of this class.",
+    "hit_die": 6,
     "subclasses": [
       {
         "slug": "school-of-abjuration",
@@ -705,15 +786,18 @@
         "name": "School of War Magic"
       }
     ],
-    "hit_die": 6,
+    "armor_proficiency": "None",
+    "weapon_proficiency": "Daggers, darts, slings, quarterstaffs, light crossbows",
+    "tool_proficiency": "None",
+    "saving_throw_proficiency": "Intelligence, Wisdom",
+    "skill_proficiency": "Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion",
+    "equipment": "<p>You start with the following equipment, in addition to the equipment granted by your background:</p><ul> <li>(a) a quarterstaff or (b) a dagger</li> <li>(a) a component pouch or (b) an arcane focus</li> <li>(a) a scholar's pack or (b) an explorer's pack</li> <li>A spellbook</li> </ul>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
     }
   }
 ]
-
-
 
 
 

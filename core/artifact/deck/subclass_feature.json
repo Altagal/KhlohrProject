@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "tool-proficiency",
+    "name": "Tool Proficiency",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "desc": "",
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "level": 1,
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    }
+  }
+]
