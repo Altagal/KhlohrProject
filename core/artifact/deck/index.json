@@ -436,7 +436,7 @@
     "type": "spell"
   },
   {
-    "slug": "divination",
+    "slug": "divination-spell",
     "type": "spell"
   },
   {
@@ -1808,7 +1808,7 @@
     "type": "feat"
   },
   {
-    "slug": "orcish-fury",
+    "slug": "prodigy",
     "type": "feat"
   },
   {
@@ -1966,5 +1966,509 @@
   {
     "slug": "wizard",
     "type": "class"
+  },
+  {
+    "slug": "alchemist",
+    "type": "subclass"
+  },
+  {
+    "slug": "battle-smith",
+    "type": "subclass"
+  },
+  {
+    "slug": "artillerist",
+    "type": "subclass"
+  },
+  {
+    "slug": "armorer",
+    "type": "subclass"
+  },
+  {
+    "slug": "path-of-the-zealot",
+    "type": "subclass"
+  },
+  {
+    "slug": "path-of-wild-magic",
+    "type": "subclass"
+  },
+  {
+    "slug": "path-of-the-totem-warrior",
+    "type": "subclass"
+  },
+  {
+    "slug": "path-of-the-storm-herald",
+    "type": "subclass"
+  },
+  {
+    "slug": "path-of-the-giant",
+    "type": "subclass"
+  },
+  {
+    "slug": "path-of-the-berserker",
+    "type": "subclass"
+  },
+  {
+    "slug": "path-of-the-beast",
+    "type": "subclass"
+  },
+  {
+    "slug": "path-of-the-battlerager",
+    "type": "subclass"
+  },
+  {
+    "slug": "path-of-the-ancestral-guardian",
+    "type": "subclass"
+  },
+  {
+    "slug": "college-of-whispers",
+    "type": "subclass"
+  },
+  {
+    "slug": "college-of-valor",
+    "type": "subclass"
+  },
+  {
+    "slug": "college-of-swords",
+    "type": "subclass"
+  },
+  {
+    "slug": "college-of-spirits",
+    "type": "subclass"
+  },
+  {
+    "slug": "college-of-lore",
+    "type": "subclass"
+  },
+  {
+    "slug": "college-of-glamour",
+    "type": "subclass"
+  },
+  {
+    "slug": "college-of-eloquence",
+    "type": "subclass"
+  },
+  {
+    "slug": "college-of-creation",
+    "type": "subclass"
+  },
+  {
+    "slug": "fate-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "zeal-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "strength-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "solidarity-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "ambition-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "war-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "twilight-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "trickery-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "tempest-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "peace-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "order-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "nature-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "light-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "life-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "knowledge-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "grave-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "forge-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "death-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "arcana-domain",
+    "type": "subclass"
+  },
+  {
+    "slug": "circle-of-the-primeval",
+    "type": "subclass"
+  },
+  {
+    "slug": "circle-of-wildfire",
+    "type": "subclass"
+  },
+  {
+    "slug": "circle-of-stars",
+    "type": "subclass"
+  },
+  {
+    "slug": "circle-of-spores",
+    "type": "subclass"
+  },
+  {
+    "slug": "circle-of-the-shepherd",
+    "type": "subclass"
+  },
+  {
+    "slug": "circle-of-the-moon",
+    "type": "subclass"
+  },
+  {
+    "slug": "circle-of-the-land",
+    "type": "subclass"
+  },
+  {
+    "slug": "circle-of-dreams",
+    "type": "subclass"
+  },
+  {
+    "slug": "battle-maneuvers",
+    "type": "subclass"
+  },
+  {
+    "slug": "samurai",
+    "type": "subclass"
+  },
+  {
+    "slug": "rune-knight",
+    "type": "subclass"
+  },
+  {
+    "slug": "psi-warrior",
+    "type": "subclass"
+  },
+  {
+    "slug": "eldritch-knight",
+    "type": "subclass"
+  },
+  {
+    "slug": "echo-knight",
+    "type": "subclass"
+  },
+  {
+    "slug": "champion",
+    "type": "subclass"
+  },
+  {
+    "slug": "cavalier",
+    "type": "subclass"
+  },
+  {
+    "slug": "battle-master",
+    "type": "subclass"
+  },
+  {
+    "slug": "banneret",
+    "type": "subclass"
+  },
+  {
+    "slug": "arcane-archer",
+    "type": "subclass"
+  },
+  {
+    "slug": "way-of-the-sun-soul",
+    "type": "subclass"
+  },
+  {
+    "slug": "way-of-shadow",
+    "type": "subclass"
+  },
+  {
+    "slug": "way-of-the-open-hand",
+    "type": "subclass"
+  },
+  {
+    "slug": "way-of-the-long-death",
+    "type": "subclass"
+  },
+  {
+    "slug": "way-of-the-kensei",
+    "type": "subclass"
+  },
+  {
+    "slug": "way-of-the-four-elements",
+    "type": "subclass"
+  },
+  {
+    "slug": "way-of-the-drunken-master",
+    "type": "subclass"
+  },
+  {
+    "slug": "way-of-the-astral-self",
+    "type": "subclass"
+  },
+  {
+    "slug": "way-of-the-ascendant-dragon",
+    "type": "subclass"
+  },
+  {
+    "slug": "way-of-mercy",
+    "type": "subclass"
+  },
+  {
+    "slug": "oathbreaker",
+    "type": "subclass"
+  },
+  {
+    "slug": "oath-of-the-watchers",
+    "type": "subclass"
+  },
+  {
+    "slug": "oath-of-vengeance",
+    "type": "subclass"
+  },
+  {
+    "slug": "oath-of-redemption",
+    "type": "subclass"
+  },
+  {
+    "slug": "oath-of-glory",
+    "type": "subclass"
+  },
+  {
+    "slug": "oath-of-devotion",
+    "type": "subclass"
+  },
+  {
+    "slug": "oath-of-the-crown",
+    "type": "subclass"
+  },
+  {
+    "slug": "oath-of-conquest",
+    "type": "subclass"
+  },
+  {
+    "slug": "oath-of-the-ancients",
+    "type": "subclass"
+  },
+  {
+    "slug": "swarmkeeper",
+    "type": "subclass"
+  },
+  {
+    "slug": "monster-slayer-conclave",
+    "type": "subclass"
+  },
+  {
+    "slug": "hunter-conclave",
+    "type": "subclass"
+  },
+  {
+    "slug": "horizon-walker-conclave",
+    "type": "subclass"
+  },
+  {
+    "slug": "gloom-stalker-conclave",
+    "type": "subclass"
+  },
+  {
+    "slug": "fey-wanderer",
+    "type": "subclass"
+  },
+  {
+    "slug": "drakewarden",
+    "type": "subclass"
+  },
+  {
+    "slug": "beast-master-conclave",
+    "type": "subclass"
+  },
+  {
+    "slug": "thief",
+    "type": "subclass"
+  },
+  {
+    "slug": "swashbuckler",
+    "type": "subclass"
+  },
+  {
+    "slug": "soulknife",
+    "type": "subclass"
+  },
+  {
+    "slug": "scout",
+    "type": "subclass"
+  },
+  {
+    "slug": "phantom",
+    "type": "subclass"
+  },
+  {
+    "slug": "mastermind",
+    "type": "subclass"
+  },
+  {
+    "slug": "inquisitive",
+    "type": "subclass"
+  },
+  {
+    "slug": "assassin",
+    "type": "subclass"
+  },
+  {
+    "slug": "arcane-trickster",
+    "type": "subclass"
+  },
+  {
+    "slug": "pyromancy",
+    "type": "subclass"
+  },
+  {
+    "slug": "wild-magic",
+    "type": "subclass"
+  },
+  {
+    "slug": "storm-sorcery",
+    "type": "subclass"
+  },
+  {
+    "slug": "shadow-magic",
+    "type": "subclass"
+  },
+  {
+    "slug": "lunar-sorcery",
+    "type": "subclass"
+  },
+  {
+    "slug": "divine-soul",
+    "type": "subclass"
+  },
+  {
+    "slug": "draconic-bloodline",
+    "type": "subclass"
+  },
+  {
+    "slug": "clockwork-soul",
+    "type": "subclass"
+  },
+  {
+    "slug": "aberrant-mind",
+    "type": "subclass"
+  },
+  {
+    "slug": "undying",
+    "type": "subclass"
+  },
+  {
+    "slug": "undead",
+    "type": "subclass"
+  },
+  {
+    "slug": "hexblade",
+    "type": "subclass"
+  },
+  {
+    "slug": "great-old-one",
+    "type": "subclass"
+  },
+  {
+    "slug": "the-genie",
+    "type": "subclass"
+  },
+  {
+    "slug": "fiend",
+    "type": "subclass"
+  },
+  {
+    "slug": "fathomless",
+    "type": "subclass"
+  },
+  {
+    "slug": "celestial",
+    "type": "subclass"
+  },
+  {
+    "slug": "archfey",
+    "type": "subclass"
+  },
+  {
+    "slug": "school-of-war-magic",
+    "type": "subclass"
+  },
+  {
+    "slug": "school-of-transmutation",
+    "type": "subclass"
+  },
+  {
+    "slug": "order-of-scribes",
+    "type": "subclass"
+  },
+  {
+    "slug": "school-of-necromancy",
+    "type": "subclass"
+  },
+  {
+    "slug": "school-of-illusion",
+    "type": "subclass"
+  },
+  {
+    "slug": "school-of-graviturgy",
+    "type": "subclass"
+  },
+  {
+    "slug": "school-of-evocation",
+    "type": "subclass"
+  },
+  {
+    "slug": "school-of-enchantment",
+    "type": "subclass"
+  },
+  {
+    "slug": "school-of-divination",
+    "type": "subclass"
+  },
+  {
+    "slug": "school-of-conjuration",
+    "type": "subclass"
+  },
+  {
+    "slug": "school-of-chronurgy",
+    "type": "subclass"
+  },
+  {
+    "slug": "school-of-bladesinging",
+    "type": "subclass"
+  },
+  {
+    "slug": "school-of-abjuration",
+    "type": "subclass"
   }
 ]

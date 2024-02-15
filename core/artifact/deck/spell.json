@@ -3414,7 +3414,7 @@
     }
   },
   {
-    "slug": "divination",
+    "slug": "divination-spell",
     "name": "Divination",
     "type": {
       "slug": "spell",
