@@ -313,8 +313,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -567,8 +567,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -606,8 +606,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -650,8 +650,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -1280,7 +1280,7 @@
         "level": 1
       },
       {
-        "slug": "Bonus Proficiency Life Domain",
+        "slug": "Bonus Proficiency Life Domain",
         "name": "Bonus Proficiency",
         "level": 1
       },
@@ -1388,7 +1388,7 @@
         "level": 1
       },
       {
-        "slug": "Bonus Proficiency Nature Domain",
+        "slug": "Bonus Proficiency Nature Domain",
         "name": "Bonus Proficiency",
         "level": 1
       },
@@ -1468,8 +1468,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -1522,8 +1522,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -1792,8 +1792,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -1816,7 +1816,7 @@
       },
       {
         "slug": "bonus-proficiency-war-domain",
-        "name": "Bonus Proficiency War Domain",
+        "name": "Bonus Proficiency War Domain",
         "level": 1
       },
       {
@@ -1988,8 +1988,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -2032,8 +2032,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -2050,7 +2050,7 @@
     },
     "subclass_feature": [
       {
-        "slug": "Bonus Cantrip Circle of the Land",
+        "slug": "Bonus Cantrip Circle of the Land",
         "name": "Bonus Cantrip",
         "level": 2
       },
@@ -2060,7 +2060,7 @@
         "level": 2
       },
       {
-        "slug": "Circle of the Land Spells",
+        "slug": "Circle of the Land Spells",
         "name": "Circle of the Land",
         "level": 3
       },
@@ -2231,8 +2231,8 @@
     },
     "subclass_feature": [
       {
-        "slug": "Circle of Wildfire Spells",
-        "name": "Circle of Wildfire Spells",
+        "slug": "Circle of Wildfire Spells",
+        "name": "Circle of Wildfire Spells",
         "level": 2
       },
       {
@@ -2257,8 +2257,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -2407,7 +2407,7 @@
     },
     "subclass_feature": [
       {
-        "slug": "Bonus Proficiency Cavalier",
+        "slug": "Bonus Proficiency Cavalier",
         "name": "Bonus Proficiency",
         "level": 3
       },
@@ -2624,8 +2624,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -2642,7 +2642,7 @@
     },
     "subclass_feature": [
       {
-        "slug": "Bonus Proficiencies Rune Knight",
+        "slug": "Bonus Proficiencies Rune Knight",
         "name": "Bonus Proficiencies",
         "level": 3
       },
@@ -2678,8 +2678,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -2776,8 +2776,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -2898,8 +2898,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -2916,7 +2916,7 @@
     },
     "subclass_feature": [
       {
-        "slug": "Bonus Proficiencies Way of the Drunken Master",
+        "slug": "Bonus Proficiencies Way of the Drunken Master",
         "name": "Bonus Proficiencies",
         "level": 3
       },
@@ -3145,7 +3145,7 @@
         "level": 3
       },
       {
-        "slug": "Channel Divinity Oath of Conquest",
+        "slug": "Channel Divinity Oath of Conquest",
         "name": "Channel Divinity",
         "level": 3
       },
@@ -3189,7 +3189,7 @@
         "level": 3
       },
       {
-        "slug": "Channel Divinity Oath of Devotion",
+        "slug": "Channel Divinity Oath of Devotion",
         "name": "Channel Divinity",
         "level": 3
       },
@@ -3233,7 +3233,7 @@
         "level": 3
       },
       {
-        "slug": "Channel Divinity Oath of Glory",
+        "slug": "Channel Divinity Oath of Glory",
         "name": "Channel Divinity",
         "level": 3
       },
@@ -3254,8 +3254,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -3277,7 +3277,7 @@
         "level": 3
       },
       {
-        "slug": "Channel Divinity Oath of Redemption",
+        "slug": "Channel Divinity Oath of Redemption",
         "name": "Channel Divinity",
         "level": 3
       },
@@ -3321,7 +3321,7 @@
         "level": 3
       },
       {
-        "slug": "Channel Divinity Oath of the Ancients",
+        "slug": "Channel Divinity Oath of the Ancients",
         "name": "Channel Divinity",
         "level": 3
       },
@@ -3365,7 +3365,7 @@
         "level": 3
       },
       {
-        "slug": "Channel Divinity Oath of the Crown",
+        "slug": "Channel Divinity Oath of the Crown",
         "name": "Channel Divinity",
         "level": 3
       },
@@ -3409,7 +3409,7 @@
         "level": 3
       },
       {
-        "slug": "Channel Divinity Oath of the Watchers",
+        "slug": "Channel Divinity Oath of the Watchers",
         "name": "Channel Divinity",
         "level": 3
       },
@@ -3430,8 +3430,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -3453,7 +3453,7 @@
         "level": 3
       },
       {
-        "slug": "Channel Divinity Oath of Vengeance",
+        "slug": "Channel Divinity Oath of Vengeance",
         "name": "Channel Divinity",
         "level": 3
       },
@@ -3497,7 +3497,7 @@
         "level": 3
       },
       {
-        "slug": "Channel Divinity Oathbreaker",
+        "slug": "Channel Divinity Oathbreaker",
         "name": "Channel Divinity",
         "level": 3
       },
@@ -3655,8 +3655,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -3885,8 +3885,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -3942,7 +3942,7 @@
     },
     "subclass_feature": [
       {
-        "slug": "Bonus Proficiencies Assassin",
+        "slug": "Bonus Proficiencies Assassin",
         "name": "Bonus Proficiencies",
         "level": 3
       },
@@ -4105,8 +4105,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -4193,8 +4193,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -4330,8 +4330,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -4374,8 +4374,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -4749,7 +4749,7 @@
         "level": 1
       },
       {
-        "slug": "Bonus Cantrips The Celestial",
+        "slug": "Bonus Cantrips The Celestial",
         "name": "Bonus Cantrips",
         "level": 1
       },
@@ -4793,7 +4793,7 @@
     },
     "subclass_feature": [
       {
-        "slug": "Expanded Spell List The Fathomless",
+        "slug": "Expanded Spell List The Fathomless",
         "name": "Expanded Spell List",
         "level": 1
       },
@@ -4829,8 +4829,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
@@ -4847,7 +4847,7 @@
     },
     "subclass_feature": [
       {
-        "slug": "Expanded Spell List The Fiend",
+        "slug": "Expanded Spell List The Fiend",
         "name": "Expanded Spell List",
         "level": 1
       },
@@ -4935,7 +4935,7 @@
     },
     "subclass_feature": [
       {
-        "slug": "Expanded Spell List Hexblade",
+        "slug": "Expanded Spell List Hexblade",
         "name": "Expanded Spell List",
         "level": 1
       },
@@ -5028,7 +5028,7 @@
     },
     "subclass_feature": [
       {
-        "slug": "Expanded Spell List The Undead",
+        "slug": "Expanded Spell List The Undead",
         "name": "Expanded Spell List",
         "level": 1
       },
@@ -5072,7 +5072,7 @@
     },
     "subclass_feature": [
       {
-        "slug": "Expanded Spell List The Undying",
+        "slug": "Expanded Spell List The Undying",
         "name": "Expanded Spell List",
         "level": 1
       },
@@ -5230,8 +5230,8 @@
       }
     ],
     "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
     },
     "type": {
       "slug": "subclass",
