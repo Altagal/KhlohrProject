@@ -882,8 +882,8 @@
     }
   },
   {
-    "slug": "orcish-fury",
-    "name": "Orcish Fury",
+    "slug": "prodigy",
+    "name": "Prodigy",
     "type": {
       "slug": "feat",
       "name": "Feat"
