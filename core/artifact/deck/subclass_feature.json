@@ -1,20 +1,750 @@
 [
   {
-    "slug": "tool-proficiency",
+    "slug": "tool-proficiency-alchemist",
     "name": "Tool Proficiency",
     "type": {
       "slug": "subclass_feature",
       "name": "Subclass Feature"
     },
-    "desc": "",
+    "desc": "<p>When you adopt this specialization at 3rd level, you gain proficiency with alchemist's supplies. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.</p>",
     "class": {
       "slug": "artificer",
       "name": "Artificer"
     },
-    "level": 1,
+    "subclass": {
+      "slug": "alchemist",
+      "name": "Alchemist"
+    },
+    "level": 3,
     "source": {
       "slug": "TCE",
       "name": "Tasha's Cauldron of Everything"
     }
+  },
+  {
+    "slug": "alchemist-spells",
+    "name": "Alchemist Spells",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "desc": "<p>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</p><table><tbody><tr><th colspan=\"2\">Alchemist Spells</th></tr><tr><th>Artificer Level</th><th>Alchemist Spells</th></tr><tr><td>3rd</td><td>Healing Word, Ray of Sickness</td></tr><tr><td>5th</td><td>Flaming Sphere, Melf's Acid Arrow</td></tr><tr><td>9th</td><td>Gaseous Form, Mass Healing Word</td></tr><tr><td>13th</td><td>Blight, Death Ward</td></tr><tr><td>17th</td><td>Cloudkill, Raise Dead</td></tr></tbody></table>",
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "alchemist",
+      "name": "Alchemist"
+    },
+    "level": 3,
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    }
+  },
+  {
+    "slug": "experimental-elixir",
+    "name": "Experimental Elixir",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "desc": "<p>Beginning at 3rd level, whenever you finish a long rest, you can magically produce an <em>experimental elixir</em> in an empty flask you touch. Roll on the Experimental Elixir table for the elixir's effect, which is triggered when someone drinks the elixir. As an action, a creature can drink the elixir or administer it to an incapacitated creature.</p><p>You can create additional <em>experimental elixirs</em> by expending a spell slot of 1st level or higher for each one. When you do so, you use your action to create the elixir in an empty flask you touch, and you choose the elixir's effect from the Experimental Elixir table.</p><p>Creating an <em>experimental elixir</em> requires you to have alchemist supplies on your person, and any elixir you create with this feature lasts until it is drunk or until the end of your next long rest.</p><p>When you reach certain levels in this class, you can make more elixirs at the end of a long rest: two at 6th level and three at 15th level. Roll for each elixir's effect separately. Each elixir requires its own flask.</p><table><tr><th colspan=\"2\">Experimental Elixir</th></tr><tr><th>d6</th><th>Effect</th></tr><tr><td>1</td><td><strong>Healing.</strong> The drinker regains a number of hit points equal to 2d4 + your Intelligence Modifier</td></tr><tr><td>2</td><td><strong>Swiftness.</strong> The drinker's walking speed increases by 10 feet for 1 hour.</td></tr><tr><td>3</td><td><strong>Resilience.</strong> The drinker gains a +1 bonus to AC for 10 minutes.</td></tr><tr><td>4</td><td><strong>Boldness.</strong> The drinker can roll a d4 and add the number rolled to every attack roll and saving throw they make for the next minute.</td></tr><tr><td>5</td><td><strong>Flight.</strong> The drinker gains a flying speed of 10 feet for 10 minutes.</td></tr><tr><td>6</td><td><strong>Transformation.</strong> The drinker's body is transformed as if by the Alter Self spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes.</td></tr></table>",
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "alchemist",
+      "name": "Alchemist"
+    },
+    "level": 3,
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    }
+  },
+  {
+    "slug": "alchemical-savant",
+    "name": "Alchemical Savant",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "desc": "<p>At 5th level, you've developed masterful command of magical chemicals, enhancing the healing and damage you create through them. Whenever you cast a spell using your alchemist's supplies as the spellcasting focus, you gain a bonus to one roll of the spell. That roll must restore hit points or be a damage roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).</p>",
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "alchemist",
+      "name": "Alchemist"
+    },
+    "level": 5,
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    }
+  },
+  {
+    "slug": "restorative-reagents",
+    "name": "Restorative Reagents",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "desc": "<p>Starting at 9th level, you can incorporate restorative reagents into some of your works:</p><ul><li>Whenever a creature drinks an <em>experimental elixir</em> you created, the creature gains temporary hit points equal to 2d6 + your Intelligence modifier (minimum of 1 temporary hit point).</li></ul><ul><li>You can cast Lesser Restoration without expending a spell slot and without preparing the spell, provided you use alchemist's supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.</li></ul>",
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "alchemist",
+      "name": "Alchemist"
+    },
+    "level": 9,
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    }
+  },
+  {
+    "slug": "chemical-mastery",
+    "name": "Chemical Mastery",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "desc": "<p>By 15th level, you have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments:</p><ul><li>You gain resistance to acid damage and poison damage, and you are now immune to the poisoned condition.</li></ul><ul><li>You can cast Greater Restoration and Heal without expending a spell slot, without preparing the spell, and without providing the material component, provided you use alchemist’s supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a long rest.</li></ul>",
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "alchemist",
+      "name": "Alchemist"
+    },
+    "level": 15,
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    }
+  },
+  {
+    "slug": "tools-of-the-trade",
+    "name": "Tools of the Trade",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "armorer",
+      "name": "Armorer"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "level": 3,
+    "desc": "When you adopt this specialization at 3rd level, you gain proficiency with heavy armor. You also gain proficiency with smith's tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice."
+  },
+  {
+    "slug": "armorer-spells",
+    "name": "Armorer Spells",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "armorer",
+      "name": "Armorer"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "level": 3,
+    "desc": "<p>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</p><table><tr><th colspan=\"2\">Armorer Spells</th></tr><tr><th>Artificer Level</th><th>Armorer Spells</th></tr><tr><td>3rd</td><td>Magic Missile</a>, Thunderwave</a></td></tr><tr><td>5th</td><td>Mirror Image, Shatter</td></tr><tr><td>9th</td><td>Hypnotic Pattern</a>, Lightning Bolt</a></td></tr><tr><td>13th</td><td>Fire Shield, Greater Invisibility</td></tr><tr><td>17th</td><td>Passwall, Wall of Force</a></td></tr></table>"
+  },
+  {
+    "slug": "arcane-armor",
+    "name": "Arcane Armor",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "armorer",
+      "name": "Armorer"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "level": 3,
+    "desc": "<p>Beginning at 3rd level, your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith's tools in hand.</p><p>You gain the following benefits while wearing this armor:</p><ul><li>If the armor normally has a Strength requirement, the arcane armor lacks this requirement for you.</li></ul><ul><li>You can use the arcane armor as a spellcasting focus for your artificer spells.</li></ul><ul><li>The armor attaches to you and can’t be removed against your will. It also expands to cover your entire body, although you can retract or deploy the helmet as a bonus action. The armor replaces any missing limbs, functioning identically to a body part it is replacing.</li></ul><ul><li>You can doff or don the armor as an action.</li></ul><p>The armor continues to be Arcane Armor until you don another suit of armor or you die.</p>"
+  },
+  {
+    "slug": "armor-model",
+    "name": "Armor Model",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "armorer",
+      "name": "Armorer"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "level": 3,
+    "desc": "<p>Beginning at 3rd level, you can customize your Arcane Armor. When you do so, choose one of the following armor models: Guardian or Infiltrator. The model you choose gives you special benefits while you wear it.</p><p>Each model includes a special weapon. When you attack with that weapon, you can add your Intelligence modifier, instead of Strength or Dexterity, to the attack and damage rolls.</p><p>You can change the armor's model whenever you finish a short or long rest, provided you have smith's tools in hand.</p><p><strong>Guardian.</strong> You design your armor to be in the front line of conflict. It has the following features:</p><ul><li><strong>Thunder Gauntlets.</strong> Each of the armor's gauntlets counts as a simple melee weapon while you aren't holding anything in it, and it deals 1d8 thunder damage on a hit. A creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armor magically emits a distracting pulse when the creature attacks someone else.</li></ul><ul><li><strong>Defensive Field.</strong> As a bonus action, you can gain temporary hit points equal to your level in this class, replacing any temporary hit points you already have. You lose these temporary hit points if you doff the armor. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</li></ul><p><strong>Infiltrator.</strong> You customize your armor for subtle undertakings. It has the following features:</p><ul><li><strong>Lightning Launcher.</strong> A gemlike node appears on one of your armored fists or on the chest (your choice). It counts as a simple ranged weapon, with a normal range of 90 feet and a long range of 300 feet, and it deals 1d6 lightning damage on a hit. Once on each of your turns when you hit a creature with it, you can deal an extra 1d6 lightning damage to that target.</li></ul><ul><li><strong>Powered Steps.</strong> Your walking speed increases by 5 feet.</li></ul><ul><li><strong>Dampening Field.</strong> You have advantage on Dexterity (Stealth) checks. If the armor normally imposes disadvantage on such checks, the advantage and disadvantage cancel each other, as normal.</li></ul>"
+  },
+  {
+    "slug": "extra-attack",
+    "name": "Extra Attack",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "armorer",
+      "name": "Armorer"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "level": 5,
+    "desc": "<p>Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.</p>"
+  },
+  {
+    "slug": "armor-modifications",
+    "name": "Armor Modifications",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "armorer",
+      "name": "Armorer"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "level": 9,
+    "desc": "<p>At 9th level, you learn how to use your artificer infusions to specially modify your Arcane Armor. That armor now counts as separate items for the purposes of your Infuse Items feature: armor (the chest piece), boots, helmet, and the armor's special weapon. Each of those items can bear one of your infusions, and the infusions transfer over if you change your armor's model with the Armor Model feature. In addition, the maximum number of items you can infuse at once increases by 2, but those extra items must be part of your Arcane Armor.</p>"
+  },
+  {
+    "slug": "perfected-armor",
+    "name": "Perfected Armor",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "armorer",
+      "name": "Armorer"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "level": 15,
+    "desc": "<p>At 15th level, your Arcane Armor gains additional benefits based on its model, as shown below.</p><p><strong>Guardian.</strong> When a Huge or smaller creature you can see ends its turn within 30 feet of you, you can use your reaction to magically force it to make a Strength saving throw against your spell save DC. On a failed save, you pull the creature up to 25 feet directly to an unoccupied space. If you pull the target to a space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.</p><p>You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.</p><p><strong>Infiltrator.</strong> Any creature that takes lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius, and it has disadvantage on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has advantage, and if that attack hits, the target takes an extra 1d6 lightning damage.</p>"
+  },
+  {
+    "slug": "tool-proficiency-artillerist",
+    "name": "Tool Proficiency",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "artillerist",
+      "name": "Artillerist"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "level": 3,
+    "desc": "<p>When you adopt this specialization at 3rd level, you gain proficiency with woodcarver's tools. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.</p>"
+  },
+  {
+    "slug": "artillerist-spells",
+    "name": "Artillerist Spells",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "artillerist",
+      "name": "Artillerist"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "level": 3,
+    "desc": "<p>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Artillerist Spells table. These spells count as artificer spells for you, but they don’t count against the number of artificer spells you prepare.</p><table><tr><th colspan=\"2\">Artillerist Spells</th></tr><tr><th>Artificer Level</th><th>Artillerist Spells</th></tr><tr><td>3rd</td><td>Shield, Thunderwave</td></tr><tr><td>5th</td><td>Scorching Ray, Shatter</td></tr><tr><td>9th</td><td>Fireball, Wind Wall</td></tr><tr><td>13th</td><td>Ice Storm, Wall of Fire</td></tr><tr><td>17th</td><td>Cone of Cold, Wall of Force</td></tr></table>"
+  },
+  {
+    "slug": "eldritch-cannon",
+    "name": "Eldritch Cannon",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "artillerist",
+      "name": "Artillerist"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "level": 3,
+    "desc": "<p>Also at 3rd level, you've learned how to create a magical cannon. Using woodcarver's tools or smith's tools, you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand. Once you create a cannon, you can't do so again until you finish a long rest or until you expend a spell slot to create one. You can have only one cannon at a time and can't create one while your cannon is present.</p><p>The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of hit points equal to five times your artificer level. It is immune to poison damage and psychic damage. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the mending spell is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or after 1 hour. You can dismiss it early as an action.</p><p>When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the options on the Eldritch Cannons table. On each of your turns, you can take a bonus action to cause the cannon to activate if you are within 60 feet of it. As part of the same bonus action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.</p><table><tr><th colspan=\"2\">Eldritch Cannon</th></tr><tr><th>Cannon</th><th>Activation</th></tr><tr><td>Flamethrower</td><td>The cannon exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking 2d8 fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried.</td></tr><tr><td>Force Ballista</td><td>Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it. On a hit, the target takes 2d8 force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.</td></tr><tr><td>Protector</td><td>The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to 1d8 + your Intelligence modifier (minimum of +1).</td></tr></table>"
+  },
+  {
+    "slug": "arcane-firearm",
+    "name": "Arcane Firearm",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "artillerist",
+      "name": "Artillerist"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "level": 5,
+    "desc": "<p>At 5th level, You know how to turn a wand, staff, or rod into an arcane firearm, a conduit for your destructive spells. When you finish a long rest, you can use woodcarver's tools to carve special sigils into a wand, staff, or rod and thereby turn it into your arcane firearm. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.</p><p>You can use your arcane firearm as a spellcasting focus for your artificer spells. When you cast an artificer spell through the firearm, roll a d8, and you gain a bonus to one of the spell's damage rolls equal to the number rolled.</p>"
+  },
+  {
+    "slug": "explosive-cannon",
+    "name": "Explosive Cannon",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "artillerist",
+      "name": "Artillerist"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "level": 9,
+    "desc": "<p>Starting at 9th level, every eldritch cannon you create is more destructive:</p><ul><li>The cannon's damage rolls all increase by 1d8.</li></ul><ul><li>As an action, you can command the cannon to detonate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your spell save DC, taking 3d8 force damage on a failed save or half as much damage on a successful one.</li></ul>"
+  },
+  {
+    "slug": "fortified-position",
+    "name": "Fortified Position",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "class": {
+      "slug": "artificer",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "slug": "artillerist",
+      "name": "Artillerist"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "level": 15,
+    "desc": "<p>By 15th level, you’re a master at forming well-defended emplacements using Eldritch Cannon:</p><ul><li>You and your allies have half cover while within 10 feet of a cannon you create with Eldritch Cannon, as a result of a shimmering field of magical protection that the cannon emits.</li></ul><ul><li>You can now have two cannons at the same time. You can create two with the same action (but not the same spell slot), and you can activate both of them with the same bonus action. You determine whether the cannons are identical to each other or different. You can't create a third cannon while you have two.</li></ul>"
+  },
+  {
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "class": {
+      "name": "Artificer",
+      "slug": "artificer"
+    },
+    "slug": "tool-proficiency-battle-smith",
+    "name": "Tool Proficiency",
+    "level": 3,
+    "subclass": {
+      "name": "Battle Smith",
+      "slug": "battle-smith"
+    },
+    "desc": "<p>When you adopt this specialization at 3rd level, you gain proficiency with smith's tools. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.</p>"
+  },
+  {
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "class": {
+      "name": "Artificer",
+      "slug": "artificer"
+    },
+    "slug": "battle-smith-spells",
+    "name": "Battle Smith Spells",
+    "level": 3,
+    "subclass": {
+      "name": "Battle Smith",
+      "slug": "battle-smith"
+    },
+    "desc": "<p>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table. These spells count as artificer spells for you, but they don’t count against the number of artificer spells you prepare.</p><table class=\"wiki-content-table\"><tr><th colspan=\"2\">Battle Smith Spells</th></tr><tr><th>Artificer Level</th><th>Battle Smith Spells</th></tr><tr><td>3rd</td><td>Heroism, Shield</td></tr><tr><td>5th</td><td>Branding Smite</a>,Warding Bond</td></tr><tr><td>9th</td><td>Aura of Vitality, Conjure Barrage</a></td></tr><tr><td>13th</td><td>Aura of Purity, Fire Shield</td></tr><tr><td>17th</td><td>Banishing Smite, Mass Cure Wounds</td></tr></table>"
+  },
+  {
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "class": {
+      "name": "Artificer",
+      "slug": "artificer"
+    },
+    "slug": "battle-ready",
+    "name": "Battle Ready",
+    "level": 3,
+    "subclass": {
+      "name": "Battle Smith",
+      "slug": "battle-smith"
+    },
+    "desc": "<p>When you reach 3rd level, your combat training and your experiments with magic have paid off in two ways:</p><ul><li>You gain proficiency with martial weapons.</li></ul><ul><li>When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls.</li></ul>"
+  },
+  {
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "class": {
+      "name": "Artificer",
+      "slug": "artificer"
+    },
+    "slug": "steel-defender",
+    "name": "Steel Defender",
+    "level": 3,
+    "subclass": {
+      "name": "Battle Smith",
+      "slug": "battle-smith"
+    },
+    "desc": "<p>By 3rd level, your tinkering has borne you a faithful companion, a steel defender. It's friendly to you and your companions, and it obeys your commands. See its game statistics in the Steel Defender stat block, which uses your proficiency bonus (PB) in several places. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.</p><p>In combat, the defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the defender can take any action of its choice, not just Dodge.</p><p>If the Mending spell is cast on it, it regains 2d6 hit points. If it has died within the last hour, you can use your smith's tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored.</p><p>At the end of a long rest, you can create a new steel defender if you have smith's tools with you. If you already have a defender from this feature, the first one immediately perishes. The defender also perishes if you die.</p><table class=\"wiki-content-table\"><tr><th colspan=\"6\">Steel Defender</th></tr><tr><td colspan=\"6\"><em>Medium construct</em></td></tr><tr><td colspan=\"6\"><strong>Armor Class:</strong> 15 (natural armor)</td></tr><tr><td colspan=\"6\"><strong>Hit Points:</strong> 2 + your Intelligence modifier + 5 times your artificer level (the defender has a number of Hit Dice [d8s] equal to your artificer level)</td></tr><tr><td colspan=\"6\"><strong>Speed:</strong> 40 ft.</td></tr><tr><th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th></tr><tr><td>14 (+2)</td><td>12 (+1)</td><td>14 (+2)</td><td>4 (−3)</td><td>10 (+0)</td><td>6 (−2)</td></tr><tr><td colspan=\"6\"><strong>Saving Throws:</strong> Dex +1 plus PB, Con +2 plus PB</td></tr><tr><td colspan=\"6\"><strong>Skills:</strong> Athletics +2 plus PB, Perception +0 plus PB x 2</td></tr><tr><td colspan=\"6\"><strong>Damage Immunities:</strong> poison</td></tr><tr><td colspan=\"6\"><strong>Condition Immunities:</strong> charmed, exhaustion, poisoned</td></tr><tr><td colspan=\"6\"><strong>Senses:</strong> darkvision 60 ft., passive Perception 10 + (PB x 2)</td></tr><tr><td colspan=\"6\"><strong>Languages:</strong> understands the languages you speak</td></tr><tr><td colspan=\"6\"><strong>Challenge:</strong> &#8212;</td></tr><tr><td colspan=\"6\"><strong>Proficiency Bonus (PB):</strong> equals your bonus</td></tr><tr><td colspan=\"6\"><strong><em>Vigilant.</em></strong> The defender can't be surprised.</td></tr><tr><th colspan=\"6\">Actions</th></tr><tr><td colspan=\"6\"><strong><em>Force-Empowered Rend.</em></strong> <em>Melee Weapon Attack:</em> your spell attack modifier to hit, reach 5 ft., one target you can see. <em>Hit:</em> 1d8 + PB force damage.</td></tr><tr><td colspan=\"6\"><strong><em>Repair (3/Day).</em></strong> The magical mechanisms inside the defender restore 2d8 + PB hit points to itself or to one construct or object within 5 feet of it.</td></tr><tr><th colspan=\"6\">Reactions</th></tr><tr><td colspan=\"6\"><strong><em>Deflect Attack.</em></strong> The defender imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the defender.</td></tr></table>"
+  },
+  {
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "class": {
+      "name": "Artificer",
+      "slug": "artificer"
+    },
+    "slug": "extra-attack",
+    "name": "Extra Attack",
+    "level": 5,
+    "subclass": {
+      "name": "Battle Smith",
+      "slug": "battle-smith"
+    },
+    "desc": "<p>Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.</p>"
+  },
+  {
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "class": {
+      "name": "Artificer",
+      "slug": "artificer"
+    },
+    "slug": "arcane-jolt",
+    "name": "Arcane Jolt",
+    "level": 9,
+    "subclass": {
+      "name": "Battle Smith",
+      "slug": "battle-smith"
+    },
+    "desc": "<p>At 9th level, you've learn new ways to channel arcane energy to harm or heal. When either you hit a target with a magic weapon attack or your steel defender hits a target, you can channel magical energy through the strike to create one of the following effects:</p><ul><li>The target takes an extra 2d6 force damage.</li></ul><ul><li>Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 hit points to it.</li></ul><p>You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a long rest.</p>"
+  },
+  {
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    },
+    "class": {
+      "name": "Artificer",
+      "slug": "artificer"
+    },
+    "slug": "improved-defender",
+    "name": "Improved Defender",
+    "level": 15,
+    "subclass": {
+      "name": "Battle Smith",
+      "slug": "battle-smith"
+    },
+    "desc": "<p>At 15th level, your Arcane Jolt and steel defender become more powerful:</p><ul><li>The extra damage and the healing of your Arcane Jolt both increase to 4d6.</li></ul><ul><li>Your steel defender gains a +2 bonus to Armor Class.</li></ul><ul><li>Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to 1d4 + your Intelligence modifier.</li></ul>"
+  },
+  {
+    "slug": "ancestral-protectors",
+    "name": "Ancestral Protectors",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "desc": "<p>Starting when you choose this path at 3rd level, spectral warriors appear when you enter your rage. While you're raging, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has disadvantage on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage dealt by the attack. The effect on the target ends early if your rage ends.</p>",
+    "class": {
+      "slug": "barbarian",
+      "name": "Barbarian"
+    },
+    "subclass": {
+      "slug": "path-of-the-ancestral-guardian",
+      "name": "Path of the Ancestral Guardian"
+    },
+    "level": 3,
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "slug": "spirit-shield",
+    "name": "Spirit Shield",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "desc": "<p>Beginning at 6th level, the guardian spirits that aid you can provide supernatural protection to those you defend. If you are raging and another creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by 2d6.</p><p>When you reach certain levels in this class, you can reduce the damage by more: by 3d6 at 10th level and by 4d6 at 14th level.</p>",
+    "class": {
+      "slug": "barbarian",
+      "name": "Barbarian"
+    },
+    "subclass": {
+      "slug": "path-of-the-ancestral-guardian",
+      "name": "Path of the Ancestral Guardian"
+    },
+    "level": 6,
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "slug": "consult-the-spirits",
+    "name": "Consult the Spirits",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "desc": "<p>At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the Augury or Clairvoyance spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of clairvoyance invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.</p><p>After you cast either spell in this way, you can't use this feature again until you finish a short or long rest.</p>",
+    "class": {
+      "slug": "barbarian",
+      "name": "Barbarian"
+    },
+    "subclass": {
+      "slug": "path-of-the-ancestral-guardian",
+      "name": "Path of the Ancestral Guardian"
+    },
+    "level": 10,
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "slug": "vengeful-ancestors",
+    "name": "Vengeful Ancestors",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "desc": "<p>At 14th level, your ancestral spirits grow powerful enough to retaliate. When you use your Spirit Shield to reduce the damage of an attack, the attacker takes an amount of force damage that your Spirit Shield prevents.</p>",
+    "class": {
+      "slug": "barbarian",
+      "name": "Barbarian"
+    },
+    "subclass": {
+      "slug": "path-of-the-ancestral-guardian",
+      "name": "Path of the Ancestral Guardian"
+    },
+    "level": 14,
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "source": {
+      "name": "Sword Coast Adventurer's Guide",
+      "slug": "SCAG"
+    },
+    "subclass": {
+      "name": "Path of the Battlerager",
+      "slug": "path-of-the-battlerager"
+    },
+    "class": {
+      "name": "Barbarian",
+      "slug": "barbarian"
+    },
+    "slug": "battlerager-armor",
+    "name": "Battlerager Armor",
+    "level": 3,
+    "desc": "\n<p>When you choose this path at 3rd level, you gain the ability to use <a href=\"http://dnd5e.wikidot.com/armor\">spiked armor</a> as a weapon.</p>\n\t<p>While you are wearing spiked armor and are raging, you can use a bonus action to make one melee weapon attack with your armor spikes against a target within 5 feet of you. If the attack hits, the spikes deal 1d4 piercing damage. You use your Strength modifier for the attack and damage rolls.</p>\n\t<p>Additionally, when you use the Attack action to grapple a creature, the target takes 3 piercing damage if your grapple check succeeds.</p>"
+  },
+  {
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "source": {
+      "name": "Sword Coast Adventurer's Guide",
+      "slug": "SCAG"
+    },
+    "subclass": {
+      "name": "Path of the Battlerager",
+      "slug": "path-of-the-battlerager"
+    },
+    "class": {
+      "name": "Barbarian",
+      "slug": "barbarian"
+    },
+    "slug": "reckless-abandon",
+    "name": "Reckless Abandon",
+    "level": 6,
+    "desc": "<p>Beginning at 6th level, when you use Reckless Attack while raging, you also gain temporary hit points equal to your Constitution modifier (minimum of 1). They vanish if any of them are left when your rage ends.\n</p>"
+  },
+  {
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "source": {
+      "name": "Sword Coast Adventurer's Guide",
+      "slug": "SCAG"
+    },
+    "subclass": {
+      "name": "Path of the Battlerager",
+      "slug": "path-of-the-battlerager"
+    },
+    "class": {
+      "name": "Barbarian",
+      "slug": "barbarian"
+    },
+    "slug": "battlerager-charge",
+    "name": "Battlerager Charge",
+    "level": 10,
+    "desc": "<p>Beginning at 10th level, you can take the Dash action as a bonus action while you are raging.\n</p>"
+  },
+  {
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "source": {
+      "name": "Sword Coast Adventurer's Guide",
+      "slug": "SCAG"
+    },
+    "subclass": {
+      "name": "Path of the Battlerager",
+      "slug": "path-of-the-battlerager"
+    },
+    "class": {
+      "name": "Barbarian",
+      "slug": "barbarian"
+    },
+    "slug": "spiked-retribution",
+    "name": "Spiked Retribution",
+    "level": 14,
+    "desc": "<p>Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren't incapacitated, and are wearing spiked armor.\n</p>"
   }
 ]
