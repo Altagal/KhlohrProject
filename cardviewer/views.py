@@ -2,14 +2,14 @@ import datetime
 import random
 
 from django.shortcuts import render
-from cardmaker.util import get_card_from_slug, get_deck, get_daily_card
+from cardmaker.util import get_card_from_slug, get_deck, get_daily_card, get_randon_card
 from core import settings
 
 
 def home(request):
-
     context = {
-        "card": get_daily_card(),
+        # "card": get_daily_card(),
+        "card": get_randon_card(),
     }
 
     return render(request, 'cardviewer/home.html', context)
@@ -18,6 +18,7 @@ def home(request):
 def card_view(request, card_slug):
     card = get_card_from_slug(card_slug)
 
+    # IF MAGIC SCHOOL
     if card["type"]["slug"] == "magic_school":
         magic_school_spell_list = []
         for spell_card in get_deck("spell"):
@@ -27,14 +28,34 @@ def card_view(request, card_slug):
 
         context = {
             'card': card,
-            "range": range(10),
+            'range': range(10),
             'table_list': magic_school_spell_list,
 
         }
         return render(request, 'cardviewer/card_view.html', context)
-    context = {
-        'card': card,
-    }
+
+    # IF CLASS
+    elif card["type"]["slug"] == "class":
+
+        context = {
+            'card': card,
+            'level_range': range(1, 21),
+            'class_feature_list': get_deck("class_feature"),
+        }
+        return render(request, 'cardviewer/card_view.html', context)
+
+    # IF SUBCLASS
+    elif card["type"]["slug"] == "subclass":
+        context = {
+            'card': card,
+            'subclass_feature_list': get_deck("subclass_feature")
+        }
+        return render(request, 'cardviewer/card_view.html', context)
+
+    else:
+        context = {
+            'card': card,
+        }
     return render(request, 'cardviewer/card_view.html', context)
 
 

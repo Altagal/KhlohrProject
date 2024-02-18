@@ -2,7 +2,7 @@
   {
     "slug": "magical-tinkering",
     "name": "Magical Tinkering",
-    "desc": "<p>At 1st level, you've learned how to invest a spark of magic into mundane objects. To use this ability, you must have thieves' tools or artisan's tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:</p> <ul> <li>The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</li> </ul> <ul> <li>Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.</li> </ul> <ul> <li>The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.</li> </ul> <ul> <li>A static visual effect appears on one of the object's surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.</li> </ul> <p>The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.</p> <p>You can bestow magic on multiple objects, touching one object each time you use this feature, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.</p>",
+    "desc": "<p>At 1st level, you've learned how to invest a spark of magic into mundane objects. To use this ability, you must have thieves' tools or artisan's tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:</p><ul><li>The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</li></ul><ul><li>Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.</li></ul><ul><li>The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.</li></ul><ul><li>A static visual effect appears on one of the object's surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.</li></ul><p>The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.</p><p>You can bestow magic on multiple objects, touching one object each time you use this feature, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.</p>",
     "class": {
       "slug": "artificer",
       "name": "Artificer"
@@ -20,7 +20,7 @@
   {
     "slug": "infuse-item",
     "name": "Infuse Item",
-    "desc": "<p>When you gain this feature, pick four artificer infusions to learn. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.</p> <p>Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one.</p><p>Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your artificer infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement (see the attunement rules in the <em>Dungeon Master's Guide</em>).</p> <p>Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after a number of days equal to your Intelligence modifier (minimum of 1 day). The infusion also vanishes if you replace your knowledge of the infusion.</p> <p>You can infuse more than one nonmagical object at the end of a long rest; the maximum number of objects appears in the Infused Items column of the Artificer table. You must touch each of the objects, and each of your infusions can be in only one object at a time. Moreover, no object can bear more than one of your infusions at a time. If you try to exceed your maximum number of infusions, the oldest infusion ends, and then the new infusion applies.</p> <p>If an infusion ends on an item that contains other things, like a bag of holding, its contents harmlessly appear in and around its space.</p>",
+    "desc": "<p>When you gain this feature, pick four artificer infusions to learn. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.</p><p>Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one.</p><p>Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your artificer infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement (see the attunement rules in the <em>Dungeon Master's Guide</em>).</p><p>Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after a number of days equal to your Intelligence modifier (minimum of 1 day). The infusion also vanishes if you replace your knowledge of the infusion.</p><p>You can infuse more than one nonmagical object at the end of a long rest; the maximum number of objects appears in the Infused Items column of the Artificer table. You must touch each of the objects, and each of your infusions can be in only one object at a time. Moreover, no object can bear more than one of your infusions at a time. If you try to exceed your maximum number of infusions, the oldest infusion ends, and then the new infusion applies.</p><p>If an infusion ends on an item that contains other things, like a bag of holding, its contents harmlessly appear in and around its space.</p>",
     "class": {
       "slug": "artificer",
       "name": "Artificer"
@@ -38,7 +38,7 @@
   {
     "slug": "the-right-tool-for-the-job",
     "name": "The Right Tool for the Job",
-    "desc": "<p>At 3rd level, you've learned how to produce exactly the tool you need: with thieves' tools or artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.\n</p>",
+    "desc": "<p>At 3rd level, you've learned how to produce exactly the tool you need: with thieves' tools or artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.</p>",
     "class": {
       "slug": "artificer",
       "name": "Artificer"
@@ -56,7 +56,7 @@
   {
     "slug": "tool-expertise",
     "name": "Tool Expertise",
-    "desc": "<p>At 6th level, your proficiency bonus is now doubled for any ability check you make that uses your proficiency with a tool.\n</p>",
+    "desc": "<p>At 6th level, your proficiency bonus is now doubled for any ability check you make that uses your proficiency with a tool.</p>",
     "class": {
       "slug": "artificer",
       "name": "Artificer"
@@ -79,7 +79,7 @@
       "name": "Class Feature"
     },
     "level": 7,
-    "desc": "<p>At 7th level, you've gained the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add your Intelligence modifier to the roll.</p>\r\n<p>You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.</p>\r\n",
+    "desc": "<p>At 7th level, you've gained the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add your Intelligence modifier to the roll.</p><p>You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.</p>",
     "source": {
       "slug": "TCE",
       "name": "Tasha's Cauldron of Everything"
@@ -97,7 +97,7 @@
       "name": "Class Feature"
     },
     "level": 10,
-    "desc": "<p>When you reach 10th level, you achieve a profound understanding of how to use and make magic items:</p>\n<ul>\n<li>You can attune to up to four magic items at once.</li>\n</ul>\n<ul>\n<li>If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.</li>\n</ul>",
+    "desc": "<p>When you reach 10th level, you achieve a profound understanding of how to use and make magic items:</p><ul><li>You can attune to up to four magic items at once.</li></ul><ul><li>If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.</li></ul>",
     "source": {
       "slug": "TCE",
       "name": "Tasha's Cauldron of Everything"
@@ -115,7 +115,7 @@
       "name": "Class Feature"
     },
     "level": 11,
-    "desc": "<p>At 11th level, you can now store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the artificer spell list that requires 1 action to cast (you needn't have it prepared).\n</p><p>While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires concentration, the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.\n</p>",
+    "desc": "<p>At 11th level, you can now store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the artificer spell list that requires 1 action to cast (you needn't have it prepared).</p><p>While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires concentration, the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.</p>",
     "source": {
       "slug": "TCE",
       "name": "Tasha's Cauldron of Everything"
@@ -133,7 +133,7 @@
       "name": "Class Feature"
     },
     "level": 14,
-    "desc": "<p>At 14th level, your skill with magic items deepens more:</p>\n\t<ul>\n\t<li>You can attune to up to five magic items at once.</li>\n\t</ul>\n\t<ul>\n\t<li>You ignore all class, race, spell and level requirements on attuning to or using a magic item.</li>\n\t</ul>",
+    "desc": "<p>At 14th level, your skill with magic items deepens more:</p><ul><li>You can attune to up to five magic items at once.</li></ul><ul><li>You ignore all class, race, spell and level requirements on attuning to or using a magic item.</li></ul>",
     "source": {
       "slug": "TCE",
       "name": "Tasha's Cauldron of Everything"
@@ -151,7 +151,7 @@
       "name": "Class Feature"
     },
     "level": 18,
-    "desc": "<p>Starting at 18th level, you can attune up to six magic items at once.\n</p>",
+    "desc": "<p>Starting at 18th level, you can attune up to six magic items at once.</p>",
     "source": {
       "slug": "TCE",
       "name": "Tasha's Cauldron of Everything"
@@ -169,7 +169,7 @@
       "name": "Class Feature"
     },
     "level": 20,
-    "desc": "<p>At 20th level, you develop a mystical connection to your magic items, which you can draw on for protection:</p>\n\t<ul>\n\t<li>You gain a +1 bonus to all saving throws per magic item you are currently attuned to.</li>\n\t</ul>\n\t<ul>\n\t<li>If you're reduced to 0 hit points but not killed out-right, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0.</li>\n\t</ul>",
+    "desc": "<p>At 20th level, you develop a mystical connection to your magic items, which you can draw on for protection:</p><ul><li>You gain a +1 bonus to all saving throws per magic item you are currently attuned to.</li></ul><ul><li>If you're reduced to 0 hit points but not killed out-right, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0.</li></ul>",
     "source": {
       "slug": "TCE",
       "name": "Tasha's Cauldron of Everything"
@@ -187,7 +187,7 @@
       "name": "Class Feature"
     },
     "level": 1,
-    "desc": "<p>In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.</p>\n<p>While raging, you gain the following benefits if you aren't wearing heavy armor:</p>\n<ul>\n<li>You have advantage on Strength checks and Strength saving throws.</li>\n<li>When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.</li>\n<li>You have resistance to bludgeoning, piercing, and slashing damage.</li>\n</ul>\n<p>If you are able to cast spells, you can't cast them or concentrate on them while raging.</p>\n<p>Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.</p>\n<p>Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.</p>",
+    "desc": "<p>In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.</p><p>While raging, you gain the following benefits if you aren't wearing heavy armor:</p><ul><li>You have advantage on Strength checks and Strength saving throws.</li><li>When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.</li><li>You have resistance to bludgeoning, piercing, and slashing damage.</li></ul><p>If you are able to cast spells, you can't cast them or concentrate on them while raging.</p><p>Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.</p><p>Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.</p>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -205,7 +205,7 @@
       "name": "Class Feature"
     },
     "level": 1,
-    "desc": "<p>Unarmored Defense\n</p>",
+    "desc": "<p>While you are not wearing any armor, your armor class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.</p>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -223,7 +223,7 @@
       "name": "Class Feature"
     },
     "level": 2,
-    "desc": "<p>At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.\n</p>",
+    "desc": "<p>At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.</p>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -241,7 +241,7 @@
       "name": "Class Feature"
     },
     "level": 2,
-    "desc": "<p>Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.\n</p>",
+    "desc": "<p>Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.</p>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -259,7 +259,7 @@
       "name": "Class Feature"
     },
     "level": 3,
-    "desc": "<p>When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to barbarians at 1st level.\n</p>",
+    "desc": "<p>When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to barbarians at 1st level.</p>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -270,14 +270,14 @@
     }
   },
   {
-    "slug": "extra-attack",
+    "slug": "extra-attack-barbarian",
     "name": "Extra Attack",
     "type": {
       "slug": "class_feature",
       "name": "Class Feature"
     },
     "level": 5,
-    "desc": "<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.\n</p>",
+    "desc": "<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -295,7 +295,7 @@
       "name": "Class Feature"
     },
     "level": 5,
-    "desc": "<p>Starting at 5th level, your speed increases by 10 feet while you aren't wearing heavy armor.\n</p>",
+    "desc": "<p>Starting at 5th level, your speed increases by 10 feet while you aren't wearing heavy armor.</p>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -313,7 +313,7 @@
       "name": "Class Feature"
     },
     "level": 7,
-    "desc": "<p>By 7th level, your instincts are so honed that you have advantage on initiative rolls.\n</p><p>Additionally, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.\n</p>",
+    "desc": "<p>By 7th level, your instincts are so honed that you have advantage on initiative rolls.</p><p>Additionally, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.</p>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -331,7 +331,7 @@
       "name": "Class Feature"
     },
     "level": 7,
-    "desc": "<p>At 7th level, as part of the bonus action you take to enter your rage, you can move up to half your speed.\n</p>",
+    "desc": "<p>At 7th level, as part of the bonus action you take to enter your rage, you can move up to half your speed.</p>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -349,7 +349,7 @@
       "name": "Class Feature"
     },
     "level": 9,
-    "desc": "<p>Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.\n</p><p>This increases to two additional dice at 13th level and three additional dice at 17th level.\n</p>",
+    "desc": "<p>Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.</p><p>This increases to two additional dice at 13th level and three additional dice at 17th level.</p>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -367,7 +367,7 @@
       "name": "Class Feature"
     },
     "level": 11,
-    "desc": "<p>Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.\n</p><p>Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.\n</p>",
+    "desc": "<p>Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.</p><p>Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.</p>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -385,7 +385,7 @@
       "name": "Class Feature"
     },
     "level": 15,
-    "desc": "<p>Beginning at 15th level, your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it.\n</p>",
+    "desc": "<p>Beginning at 15th level, your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it.</p>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -403,7 +403,7 @@
       "name": "Class Feature"
     },
     "level": 18,
-    "desc": "<p>Beginning at 18th level, if your total for a Strength check is less than your Strength score, you can use that score in place of the total.\n</p>",
+    "desc": "<p>Beginning at 18th level, if your total for a Strength check is less than your Strength score, you can use that score in place of the total.</p>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -421,7 +421,7 @@
       "name": "Class Feature"
     },
     "level": 20,
-    "desc": "<p>At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.\n</p>",
+    "desc": "<p>At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.</p>",
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"
@@ -432,9 +432,9 @@
     }
   },
   {
-    "slug": "Bardic Inspiration",
+    "slug": "bardic-inspiration",
     "name": "Bardic Inspiration",
-    "desc": "<p>You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.</p>\r\n<p>Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.</p>\r\n<p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.</p>\r\n<p>Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.</p>\r\n<h3 id=\"toc12\"><span>Jack of All Trades</span></h3>\r\n<p>Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.</p>\r\n",
+    "desc": "<p>You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.</p><p>Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.</p><p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.</p><p>Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.</p><h3 id=\"toc12\"><span>Jack of All Trades</span></h3><p>Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.</p>",
     "class": {
       "slug": "bard",
       "name": "Bard"
@@ -450,9 +450,9 @@
     }
   },
   {
-    "slug": "Jack of All Trades",
+    "slug": "jack-of-all-trades",
     "name": "Jack of All Trades",
-    "desc": "<p>Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.\n</p>",
+    "desc": "<p>Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.</p>",
     "class": {
       "slug": "bard",
       "name": "Bard"
@@ -470,7 +470,7 @@
   {
     "slug": "song-of-rest",
     "name": "Song of Rest",
-    "desc": "<p>Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.\n</p><p>The extra Hit Points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.\n</p>",
+    "desc": "<p>Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.</p><p>The extra Hit Points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.</p>",
     "class": {
       "slug": "bard",
       "name": "Bard"
@@ -488,7 +488,7 @@
   {
     "slug": "magical-inspiration",
     "name": "Magical Inspiration",
-    "desc": "<p>At 2nd level, if a creature has a Bardic Inspiration die from you and casts a spell that restores hit points or deals damage, the creature can roll that die and choose a target affected by the spell. Add the number rolled as a bonus to the hit points regained or the damage dealt. The Bardic Inspiration die is then lost.\n</p>",
+    "desc": "<p>At 2nd level, if a creature has a Bardic Inspiration die from you and casts a spell that restores hit points or deals damage, the creature can roll that die and choose a target affected by the spell. Add the number rolled as a bonus to the hit points regained or the damage dealt. The Bardic Inspiration die is then lost.</p>",
     "class": {
       "slug": "bard",
       "name": "Bard"
@@ -506,7 +506,7 @@
   {
     "slug": "expertise",
     "name": "Expertise",
-    "desc": "<p>At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.\n</p><p>At 10th level, you can choose another two skill proficiencies to gain this benefit.\n</p>",
+    "desc": "<p>At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.</p><p>At 10th level, you can choose another two skill proficiencies to gain this benefit.</p>",
     "class": {
       "slug": "bard",
       "name": "Bard"
@@ -524,7 +524,7 @@
   {
     "slug": "bardic-versatility",
     "name": "Bardic Versatility",
-    "desc": "<p>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change in focus as you use your skills and magic:</p>\r\n<ul>\r\n<li>Replace one of the skills you chose for the Expertise feature with one of your other skill proficiencies that isn't benefiting from Expertise.</li>\r\n</ul>\r\n<ul>\r\n<li>Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the <a href=\"http://dnd5e.wikidot.com/spells:bard\">bard spell list</a>.</li>\r\n</ul>\r\n",
+    "desc": "<p>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change in focus as you use your skills and magic:</p><ul><li>Replace one of the skills you chose for the Expertise feature with one of your other skill proficiencies that isn't benefiting from Expertise.</li></ul><ul><li>Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the bard spell list.</li></ul>",
     "class": {
       "slug": "bard",
       "name": "Bard"
@@ -542,7 +542,7 @@
   {
     "slug": "font-of-inspiration",
     "name": "Font of Inspiration",
-    "desc": "<p>Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.\n</p>",
+    "desc": "<p>Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.</p>",
     "class": {
       "slug": "bard",
       "name": "Bard"
@@ -560,7 +560,7 @@
   {
     "slug": "countercharm",
     "name": "Countercharm",
-    "desc": "<p>At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).\n</p>",
+    "desc": "<p>At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).</p>",
     "class": {
       "slug": "bard",
       "name": "Bard"
@@ -578,7 +578,7 @@
   {
     "slug": "magical-secrets",
     "name": "Magical Secrets",
-    "desc": "<p>By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.\n</p><p>The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.\n</p><p>You learn two additional spells from any classes at 14th level and again at 18th level.\n</p>",
+    "desc": "<p>By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.</p><p>The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.</p><p>You learn two additional spells from any classes at 14th level and again at 18th level.</p>",
     "class": {
       "slug": "bard",
       "name": "Bard"
@@ -596,7 +596,7 @@
   {
     "slug": "superior-inspiration",
     "name": "Superior Inspiration",
-    "desc": "<p>At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.\n</p>",
+    "desc": "<p>At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.</p>",
     "class": {
       "slug": "bard",
       "name": "Bard"
@@ -614,7 +614,7 @@
   {
     "name": "Channel Divinity",
     "slug": "channel-divinity",
-    "desc": "<p>At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.\n</p><p>When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.\n</p><p>Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.\n</p><p>Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.\n</p>",
+    "desc": "<p>At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.</p><p>When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.</p><p>Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.</p><p>Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.</p>",
     "level": 2,
     "type": {
       "name": "Class Feature",
@@ -632,7 +632,7 @@
   {
     "name": "Channel Divinity: Turn Undead",
     "slug": "channel-divinity-turn-undead",
-    "desc": "<p>As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.\n</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.\n</p>",
+    "desc": "<p>As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p>",
     "level": 2,
     "type": {
       "name": "Class Feature",
@@ -650,7 +650,7 @@
   {
     "name": "Harness Divine Power",
     "slug": "harness-divine-power",
-    "desc": "<p>At 2nd level, you can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.\n</p>",
+    "desc": "<p>At 2nd level, you can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.</p>",
     "level": 2,
     "type": {
       "name": "Class Feature",
@@ -667,7 +667,7 @@
   },
   {
     "name": "Destroy Undead",
-    "desc": "<p>Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Cleric table above.\n</p>",
+    "desc": "<p>Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Cleric table above.</p>",
     "slug": "destroy-undead",
     "level": 5,
     "type": {
@@ -685,7 +685,7 @@
   },
   {
     "name": "Blessed Strikes",
-    "desc": "<p>Replaces the Divine Strike or Potent Spellcasting feature\n</p><p>When you reach 8th level, you are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.\n</p>",
+    "desc": "<p>Replaces the Divine Strike or Potent Spellcasting feature</p><p>When you reach 8th level, you are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</p>",
     "slug": "blessed-strikes",
     "level": 8,
     "type": {
@@ -703,7 +703,7 @@
   },
   {
     "name": "Divine Intervention",
-    "desc": "<p>Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.\n</p><p>Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.\n</p><p>At 20th level, your call for intervention succeeds automatically, no roll required.\n</p>",
+    "desc": "<p>Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.</p><p>Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.</p><p>At 20th level, your call for intervention succeeds automatically, no roll required.</p>",
     "slug": "divine-intervention",
     "level": 10,
     "type": {
@@ -735,10 +735,10 @@
     "level": 1,
     "slug": "druidic",
     "name": "Druidic",
-    "desc": "<p><You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.</p>>"
+    "desc": "<p>You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.</p>"
   },
   {
-    "slug": "Wild Shape",
+    "slug": "wild-shape",
     "name": "Wild Shape",
     "type": {
       "name": "Class Feature",
@@ -752,11 +752,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Starting at 2nd level, you can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.</p>\n\t<p>Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.</p>\n\t<table class=\"wiki-content-table\">\n\t<tr>\n\t<th colspan=\"4\">Beast Shapes</th>\n\t</tr>\n\t<tr>\n\t<th>Level</th>\n\t<th>Max. CR</th>\n\t<th>Limitations</th>\n\t<th>Example</th>\n\t</tr>\n\t<tr>\n\t<td>2nd</td>\n\t<td>1/4</td>\n\t<td>No flying or swimming speed</td>\n\t<td>Wolf</td>\n\t</tr>\n\t<tr>\n\t<td>4th</td>\n\t<td>1/2</td>\n\t<td>No flying speed</td>\n\t<td>Crocodile</td>\n\t</tr>\n\t<tr>\n\t<td>8th</td>\n\t<td>1</td>\n\t<td></td>\n\t<td>Giant eagle</td>\n\t</tr>\n\t</table>\n\t<p>You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.</p>\n\t<p>While you are transformed, the following rules apply:</p>\n\t<ul>\n\t<li>Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.</li>\n\t</ul>\n\t<ul>\n\t<li>When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form, For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.</li>\n\t</ul>\n\t<ul>\n\t<li>You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as <a href=\"http://dnd5e.wikidot.com/spell:call-lightning\">Call Lightning</a>, that you've already cast.</li>\n\t</ul>\n\t<ul>\n\t<li>You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.</li>\n\t</ul>\n\t<ul>\n\t<li>You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.</li>\n\t</ul>",
+    "desc": "<p>Starting at 2nd level, you can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.</p><p>Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.</p><table class='table'><tr><th colspan=\"4\">Beast Shapes</th></tr><tr><th>Level</th><th>Max. CR</th><th>Limitations</th><th>Example</th></tr><tr><td>2nd</td><td>1/4</td><td>No flying or swimming speed</td><td>Wolf</td></tr><tr><td>4th</td><td>1/2</td><td>No flying speed</td><td>Crocodile</td></tr><tr><td>8th</td><td>1</td><td></td><td>Giant eagle</td></tr></table><p>You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.</p><p>While you are transformed, the following rules apply:</p><ul><li>Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.</li></ul><ul><li>When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form, For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.</li></ul><ul><li>You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as Call Lightning, that you've already cast.</li></ul><ul><li>You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.</li></ul><ul><li>You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.</li></ul>",
     "level": 2
   },
   {
-    "slug": "Wild Companion",
+    "slug": "wild-companion",
     "name": "Wild Companion",
     "type": {
       "name": "Class Feature",
@@ -770,11 +770,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>At 2nd level, you gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the Find Familiar spell, without material components.\n</p><p>When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after a number of hours equal to half your druid level.\n</p>",
+    "desc": "<p>At 2nd level, you gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the Find Familiar spell, without material components.</p><p>When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after a number of hours equal to half your druid level.</p>",
     "level": 2
   },
   {
-    "slug": "Timeless Body",
+    "slug": "timeless-body-druid",
     "name": "Timeless Body",
     "type": {
       "name": "Class Feature",
@@ -788,11 +788,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>Starting at 18th level, the primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.\n</p>",
+    "desc": "<p>Starting at 18th level, the primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.</p>",
     "level": 18
   },
   {
-    "slug": "Beast Spells",
+    "slug": "beast-spells",
     "name": "Beast Spells",
     "type": {
       "name": "Class Feature",
@@ -807,10 +807,10 @@
       "name": "Player's Handbook"
     },
     "level": 18,
-    "desc": "<p>Beginning at 18th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.\n</p>"
+    "desc": "<p>Beginning at 18th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.</p>"
   },
   {
-    "slug": "Archdruid",
+    "slug": "archdruid",
     "name": "Archdruid",
     "type": {
       "name": "Class Feature",
@@ -825,10 +825,10 @@
       "name": "Player's Handbook"
     },
     "level": 20,
-    "desc": "<p>At 20th level, you can use your Wild Shape an unlimited number of times.\n</p><p>Additionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape.\n</p>"
+    "desc": "<p>At 20th level, you can use your Wild Shape an unlimited number of times.</p><p>Additionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape.</p>"
   },
   {
-    "slug": "Fighting Style",
+    "slug": "fighting-style-fighter",
     "name": "Fighting Style",
     "type": {
       "name": "Class Feature",
@@ -842,11 +842,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.\n</p>",
+    "desc": "<p>You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.</p>",
     "level": 1
   },
   {
-    "slug": "Second Wind",
+    "slug": "second-wind",
     "name": "Second Wind",
     "type": {
       "name": "Class Feature",
@@ -860,11 +860,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.\n</p><p>Once you use this feature, you must finish a short or long rest before you can use it again.\n</p>",
+    "desc": "<p>You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.</p><p>Once you use this feature, you must finish a short or long rest before you can use it again.</p>",
     "level": 1
   },
   {
-    "slug": "Action Surge",
+    "slug": "action-surge",
     "name": "Action Surge",
     "type": {
       "name": "Class Feature",
@@ -878,11 +878,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.\n</p><p>Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.\n</p>",
+    "desc": "<p>Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.</p><p>Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.</p>",
     "level": 2
   },
   {
-    "slug": "Martial Versatility",
+    "slug": "martial-versatility-fighter",
     "name": "Martial Versatility",
     "type": {
       "name": "Class Feature",
@@ -896,11 +896,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:</p>\n\t<ul>\n\t<li>Replace a fighting style you know with another fighting style available to fighters.</li>\n\t</ul>\n\t<ul>\n\t<li>If you know any maneuvers from the Battle Master archetype, you can replace one maneuver you know with a different maneuver.</li>\n\t</ul>",
+    "desc": "<p>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:</p><ul><li>Replace a fighting style you know with another fighting style available to fighters.</li></ul><ul><li>If you know any maneuvers from the Battle Master archetype, you can replace one maneuver you know with a different maneuver.</li></ul>",
     "level": 4
   },
   {
-    "slug": "Extra Attack",
+    "slug": "extra-attack-fighter",
     "name": "Extra Attack",
     "type": {
       "name": "Class Feature",
@@ -914,11 +914,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.\n</p><p>The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.\n</p>",
+    "desc": "<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p><p>The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.</p>",
     "level": 5
   },
   {
-    "slug": "Indomitable",
+    "slug": "indomitable",
     "name": "Indomitable",
     "type": {
       "name": "Class Feature",
@@ -932,11 +932,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.\n</p><p>You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.\n</p>",
+    "desc": "<p>Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.</p><p>You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</p>",
     "level": 9
   },
   {
-    "slug": "Unarmored Defense",
+    "slug": "unarmored-defense",
     "name": "Unarmored Defense",
     "type": {
       "name": "Class Feature",
@@ -950,11 +950,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.\n</p>",
+    "desc": "<p>Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.</p>",
     "level": 1
   },
   {
-    "slug": "Martial Arts",
+    "slug": "martial-arts",
     "name": "Martial Arts",
     "type": {
       "name": "Class Feature",
@@ -968,11 +968,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property.</p>\n\t<p>You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:</p>\n\t<ul>\n\t<li>You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.</li>\n\t</ul>\n\t<ul>\n\t<li>You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.</li>\n\t</ul>\n\t<ul>\n\t<li>When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.</li>\n\t</ul>\n\t<p>Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon on the <a href=\"http://dnd5e.wikidot.com/weapons\">Weapons</a> page.</p>",
+    "desc": "<p>At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property.</p><p>You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:</p><ul><li>You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.</li></ul><ul><li>You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.</li></ul><ul><li>When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.</li></ul><p>Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon on the Weapons page.</p>",
     "level": 1
   },
   {
-    "slug": "Ki",
+    "slug": "ki",
     "name": "Ki",
     "type": {
       "name": "Class Feature",
@@ -986,11 +986,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk table.</p>\n\t<p>You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more ki features as you gain levels in this class.</p>\n\t<p>When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.</p>\n\t<p>Some of your ki features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:</p>\n\t<p><strong>Ki save DC</strong> = 8 + your proficiency bonus + your Wisdom modifier</p>\n\t<ul>\n\t<li><strong>Flurry of Blows.</strong> Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.</li>\n\t</ul>\n\t<ul>\n\t<li><strong>Patient Defense.</strong> You can spend 1 ki point to take the Dodge action as a bonus action on your turn.</li>\n\t</ul>\n\t<ul>\n\t<li><strong>Step of the Wind.</strong> You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.</li>\n\t</ul>\n\t<",
+    "desc": "<p>Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk table.</p><p>You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more ki features as you gain levels in this class.</p><p>When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.</p><p>Some of your ki features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:</p><p><strong>Ki save DC</strong> = 8 + your proficiency bonus + your Wisdom modifier</p><ul><li><strong>Flurry of Blows.</strong> Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.</li></ul><ul><li><strong>Patient Defense.</strong> You can spend 1 ki point to take the Dodge action as a bonus action on your turn.</li></ul><ul><li><strong>Step of the Wind.</strong> You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.</li></ul><",
     "level": 2
   },
   {
-    "slug": "Unarmored Movement",
+    "slug": "unarmored-movement",
     "name": "Unarmored Movement",
     "type": {
       "name": "Class Feature",
@@ -1004,11 +1004,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.</p>\n\t<p>At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.</p>",
+    "desc": "<p>Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.</p><p>At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.</p>",
     "level": 2
   },
   {
-    "slug": "Dedicated Weapon",
+    "slug": "dedicated-weapon",
     "name": "Dedicated Weapon",
     "type": {
       "name": "Class Feature",
@@ -1022,11 +1022,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Also at 2nd level, you train yourself to use a variety of weapons as monk weapons, not just simple melee weapons and shortswords. Whenever you finish a short or long rest, you can touch one weapon, focus your ki on it, and then count that weapon as a monk weapon until you use this feature again.</p>\n\t<p>The chosen weapon must meet these criteria:</p>\n\t<ul>\n\t<li>The weapon must be a simple or martial weapon.</li>\n\t</ul>\n\t<ul>\n\t<li>You must be proficient with it.</li>\n\t</ul>\n\t<ul>\n\t<li>It must lack the heavy and special properties.</li>\n\t</ul>",
+    "desc": "<p>Also at 2nd level, you train yourself to use a variety of weapons as monk weapons, not just simple melee weapons and shortswords. Whenever you finish a short or long rest, you can touch one weapon, focus your ki on it, and then count that weapon as a monk weapon until you use this feature again.</p><p>The chosen weapon must meet these criteria:</p><ul><li>The weapon must be a simple or martial weapon.</li></ul><ul><li>You must be proficient with it.</li></ul><ul><li>It must lack the heavy and special properties.</li></ul>",
     "level": 2
   },
   {
-    "slug": "Deflect Missiles",
+    "slug": "deflect-missiles",
     "name": "Deflect Missiles",
     "type": {
       "name": "Class Feature",
@@ -1040,11 +1040,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your monk level.</p>\n\t<p>If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with a range of 20/60 using the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack.</p>",
+    "desc": "<p>Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your monk level.</p><p>If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with a range of 20/60 using the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack.</p>",
     "level": 3
   },
   {
-    "slug": "Ki-Fueled Attack",
+    "slug": "ki-fueled-attack",
     "name": "Ki-Fueled Attack",
     "type": {
       "name": "Class Feature",
@@ -1058,11 +1058,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Also at 3rd level, if you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.</p>",
+    "desc": "<p>Also at 3rd level, if you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.</p>",
     "level": 3
   },
   {
-    "slug": "Slow Fall",
+    "slug": "slow-fall",
     "name": "Slow Fall",
     "type": {
       "name": "Class Feature",
@@ -1076,11 +1076,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.</p>",
+    "desc": "<p>Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.</p>",
     "level": 4
   },
   {
-    "slug": "Quickened Healing",
+    "slug": "quickened-healing",
     "name": "Quickened Healing",
     "type": {
       "name": "Class Feature",
@@ -1094,11 +1094,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Also at 4th level, as an action, you can spend 2 ki points and roll a Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus.</p>",
+    "desc": "<p>Also at 4th level, as an action, you can spend 2 ki points and roll a Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus.</p>",
     "level": 4
   },
   {
-    "slug": "Extra Attack",
+    "slug": "extra-attack-monk",
     "name": "Extra Attack",
     "type": {
       "name": "Class Feature",
@@ -1112,11 +1112,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>",
+    "desc": "<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>",
     "level": 5
   },
   {
-    "slug": "Stunning Strike",
+    "slug": "stunning-strike",
     "name": "Stunning Strike",
     "type": {
       "name": "Class Feature",
@@ -1130,11 +1130,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.</p>",
+    "desc": "<p>Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.</p>",
     "level": 5
   },
   {
-    "slug": "Focused Aim",
+    "slug": "focused-aim",
     "name": "Focused Aim",
     "type": {
       "name": "Class Feature",
@@ -1148,11 +1148,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Also at 5th level, when you miss with an attack roll, you can spend 1 to 3 ki points to increase your attack roll by 2 for each of these ki points you spend, potentially turning the miss into a hit.</p>",
+    "desc": "<p>Also at 5th level, when you miss with an attack roll, you can spend 1 to 3 ki points to increase your attack roll by 2 for each of these ki points you spend, potentially turning the miss into a hit.</p>",
     "level": 5
   },
   {
-    "slug": "Ki-Empowered Strikes",
+    "slug": "ki-empowered-strikes",
     "name": "Ki-Empowered Strikes",
     "type": {
       "name": "Class Feature",
@@ -1166,11 +1166,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</p>",
+    "desc": "<p>Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</p>",
     "level": 6
   },
   {
-    "slug": "Evasion",
+    "slug": "evasion-monk",
     "name": "Evasion",
     "type": {
       "name": "Class Feature",
@@ -1184,11 +1184,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</p>",
+    "desc": "<p>At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</p>",
     "level": 7
   },
   {
-    "slug": "Stillness of Mind",
+    "slug": "stillness-of-mind",
     "name": "Stillness of Mind",
     "type": {
       "name": "Class Feature",
@@ -1202,11 +1202,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.</p>",
+    "desc": "<p>Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.</p>",
     "level": 7
   },
   {
-    "slug": "Purity of Body",
+    "slug": "purity-of-body",
     "name": "Purity of Body",
     "type": {
       "name": "Class Feature",
@@ -1220,11 +1220,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>At 10th level, your mastery of the ki flowing through you makes you immune to disease and poison.</p>",
+    "desc": "<p>At 10th level, your mastery of the ki flowing through you makes you immune to disease and poison.</p>",
     "level": 10
   },
   {
-    "slug": "Tongue of the Sun and Moon",
+    "slug": "tongue-of-the-sun-and-moon",
     "name": "Tongue of the Sun and Moon",
     "type": {
       "name": "Class Feature",
@@ -1238,11 +1238,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Starting at 13th level, you learn to touch the ki of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand what you say.</p>",
+    "desc": "<p>Starting at 13th level, you learn to touch the ki of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand what you say.</p>",
     "level": 13
   },
   {
-    "slug": "Diamond Soul",
+    "slug": "diamond-soul",
     "name": "Diamond Soul",
     "type": {
       "name": "Class Feature",
@@ -1256,11 +1256,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Beginning at 14th level, your mastery of ki grants you proficiency in all saving throws.</p>\n\t<p>Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.</p>",
+    "desc": "<p>Beginning at 14th level, your mastery of ki grants you proficiency in all saving throws.</p><p>Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.</p>",
     "level": 14
   },
   {
-    "slug": "Timeless Body",
+    "slug": "timeless-body-monk",
     "name": "Timeless Body",
     "type": {
       "name": "Class Feature",
@@ -1274,11 +1274,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water.</p>",
+    "desc": "<p>At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water.</p>",
     "level": 15
   },
   {
-    "slug": "Empty Body",
+    "slug": "empty-body",
     "name": "Empty Body",
     "type": {
       "name": "Class Feature",
@@ -1292,11 +1292,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.</p>\n\t<p>Additionally, you can spend 8 ki points to cast the <em><a href=\"/spell:astral-projection\">astral projection</a></em> spell, without needing material components. When you do so, you can't take any other creatures with you.</p>",
+    "desc": "<p>Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.</p><p>Additionally, you can spend 8 ki points to cast the <em>astral projection</em> spell, without needing material components. When you do so, you can't take any other creatures with you.</p>",
     "level": 18
   },
   {
-    "slug": "Perfect Self",
+    "slug": "perfect-self",
     "name": "Perfect Self",
     "type": {
       "name": "Class Feature",
@@ -1310,7 +1310,7 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>At 20th level, when you roll for initiative and have no ki points remaining, you regain 4 ki points.</p>",
+    "desc": "<p>At 20th level, when you roll for initiative and have no ki points remaining, you regain 4 ki points.</p>",
     "level": 20
   },
   {
@@ -1326,9 +1326,9 @@
       "name": "Paladin",
       "slug": "paladin"
     },
-    "slug": "Divine Sense",
+    "slug": "divine-sense",
     "name": "Divine Sense",
-    "desc": "\n<p>The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the <a href=\"http://dnd5e.wikidot.com/spell:hallow\">Hallow</a> spell.</p>\n\t<p>You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.</p>\n\t<h3 id=\"toc5\"><span>Lay on Hands</span></h3>\n\t<p>Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level x 5.</p>\n\t<p>As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.</p>\n\t<p>Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.</p>\n\t<p>This feature has no effect on undead and constructs.</p>",
+    "desc": "<p>The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the Hallow spell.</p><p>You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.</p><h3 id=\"toc5\"><span>Lay on Hands</span></h3><p>Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level x 5.</p><p>As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.</p><p>Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.</p><p>This feature has no effect on undead and constructs.</p>",
     "level": 1
   },
   {
@@ -1344,9 +1344,9 @@
       "name": "Paladin",
       "slug": "paladin"
     },
-    "slug": "Lay on Hands",
+    "slug": "lay-on-hands",
     "name": "Lay on Hands",
-    "desc": "\n<p>Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level x 5.</p>\n\t<p>As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.</p>\n\t<p>Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.</p>\n\t<p>This feature has no effect on undead and constructs.</p>",
+    "desc": "<p>Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level x 5.</p><p>As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.</p><p>Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.</p><p>This feature has no effect on undead and constructs.</p>",
     "level": 1
   },
   {
@@ -1362,9 +1362,9 @@
       "name": "Paladin",
       "slug": "paladin"
     },
-    "slug": "Fighting Style",
+    "slug": "fighting-style-paladin",
     "name": "Fighting Style",
-    "desc": "<p>Starting at 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.\n</p>",
+    "desc": "<p>Starting at 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.</p>",
     "level": 2
   },
   {
@@ -1380,9 +1380,9 @@
       "name": "Paladin",
       "slug": "paladin"
     },
-    "slug": "Divine Smite",
+    "slug": "divine-smite",
     "name": "Divine Smite",
-    "desc": "\n<p>Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend, to a maximum of 6d8.</p>",
+    "desc": "<p>Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend, to a maximum of 6d8.</p>",
     "level": 2
   },
   {
@@ -1398,9 +1398,9 @@
       "name": "Paladin",
       "slug": "paladin"
     },
-    "slug": "Divine Health",
+    "slug": "divine-health",
     "name": "Divine Health",
-    "desc": "<p>By 3rd level, the divine magic flowing through you makes you immune to disease.</p>\r\n",
+    "desc": "<p>By 3rd level, the divine magic flowing through you makes you immune to disease.</p>",
     "level": 3
   },
   {
@@ -1416,9 +1416,9 @@
       "name": "Paladin",
       "slug": "paladin"
     },
-    "slug": "Harness Divine Power",
+    "slug": "harness-divine-power",
     "name": "Harness Divine Power",
-    "desc": "\n<p>Also at 3rd level, you can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 3rd level, once; 7th level, twice; and 15th level, thrice. You regain all expended uses when you finish a long rest.</p>",
+    "desc": "<p>Also at 3rd level, you can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 3rd level, once; 7th level, twice; and 15th level, thrice. You regain all expended uses when you finish a long rest.</p>",
     "level": 3
   },
   {
@@ -1434,9 +1434,9 @@
       "name": "Paladin",
       "slug": "paladin"
     },
-    "slug": "Martial Versatility",
+    "slug": "martial-versatility-paladin",
     "name": "Martial Versatility",
-    "desc": "\n<p>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.</p>",
+    "desc": "<p>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.</p>",
     "level": 4
   },
   {
@@ -1452,9 +1452,9 @@
       "name": "Paladin",
       "slug": "paladin"
     },
-    "slug": "Extra Attack",
+    "slug": "extra-attack-paladin",
     "name": "Extra Attack",
-    "desc": "\n<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>",
+    "desc": "<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>",
     "level": 5
   },
   {
@@ -1470,9 +1470,9 @@
       "name": "Paladin",
       "slug": "paladin"
     },
-    "slug": "Aura of Protection",
+    "slug": "aura-of-protection",
     "name": "Aura of Protection",
-    "desc": "\n<p>Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.</p>\n\t<p>At 18th level, the range of this aura increases to 30 feet.</p>",
+    "desc": "<p>Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.</p><p>At 18th level, the range of this aura increases to 30 feet.</p>",
     "level": 6
   },
   {
@@ -1488,9 +1488,9 @@
       "name": "Paladin",
       "slug": "paladin"
     },
-    "slug": "Aura of Courage",
+    "slug": "aura-of-courage",
     "name": "Aura of Courage",
-    "desc": "\n<p>Starting at 10th level, you and friendly creatures within 10 feet of you can't be frightened while you are conscious.</p>\n\t<p>At 18th level, the range of this aura increases to 30 feet.</p>",
+    "desc": "<p>Starting at 10th level, you and friendly creatures within 10 feet of you can't be frightened while you are conscious.</p><p>At 18th level, the range of this aura increases to 30 feet.</p>",
     "level": 10
   },
   {
@@ -1506,9 +1506,9 @@
       "name": "Paladin",
       "slug": "paladin"
     },
-    "slug": "Improved Divine Smite",
+    "slug": "improved-Divine-smite",
     "name": "Improved Divine Smite",
-    "desc": "\n<p>By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage.</p>",
+    "desc": "<p>By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage.</p>",
     "level": 11
   },
   {
@@ -1524,13 +1524,13 @@
       "name": "Paladin",
       "slug": "paladin"
     },
-    "slug": "Cleansing Touch",
+    "slug": "cleansing-touch",
     "name": "Cleansing Touch",
-    "desc": "\n<p>Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.</p>\n\t<p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.</p>",
+    "desc": "<p>Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.</p><p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.</p>",
     "level": 14
   },
   {
-    "slug": "Favored Enemy",
+    "slug": "favored-enemy",
     "name": "Favored Enemy",
     "type": {
       "name": "Class Feature",
@@ -1544,11 +1544,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.</p>\r\n<p>Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.</p>\r\n<p>You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.</p>\r\n<p>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.</p>\r\n<p>You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.</p>\r\n",
+    "desc": "<p>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.</p><p>Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.</p><p>You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.</p><p>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.</p><p>You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.</p>",
     "level": 1
   },
   {
-    "slug": "Favored Foe",
+    "slug": "favored-foe",
     "name": "Favored Foe",
     "type": {
       "name": "Class Feature",
@@ -1562,11 +1562,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>This 1st-level feature replaces the Favored Enemy feature and works with the Foe Slayer feature. You gain no benefit from the replaced feature and don't qualify for anything in the game that requires it.</p>\r\n<p>When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your concentration (as if you were concentrating on a spell).</p>\r\n<p>The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you increase that damage by 1d4.</p>\r\n<p>You can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p>\r\n<p>This feature's extra damage increases when you reach certain levels in this class: to 1d6 at 6th level and to 1d8 at 14th level.</p>\r\n",
+    "desc": "<p>This 1st-level feature replaces the Favored Enemy feature and works with the Foe Slayer feature. You gain no benefit from the replaced feature and don't qualify for anything in the game that requires it.</p><p>When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your concentration (as if you were concentrating on a spell).</p><p>The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you increase that damage by 1d4.</p><p>You can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p><p>This feature's extra damage increases when you reach certain levels in this class: to 1d6 at 6th level and to 1d8 at 14th level.</p>",
     "level": 1
   },
   {
-    "slug": "Natural Explorer",
+    "slug": "natural-explorer",
     "name": "Natural Explorer",
     "type": {
       "name": "Class Feature",
@@ -1580,11 +1580,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Also at 1st level, you are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.</p>\n\t<p>While traveling for an hour or more in your favored terrain, you gain the following benefits:</p>\n\t<ul>\n\t<li>Difficult terrain doesn’t slow your group’s travel.</li>\n\t<li>Your group can’t become lost except by magical means.</li>\n\t<li>Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</li>\n\t<li>If you are traveling alone, you can move stealthily at a normal pace.</li>\n\t<li>When you forage, you find twice as much food as you normally would.</li>\n\t<li>While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</li>\n\t</ul>\n\t<p>You choose additional favored terrain types at 6th and 10th level.</p>",
+    "desc": "<p>Also at 1st level, you are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.</p><p>While traveling for an hour or more in your favored terrain, you gain the following benefits:</p><ul><li>Difficult terrain doesn't slow your group's travel.</li><li>Your group can't become lost except by magical means.</li><li>Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</li><li>If you are traveling alone, you can move stealthily at a normal pace.</li><li>When you forage, you find twice as much food as you normally would.</li><li>While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</li></ul><p>You choose additional favored terrain types at 6th and 10th level.</p>",
     "level": 1
   },
   {
-    "slug": "Deft Explorer",
+    "slug": "deft-explorer",
     "name": "Deft Explorer",
     "type": {
       "name": "Class Feature",
@@ -1598,11 +1598,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>This 1st-level feature replaces the Natural Explorer feature. You gain no benefit from the replaced feature and don't qualify for anything in the game that requires it.</p>\n\t<p>You are an unsurpassed explorer and survivor, both in the wilderness and in dealing with others on your travels. You gain the Canny benefit below, and you gain an additional benefit when you reach 6th level and 10th level in this class.</p>\n\t<h6 id=\"toc8\"><span>Canny (1st Level)</span></h6>\n\t<p>Choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make using the chosen skill.</p>\n\t<p>You can also speak, read, and write 2 additional languages of your choice.</p>\n\t<h6 id=\"toc9\"><span>Roving (6th Level)</span></h6>\n\t<p>Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.</p>\n\t<h6 id=\"toc10\"><span>Tireless (10th Level)</span></h6>\n\t<p>As an action, you can give yourself a number of temporary hit points equal to 1d8 + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p>\n\t<p>In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.</p>",
+    "desc": "<p>This 1st-level feature replaces the Natural Explorer feature. You gain no benefit from the replaced feature and don't qualify for anything in the game that requires it.</p><p>You are an unsurpassed explorer and survivor, both in the wilderness and in dealing with others on your travels. You gain the Canny benefit below, and you gain an additional benefit when you reach 6th level and 10th level in this class.</p><h6 id=\"toc8\"><span>Canny (1st Level)</span></h6><p>Choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make using the chosen skill.</p><p>You can also speak, read, and write 2 additional languages of your choice.</p><h6 id=\"toc9\"><span>Roving (6th Level)</span></h6><p>Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.</p><h6 id=\"toc10\"><span>Tireless (10th Level)</span></h6><p>As an action, you can give yourself a number of temporary hit points equal to 1d8 + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p><p>In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.</p>",
     "level": 1
   },
   {
-    "slug": "Fighting Style",
+    "slug": "fighting-style-ranger",
     "name": "Fighting Style",
     "type": {
       "name": "Class Feature",
@@ -1616,11 +1616,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.</p>",
+    "desc": "<p>At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.</p>",
     "level": 2
   },
   {
-    "slug": "Primeval Awareness",
+    "slug": "primeval-awareness",
     "name": "Primeval Awareness",
     "type": {
       "name": "Class Feature",
@@ -1634,12 +1634,12 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn’t reveal the creatures’ location or number.</p>",
+    "desc": "<p>Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.</p>",
     "level": 3
   },
   {
-    "slug": "Primal Awareness ",
-    "name": "Primal Awareness ",
+    "slug": "primal-awareness",
+    "name": "Primal Awareness",
     "type": {
       "name": "Class Feature",
       "slug": "class_feature"
@@ -1652,11 +1652,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>This 3rd-level feature replaces the Primeval Awareness feature. You gain no benefit from the replaced feature and don't qualify for anything in the game that requires it.</p>\n\t<p>You can focus your awareness through the interconnections of nature: you learn additional spells when you reach certain levels in this class if you don't already know them, as shown in the Primal Awareness Spells table. These spells don't count against the number of ranger spells you know.</p>\n\t<table class=\"wiki-content-table\">\n\t<tr>\n\t<th>Primal Awareness Spells</th>\n\t<th></th>\n\t</tr>\n\t<tr>\n\t<th>Ranger Level</th>\n\t<th>Spell</th>\n\t</tr>\n\t<tr>\n\t<td>3rd</td>\n\t<td><a href=\"http://dnd5e.wikidot.com/spell:speak-with-animals\">Speak with Animals</a></td>\n\t</tr>\n\t<tr>\n\t<td>5th</td>\n\t<td><a href=\"http://dnd5e.wikidot.com/spell:beast-sense\">Beast Sense</a></td>\n\t</tr>\n\t<tr>\n\t<td>9th</td>\n\t<td><a href=\"http://dnd5e.wikidot.com/spell:speak-with-plants\">Speak with Plants</a></td>\n\t</tr>\n\t<tr>\n\t<td>13th</td>\n\t<td><a href=\"http://dnd5e.wikidot.com/spell:locate-creature\">Locate Creature</a></td>\n\t</tr>\n\t<tr>\n\t<td>17th</td>\n\t<td><a href=\"http://dnd5e.wikidot.com/spell:commune-with-nature\">Commune with Nature</a></td>\n\t</tr>\n\t</table>\n\t<p>You can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a long rest.</p>",
+    "desc": "<p>This 3rd-level feature replaces the Primeval Awareness feature. You gain no benefit from the replaced feature and don't qualify for anything in the game that requires it.</p><p>You can focus your awareness through the interconnections of nature: you learn additional spells when you reach certain levels in this class if you don't already know them, as shown in the Primal Awareness Spells table. These spells don't count against the number of ranger spells you know.</p><table class='table'><tr><th>Primal Awareness Spells</th><th></th></tr><tr><th>Ranger Level</th><th>Spell</th></tr><tr><td>3rd</td><td>Speak with Animals</td></tr><tr><td>5th</td><td>Beast Sense</td></tr><tr><td>9th</td><td>Speak with Plants</td></tr><tr><td>13th</td><td>Locate Creature</td></tr><tr><td>17th</td><td>Commune with Nature</td></tr></table><p>You can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a long rest.</p>",
     "level": 3
   },
   {
-    "slug": "Martial Versatility",
+    "slug": "martial-versatility-ranger",
     "name": "Martial Versatility",
     "type": {
       "name": "Class Feature",
@@ -1670,11 +1670,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to rangers. This replacement represents a shift of focus in your martial practice.</p>",
+    "desc": "<p>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to rangers. This replacement represents a shift of focus in your martial practice.</p>",
     "level": 4
   },
   {
-    "slug": "Extra Attack",
+    "slug": "extra-attack-ranger",
     "name": "Extra Attack",
     "type": {
       "name": "Class Feature",
@@ -1688,11 +1688,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>",
+    "desc": "<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>",
     "level": 5
   },
   {
-    "slug": "Land's Stride",
+    "slug": "lands-stride",
     "name": "Land's Stride",
     "type": {
       "name": "Class Feature",
@@ -1706,11 +1706,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.</p>\n\t<p>In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the <a href=\"http://dnd5e.wikidot.com/spell:entangle\">Entangle</a> spell.</p>",
+    "desc": "<p>Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.</p><p>In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the Entangle spell.</p>",
     "level": 8
   },
   {
-    "slug": "Hide in Plain Sight",
+    "slug": "hide-in-plain-sight",
     "name": "Hide in Plain Sight",
     "type": {
       "name": "Class Feature",
@@ -1724,11 +1724,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.</p>\n\t<p>Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.</p>",
+    "desc": "<p>Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.</p><p>Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.</p>",
     "level": 10
   },
   {
-    "slug": "Nature's Veil",
+    "slug": "natures-veil",
     "name": "Nature's Veil",
     "type": {
       "name": "Class Feature",
@@ -1742,11 +1742,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>This 10th-level feature replaces the Hide in Plain Sight feature. You gain no benefit from the replaced feature and don't qualify for anything in the game that requires it.</p>\n\t<p>You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become invisible, along with any equipment you are wearing or carrying, until the start of your next turn.</p>\n\t<p>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p>",
+    "desc": "<p>This 10th-level feature replaces the Hide in Plain Sight feature. You gain no benefit from the replaced feature and don't qualify for anything in the game that requires it.</p><p>You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become invisible, along with any equipment you are wearing or carrying, until the start of your next turn.</p><p>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p>",
     "level": 10
   },
   {
-    "slug": "Vanish",
+    "slug": "vanish",
     "name": "Vanish",
     "type": {
       "name": "Class Feature",
@@ -1760,11 +1760,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.</p>",
+    "desc": "<p>Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.</p>",
     "level": 14
   },
   {
-    "slug": "Feral Senses",
+    "slug": "feral-senses",
     "name": "Feral Senses",
     "type": {
       "name": "Class Feature",
@@ -1778,11 +1778,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.</p>\n\t<p>You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.</p>",
+    "desc": "<p>At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.</p><p>You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.</p>",
     "level": 18
   },
   {
-    "slug": "Foe Slayer",
+    "slug": "foe-slayer",
     "name": "Foe Slayer",
     "type": {
       "name": "Class Feature",
@@ -1796,11 +1796,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.</p>",
+    "desc": "<p>At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.</p>",
     "level": 20
   },
   {
-    "slug": "Expertise",
+    "slug": "expertise",
     "name": "Expertise",
     "type": {
       "name": "Class Feature",
@@ -1814,11 +1814,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.</p>\r\n<p>At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.</p>\r\n",
+    "desc": "<p>At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.</p><p>At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.</p>",
     "level": 1
   },
   {
-    "slug": "Sneak Attack",
+    "slug": "sneak-attack",
     "name": "Sneak Attack",
     "type": {
       "name": "Class Feature",
@@ -1832,11 +1832,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.</p>\r\n<p>You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.</p>\r\n<p>The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.</p>\r\n",
+    "desc": "<p>Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.</p><p>You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.</p><p>The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.</p>",
     "level": 1
   },
   {
-    "slug": "Thieves' Cant",
+    "slug": "thieves-cant",
     "name": "Thieves' Cant",
     "type": {
       "name": "Class Feature",
@@ -1850,11 +1850,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.</p>\r\n<p>In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.</p>\r\n",
+    "desc": "<p>During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.</p><p>In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.</p>",
     "level": 1
   },
   {
-    "slug": "Cunning Action",
+    "slug": "cunning-action",
     "name": "Cunning Action",
     "type": {
       "name": "Class Feature",
@@ -1868,11 +1868,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.</p>\r\n",
+    "desc": "<p>Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.</p>",
     "level": 2
   },
   {
-    "slug": "Steady Aim",
+    "slug": "steady-aim",
     "name": "Steady Aim",
     "type": {
       "name": "Class Feature",
@@ -1886,11 +1886,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>At 3rd level, as a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.</p>\r\n",
+    "desc": "<p>At 3rd level, as a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.</p>",
     "level": 3
   },
   {
-    "slug": "Uncanny Dodge",
+    "slug": "uncanny-dodge",
     "name": "Uncanny Dodge",
     "type": {
       "name": "Class Feature",
@@ -1904,11 +1904,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</p>\r\n",
+    "desc": "<p>Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</p>",
     "level": 5
   },
   {
-    "slug": "Evasion",
+    "slug": "evasion-rogue",
     "name": "Evasion",
     "type": {
       "name": "Class Feature",
@@ -1922,11 +1922,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an <a href=\"http://dnd5e.wikidot.com/spell:ice-storm\">Ice Storm</a> spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</p>\r\n",
+    "desc": "<p>Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an Ice Storm spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</p>",
     "level": 7
   },
   {
-    "slug": "Reliable Talent",
+    "slug": "reliable-talent",
     "name": "Reliable Talent",
     "type": {
       "name": "Class Feature",
@@ -1940,11 +1940,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.</p>\r\n",
+    "desc": "<p>By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.</p>",
     "level": 11
   },
   {
-    "slug": "Blindsense",
+    "slug": "blindsense",
     "name": "Blindsense",
     "type": {
       "name": "Class Feature",
@@ -1958,11 +1958,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.</p>\r\n",
+    "desc": "<p>Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.</p>",
     "level": 14
   },
   {
-    "slug": "Slippery Mind",
+    "slug": "slippery-mind",
     "name": "Slippery Mind",
     "type": {
       "name": "Class Feature",
@@ -1976,11 +1976,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws.</p>\r\n",
+    "desc": "<p>By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws.</p>",
     "level": 15
   },
   {
-    "slug": "Elusive",
+    "slug": "elusive",
     "name": "Elusive",
     "type": {
       "name": "Class Feature",
@@ -1994,11 +1994,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.</p>\r\n",
+    "desc": "<p>Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.</p>",
     "level": 18
   },
   {
-    "slug": "Stroke of Luck",
+    "slug": "stroke-of-luck",
     "name": "Stroke of Luck",
     "type": {
       "name": "Class Feature",
@@ -2012,11 +2012,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.</p>\r\n<p>Once you use this feature, you can't use it again until you finish a short or long rest.</p>\r\n",
+    "desc": "<p>At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p>",
     "level": 20
   },
   {
-    "slug": "Font of Magic",
+    "slug": "font-of-magic",
     "name": "Font of Magic",
     "type": {
       "name": "Class Feature",
@@ -2030,11 +2030,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.</p>\n\t<ul>\n\t<li><strong>Sorcery Points.</strong> You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer table. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest.</li>\n\t</ul>\n\t<ul>\n\t<li><strong>Flexible Casting.</strong> You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.\n\t<ul>\n\t<li><strong><em>Creating Spell Slots.</em></strong> You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th. Any spell slot you create with this feature vanishes when you finish a long rest.</li>\n\t<li><strong><em>Converting a Spell Slot to Sorcery Points.</em></strong> As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.</li>\n\t</ul>\n\t</li>\n\t</ul>\n\t<table class=\"wiki-content-table\">\n\t<tr>\n\t<th colspan=\"2\">Creating Spell Slots</th>\n\t</tr>\n\t<tr>\n\t<th>Spell Slot Level</th>\n\t<th>Sorcery Point Cost</th>\n\t</tr>\n\t<tr>\n\t<td>1st</td>\n\t<td>2</td>\n\t</tr>\n\t<tr>\n\t<td>2nd</td>\n\t<td>3</td>\n\t</tr>\n\t<tr>\n\t<td>3rd</td>\n\t<td>5</td>\n\t</tr>\n\t<tr>\n\t<td>4th</td>\n\t<td>6</td>\n\t</tr>\n\t<tr>\n\t<td>5th</td>\n\t<td>7</td>\n\t</tr>\n\t</table>",
+    "desc": "<p>At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.</p><ul><li><strong>Sorcery Points.</strong> You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer table. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest.</li></ul><ul><li><strong>Flexible Casting.</strong> You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.<ul><li><strong><em>Creating Spell Slots.</em></strong> You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th. Any spell slot you create with this feature vanishes when you finish a long rest.</li><li><strong><em>Converting a Spell Slot to Sorcery Points.</em></strong> As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.</li></ul></li></ul><table class='table'><tr><th colspan=\"2\">Creating Spell Slots</th></tr><tr><th>Spell Slot Level</th><th>Sorcery Point Cost</th></tr><tr><td>1st</td><td>2</td></tr><tr><td>2nd</td><td>3</td></tr><tr><td>3rd</td><td>5</td></tr><tr><td>4th</td><td>6</td></tr><tr><td>5th</td><td>7</td></tr></table>",
     "level": 2
   },
   {
-    "slug": "Metamagic",
+    "slug": "metamagic",
     "name": "Metamagic",
     "type": {
       "name": "Class Feature",
@@ -2048,11 +2048,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.</p>\n\t<p>You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.</p>",
+    "desc": "<p>At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.</p><p>You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.</p>",
     "level": 3
   },
   {
-    "slug": "Sorcerous Versatility",
+    "slug": "sorcerous-versatility",
     "name": "Sorcerous Versatility",
     "type": {
       "name": "Class Feature",
@@ -2066,11 +2066,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>When you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing the magic within you flowing in new ways:</p>\r\n<ul>\r\n<li>Replace one of the options you chose for the Metamagic feature with a different Metamagic option available to you.</li>\r\n</ul>\r\n<ul>\r\n<li>Replace one cantrip you learned from this class' spellcasting feature with another cantrip from the sorcerer spell list.</li>\r\n</ul>",
+    "desc": "<p>When you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing the magic within you flowing in new ways:</p><ul><li>Replace one of the options you chose for the Metamagic feature with a different Metamagic option available to you.</li></ul><ul><li>Replace one cantrip you learned from this class' spellcasting feature with another cantrip from the sorcerer spell list.</li></ul>",
     "level": 4
   },
   {
-    "slug": "Magical Guidance",
+    "slug": "magical guidance",
     "name": "Magical Guidance",
     "type": {
       "name": "Class Feature",
@@ -2084,11 +2084,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>When you reach 5th level, you can tap into your inner wellspring of magic to try and conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the d20, and you must use the new roll, potentially turning the failure into a success.</p>\r\n",
+    "desc": "<p>When you reach 5th level, you can tap into your inner wellspring of magic to try and conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the d20, and you must use the new roll, potentially turning the failure into a success.</p>",
     "level": 5
   },
   {
-    "slug": "Sorcerous Restoration",
+    "slug": "sorcerous-restoration",
     "name": "Sorcerous Restoration",
     "type": {
       "name": "Class Feature",
@@ -2102,11 +2102,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.</p>\r\n",
+    "desc": "<p>At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.</p>",
     "level": 20
   },
   {
-    "slug": "Eldritch Invocations",
+    "slug": "eldritch-invocations",
     "name": "Eldritch Invocations",
     "type": {
       "name": "Class Feature",
@@ -2120,11 +2120,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>In your study of occult lore, you have unearthed <a href=\"/warlock:eldritch-invocations\">Eldritch Invocations</a>, fragments of forbidden knowledge that imbue you with an abiding magical ability.</p>\r\n<p>At 2nd level, you gain two eldritch invocations of your choice. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table. A level prerequisite refers to your level in this class.</p>\r\n<p>Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.</p>\r\n",
+    "desc": "<p>In your study of occult lore, you have unearthed Eldritch Invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.</p><p>At 2nd level, you gain two eldritch invocations of your choice. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table. A level prerequisite refers to your level in this class.</p><p>Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.</p>",
     "level": 2
   },
   {
-    "slug": "Pact Boon",
+    "slug": "pact-boon",
     "name": "Pact Boon",
     "type": {
       "name": "Class Feature",
@@ -2138,11 +2138,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "\n<p>At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.</p>",
+    "desc": "<p>At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.</p>",
     "level": 3
   },
   {
-    "slug": "Eldritch Versatility",
+    "slug": "eldritch-versatility",
     "name": "Eldritch Versatility",
     "type": {
       "name": "Class Feature",
@@ -2156,11 +2156,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change of focus in your occult studies:</p>\r\n<ul>\r\n<li>Replace one cantrip you learned from this class's Pact Magic feature with another cantrip from the warlock spell list.</li>\r\n</ul>\r\n<ul>\r\n<li>Replace the option you chose for the Pact Boon feature with one of that feature's other options.</li>\r\n</ul>\r\n<ul>\r\n<li>If you're 12th level or higher, replace one spell from your Mystic Arcanum feature with another warlock spell of the same level.</li>\r\n</ul>\r\n<p>If this change makes you ineligible for any of your Eldritch Invocations, you must also replace them now, choosing invocations for which you qualify.</p>\r\n",
+    "desc": "<p>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change of focus in your occult studies:</p><ul><li>Replace one cantrip you learned from this class's Pact Magic feature with another cantrip from the warlock spell list.</li></ul><ul><li>Replace the option you chose for the Pact Boon feature with one of that feature's other options.</li></ul><ul><li>If you're 12th level or higher, replace one spell from your Mystic Arcanum feature with another warlock spell of the same level.</li></ul><p>If this change makes you ineligible for any of your Eldritch Invocations, you must also replace them now, choosing invocations for which you qualify.</p>",
     "level": 4
   },
   {
-    "slug": "Mystic Arcanum",
+    "slug": "mystic-arcanum",
     "name": "Mystic Arcanum",
     "type": {
       "name": "Class Feature",
@@ -2174,11 +2174,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th-level spell from the warlock spell list as this arcanum.</p>\r\n<p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</p>\r\n<p>At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.</p>\r\n",
+    "desc": "<p>At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th-level spell from the warlock spell list as this arcanum.</p><p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</p><p>At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.</p>",
     "level": 11
   },
   {
-    "slug": "Eldritch Master",
+    "slug": "eldritch-master",
     "name": "Eldritch Master",
     "type": {
       "name": "Class Feature",
@@ -2192,11 +2192,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again.</p>\r\n",
+    "desc": "<p>At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again.</p>",
     "level": 20
   },
   {
-    "slug": "Arcane Recovery",
+    "slug": "arcane-recovery",
     "name": "Arcane Recovery",
     "type": {
       "name": "Class Feature",
@@ -2210,10 +2210,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.</p>\r\n<p>For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.</p>\r\n"
+    "desc": "<p>You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.</p><p>For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.</p>",
+    "level": 1
   },
   {
-    "slug": "Cantrip Formulas",
+    "slug": "cantrip-formulas",
     "name": "Cantrip Formulas",
     "type": {
       "name": "Class Feature",
@@ -2227,10 +2228,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>At 3rd level, you have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list.</p>\r\n"
+    "desc": "<p>At 3rd level, you have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list.</p>",
+    "level": 3
   },
   {
-    "slug": "Spell Mastery",
+    "slug": "spell-mastery",
     "name": "Spell Mastery",
     "type": {
       "name": "Class Feature",
@@ -2244,10 +2246,11 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.</p>\r\n<p>By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.</p>\r\n"
+    "desc": "<p>At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.</p><p>By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.</p>",
+    "level": 18
   },
   {
-    "slug": "Signature Spells",
+    "slug": "signature-spells",
     "name": "Signature Spells",
     "type": {
       "name": "Class Feature",
@@ -2261,6 +2264,7 @@
       "slug": "PHB",
       "name": "Player's Handbook"
     },
-    "desc": "<p>When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.</p>\r\n<p>If you want to cast either spell at a higher level, you must expend a spell slot as normal.</p>\r\n"
+    "desc": "<p>When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.</p><p>If you want to cast either spell at a higher level, you must expend a spell slot as normal.</p>",
+    "level": 20
   }
 ]

@@ -1,8 +1,10 @@
 import json
 
+type_name = input("Enter deck name:")
+
 print("Processando")
 try:
-    with open("core/artifact/deck/index.json", 'r') as input_f:
+    with open("core/artifact/deck/" + type_name + ".json", 'r') as input_f:
         card_data = json.load(input_f)
 except Exception as e:
     print("open - index.json")

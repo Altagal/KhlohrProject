@@ -1,0 +1,44 @@
+<div class="card-header">
+    <div class="card-head-row">
+        <div class="card-title">{% if card.type.slug == "subclass"%}{{card.class.name}}: {% endif %}{{card.name}}</div>
+        <div class="card-tools">
+            <button class="btn btn-danger" id="store_card"><i class="fa fa-print"></i></button>
+        </div>
+    </div>
+
+    <div class="card-head-row">
+        <div class="card-category mt-0">{{card.type.name}} {% if card.type.slug == "class_feature"%} - {{card.class.name}} {{card.level}}º Level {% endif %}{% if card.type.slug == "spell"%} - {% if card.level == 0 %}Cantrip{% else %}{{ card.level }}º level{% endif %}
+            of
+            {{card.magic_school.name}}
+            {% if card.is_ritual or card.is_chronomancy or card.is_renaissance %}
+            -
+            {% endif %}
+            {% if card.is_ritual %}
+            Ritual
+            {% endif %}
+            {% if card.is_chronomancy %}
+            Chronomancy
+            {% endif %}
+            {% if card.is_renaissance %}
+            Renaissance
+            {% endif %}{% endif %}
+        </div>
+    </div>
+</div>
+<div class="card-body">
+    {% if card.type.slug == "spell" %}
+    {% include 'cardviewer/card_spell.html'%}
+    {% elif card.type.slug == "magic_school" %}
+    {% include 'cardviewer/card_magic_school.html'%}
+    {% elif card.type.slug == "infusion" %}
+    {% include 'cardviewer/card_infusion.html'%}
+    {% elif card.type.slug == "feat" %}
+    {% include 'cardviewer/card_feat.html'%}
+    {% elif card.type.slug == "class" %}
+    {% include 'cardviewer/card_class.html'%}
+    {% elif card.type.slug == "subclass" %}
+    {% include 'cardviewer/card_subclass.html'%}
+    {% else %}
+    {% include 'cardviewer/card_generic.html'%}
+    {% endif %}
+</div>

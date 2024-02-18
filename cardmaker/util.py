@@ -9,6 +9,18 @@ def get_card_from_slug(card_slug):
     with open("core/artifact/deck/index.json", 'r') as f:
         index_data = json.load(f)
 
+    #SETUP NOT FOUND CARD
+    card = {
+        "slug": "err",
+        "name": "Card Not Found",
+        "type": {
+            "slug": "error",
+            "name": "Error"
+        },
+        "desc": "<p>This card may not be indexed yet.</p>",
+        "source": "Stone Mirror"
+    }
+
     for index_obj in index_data:
         if index_obj["slug"] == card_slug:
             with open("core/artifact/deck/" + index_obj["type"] + ".json", 'r') as f:
@@ -19,19 +31,9 @@ def get_card_from_slug(card_slug):
                     card = card_obj
                     break
             break
-        else:
-            # Return Not Found card.
-            card = {
-                "slug": "err",
-                "name": "Card Not Found",
-                "type": {
-                    "slug": "error",
-                    "name": "Error"
-                },
-                "desc": "<p>This card may not be indexed yet.</p>",
-                "source": "Stone Mirror"
-            }
 
+    if card["slug"] == "err":
+        print(card_slug)
     return card
 
 
@@ -53,5 +55,12 @@ def get_daily_card():
     deck = get_deck("index")
     seed = f'{settings.SECRET_KEY}{datetime.date.today()}'
     card_slug = random.Random(seed).choice(deck)
+    card = get_card_from_slug(card_slug["slug"])
+    return card
+
+
+def get_randon_card():
+    deck = get_deck("index")
+    card_slug = random.choice(deck)
     card = get_card_from_slug(card_slug["slug"])
     return card

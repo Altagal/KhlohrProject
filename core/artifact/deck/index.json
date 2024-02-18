@@ -1936,7 +1936,7 @@
     "type": "class"
   },
   {
-    "slug": "Fighter",
+    "slug": "fighter",
     "type": "class"
   },
   {
@@ -2157,10 +2157,6 @@
   },
   {
     "slug": "circle-of-dreams",
-    "type": "subclass"
-  },
-  {
-    "slug": "battle-maneuvers",
     "type": "subclass"
   },
   {
@@ -2470,5 +2466,509 @@
   {
     "slug": "school-of-abjuration",
     "type": "subclass"
+  },
+    {
+    "slug": "magical-tinkering",
+    "type": "class_feature"
+  },
+  {
+    "slug": "infuse-item",
+    "type": "class_feature"
+  },
+  {
+    "slug": "the-right-tool-for-the-job",
+    "type": "class_feature"
+  },
+  {
+    "slug": "tool-expertise",
+    "type": "class_feature"
+  },
+  {
+    "slug": "flash-of-genius",
+    "type": "class_feature"
+  },
+  {
+    "slug": "magic-item-adept",
+    "type": "class_feature"
+  },
+  {
+    "slug": "spell-storing-item",
+    "type": "class_feature"
+  },
+  {
+    "slug": "magic-item-savant",
+    "type": "class_feature"
+  },
+  {
+    "slug": "magic-item-master",
+    "type": "class_feature"
+  },
+  {
+    "slug": "soul-of-artifice",
+    "type": "class_feature"
+  },
+  {
+    "slug": "rage",
+    "type": "class_feature"
+  },
+  {
+    "slug": "unarmored-defense",
+    "type": "class_feature"
+  },
+  {
+    "slug": "danger-sense",
+    "type": "class_feature"
+  },
+  {
+    "slug": "reckless-attack",
+    "type": "class_feature"
+  },
+  {
+    "slug": "primal-knowledge",
+    "type": "class_feature"
+  },
+  {
+    "slug": "extra-attack-barbarian",
+    "type": "class_feature"
+  },
+  {
+    "slug": "fast-movement",
+    "type": "class_feature"
+  },
+  {
+    "slug": "feral-instinct",
+    "type": "class_feature"
+  },
+  {
+    "slug": "instinctive-pounce",
+    "type": "class_feature"
+  },
+  {
+    "slug": "brutal-critical",
+    "type": "class_feature"
+  },
+  {
+    "slug": "relentless-rage",
+    "type": "class_feature"
+  },
+  {
+    "slug": "persistent-rage",
+    "type": "class_feature"
+  },
+  {
+    "slug": "indomitable-might",
+    "type": "class_feature"
+  },
+  {
+    "slug": "primal-champion",
+    "type": "class_feature"
+  },
+  {
+    "slug": "bardic-inspiration",
+    "type": "class_feature"
+  },
+  {
+    "slug": "jack-of-all-trades",
+    "type": "class_feature"
+  },
+  {
+    "slug": "song-of-rest",
+    "type": "class_feature"
+  },
+  {
+    "slug": "magical-inspiration",
+    "type": "class_feature"
+  },
+  {
+    "slug": "expertise",
+    "type": "class_feature"
+  },
+  {
+    "slug": "bardic-versatility",
+    "type": "class_feature"
+  },
+  {
+    "slug": "font-of-inspiration",
+    "type": "class_feature"
+  },
+  {
+    "slug": "countercharm",
+    "type": "class_feature"
+  },
+  {
+    "slug": "magical-secrets",
+    "type": "class_feature"
+  },
+  {
+    "slug": "superior-inspiration",
+    "type": "class_feature"
+  },
+  {
+    "slug": "channel-divinity",
+    "type": "class_feature"
+  },
+  {
+    "slug": "channel-divinity-turn-undead",
+    "type": "class_feature"
+  },
+  {
+    "slug": "harness-divine-power",
+    "type": "class_feature"
+  },
+  {
+    "slug": "destroy-undead",
+    "type": "class_feature"
+  },
+  {
+    "slug": "blessed-strikes",
+    "type": "class_feature"
+  },
+  {
+    "slug": "divine-intervention",
+    "type": "class_feature"
+  },
+  {
+    "slug": "druidic",
+    "type": "class_feature"
+  },
+  {
+    "slug": "wild-shape",
+    "type": "class_feature"
+  },
+  {
+    "slug": "wild-companion",
+    "type": "class_feature"
+  },
+  {
+    "slug": "timeless-body-druid",
+    "type": "class_feature"
+  },
+  {
+    "slug": "beast-spells",
+    "type": "class_feature"
+  },
+  {
+    "slug": "archdruid",
+    "type": "class_feature"
+  },
+  {
+    "slug": "fighting-style-fighter",
+    "type": "class_feature"
+  },
+  {
+    "slug": "second-wind",
+    "type": "class_feature"
+  },
+  {
+    "slug": "action-surge",
+    "type": "class_feature"
+  },
+  {
+    "slug": "martial-versatility-fighter",
+    "type": "class_feature"
+  },
+  {
+    "slug": "extra-attack-fighter",
+    "type": "class_feature"
+  },
+  {
+    "slug": "indomitable",
+    "type": "class_feature"
+  },
+  {
+    "slug": "unarmored-defense",
+    "type": "class_feature"
+  },
+  {
+    "slug": "martial-arts",
+    "type": "class_feature"
+  },
+  {
+    "slug": "ki",
+    "type": "class_feature"
+  },
+  {
+    "slug": "unarmored-movement",
+    "type": "class_feature"
+  },
+  {
+    "slug": "dedicated-weapon",
+    "type": "class_feature"
+  },
+  {
+    "slug": "deflect-missiles",
+    "type": "class_feature"
+  },
+  {
+    "slug": "ki-fueled-attack",
+    "type": "class_feature"
+  },
+  {
+    "slug": "slow-fall",
+    "type": "class_feature"
+  },
+  {
+    "slug": "quickened-healing",
+    "type": "class_feature"
+  },
+  {
+    "slug": "extra-attack-monk",
+    "type": "class_feature"
+  },
+  {
+    "slug": "stunning-strike",
+    "type": "class_feature"
+  },
+  {
+    "slug": "focused-aim",
+    "type": "class_feature"
+  },
+  {
+    "slug": "ki-empowered-strikes",
+    "type": "class_feature"
+  },
+  {
+    "slug": "evasion-monk",
+    "type": "class_feature"
+  },
+  {
+    "slug": "stillness-of-mind",
+    "type": "class_feature"
+  },
+  {
+    "slug": "purity-of-body",
+    "type": "class_feature"
+  },
+  {
+    "slug": "tongue-of-the-sun-and-moon",
+    "type": "class_feature"
+  },
+  {
+    "slug": "diamond-soul",
+    "type": "class_feature"
+  },
+  {
+    "slug": "timeless-body-monk",
+    "type": "class_feature"
+  },
+  {
+    "slug": "empty-body",
+    "type": "class_feature"
+  },
+  {
+    "slug": "perfect-self",
+    "type": "class_feature"
+  },
+  {
+    "slug": "divine-sense",
+    "type": "class_feature"
+  },
+  {
+    "slug": "lay-on-hands",
+    "type": "class_feature"
+  },
+  {
+    "slug": "fighting-style-paladin",
+    "type": "class_feature"
+  },
+  {
+    "slug": "divine-smite",
+    "type": "class_feature"
+  },
+  {
+    "slug": "divine-health",
+    "type": "class_feature"
+  },
+  {
+    "slug": "harness-divine-power",
+    "type": "class_feature"
+  },
+  {
+    "slug": "martial-versatility-paladin",
+    "type": "class_feature"
+  },
+  {
+    "slug": "extra-attack-paladin",
+    "type": "class_feature"
+  },
+  {
+    "slug": "aura-of-protection",
+    "type": "class_feature"
+  },
+  {
+    "slug": "aura-of-courage",
+    "type": "class_feature"
+  },
+  {
+    "slug": "improved-divine-smite",
+    "type": "class_feature"
+  },
+  {
+    "slug": "cleansing-touch",
+    "type": "class_feature"
+  },
+  {
+    "slug": "favored-enemy",
+    "type": "class_feature"
+  },
+  {
+    "slug": "favored-foe",
+    "type": "class_feature"
+  },
+  {
+    "slug": "natural-explorer",
+    "type": "class_feature"
+  },
+  {
+    "slug": "deft-explorer",
+    "type": "class_feature"
+  },
+  {
+    "slug": "fighting-style-ranger",
+    "type": "class_feature"
+  },
+  {
+    "slug": "primeval-awareness",
+    "type": "class_feature"
+  },
+  {
+    "slug": "primal-awareness",
+    "type": "class_feature"
+  },
+  {
+    "slug": "martial-versatility-ranger",
+    "type": "class_feature"
+  },
+  {
+    "slug": "extra-attack-ranger",
+    "type": "class_feature"
+  },
+  {
+    "slug": "lands-stride",
+    "type": "class_feature"
+  },
+  {
+    "slug": "hide-in-plain-sight",
+    "type": "class_feature"
+  },
+  {
+    "slug": "natures-veil",
+    "type": "class_feature"
+  },
+  {
+    "slug": "vanish",
+    "type": "class_feature"
+  },
+  {
+    "slug": "feral-senses",
+    "type": "class_feature"
+  },
+  {
+    "slug": "foe-slayer",
+    "type": "class_feature"
+  },
+  {
+    "slug": "expertise",
+    "type": "class_feature"
+  },
+  {
+    "slug": "sneak-attack",
+    "type": "class_feature"
+  },
+  {
+    "slug": "thieves-cant",
+    "type": "class_feature"
+  },
+  {
+    "slug": "cunning-action",
+    "type": "class_feature"
+  },
+  {
+    "slug": "steady-aim",
+    "type": "class_feature"
+  },
+  {
+    "slug": "uncanny-dodge",
+    "type": "class_feature"
+  },
+  {
+    "slug": "evasion-rogue",
+    "type": "class_feature"
+  },
+  {
+    "slug": "reliable-talent",
+    "type": "class_feature"
+  },
+  {
+    "slug": "blindsense",
+    "type": "class_feature"
+  },
+  {
+    "slug": "slippery-mind",
+    "type": "class_feature"
+  },
+  {
+    "slug": "elusive",
+    "type": "class_feature"
+  },
+  {
+    "slug": "stroke-of-luck",
+    "type": "class_feature"
+  },
+  {
+    "slug": "font-of-magic",
+    "type": "class_feature"
+  },
+  {
+    "slug": "metamagic",
+    "type": "class_feature"
+  },
+  {
+    "slug": "sorcerous-versatility",
+    "type": "class_feature"
+  },
+  {
+    "slug": "magical-guidance",
+    "type": "class_feature"
+  },
+  {
+    "slug": "sorcerous-restoration",
+    "type": "class_feature"
+  },
+  {
+    "slug": "eldritch-invocations",
+    "type": "class_feature"
+  },
+  {
+    "slug": "pact-boon",
+    "type": "class_feature"
+  },
+  {
+    "slug": "eldritch-versatility",
+    "type": "class_feature"
+  },
+  {
+    "slug": "mystic-arcanum",
+    "type": "class_feature"
+  },
+  {
+    "slug": "eldritch-master",
+    "type": "class_feature"
+  },
+  {
+    "slug": "arcane-recovery",
+    "type": "class_feature"
+  },
+  {
+    "slug": "cantrip-formulas",
+    "type": "class_feature"
+  },
+  {
+    "slug": "spell-mastery",
+    "type": "class_feature"
+  },
+  {
+    "slug": "signature-spells",
+    "type": "class_feature"
   }
 ]

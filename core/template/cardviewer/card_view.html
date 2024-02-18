@@ -11,17 +11,7 @@
     <div class="row">
         <div class="col-xl">
             <div class="card">
-                <div class="card-header">
-                    <div class="card-head-row">
-                        <div class="card-title">{{card.name}}</div>
-                        <div class="card-tools">
-                            <button class="btn btn-danger" id="store_card"><i class="fa fa-print"></i></button>
-                        </div>
-                    </div>
-                </div>
-                <div class="card-body">
-                    {% include 'cardviewer/card_type_chooser.html'%}
-                </div>
+                {% include 'cardviewer/card_content.html'%}
             </div>
         </div>
     </div>
@@ -33,15 +23,14 @@
 
 <script>
     $(document).ready(function() {
-        // Evento de clique no botão, por exemplo
         $('#store_card').click(function() {
-            // Fazer a chamada Ajax
             $.ajax({
-                url: '{% url 'store_card_in_cart' card.slug %}',  // A URL que você configurou em suas urls.py
-                type: 'GET',  // Ou 'POST' dependendo da sua view
+                url: '{% url 'store_card_in_cart' card.slug %}',
+                type: 'GET',
             });
         });
     });
+
 
 </script>
 {% endblock %}

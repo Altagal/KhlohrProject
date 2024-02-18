@@ -1,7 +1,7 @@
 {% if card.prerequisite %}
 <div class="row">
     <div class="col">
-        <p><b>Prerequisite:</b> {{card.prerequisite}}.</p>
+        <p><b>Prerequisite:</b> {{card.prerequisite}}</p>
     </div>
 </div>
 {% endif %}
@@ -19,8 +19,6 @@
 
 <div class="row">
     <div class="col">
-        <p>
-            <b>Source:</b> {{card.source.name}}
-        </p>
+        <button class="btn btn-light btn-xs" disabled=""><b>Source:</b> {{card.source.name}}</button>
     </div>
 </div>

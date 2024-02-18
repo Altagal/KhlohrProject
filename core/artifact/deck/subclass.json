@@ -99,12 +99,13 @@
     "type": {
       "slug": "subclass",
       "name": "Subclass"
-    }
+    },
+    "desc": "<p>An artificer who specializes as an Armorer modifies armor to function almost like a second skin. The armor is enhanced to hone the artificer's magic, unleash potent attacks, and generate a formidable defense. The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.\n</p>"
   },
   {
     "slug": "artillerist",
     "name": "Artillerist",
-    "desc": "<p></p>",
+    "desc": "<p>An Artillerist specializes in using magic to hurl energy, projectiles, and explosions on a battlefield. This destructive power is valued by armies in the wars on many different worlds. And when war passes, some members of this specialization seek to build a more peaceful world by using their powers to fight the resurgence of strife. The world-hopping gnome artificer Vi has been especially vocal about making things right: \"It's about time we fixed things instead of blowing them all to hell.\"\n</p>",
     "class": {
       "slug": "artificer",
       "name": "Artificer"
@@ -153,7 +154,7 @@
   {
     "slug": "battle-smith",
     "name": "Battle Smith",
-    "desc": "<p></p>",
+    "desc": "<p>Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both materiel and personnel. To aid in their work, Battle Smiths are accompanied by a steel defender, a protective companion of their own creation. Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.\n</p><p>In the world of Eberron, Battle Smiths played a key role in House Cannith's work on battle constructs and the original warforged, and after the Last War, these artificers led efforts to aid those who were injured in the war's horrific battles.\n</p>",
     "class": {
       "slug": "artificer",
       "name": "Artificer"
@@ -207,7 +208,7 @@
   {
     "slug": "path-of-the-ancestral-guardian",
     "name": "Path of the Ancestral Guardian",
-    "desc": "<p></p>",
+    "desc": "<p>Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a barbarian who follows this path rages, the barbarian contacts the spirit world and calls on these guardian spirits for aid.\n</p><p>Barbarians who draw on their ancestral guardians can better fight to protect their tribes and their allies. In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors’ deeds. These tattoos tell sagas of victories against terrible monsters and other fearsome rivals.\n</p>",
     "class": {
       "slug": "barbarian",
       "name": "Barbarian"
@@ -3485,7 +3486,7 @@
   {
     "slug": "oathbreaker",
     "name": "Oathbreaker",
-    "desc": "<p></p>",
+    "desc": "<p>An oathbreaker is a paladin who breaks their sacred oaths to pursue some dark ambition or serve an evil power. Whatever light burned in the paladin's heart been extinguished. Only darkness remains.\n</p>",
     "class": {
       "slug": "paladin",
       "name": "Paladin"
@@ -4292,7 +4293,7 @@
   {
     "slug": "aberrant-mind",
     "name": "Aberrant Mind",
-    "desc": "<p></p>",
+    "desc": "<p>An alien influence has wrapped its tendrils around your mind, giving you psionic power. You can now touch other minds with that power and alter the world around you by using it to control the magical energy of the multiverse. Will this power shine from you as a hopeful beacon to others? Or will you be a source of terror to those who feel the stab of your mind and witness the strange manifestations of your might?\n</p><p>As an Aberrant Mind sorcerer, you decide how you acquired your powers. Were you born with them? Or did an event later in life leave you shining with psionic awareness? Consult the Aberrant Origins table for a possible origin of your power.\n</p>",
     "class": {
       "slug": "sorcerer",
       "name": "Sorcerer"

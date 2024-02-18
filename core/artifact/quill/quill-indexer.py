@@ -10,7 +10,7 @@ except Exception as e:
     print(e)
 
 try:
-    with open("core/artifact/quill/test_index.json", 'w') as index_output_f:
+    with open("core/artifact/quill/index-results.json", 'w') as index_output_f:
         for card in card_data:
             index_output_f.write("  {\n")
             index_output_f.write('    "slug": "' + card["slug"] + '",\n')
@@ -20,5 +20,6 @@ try:
 except Exception as e:
     print("open - test_index.json")
     print(e)
+
 
 print("Finalizado")
