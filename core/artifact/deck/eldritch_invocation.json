@@ -1,3 +1,758 @@
 [
-
+  {
+    "slug": "agonizing-blast",
+    "name": "Agonizing Blast",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>When you cast eldritch blast, add your Charisma modifier to the damage it deals on a hit.</p>",
+    "prerequisite": "Eldritch blast cantrip",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "armor-of-shadows",
+    "name": "Armor of Shadows",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast mage armor on yourself at will, without expending a spell slot or material components.</p>",
+    "prerequisite": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "ascendant-step",
+    "name": "Ascendant Step",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast levitate on yourself at will, without expending a spell slot or material components.</p>",
+    "prerequisite": "9th level",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "aspect-of-the-moon",
+    "name": "Aspect of the Moon",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.</p>",
+    "prerequisite": "Pact of the Tome feature",
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "slug": "beast-speech",
+    "name": "Beast Speech",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast speak with animals at will, without expending a spell slot.</p>",
+    "prerequisite": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "beguiling-influence",
+    "name": "Beguiling Influence",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You gain proficiency in the Deception and Persuasion skills.</p>",
+    "prerequisite": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "bewitching-whispers",
+    "name": "Bewitching Whispers",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast compulsion once using a warlock spell slot. You can't do so again until you finish a long rest.</p>",
+    "prerequisite": "7th level",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "bond-of-the-talisman",
+    "name": "Bond of the Talisman",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>While someone else is wearing your talisman, you can use your action to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using their action to teleport to you. The teleportation can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.</p>",
+    "prerequisite": "12th level, Pact of the Talisman feature",
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    }
+  },
+  {
+    "slug": "book-of-ancient-secrets",
+    "name": "Book of Ancient Secrets",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list (the two needn't be from the same list). The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.</p><p>On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.</p>",
+    "prerequisite": "Pact of the Tome feature",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "chains-of-carceri",
+    "name": "Chains of Carceri",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast hold monster at will – targeting a celestial, fiend, or elemental – without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.</p>",
+    "prerequisite": "15th level, Pact of the Chain feature",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "cloak-of-flies",
+    "name": "Cloak of Flies",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're incapacitated or you dismiss it as a bonus action.</p><p>The aura grants you advantage on Charisma (Intimidation) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).</p><p>Once you use this invocation, you can't use it again until you finish a short or long rest.</p>",
+    "prerequisite": "5th level",
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "slug": "devils-sight",
+    "name": "Devil's Sight",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.</p>",
+    "prerequisite": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "dreadful-word",
+    "name": "Dreadful Word",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast confusion once using a warlock spell slot. You can't do so again until you finish a long rest.</p>",
+    "prerequisite": "7th level",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "eldritch-mind",
+    "name": "Eldritch Mind",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You have advantage on Constitution saving throws that you make to maintain your concentration on a spell.</p>",
+    "prerequisite": false,
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    }
+  },
+  {
+    "slug": "eldritch-sight",
+    "name": "Eldritch Sight",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast detect magic at will, without expending a spell slot or material components.</p>",
+    "prerequisite": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "eldritch-smite",
+    "name": "Eldritch Smite",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot, and you can knock the target prone if it is Huge or smaller.</p>",
+    "prerequisite": "5th level, Pact of the Blade feature",
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "slug": "eldritch-spear",
+    "name": "Eldritch Spear",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>When you cast eldritch blast, its range is 300 feet.</p>",
+    "prerequisite": "Eldritch blast cantrip",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "eyes-of-the-rune-keeper",
+    "name": "Eyes of the Rune Keeper",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can read all writing.</p>",
+    "prerequisite": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "far-scribe",
+    "name": "Far Scribe",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.</p>You can cast the sending spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.<p></p><p>As an action, you can magically erase a name on the page by touching it.</p>",
+    "prerequisite": "5th level, Pact of the Tome feature",
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    }
+  },
+  {
+    "slug": "fiendish-vigor",
+    "name": "Fiendish Vigor",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast false life on yourself at will as a 1st-level spell, without expending a spell slot or material components.</p>",
+    "prerequisite": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "gaze-of-two-minds",
+    "name": "Gaze of Two Minds",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.</p>",
+    "prerequisite": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "ghostly-gaze",
+    "name": "Ghostly Gaze",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>As an action, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have darkvision if you don't already have it. This special sight lasts for 1 minute or until your concentration ends (as if you were concentrating on a spell). During that time, you perceive objects as ghostly, transparent images.</p><p>Once you use this invocation, you can't use it again until you finish a short or long rest.</p>",
+    "prerequisite": "7th level",
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "slug": "gift-of-the-depths",
+    "name": "Gift of the Depths",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can breathe underwater, and you gain a swimming speed equal to your walking speed.</p><p>You can also cast water breathing without expending a spell slot. You regain the ability to do so when you finish a long rest.</p>",
+    "prerequisite": "5th level",
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "slug": "gift-of-the-ever-living-ones",
+    "name": "Gift of the Ever-Living Ones",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you.</p>",
+    "prerequisite": "Pact of the Chain feature",
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "slug": "gift-of-the-protectors",
+    "name": "Gift of the Protectors",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.</p><p>When any creature whose name is on the page is reduced to 0 hit points but not killed outright, the creature magically drops to 1 hit point instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.</p><p>As an action, you can magically erase a name on the page by touching it.</p>",
+    "prerequisite": "9th level, Pact of the Tome feature",
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    }
+  },
+  {
+    "slug": "grasp-of-hadar",
+    "name": "Grasp of Hadar",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>Once on each of your turns when you hit a creature with your eldritch blast, you can move that creature in a straight line 10 feet closer to yourself.</p>",
+    "prerequisite": "Eldritch blast cantrip",
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "slug": "improved-pact-weapon",
+    "name": "Improved Pact Weapon",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your warlock spells.</p><p>In addition, the weapon gains a +1 bonus to its attack and damage rolls, unless it is a magic weapon that already has a bonus to those rolls.</p><p>Finally, the weapon you conjure can be a shortbow, longbow, light crossbow, or heavy crossbow.</p>",
+    "prerequisite": "Pact of the Blade feature",
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "slug": "investment-of-the-chain-master",
+    "name": "Investment of the Chain Master",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>When you cast <em><a href=\"/spell:find-familiar\">find familiar</a></em>, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:</p>\t<ul>\t<li>The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet.</li>\t</ul>\t<ul>\t<li>As a bonus action, you can command the familiar to take the Attack action.</li>\t</ul>\t<ul>\t<li>The familiar's weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.</li>\t</ul>\t<ul>\t<li>If the familiar forces a creature to make a saving throw, it uses your spell save DC.</li>\t</ul>\t<ul>\t<li>When the familiar takes damage, you can use your reaction to grant it resistance against that damage.</li>\t</ul>",
+    "prerequisite": "Pact of the Chain feature",
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    }
+  },
+  {
+    "slug": "lance-of-lethargy",
+    "name": "Lance of Lethargy",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>Once on each of your turns when you hit a creature with your eldritch blast, you can reduce that creature's speed by 10 feet until the end of your next turn.</p>",
+    "prerequisite": "Eldritch blast cantrip",
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "slug": "lifedrinker",
+    "name": "Lifedrinker",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).</p>",
+    "prerequisite": "12th level, Pact of the Blade feature",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "maddening-hex",
+    "name": "Maddening Hex",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>As a bonus action, you cause a psychic disturbance around the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse and Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you.</p>",
+    "prerequisite": "5th level, hex spell or a warlock feature that curses",
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "slug": "mask-of-many-faces",
+    "name": "Mask of Many Faces",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast disguise self at will, without expending a spell slot.</p>",
+    "prerequisite": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "master-of-myriad-forms",
+    "name": "Master of Myriad Forms",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast alter self at will, without expending a spell slot.</p>",
+    "prerequisite": "15th level",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "minions-of-chaos",
+    "name": "Minions of Chaos",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast conjure elemental once using a warlock spell slot. You can't do so again until you finish a long rest.</p>",
+    "prerequisite": "9th level",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "mire-the-mind",
+    "name": "Mire the Mind",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast slow once using a warlock spell slot. You can't do so again until you finish a long rest.</p>",
+    "prerequisite": "5th level",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "misty-visions",
+    "name": "Misty Visions",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast silent image at will, without expending a spell slot or material components.</p>",
+    "prerequisite": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "one-with-shadows",
+    "name": "One with Shadows",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>When you are in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or a reaction.</p>",
+    "prerequisite": "5th level",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "otherworldly-leap",
+    "name": "Otherworldly Leap",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast jump at will, without expending a spell slot.</p>",
+    "prerequisite": "9th level",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "protection-of-the-talisman",
+    "name": "Protection of the Talisman",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>When the wearer of your talisman fails a saving throw, they can add a d4 to the roll, potentially turning the save into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.</p>",
+    "prerequisite": "7th level, Pact of the Talisman feature",
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    }
+  },
+  {
+    "slug": "rebuke-of-the-talisman",
+    "name": "Rebuke of the Talisman",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>When the wearer of your talisman is hit by an attacker you can see within 30 feet of you, you can use your reaction to deal psychic damage to the attacker equal to your proficiency bonus and push it up to 10 feet away from the talisman's wearer.</p>",
+    "prerequisite": "Pact of the Talisman feature",
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    }
+  },
+  {
+    "slug": "relentless-hex",
+    "name": "Relentless Hex",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>Your curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse and Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.</p>",
+    "prerequisite": "7th level, hex spell or a warlock feature that curses",
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "slug": "repelling-blast",
+    "name": "Repelling Blast",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line.</p>",
+    "prerequisite": "Eldritch blast cantrip",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "sculptor-of-flesh",
+    "name": "Sculptor of Flesh",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast polymorph once using a warlock spell slot. You can't do so again until you finish a long rest.</p>",
+    "prerequisite": "7th level",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "shroud-of-shadow",
+    "name": "Shroud of Shadow",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast invisibility at will, without expending a spell slot.</p>",
+    "prerequisite": "15th level",
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "slug": "sign-of-ill-omen",
+    "name": "Sign of Ill Omen",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast bestow curse once using a warlock spell slot. You can't do so again until you finish a long rest.</p>",
+    "prerequisite": "5th level",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "thief-of-five-fates",
+    "name": "Thief of Five Fates",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast bane once using a warlock spell slot. You can't do so again until you finish a long rest.</p>",
+    "prerequisite": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "thirsting-blade",
+    "name": "Thirsting Blade",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.</p>",
+    "prerequisite": "5th level, Pact of the Blade feature",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "tomb-of-levistus",
+    "name": "Tomb of Levistus",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain vulnerability to fire damage, your speed is reduced to 0, and you are incapacitated. These effects, including any remaining temporary hit points, all end when the ice melts.</p><p>Once you use this invocation, you can't use it again until you finish a short or long rest.</p>",
+    "prerequisite": "5th level",
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "slug": "tricksters-escape",
+    "name": "Trickster's Escape",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast freedom of movement once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.</p>",
+    "prerequisite": "7th level",
+    "source": {
+      "slug": "XGE",
+      "name": "Xanathar's Guide to Everything"
+    }
+  },
+  {
+    "slug": "undying-servitude",
+    "name": "Undying Servitude",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast animate dead without using a spell slot. Once you do so, you can't cast it in this way again until you finish a long rest.</p>",
+    "prerequisite": "5th-level warlock",
+    "source": {
+      "slug": "TCE",
+      "name": "Tasha's Cauldron of Everything"
+    }
+  },
+  {
+    "slug": "visions-of-distant-realms",
+    "name": "Visions of Distant Realms",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast arcane eye at will, without expending a spell slot.</p>",
+    "prerequisite": "15th level",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "voice-of-the-chain-master",
+    "name": "Voice of the Chain Master",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.</p>",
+    "prerequisite": "Pact of the Chain feature",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "whispers-of-the-grave",
+    "name": "Whispers of the Grave",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can cast speak with dead at will, without expending a spell slot.</p>",
+    "prerequisite": "9th level",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "witch-sight",
+    "name": "Witch Sight",
+    "type": {
+      "slug": "eldritch_invocation",
+      "name": "Eldritch Invocation"
+    },
+    "desc": "<p>You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.</p>",
+    "prerequisite": "15th level",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  }
 ]

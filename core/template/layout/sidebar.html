@@ -1,5 +1,4 @@
 {% load static %}
-
 <div class="sidebar sidebar-style-2">
     <div class="sidebar-wrapper scrollbar scrollbar-inner">
         <div class="sidebar-content">
@@ -42,7 +41,7 @@
                 </li>
                 <li class="nav-item">
                     <a href="{% url 'class_subclass_list'%}">
-                        <i class="fas fa-user-ninja"></i>
+                        <i class="fas fa-user-astronaut"></i>
                         <p>Classes e Subclasses</p>
                     </a>
                 </li>
@@ -57,12 +56,6 @@
                     <a href="#">
                         <i class="fas fa-paw"></i>
                         <p>Races</p>
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a href="#">
-                        <i class="fas fa-paw"></i>
-                        <p>Racial Traits</p>
                     </a>
                 </li>
                 <li class="nav-item">
@@ -138,16 +131,34 @@
                         <p>Ability Score and Skills</p>
                     </a>
                 </li>
+                 <li class="nav-item">
+                    <a href="{% url 'battle_maneuver_list' %}">
+                        <i class="fas fa-user-ninja"></i>
+                        <p>Battle Maneuvers</p>
+                    </a>
+                </li>
+                 <li class="nav-item">
+                    <a href="{% url 'eldritch_invocation_list' %}">
+                        <i class="fas fa-fire"></i>
+                        <p>Eldritch Invocations</p>
+                    </a>
+                </li>
+                 <li class="nav-item">
+                    <a href="{% url 'fighting_style_list' %}">
+                        <i class="fas fa-gavel"></i>
+                        <p>Fighting Styles</p>
+                    </a>
+                </li>
                 <li class="nav-item">
                     <a href="{% url 'infusion_list' %}">
-                        <i class="fas fa-cog"></i>
+                        <i class="fas fa-screwdriver"></i>
                         <p>Infusions</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="#">
-                        <i class="fas fa-cog"></i>
-                        <p>Other</p>
+                    <a href="{% url 'metamagic_list' %}">
+                        <i class="fas fa-sun"></i>
+                        <p>Metamagics</p>
                     </a>
                 </li>
             </ul>

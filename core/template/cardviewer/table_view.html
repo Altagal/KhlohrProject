@@ -1,9 +1,7 @@
 {% extends "layout/base.html" %}
 {% load static %}
 {% block title %}{{plural_type_name}}{% endblock %}
-
 {% block stylesheet %}{% endblock %}
-
 {% block content %}
 <div class="page-inner">
     <div class="row">
@@ -23,7 +21,7 @@
                         <tbody>
                         {% for card in table_list %}
                         <tr>
-                            <td >{{card.name}}</td>
+                            <td>{{card.name}}</td>
                             <td>
                                 <a href="{% url 'card_view' card.slug %}"><i class="fas fa-search text-danger"></i></a>
                             </td>
@@ -38,7 +36,6 @@
     </div>
 </div>
 {% endblock %}
-
 {% block javascript %}
-    <script src="{% static 'assets/js/custom/table_view_script.js' %}"></script>
+<script src="{% static 'assets/js/custom/table_view_script.js' %}"></script>
 {% endblock %}

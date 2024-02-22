@@ -1,12 +1,8 @@
 {% extends "layout/base.html" %}
-
 {% load static %}
 {% block title %}{{card.name}}{% endblock %}
-
 {% block stylesheet %}{% endblock %}
-
 {% block content %}
-
 <div class="page-inner">
     <div class="row">
         <div class="col-xl">
@@ -17,10 +13,8 @@
     </div>
 </div>
 {% endblock %}
-
 {% block javascript %}
 <script src="{% static 'assets/js/custom/table_view_script.js' %}"></script>
-
 <script>
     $(document).ready(function() {
         $('#store_card').click(function() {
@@ -30,7 +24,6 @@
             });
         });
     });
-
 
 </script>
 {% endblock %}

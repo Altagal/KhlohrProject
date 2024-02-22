@@ -1,9 +1,7 @@
 {% extends "layout/base.html" %}
 {% load static %}
 {% block title %}{{plural_type_name}}{% endblock %}
-
 {% block stylesheet %}{% endblock %}
-
 {% block content %}
 <div class="page-inner">
     <div class="row">
@@ -29,7 +27,6 @@
                                aria-controls="pills-home" aria-selected="false">{% if lvl == 0 %}Cantrips{% else %} {{lvl}}º Level {% endif %}</a>
                         </li>
                         {% endfor %}
-
                     </ul>
                     <!-- TAB ALL LEVELS -->
                     <div class="tab-content">
@@ -39,7 +36,7 @@
                                     <thead>
                                     <tr>
                                         <th scope="col">Name</th>
-                                        <th class="text-center" scope="col" style="width: 5%;" >Level</th>
+                                        <th class="text-center" scope="col" style="width: 5%;">Level</th>
                                         <th class="text-center" scope="col">Casting Time</th>
                                         <th class="text-center" scope="col">Range</th>
                                         <th class="text-center" scope="col">Duration</th>
@@ -140,7 +137,6 @@
     </div>
 </div>
 {% endblock %}
-
 {% block javascript %}
 <script src="{% static 'assets/js/custom/table_view_script.js' %}"></script>
 {% endblock %}

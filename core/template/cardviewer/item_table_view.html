@@ -1,9 +1,7 @@
 {% extends "layout/base.html" %}
 {% load static %}
 {% block title %}{{plural_type_name}}{% endblock %}
-
 {% block stylesheet %}{% endblock %}
-
 {% block content %}
 <div class="page-inner">
     <div class="row">
@@ -29,7 +27,6 @@
                                aria-controls="pills-home" aria-selected="false">{{rarity}}</a>
                         </li>
                         {% endfor %}
-
                     </ul>
                     <!-- TABELA ALL RARITY -->
                     <div class="tab-content">
@@ -39,7 +36,7 @@
                                     <thead>
                                     <tr>
                                         <th scope="col">Name</th>
-                                        <th class="text-center" scope="col" style="width: 5%;" >Rariry</th>
+                                        <th class="text-center" scope="col" style="width: 5%;">Rariry</th>
 
                                         <th class="text-center" scope="col"></th>
                                     </tr>
@@ -95,7 +92,6 @@
     </div>
 </div>
 {% endblock %}
-
 {% block javascript %}
 <script src="{% static 'assets/js/custom/table_view_script.js' %}"></script>
 {% endblock %}

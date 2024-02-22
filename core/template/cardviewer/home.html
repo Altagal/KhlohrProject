@@ -1,9 +1,6 @@
 {% extends "layout/base.html" %}
-
 {% block title %}Início{% endblock %}
-
 {% block stylesheet %}{% endblock %}
-
 {% block content %}
 <div class="page-inner">
     <div class="row">
@@ -18,6 +15,16 @@
     </div>
 </div>
 {% endblock %}
-
 {% block javascript %}
+<script>
+    $(document).ready(function() {
+        $('#store_card').click(function() {
+            $.ajax({
+                url: '{% url 'store_card_in_cart' card.slug %}',
+                type: 'GET',
+            });
+        });
+    });
+
+</script>
 {% endblock %}

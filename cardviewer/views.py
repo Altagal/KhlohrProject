@@ -25,24 +25,19 @@ def card_view(request, card_slug):
             # Se spell.magic_scholl é igual a magic_school slug
             if spell_card["magic_school"]["slug"] == card["slug"]:
                 magic_school_spell_list.append(spell_card)
-
         context = {
             'card': card,
             'range': range(10),
             'table_list': magic_school_spell_list,
-
         }
-        return render(request, 'cardviewer/card_view.html', context)
 
     # IF CLASS
     elif card["type"]["slug"] == "class":
-
         context = {
             'card': card,
             'level_range': range(1, 21),
             'class_feature_list': get_deck("class_feature"),
         }
-        return render(request, 'cardviewer/card_view.html', context)
 
     # IF SUBCLASS
     elif card["type"]["slug"] == "subclass":
@@ -50,12 +45,11 @@ def card_view(request, card_slug):
             'card': card,
             'subclass_feature_list': get_deck("subclass_feature")
         }
-        return render(request, 'cardviewer/card_view.html', context)
-
     else:
         context = {
             'card': card,
         }
+
     return render(request, 'cardviewer/card_view.html', context)
 
 
@@ -123,3 +117,39 @@ def class_subclass_list(request):
     }
 
     return render(request, 'cardviewer/class_subclass_table_view.html', context)
+
+
+def metamagic_list(request):
+    context = {
+        "plural_type_name": "Metamagics",
+        "table_list": get_deck("metamagic"),
+    }
+
+    return render(request, 'cardviewer/table_view.html', context)
+
+
+def eldritch_invocation_list(request):
+    context = {
+        "plural_type_name": "Eldritch Iinvocations",
+        "table_list": get_deck("eldritch_invocation"),
+    }
+
+    return render(request, 'cardviewer/eldritch_invocation_table_view.html', context)
+
+
+def battle_maneuver_list(request):
+    context = {
+        "plural_type_name": "Battle Maneuvers",
+        "table_list": get_deck("battle_maneuver"),
+    }
+
+    return render(request, 'cardviewer/table_view.html', context)
+
+
+def fighting_style_list(request):
+    context = {
+        "plural_type_name": "Fighting Styles",
+        "table_list": get_deck("fighting_style"),
+    }
+
+    return render(request, 'cardviewer/table_view.html', context)

@@ -1,131 +1,155 @@
-{% load static %}
-
-{% autoescape off %}
-{{card.desc}}
-{% endautoescape %}
-
-<div class="row">
-    <div class="col">
-       <button class="btn btn-light btn-xs" disabled=""><b>Source:</b> {{card.source.name}}</button>
+<div class="card-header">
+    <div class="card-head-row">
+        <div class="card-title">{% if card.type.slug == "subclass"%}{{card.class.name}}: {% endif %}{{card.name}}</div>
+        <div class="card-tools">
+            <button class="btn btn-danger" id="store_card"><i class="fa fa-print"></i></button>
+        </div>
+    </div>
+    <div class="card-head-row">
+        <div class="card-category mt-0">{{card.type.name}} {% if card.type.slug == "class_feature"%} - {{card.class.name}} {{card.level}}º Level {% endif %}{% if card.type.slug == "spell"%} - {% if card.level == 0 %}Cantrip{% else %}{{ card.level }}º level{% endif %}
+            of
+            {{card.magic_school.name}}
+            {% if card.is_ritual or card.is_chronomancy or card.is_renaissance %}
+            -
+            {% endif %}
+            {% if card.is_ritual %}
+            Ritual
+            {% endif %}
+            {% if card.is_chronomancy %}
+            Chronomancy
+            {% endif %}
+            {% if card.is_renaissance %}
+            Renaissance
+            {% endif %}{% endif %}
+        </div>
     </div>
 </div>
+<div class="card-body">
+    {% autoescape off %}
+    {{card.desc}}
+    {% endautoescape %}
+    <div class="row">
+        <div class="col">
+            <button class="btn btn-light btn-xs" disabled=""><b>Source:</b> {{card.source.name}}</button>
+        </div>
+    </div>
+    {% if table_list %}
+    <ul class="nav nav-tabs nav-danger mt-3 mb-3">
+        <!-- TAB ALL LEVELS -->
+        <li class="nav-item">
+            <a class="nav-link active show" id="pill-level-all"
+               data-toggle="pill" href="#tab-level-all" role="tab"
+               aria-controls="pills-home" aria-selected="false">
+                All Levels</a>
+        </li>
+        <!-- TAB LEVEL 0-9 -->
+        {% for lvl in range %}
+        <li class="nav-item">
+            <a class="nav-link" id="pills-level-{{ lvl }}"
+               data-toggle="pill" href="#tab-level-{{ lvl }}" role="tab"
+               aria-controls="pills-home" aria-selected="false">{% if lvl == 0 %}Cantrips{% else %} {{lvl}}º Level {% endif %}</a>
+        </li>
+        {% endfor %}
 
-{% if table_list %}
-<ul class="nav nav-tabs nav-danger mb-3">
+    </ul>
     <!-- TAB ALL LEVELS -->
-    <li class="nav-item">
-        <a class="nav-link active show" id="pill-level-all"
-           data-toggle="pill" href="#tab-level-all" role="tab"
-           aria-controls="pills-home" aria-selected="false">
-            All Levels</a>
-    </li>
-    <!-- TAB LEVEL 0-9 -->
-    {% for lvl in range %}
-    <li class="nav-item">
-        <a class="nav-link" id="pills-level-{{ lvl }}"
-           data-toggle="pill" href="#tab-level-{{ lvl }}" role="tab"
-           aria-controls="pills-home" aria-selected="false">{% if lvl == 0 %}Cantrips{% else %} {{lvl}}º Level {% endif %}</a>
-    </li>
-    {% endfor %}
+    <div class="tab-content">
+        <div class="tab-pane fade active show" id="tab-level-all" role="tabpanel" aria-labelledby="pills-contact-tab">
+            <div class="table-responsive">
+                <table class="table table-hover spell-school-table">
+                    <thead>
+                    <tr>
+                        <th scope="col">Name</th>
+                        <th class="text-center" scope="col" style="width: 5%;">Level</th>
+                        <th class="text-center" scope="col">Casting Time</th>
+                        <th class="text-center" scope="col">Range</th>
+                        <th class="text-center" scope="col">Duration</th>
+                        <th class="text-center" scope="col" style="width: 5%;">Components and Tags</th>
+                        <th class="text-center" scope="col"></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for spell in table_list %}
+                    {% if spell.magic_school.slug == card.slug %}
+                    <tr>
+                        <td>{{spell.name}}</td>
+                        <td class="text-center">{% if spell.level == 0 %}Cantrip{% else %}{{spell.level}}º{% endif %}
+                        </td>
+                        <td class="text-center">
+                            {{spell.casting_time}}
+                        </td>
+                        <td class="text-center">{{spell.range}}</td>
+                        <td class="text-center">{% if spell.is_concentration %}Concentration, up to
+                            {% endif %}
+                            {{spell.duration}}
+                        </td>
+                        <td class="text-center">
+                            {% if spell.is_verbal %} Verbal<br> {% endif %}
+                            {% if spell.is_somatic %} Somatic<br> {% endif %}
+                            {% if spell.required_material %} Material<br> {% endif %}
+                            {% if spell.is_ritual %} Ritual<br> {% endif %}
+                            {% if spell.is_chronomancy %} Chronomancy<br> {% endif %}
+                            {% if spell.is_renaissance %} Renaissance<br> {% endif %}
+                        </td>
 
-</ul>
-<!-- TAB ALL LEVELS -->
-<div class="tab-content">
-    <div class="tab-pane fade active show" id="tab-level-all" role="tabpanel" aria-labelledby="pills-contact-tab">
-        <div class="table-responsive">
-            <table class="table table-hover spell-school-table">
-                <thead>
-                <tr>
-                    <th scope="col">Name</th>
-                    <th class="text-center" scope="col" style="width: 5%;">Level</th>
-                    <th class="text-center" scope="col">Casting Time</th>
-                    <th class="text-center" scope="col">Range</th>
-                    <th class="text-center" scope="col">Duration</th>
-                    <th class="text-center" scope="col" style="width: 5%;">Components and Tags</th>
-                    <th class="text-center" scope="col"></th>
-                </tr>
-                </thead>
-                <tbody>
-                {% for spell in table_list %}
-                {% if spell.magic_school.slug == card.slug %}
-                <tr>
-                    <td>{{spell.name}}</td>
-                    <td class="text-center">{% if spell.level == 0 %}Cantrip{% else %}{{spell.level}}º{% endif %}
-                    </td>
-                    <td class="text-center">
-                        {{spell.casting_time}}
-                    </td>
-                    <td class="text-center">{{spell.range}}</td>
-                    <td class="text-center">{% if spell.is_concentration %}Concentration, up to
-                        {% endif %}
-                        {{spell.duration}}
-                    </td>
-                    <td class="text-center">
-                        {% if spell.is_verbal %} Verbal<br> {% endif %}
-                        {% if spell.is_somatic %} Somatic<br> {% endif %}
-                        {% if spell.required_material %} Material<br> {% endif %}
-                        {% if spell.is_ritual %} Ritual<br> {% endif %}
-                        {% if spell.is_chronomancy %} Chronomancy<br> {% endif %}
-                        {% if spell.is_renaissance %} Renaissance<br> {% endif %}
-                    </td>
-
-                    <td>
-                        <a href="{% url 'card_view' spell.slug %}"><i class="fas fa-search text-danger"></i></a>
-                    </td>
-                </tr>
-                {% endif %}
-                {% endfor %}
-                </tbody>
-            </table>
+                        <td>
+                            <a href="{% url 'card_view' spell.slug %}"><i class="fas fa-search text-danger"></i></a>
+                        </td>
+                    </tr>
+                    {% endif %}
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
         </div>
-    </div>
-    <!-- TABELA NIVEL 0~9 -->
-    {% for lvl in range %}
-    <div class="tab-pane fade" id="tab-level-{{ lvl }}" role="tabpanel" aria-labelledby="pills-contact-tab">
-        <div class="table-responsive">
-            <table class="table table-hover spells-table">
-                <thead>
-                <tr>
-                    <th scope="col">Name</th>
-                    <th class="text-center" scope="col">Casting Time</th>
-                    <th class="text-center" scope="col">Range</th>
-                    <th class="text-center" scope="col">Duration</th>
-                    <th class="text-center" scope="col">Components and Tags</th>
-                    <th class="text-center" scope="col" style="width: 5%;"></th>
-                </tr>
-                </thead>
-                <tbody>
-                {% for spell in table_list %}
-                {% if spell.level == lvl %}
-                <tr>
-                    <td>{{spell.name}}</td>
-                    <td class="text-center">
-                        {{ spell.casting_time }}
-                    </td>
-                    <td class="text-center">{{ spell.range }}</td>
-                    <td class="text-center">{% if spell.is_concentration %}Concentration, up to
-                        {% endif %}
-                        {{ spell.duration }}
-                    </td>
-                    <td class="text-center">
-                        {% if spell.is_verbal %} Verbal<br> {% endif %}
-                        {% if spell.is_somatic %} Somatic<br> {% endif %}
-                        {% if spell.required_material %} Material<br> {% endif %}
-                        {% if spell.is_ritual %} Ritual<br> {% endif %}
-                        {% if spell.is_chronomancy %} Chronomancy<br> {% endif %}
-                        {% if spell.is_renaissance %} Renaissance<br> {% endif %}
-                    </td>
+        <!-- TABELA NIVEL 0~9 -->
+        {% for lvl in range %}
+        <div class="tab-pane fade" id="tab-level-{{ lvl }}" role="tabpanel" aria-labelledby="pills-contact-tab">
+            <div class="table-responsive">
+                <table class="table table-hover spells-table">
+                    <thead>
+                    <tr>
+                        <th scope="col">Name</th>
+                        <th class="text-center" scope="col">Casting Time</th>
+                        <th class="text-center" scope="col">Range</th>
+                        <th class="text-center" scope="col">Duration</th>
+                        <th class="text-center" scope="col">Components and Tags</th>
+                        <th class="text-center" scope="col" style="width: 5%;"></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for spell in table_list %}
+                    {% if spell.level == lvl %}
+                    <tr>
+                        <td>{{spell.name}}</td>
+                        <td class="text-center">
+                            {{ spell.casting_time }}
+                        </td>
+                        <td class="text-center">{{ spell.range }}</td>
+                        <td class="text-center">{% if spell.is_concentration %}Concentration, up to
+                            {% endif %}
+                            {{ spell.duration }}
+                        </td>
+                        <td class="text-center">
+                            {% if spell.is_verbal %} Verbal<br> {% endif %}
+                            {% if spell.is_somatic %} Somatic<br> {% endif %}
+                            {% if spell.required_material %} Material<br> {% endif %}
+                            {% if spell.is_ritual %} Ritual<br> {% endif %}
+                            {% if spell.is_chronomancy %} Chronomancy<br> {% endif %}
+                            {% if spell.is_renaissance %} Renaissance<br> {% endif %}
+                        </td>
 
-                    <td>
-                        <a href="{% url 'card_view' spell.slug %}"><i class="fas fa-search text-danger"></i></a>
-                    </td>
-                </tr>
-                {% endif %}
-                {% endfor %}
-                </tbody>
-            </table>
+                        <td>
+                            <a href="{% url 'card_view' spell.slug %}"><i class="fas fa-search text-danger"></i></a>
+                        </td>
+                    </tr>
+                    {% endif %}
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
         </div>
+        {% endfor %}
     </div>
-    {% endfor %}
+    {% endif %}
 </div>
-{% endif %}

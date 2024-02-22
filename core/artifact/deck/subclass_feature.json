@@ -116,7 +116,7 @@
       "slug": "subclass_feature",
       "name": "Subclass Feature"
     },
-    "desc": "<p>By 15th level, you have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments:</p><ul><li>You gain resistance to acid damage and poison damage, and you are now immune to the poisoned condition.</li></ul><ul><li>You can cast Greater Restoration and Heal without expending a spell slot, without preparing the spell, and without providing the material component, provided you use alchemist’s supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a long rest.</li></ul>",
+    "desc": "<p>By 15th level, you have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments:</p><ul><li>You gain resistance to acid damage and poison damage, and you are now immune to the poisoned condition.</li></ul><ul><li>You can cast Greater Restoration and Heal without expending a spell slot, without preparing the spell, and without providing the material component, provided you use alchemist's supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a long rest.</li></ul>",
     "class": {
       "slug": "artificer",
       "name": "Artificer"
@@ -195,7 +195,7 @@
       "name": "Tasha's Cauldron of Everything"
     },
     "level": 3,
-    "desc": "<p>Beginning at 3rd level, your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith's tools in hand.</p><p>You gain the following benefits while wearing this armor:</p><ul><li>If the armor normally has a Strength requirement, the arcane armor lacks this requirement for you.</li></ul><ul><li>You can use the arcane armor as a spellcasting focus for your artificer spells.</li></ul><ul><li>The armor attaches to you and can’t be removed against your will. It also expands to cover your entire body, although you can retract or deploy the helmet as a bonus action. The armor replaces any missing limbs, functioning identically to a body part it is replacing.</li></ul><ul><li>You can doff or don the armor as an action.</li></ul><p>The armor continues to be Arcane Armor until you don another suit of armor or you die.</p>"
+    "desc": "<p>Beginning at 3rd level, your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith's tools in hand.</p><p>You gain the following benefits while wearing this armor:</p><ul><li>If the armor normally has a Strength requirement, the arcane armor lacks this requirement for you.</li></ul><ul><li>You can use the arcane armor as a spellcasting focus for your artificer spells.</li></ul><ul><li>The armor attaches to you and can't be removed against your will. It also expands to cover your entire body, although you can retract or deploy the helmet as a bonus action. The armor replaces any missing limbs, functioning identically to a body part it is replacing.</li></ul><ul><li>You can doff or don the armor as an action.</li></ul><p>The armor continues to be Arcane Armor until you don another suit of armor or you die.</p>"
   },
   {
     "slug": "armor-model",
@@ -327,7 +327,7 @@
       "name": "Tasha's Cauldron of Everything"
     },
     "level": 3,
-    "desc": "<p>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Artillerist Spells table. These spells count as artificer spells for you, but they don’t count against the number of artificer spells you prepare.</p><table class=\"table\"><tr><th colspan=\"2\">Artillerist Spells</th></tr><tr><th>Artificer Level</th><th>Artillerist Spells</th></tr><tr><td>3rd</td><td>Shield, Thunderwave</td></tr><tr><td>5th</td><td>Scorching Ray, Shatter</td></tr><tr><td>9th</td><td>Fireball, Wind Wall</td></tr><tr><td>13th</td><td>Ice Storm, Wall of Fire</td></tr><tr><td>17th</td><td>Cone of Cold, Wall of Force</td></tr></table>"
+    "desc": "<p>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Artillerist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</p><table class=\"table\"><tr><th colspan=\"2\">Artillerist Spells</th></tr><tr><th>Artificer Level</th><th>Artillerist Spells</th></tr><tr><td>3rd</td><td>Shield, Thunderwave</td></tr><tr><td>5th</td><td>Scorching Ray, Shatter</td></tr><tr><td>9th</td><td>Fireball, Wind Wall</td></tr><tr><td>13th</td><td>Ice Storm, Wall of Fire</td></tr><tr><td>17th</td><td>Cone of Cold, Wall of Force</td></tr></table>"
   },
   {
     "slug": "eldritch-cannon",
@@ -415,7 +415,7 @@
       "name": "Tasha's Cauldron of Everything"
     },
     "level": 15,
-    "desc": "<p>By 15th level, you’re a master at forming well-defended emplacements using Eldritch Cannon:</p><ul><li>You and your allies have half cover while within 10 feet of a cannon you create with Eldritch Cannon, as a result of a shimmering field of magical protection that the cannon emits.</li></ul><ul><li>You can now have two cannons at the same time. You can create two with the same action (but not the same spell slot), and you can activate both of them with the same bonus action. You determine whether the cannons are identical to each other or different. You can't create a third cannon while you have two.</li></ul>"
+    "desc": "<p>By 15th level, you're a master at forming well-defended emplacements using Eldritch Cannon:</p><ul><li>You and your allies have half cover while within 10 feet of a cannon you create with Eldritch Cannon, as a result of a shimmering field of magical protection that the cannon emits.</li></ul><ul><li>You can now have two cannons at the same time. You can create two with the same action (but not the same spell slot), and you can activate both of them with the same bonus action. You determine whether the cannons are identical to each other or different. You can't create a third cannon while you have two.</li></ul>"
   },
   {
     "type": {
@@ -459,7 +459,7 @@
       "name": "Battle Smith",
       "slug": "battle-smith"
     },
-    "desc": "<p>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table. These spells count as artificer spells for you, but they don’t count against the number of artificer spells you prepare.</p><table class=\"table\"><tr><th colspan=\"2\">Battle Smith Spells</th></tr><tr><th>Artificer Level</th><th>Battle Smith Spells</th></tr><tr><td>3rd</td><td>Heroism, Shield</td></tr><tr><td>5th</td><td>Branding Smite</a>,Warding Bond</td></tr><tr><td>9th</td><td>Aura of Vitality, Conjure Barrage</a></td></tr><tr><td>13th</td><td>Aura of Purity, Fire Shield</td></tr><tr><td>17th</td><td>Banishing Smite, Mass Cure Wounds</td></tr></table>"
+    "desc": "<p>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</p><table class=\"table\"><tr><th colspan=\"2\">Battle Smith Spells</th></tr><tr><th>Artificer Level</th><th>Battle Smith Spells</th></tr><tr><td>3rd</td><td>Heroism, Shield</td></tr><tr><td>5th</td><td>Branding Smite</a>,Warding Bond</td></tr><tr><td>9th</td><td>Aura of Vitality, Conjure Barrage</a></td></tr><tr><td>13th</td><td>Aura of Purity, Fire Shield</td></tr><tr><td>17th</td><td>Banishing Smite, Mass Cure Wounds</td></tr></table>"
   },
   {
     "type": {

@@ -1,29 +1,39 @@
-{% if card.prerequisite_artificer_level %}
-<div class="row">
-    <div class="col">
-        <p>
-            <b>Prerequisite</b>: {{card.prerequisite_artificer_level}}th-level artificer
-        </p>
+<div class="card-header">
+    <div class="card-head-row">
+        <div class="card-title">{{card.name}}</div>
+        <div class="card-tools">
+            <button class="btn btn-danger" id="store_card"><i class="fa fa-print"></i></button>
+        </div>
+    </div>
+    <div class="card-head-row">
+        <div class="card-category mt-0">{{card.type.name}}</div>
     </div>
 </div>
-{% endif %}
-
-{% if card.material %}
-<div class="row">
-    <div class="col">
-        <p>
-            <b>Item</b>: {{card.material}}{% if card.requires_attunement %} Requires attunement.{% endif %}
-        </p>
+<div class="card-body">
+    {% if card.prerequisite_artificer_level %}
+    <div class="row">
+        <div class="col">
+            <p>
+                <b>Prerequisite</b>: {{card.prerequisite_artificer_level}}th-level artificer
+            </p>
+        </div>
     </div>
-</div>
-{% endif %}
-
-{% autoescape off %}
-{{card.desc}}
-{% endautoescape %}
-
-<div class="row">
-    <div class="col">
-        <button class="btn btn-light btn-xs" disabled=""><b>Source:</b> {{card.source.name}}</button>
+    {% endif %}
+    {% if card.material %}
+    <div class="row">
+        <div class="col">
+            <p>
+                <b>Item</b>: {{card.material}}{% if card.requires_attunement %} Requires attunement.{% endif %}
+            </p>
+        </div>
+    </div>
+    {% endif %}
+    {% autoescape off %}
+    {{card.desc}}
+    {% endautoescape %}
+    <div class="row">
+        <div class="col">
+            <button class="btn btn-light btn-xs" disabled=""><b>Source:</b> {{card.source.name}}</button>
+        </div>
     </div>
 </div>

@@ -2970,5 +2970,394 @@
   {
     "slug": "signature-spells",
     "type": "class_feature"
+  },  {
+    "slug": "careful-spell",
+    "type": "metamagic"
+  },
+  {
+    "slug": "distant-spell",
+    "type": "metamagic"
+  },
+  {
+    "slug": "empowered-spell",
+    "type": "metamagic"
+  },
+  {
+    "slug": "extended-spell",
+    "type": "metamagic"
+  },
+  {
+    "slug": "heightened-spell",
+    "type": "metamagic"
+  },
+  {
+    "slug": "quickened-spell",
+    "type": "metamagic"
+  },
+  {
+    "slug": "seeking-spell",
+    "type": "metamagic"
+  },
+  {
+    "slug": "subtle-spell",
+    "type": "metamagic"
+  },
+  {
+    "slug": "transmuted-spell",
+    "type": "metamagic"
+  },
+  {
+    "slug": "twinned-spell",
+    "type": "metamagic"
+  },  {
+    "slug": "ambush",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "bait-and-switch",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "brace",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "commanders-strike",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "commanding-presence",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "disarming-attack",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "distracting-strike",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "evasive-footwork",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "feinting-attack",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "goading-attack",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "grappling-strike",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "lunging-attack",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "maneuvering-attack",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "menacing-attack",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "parry",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "precision-attack",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "pushing-attack",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "quick-toss",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "rally",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "riposte",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "sweeping-attack",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "tactical-assessment",
+    "type": "battle_maneuver"
+  },
+  {
+    "slug": "trip-attack",
+    "type": "battle_maneuver"
+  },  {
+    "slug": "agonizing-blast",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "armor-of-shadows",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "ascendant-step",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "aspect-of-the-moon",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "beast-speech",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "beguiling-influence",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "bewitching-whispers",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "bond-of-the-talisman",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "book-of-ancient-secrets",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "chains-of-carceri",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "cloak-of-flies",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "devils-sight",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "dreadful-word",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "eldritch-mind",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "eldritch-sight",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "eldritch-smite",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "eldritch-spear",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "eyes-of-the-rune-keeper",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "far-scribe",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "fiendish-vigor",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "gaze-of-two-minds",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "ghostly-gaze",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "gift-of-the-depths",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "gift-of-the-ever-living-ones",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "gift-of-the-protectors",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "grasp-of-hadar",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "improved-pact-weapon",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "investment-of-the-chain-master",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "lance-of-lethargy",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "lifedrinker",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "maddening-hex",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "mask-of-many-faces",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "master-of-myriad-forms",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "minions-of-chaos",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "mire-the-mind",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "misty-visions",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "one-with-shadows",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "otherworldly-leap",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "protection-of-the-talisman",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "rebuke-of-the-talisman",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "relentless-hex",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "repelling-blast",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "sculptor-of-flesh",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "shroud-of-shadow",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "sign-of-ill-omen",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "thief-of-five-fates",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "thirsting-blade",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "tomb-of-levistus",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "tricksters-escape",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "undying-servitude",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "visions-of-distant-realms",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "voice-of-the-chain-master",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "whispers-of-the-grave",
+    "type": "eldritch_invocation"
+  },
+  {
+    "slug": "witch-sight",
+    "type": "eldritch_invocation"
+  },
+    {
+    "slug": "archery",
+    "type": "fighting_style"
+  },
+  {
+    "slug": "blind-fighting",
+    "type": "fighting_style"
+  },
+  {
+    "slug": "defense",
+    "type": "fighting_style"
+  },
+  {
+    "slug": "dueling",
+    "type": "fighting_style"
+  },
+  {
+    "slug": "great-weapon-fighting",
+    "type": "fighting_style"
+  },
+  {
+    "slug": "interception",
+    "type": "fighting_style"
+  },
+  {
+    "slug": "protection",
+    "type": "fighting_style"
+  },
+  {
+    "slug": "superior-technique",
+    "type": "fighting_style"
+  },
+  {
+    "slug": "thrown-weapon-fighting",
+    "type": "fighting_style"
+  },
+  {
+    "slug": "two-weapon-fighting",
+    "type": "fighting_style"
+  },
+  {
+    "slug": "unarmed-fighting",
+    "type": "fighting_style"
   }
 ]
