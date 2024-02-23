@@ -10,6 +10,8 @@
     {% include 'cardviewer/card_class.html'%}
     {% elif card.type.slug == "subclass" %}
     {% include 'cardviewer/card_subclass.html'%}
+    {% elif card.type.slug == "monster" %}
+    {% include 'cardviewer/card_monster.html'%}
     {% else %}
     {% include 'cardviewer/card_generic.html'%}
     {% endif %}

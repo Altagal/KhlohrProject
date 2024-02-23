@@ -6,7 +6,7 @@
       "slug": "skill",
       "name": "Skill"
     },
-    "desc": "<p> Your Strength (Athletics) check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities:</p><ul> <li>You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.</li> <li>You try to jump an unusually long distance or pull off a stunt midjump.</li> <li>You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.</li> </ul>",
+    "desc": "<p>Your Strength (Athletics) check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities:</p><ul><li>You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.</li><li>You try to jump an unusually long distance or pull off a stunt midjump.</li><li>You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.</li></ul>",
     "ability_score": {
       "slug": "strength",
       "name": "Strength"
@@ -57,7 +57,7 @@
       "slug": "skill",
       "name": "Skill"
     },
-    "desc": "<p> Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.</p>",
+    "desc": "<p>Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.</p>",
     "ability_score": {
       "slug": "dexterity",
       "name": "Dexterity"
@@ -125,7 +125,7 @@
       "slug": "skill",
       "name": "Skill"
     },
-    "desc": "<p> Your Intelligence (Nature) check measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles.</p>",
+    "desc": "<p>Your Intelligence (Nature) check measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles.</p>",
     "ability_score": {
       "slug": "intelligence",
       "name": "Intelligence"

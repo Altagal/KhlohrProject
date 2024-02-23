@@ -2467,7 +2467,7 @@
     "slug": "school-of-abjuration",
     "type": "subclass"
   },
-    {
+  {
     "slug": "magical-tinkering",
     "type": "class_feature"
   },
@@ -2970,7 +2970,8 @@
   {
     "slug": "signature-spells",
     "type": "class_feature"
-  },  {
+  },
+  {
     "slug": "careful-spell",
     "type": "metamagic"
   },
@@ -3009,7 +3010,8 @@
   {
     "slug": "twinned-spell",
     "type": "metamagic"
-  },  {
+  },
+  {
     "slug": "ambush",
     "type": "battle_maneuver"
   },
@@ -3100,7 +3102,8 @@
   {
     "slug": "trip-attack",
     "type": "battle_maneuver"
-  },  {
+  },
+  {
     "slug": "agonizing-blast",
     "type": "eldritch_invocation"
   },
@@ -3316,7 +3319,7 @@
     "slug": "witch-sight",
     "type": "eldritch_invocation"
   },
-    {
+  {
     "slug": "archery",
     "type": "fighting_style"
   },
@@ -3359,5 +3362,1341 @@
   {
     "slug": "unarmed-fighting",
     "type": "fighting_style"
+  },
+  {
+    "slug": "aboleth",
+    "type": "monster"
+  },
+  {
+    "slug": "acolyte",
+    "type": "monster"
+  },
+  {
+    "slug": "adult-black-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "adult-blue-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "adult-brass-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "adult-bronze-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "adult-copper-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "adult-gold-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "adult-green-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "adult-red-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "adult-silver-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "adult-white-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "air-elemental",
+    "type": "monster"
+  },
+  {
+    "slug": "ancient-black-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "ancient-blue-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "ancient-brass-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "ancient-bronze-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "ancient-copper-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "ancient-gold-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "ancient-green-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "ancient-red-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "ancient-silver-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "ancient-white-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "androsphinx",
+    "type": "monster"
+  },
+  {
+    "slug": "animated-armor",
+    "type": "monster"
+  },
+  {
+    "slug": "ankheg",
+    "type": "monster"
+  },
+  {
+    "slug": "ape",
+    "type": "monster"
+  },
+  {
+    "slug": "archmage",
+    "type": "monster"
+  },
+  {
+    "slug": "assassin",
+    "type": "monster"
+  },
+  {
+    "slug": "awakened-shrub",
+    "type": "monster"
+  },
+  {
+    "slug": "awakened-tree",
+    "type": "monster"
+  },
+  {
+    "slug": "axe-beak",
+    "type": "monster"
+  },
+  {
+    "slug": "azer",
+    "type": "monster"
+  },
+  {
+    "slug": "baboon",
+    "type": "monster"
+  },
+  {
+    "slug": "badger",
+    "type": "monster"
+  },
+  {
+    "slug": "balor",
+    "type": "monster"
+  },
+  {
+    "slug": "bandit",
+    "type": "monster"
+  },
+  {
+    "slug": "bandit-captain",
+    "type": "monster"
+  },
+  {
+    "slug": "barbed-devil",
+    "type": "monster"
+  },
+  {
+    "slug": "basilisk",
+    "type": "monster"
+  },
+  {
+    "slug": "bat",
+    "type": "monster"
+  },
+  {
+    "slug": "bearded-devil",
+    "type": "monster"
+  },
+  {
+    "slug": "behir",
+    "type": "monster"
+  },
+  {
+    "slug": "berserker",
+    "type": "monster"
+  },
+  {
+    "slug": "black-bear",
+    "type": "monster"
+  },
+  {
+    "slug": "black-dragon-wyrmling",
+    "type": "monster"
+  },
+  {
+    "slug": "black-pudding",
+    "type": "monster"
+  },
+  {
+    "slug": "blink-dog",
+    "type": "monster"
+  },
+  {
+    "slug": "blood-hawk",
+    "type": "monster"
+  },
+  {
+    "slug": "blue-dragon-wyrmling",
+    "type": "monster"
+  },
+  {
+    "slug": "boar",
+    "type": "monster"
+  },
+  {
+    "slug": "bone-devil",
+    "type": "monster"
+  },
+  {
+    "slug": "brass-dragon-wyrmling",
+    "type": "monster"
+  },
+  {
+    "slug": "bronze-dragon-wyrmling",
+    "type": "monster"
+  },
+  {
+    "slug": "brown-bear",
+    "type": "monster"
+  },
+  {
+    "slug": "bugbear",
+    "type": "monster"
+  },
+  {
+    "slug": "bulette",
+    "type": "monster"
+  },
+  {
+    "slug": "camel",
+    "type": "monster"
+  },
+  {
+    "slug": "cat",
+    "type": "monster"
+  },
+  {
+    "slug": "centaur",
+    "type": "monster"
+  },
+  {
+    "slug": "chain-devil",
+    "type": "monster"
+  },
+  {
+    "slug": "chimera",
+    "type": "monster"
+  },
+  {
+    "slug": "chuul",
+    "type": "monster"
+  },
+  {
+    "slug": "clay-golem",
+    "type": "monster"
+  },
+  {
+    "slug": "cloaker",
+    "type": "monster"
+  },
+  {
+    "slug": "cloud-giant",
+    "type": "monster"
+  },
+  {
+    "slug": "cockatrice",
+    "type": "monster"
+  },
+  {
+    "slug": "commoner",
+    "type": "monster"
+  },
+  {
+    "slug": "constrictor-snake",
+    "type": "monster"
+  },
+  {
+    "slug": "copper-dragon-wyrmling",
+    "type": "monster"
+  },
+  {
+    "slug": "couatl",
+    "type": "monster"
+  },
+  {
+    "slug": "crab",
+    "type": "monster"
+  },
+  {
+    "slug": "crocodile",
+    "type": "monster"
+  },
+  {
+    "slug": "cult-fanatic",
+    "type": "monster"
+  },
+  {
+    "slug": "cultist",
+    "type": "monster"
+  },
+  {
+    "slug": "darkmantle",
+    "type": "monster"
+  },
+  {
+    "slug": "death-dog",
+    "type": "monster"
+  },
+  {
+    "slug": "deep-gnome-svirfneblin",
+    "type": "monster"
+  },
+  {
+    "slug": "deer",
+    "type": "monster"
+  },
+  {
+    "slug": "deva",
+    "type": "monster"
+  },
+  {
+    "slug": "dire-wolf",
+    "type": "monster"
+  },
+  {
+    "slug": "djinni",
+    "type": "monster"
+  },
+  {
+    "slug": "doppelganger",
+    "type": "monster"
+  },
+  {
+    "slug": "draft-horse",
+    "type": "monster"
+  },
+  {
+    "slug": "dragon-turtle",
+    "type": "monster"
+  },
+  {
+    "slug": "dretch",
+    "type": "monster"
+  },
+  {
+    "slug": "drider",
+    "type": "monster"
+  },
+  {
+    "slug": "drow",
+    "type": "monster"
+  },
+  {
+    "slug": "druid",
+    "type": "monster"
+  },
+  {
+    "slug": "dryad",
+    "type": "monster"
+  },
+  {
+    "slug": "duergar",
+    "type": "monster"
+  },
+  {
+    "slug": "dust-mephit",
+    "type": "monster"
+  },
+  {
+    "slug": "eagle",
+    "type": "monster"
+  },
+  {
+    "slug": "earth-elemental",
+    "type": "monster"
+  },
+  {
+    "slug": "efreeti",
+    "type": "monster"
+  },
+  {
+    "slug": "elephant",
+    "type": "monster"
+  },
+  {
+    "slug": "elk",
+    "type": "monster"
+  },
+  {
+    "slug": "erinyes",
+    "type": "monster"
+  },
+  {
+    "slug": "ettercap",
+    "type": "monster"
+  },
+  {
+    "slug": "ettin",
+    "type": "monster"
+  },
+  {
+    "slug": "fire-elemental",
+    "type": "monster"
+  },
+  {
+    "slug": "fire-giant",
+    "type": "monster"
+  },
+  {
+    "slug": "flesh-golem",
+    "type": "monster"
+  },
+  {
+    "slug": "flying-snake",
+    "type": "monster"
+  },
+  {
+    "slug": "flying-sword",
+    "type": "monster"
+  },
+  {
+    "slug": "frog",
+    "type": "monster"
+  },
+  {
+    "slug": "frost-giant",
+    "type": "monster"
+  },
+  {
+    "slug": "gargoyle",
+    "type": "monster"
+  },
+  {
+    "slug": "gelatinous-cube",
+    "type": "monster"
+  },
+  {
+    "slug": "ghast",
+    "type": "monster"
+  },
+  {
+    "slug": "ghost",
+    "type": "monster"
+  },
+  {
+    "slug": "ghoul",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-ape",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-badger",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-bat",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-boar",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-centipede",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-constrictor-snake",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-crab",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-crocodile",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-eagle",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-elk",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-fire-beetle",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-frog",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-goat",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-hyena",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-lizard",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-octopus",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-owl",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-poisonous-snake",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-rat",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-rat-diseased",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-scorpion",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-sea-horse",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-shark",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-spider",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-toad",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-vulture",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-wasp",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-weasel",
+    "type": "monster"
+  },
+  {
+    "slug": "giant-wolf-spider",
+    "type": "monster"
+  },
+  {
+    "slug": "gibbering-mouther",
+    "type": "monster"
+  },
+  {
+    "slug": "glabrezu",
+    "type": "monster"
+  },
+  {
+    "slug": "gladiator",
+    "type": "monster"
+  },
+  {
+    "slug": "gnoll",
+    "type": "monster"
+  },
+  {
+    "slug": "goat",
+    "type": "monster"
+  },
+  {
+    "slug": "goblin",
+    "type": "monster"
+  },
+  {
+    "slug": "gold-dragon-wyrmling",
+    "type": "monster"
+  },
+  {
+    "slug": "gorgon",
+    "type": "monster"
+  },
+  {
+    "slug": "gray-ooze",
+    "type": "monster"
+  },
+  {
+    "slug": "green-dragon-wyrmling",
+    "type": "monster"
+  },
+  {
+    "slug": "green-hag",
+    "type": "monster"
+  },
+  {
+    "slug": "grick",
+    "type": "monster"
+  },
+  {
+    "slug": "griffon",
+    "type": "monster"
+  },
+  {
+    "slug": "grimlock",
+    "type": "monster"
+  },
+  {
+    "slug": "guard",
+    "type": "monster"
+  },
+  {
+    "slug": "guardian-naga",
+    "type": "monster"
+  },
+  {
+    "slug": "gynosphinx",
+    "type": "monster"
+  },
+  {
+    "slug": "half-red-dragon-veteran",
+    "type": "monster"
+  },
+  {
+    "slug": "harpy",
+    "type": "monster"
+  },
+  {
+    "slug": "hawk",
+    "type": "monster"
+  },
+  {
+    "slug": "hell-hound",
+    "type": "monster"
+  },
+  {
+    "slug": "hezrou",
+    "type": "monster"
+  },
+  {
+    "slug": "hill-giant",
+    "type": "monster"
+  },
+  {
+    "slug": "hippogriff",
+    "type": "monster"
+  },
+  {
+    "slug": "hobgoblin",
+    "type": "monster"
+  },
+  {
+    "slug": "homunculus",
+    "type": "monster"
+  },
+  {
+    "slug": "horned-devil",
+    "type": "monster"
+  },
+  {
+    "slug": "hunter-shark",
+    "type": "monster"
+  },
+  {
+    "slug": "hydra",
+    "type": "monster"
+  },
+  {
+    "slug": "hyena",
+    "type": "monster"
+  },
+  {
+    "slug": "ice-devil",
+    "type": "monster"
+  },
+  {
+    "slug": "ice-mephit",
+    "type": "monster"
+  },
+  {
+    "slug": "imp",
+    "type": "monster"
+  },
+  {
+    "slug": "invisible-stalker",
+    "type": "monster"
+  },
+  {
+    "slug": "iron-golem",
+    "type": "monster"
+  },
+  {
+    "slug": "jackal",
+    "type": "monster"
+  },
+  {
+    "slug": "killer-whale",
+    "type": "monster"
+  },
+  {
+    "slug": "knight",
+    "type": "monster"
+  },
+  {
+    "slug": "kobold",
+    "type": "monster"
+  },
+  {
+    "slug": "kraken",
+    "type": "monster"
+  },
+  {
+    "slug": "lamia",
+    "type": "monster"
+  },
+  {
+    "slug": "lemure",
+    "type": "monster"
+  },
+  {
+    "slug": "lich",
+    "type": "monster"
+  },
+  {
+    "slug": "lion",
+    "type": "monster"
+  },
+  {
+    "slug": "lizard",
+    "type": "monster"
+  },
+  {
+    "slug": "lizardfolk",
+    "type": "monster"
+  },
+  {
+    "slug": "mage",
+    "type": "monster"
+  },
+  {
+    "slug": "magma-mephit",
+    "type": "monster"
+  },
+  {
+    "slug": "magmin",
+    "type": "monster"
+  },
+  {
+    "slug": "mammoth",
+    "type": "monster"
+  },
+  {
+    "slug": "manticore",
+    "type": "monster"
+  },
+  {
+    "slug": "marilith",
+    "type": "monster"
+  },
+  {
+    "slug": "mastiff",
+    "type": "monster"
+  },
+  {
+    "slug": "medusa",
+    "type": "monster"
+  },
+  {
+    "slug": "merfolk",
+    "type": "monster"
+  },
+  {
+    "slug": "merrow",
+    "type": "monster"
+  },
+  {
+    "slug": "mimic",
+    "type": "monster"
+  },
+  {
+    "slug": "minotaur",
+    "type": "monster"
+  },
+  {
+    "slug": "minotaur-skeleton",
+    "type": "monster"
+  },
+  {
+    "slug": "mule",
+    "type": "monster"
+  },
+  {
+    "slug": "mummy",
+    "type": "monster"
+  },
+  {
+    "slug": "mummy-lord",
+    "type": "monster"
+  },
+  {
+    "slug": "nalfeshnee",
+    "type": "monster"
+  },
+  {
+    "slug": "night-hag",
+    "type": "monster"
+  },
+  {
+    "slug": "nightmare",
+    "type": "monster"
+  },
+  {
+    "slug": "noble",
+    "type": "monster"
+  },
+  {
+    "slug": "ochre-jelly",
+    "type": "monster"
+  },
+  {
+    "slug": "octopus",
+    "type": "monster"
+  },
+  {
+    "slug": "ogre",
+    "type": "monster"
+  },
+  {
+    "slug": "ogre-zombie",
+    "type": "monster"
+  },
+  {
+    "slug": "oni",
+    "type": "monster"
+  },
+  {
+    "slug": "orc",
+    "type": "monster"
+  },
+  {
+    "slug": "otyugh",
+    "type": "monster"
+  },
+  {
+    "slug": "owl",
+    "type": "monster"
+  },
+  {
+    "slug": "owlbear",
+    "type": "monster"
+  },
+  {
+    "slug": "panther",
+    "type": "monster"
+  },
+  {
+    "slug": "pegasus",
+    "type": "monster"
+  },
+  {
+    "slug": "phase-spider",
+    "type": "monster"
+  },
+  {
+    "slug": "pit-fiend",
+    "type": "monster"
+  },
+  {
+    "slug": "planetar",
+    "type": "monster"
+  },
+  {
+    "slug": "plesiosaurus",
+    "type": "monster"
+  },
+  {
+    "slug": "poisonous-snake",
+    "type": "monster"
+  },
+  {
+    "slug": "polar-bear",
+    "type": "monster"
+  },
+  {
+    "slug": "pony",
+    "type": "monster"
+  },
+  {
+    "slug": "priest",
+    "type": "monster"
+  },
+  {
+    "slug": "pseudodragon",
+    "type": "monster"
+  },
+  {
+    "slug": "purple-worm",
+    "type": "monster"
+  },
+  {
+    "slug": "quasit",
+    "type": "monster"
+  },
+  {
+    "slug": "quipper",
+    "type": "monster"
+  },
+  {
+    "slug": "rakshasa",
+    "type": "monster"
+  },
+  {
+    "slug": "rat",
+    "type": "monster"
+  },
+  {
+    "slug": "raven",
+    "type": "monster"
+  },
+  {
+    "slug": "red-dragon-wyrmling",
+    "type": "monster"
+  },
+  {
+    "slug": "reef-shark",
+    "type": "monster"
+  },
+  {
+    "slug": "remorhaz",
+    "type": "monster"
+  },
+  {
+    "slug": "rhinoceros",
+    "type": "monster"
+  },
+  {
+    "slug": "riding-horse",
+    "type": "monster"
+  },
+  {
+    "slug": "roc",
+    "type": "monster"
+  },
+  {
+    "slug": "roper",
+    "type": "monster"
+  },
+  {
+    "slug": "rug-of-smothering",
+    "type": "monster"
+  },
+  {
+    "slug": "rust-monster",
+    "type": "monster"
+  },
+  {
+    "slug": "saber-toothed-tiger",
+    "type": "monster"
+  },
+  {
+    "slug": "sahuagin",
+    "type": "monster"
+  },
+  {
+    "slug": "salamander",
+    "type": "monster"
+  },
+  {
+    "slug": "satyr",
+    "type": "monster"
+  },
+  {
+    "slug": "scorpion",
+    "type": "monster"
+  },
+  {
+    "slug": "scout",
+    "type": "monster"
+  },
+  {
+    "slug": "sea-hag",
+    "type": "monster"
+  },
+  {
+    "slug": "sea-horse",
+    "type": "monster"
+  },
+  {
+    "slug": "shadow",
+    "type": "monster"
+  },
+  {
+    "slug": "shambling-mound",
+    "type": "monster"
+  },
+  {
+    "slug": "shield-guardian",
+    "type": "monster"
+  },
+  {
+    "slug": "shrieker",
+    "type": "monster"
+  },
+  {
+    "slug": "silver-dragon-wyrmling",
+    "type": "monster"
+  },
+  {
+    "slug": "skeleton",
+    "type": "monster"
+  },
+  {
+    "slug": "solar",
+    "type": "monster"
+  },
+  {
+    "slug": "specter",
+    "type": "monster"
+  },
+  {
+    "slug": "spider",
+    "type": "monster"
+  },
+  {
+    "slug": "spirit-naga",
+    "type": "monster"
+  },
+  {
+    "slug": "sprite",
+    "type": "monster"
+  },
+  {
+    "slug": "spy",
+    "type": "monster"
+  },
+  {
+    "slug": "steam-mephit",
+    "type": "monster"
+  },
+  {
+    "slug": "stirge",
+    "type": "monster"
+  },
+  {
+    "slug": "stone-giant",
+    "type": "monster"
+  },
+  {
+    "slug": "stone-golem",
+    "type": "monster"
+  },
+  {
+    "slug": "storm-giant",
+    "type": "monster"
+  },
+  {
+    "slug": "succubus-incubus",
+    "type": "monster"
+  },
+  {
+    "slug": "swarm-of-bats",
+    "type": "monster"
+  },
+  {
+    "slug": "swarm-of-beetles",
+    "type": "monster"
+  },
+  {
+    "slug": "swarm-of-centipedes",
+    "type": "monster"
+  },
+  {
+    "slug": "swarm-of-insects",
+    "type": "monster"
+  },
+  {
+    "slug": "swarm-of-poisonous-snakes",
+    "type": "monster"
+  },
+  {
+    "slug": "swarm-of-quippers",
+    "type": "monster"
+  },
+  {
+    "slug": "swarm-of-rats",
+    "type": "monster"
+  },
+  {
+    "slug": "swarm-of-ravens",
+    "type": "monster"
+  },
+  {
+    "slug": "swarm-of-spiders",
+    "type": "monster"
+  },
+  {
+    "slug": "swarm-of-wasps",
+    "type": "monster"
+  },
+  {
+    "slug": "tarrasque",
+    "type": "monster"
+  },
+  {
+    "slug": "thug",
+    "type": "monster"
+  },
+  {
+    "slug": "tiger",
+    "type": "monster"
+  },
+  {
+    "slug": "treant",
+    "type": "monster"
+  },
+  {
+    "slug": "tribal-warrior",
+    "type": "monster"
+  },
+  {
+    "slug": "triceratops",
+    "type": "monster"
+  },
+  {
+    "slug": "troll",
+    "type": "monster"
+  },
+  {
+    "slug": "tyrannosaurus-rex",
+    "type": "monster"
+  },
+  {
+    "slug": "unicorn",
+    "type": "monster"
+  },
+  {
+    "slug": "vampire-vampire",
+    "type": "monster"
+  },
+  {
+    "slug": "vampire-bat",
+    "type": "monster"
+  },
+  {
+    "slug": "vampire-mist",
+    "type": "monster"
+  },
+  {
+    "slug": "vampire-spawn",
+    "type": "monster"
+  },
+  {
+    "slug": "veteran",
+    "type": "monster"
+  },
+  {
+    "slug": "violet-fungus",
+    "type": "monster"
+  },
+  {
+    "slug": "vrock",
+    "type": "monster"
+  },
+  {
+    "slug": "vulture",
+    "type": "monster"
+  },
+  {
+    "slug": "warhorse",
+    "type": "monster"
+  },
+  {
+    "slug": "warhorse-skeleton",
+    "type": "monster"
+  },
+  {
+    "slug": "water-elemental",
+    "type": "monster"
+  },
+  {
+    "slug": "weasel",
+    "type": "monster"
+  },
+  {
+    "slug": "werebear-bear",
+    "type": "monster"
+  },
+  {
+    "slug": "werebear-human",
+    "type": "monster"
+  },
+  {
+    "slug": "werebear-hybrid",
+    "type": "monster"
+  },
+  {
+    "slug": "wereboar-boar",
+    "type": "monster"
+  },
+  {
+    "slug": "wereboar-human",
+    "type": "monster"
+  },
+  {
+    "slug": "wereboar-hybrid",
+    "type": "monster"
+  },
+  {
+    "slug": "wererat-human",
+    "type": "monster"
+  },
+  {
+    "slug": "wererat-hybrid",
+    "type": "monster"
+  },
+  {
+    "slug": "wererat-rat",
+    "type": "monster"
+  },
+  {
+    "slug": "weretiger-human",
+    "type": "monster"
+  },
+  {
+    "slug": "weretiger-hybrid",
+    "type": "monster"
+  },
+  {
+    "slug": "weretiger-tiger",
+    "type": "monster"
+  },
+  {
+    "slug": "werewolf-human",
+    "type": "monster"
+  },
+  {
+    "slug": "werewolf-hybrid",
+    "type": "monster"
+  },
+  {
+    "slug": "werewolf-wolf",
+    "type": "monster"
+  },
+  {
+    "slug": "white-dragon-wyrmling",
+    "type": "monster"
+  },
+  {
+    "slug": "wight",
+    "type": "monster"
+  },
+  {
+    "slug": "will-o-wisp",
+    "type": "monster"
+  },
+  {
+    "slug": "winter-wolf",
+    "type": "monster"
+  },
+  {
+    "slug": "wolf",
+    "type": "monster"
+  },
+  {
+    "slug": "worg",
+    "type": "monster"
+  },
+  {
+    "slug": "wraith",
+    "type": "monster"
+  },
+  {
+    "slug": "wyvern",
+    "type": "monster"
+  },
+  {
+    "slug": "xorn",
+    "type": "monster"
+  },
+  {
+    "slug": "young-black-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "young-blue-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "young-brass-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "young-bronze-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "young-copper-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "young-gold-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "young-green-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "young-red-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "young-silver-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "young-white-dragon",
+    "type": "monster"
+  },
+  {
+    "slug": "zombie",
+    "type": "monster"
   }
 ]

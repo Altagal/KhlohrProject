@@ -16,5 +16,6 @@ urlpatterns = [
     path('eldritch-invocations', views.eldritch_invocation_list, name='eldritch_invocation_list'),
     path('battle-maneuvers', views.battle_maneuver_list, name='battle_maneuver_list'),
     path('fighting-styles', views.fighting_style_list, name='fighting_style_list'),
+    path('monsters', views.monster_list, name='monster_list'),
 
 ]
