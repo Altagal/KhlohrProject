@@ -6,13 +6,134 @@
         </div>
     </div>
     <div class="card-head-row">
-        <div class="card-category mt-0">{{card.type.name}} - {{card.size | title}} {{card.monster_type.name | title}}</div>
+        <div class="card-category mt-0">{{card.type.name}} - {{card.size | title}} {{card.monster_type.name | title}}, {{card.alignment|title}}</div>
     </div>
 </div>
 <div class="card-body">
+    <div class="row">
+        <div class="col">
+            <p>
+                <b>Challenge :</b> {{card.challenge_rating}} ({{card.xp}}xp)
+
+            </p>
+        </div>
+    </div>
     {% autoescape off %}
     {{card.desc}}
     {% endautoescape %}
+    <div class="row">
+        <div class="col">
+            <p>
+                <b>Armor Class:</b> {% for armor_class in card.armor_class %}{% if not forloop.first %}, {% endif %} {{armor_class.value}} {% if armor_class.type %} ({{armor_class.type}}) {% endif %}{% endfor %} <br>
+                <b>Hit Points:</b> {{card.hit_points}} ({{card.hit_dice}})<br>
+                <b>Speed:</b> {% for speed in card.speed %}{% if not forloop.first %}, {% endif %}  {% if speed.type %} {{speed.type}} {% endif %} {{speed.value}} ft.{% if speed.hover %} (hover){% endif %}{% endfor %} <br>
+                </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <table class="table">
+                <tr>
+                    <th style="text-align: center;">STR</th>
+                    <th style="text-align: center;">DEX</th>
+                    <th style="text-align: center;">CON</th>
+                    <th style="text-align: center;">INT</th>
+                    <th style="text-align: center;">WIS</th>
+                    <th style="text-align: center;">CAR</th>
+                </tr>
+                <tr>
+                    <td style="text-align: center;">{{card.stats.strength}}</td>
+                    <td style="text-align: center;">{{card.stats.dexterity}}</td>
+                    <td style="text-align: center;">{{card.stats.constitution}}</td>
+                    <td style="text-align: center;">{{card.stats.intelligence}}</td>
+                    <td style="text-align: center;">{{card.stats.wisdom}}</td>
+                    <td style="text-align: center;">{{card.stats.charisma}}</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <p>
+                <b>Senses:</b> {% for sense in card.senses %} {% if sense.type %} {{sense.type | title}} {{sense.value}} ft.,{% endif %}{% endfor %} Passive Perception {{card.passive_perception}}<br>
+                <b>Languages:</b>{% for language in card.languages %}{% if not forloop.first %}, {% endif %}{{language}} {% endfor %}<br>
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <p>
+                <b>Vulnerabilities :</b> <br>
+                <b>Damage Immunities:</b> <br>
+                <b>Condition Immunities:</b> <br>
+            </p>
+        </div>
+    </div>
+
+    {% if card.special_abilities %}
+    {% for special_ability in special_abilities_list %}
+    {% if special_ability.slug == card.special_abilitys.slug %}
+    <div class="row">
+        <div class="col">
+            <div class="card-title ">{{special_ability.name}}<a class="btn btn-sm" href="{% url 'card_view' special_ability.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            {% autoescape off %}
+            {{special_ability.desc}}
+            {% endautoescape %}
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+    {% endif %}
+
+    {% if actions_list %}
+    <div class="card-title ">Actions</div>
+    {% for action in actions_list %}
+    {% if action.slug == card.actions.slug %}
+    <div class="row">
+        <div class="col">
+            <div class="card-title ">{{action.name}}<a class="btn btn-sm" href="{% url 'card_view' action.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            {% autoescape off %}
+            {{action.desc}}
+            {% endautoescape %}
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+    {% endif %}
+
+    {% if reactions_list %}
+    <div class="card-title ">Reactions</div>
+    {% for reaction in reactions_list %}
+    {% if reaction.slug == card.reactions.slug %}
+    <div class="row">
+        <div class="col">
+            <div class="card-title ">{{reaction.name}}<a class="btn btn-sm" href="{% url 'card_view' reaction.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            {% autoescape off %}
+            {{reaction.desc}}
+            {% endautoescape %}
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+    {% endif %}
+
+    {% if legendary_actions_list %}
+    <div class="card-title ">Legendary Actions</div>
+    {% for legendary_action in legendary_actions_list %}
+    {% if legendary_action.slug == card.legendary_actions.slug %}
+    <div class="row">
+        <div class="col">
+            <div class="card-title ">{{legendary_action.name}}<a class="btn btn-sm" href="{% url 'card_view' legendary_action.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            {% autoescape off %}
+            {{legendary_action.desc}}
+            {% endautoescape %}
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+    {% endif %}
+
+
     <div class="row">
         <div class="col">
             <button class="btn btn-light btn-xs" disabled=""><b>Source:</b> {{card.source.name}}</button>
