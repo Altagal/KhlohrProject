@@ -53,15 +53,21 @@
                     <h4 class="text-section">Creatures</h4>
                 </li>
                 <li class="nav-item">
+                    <a href="{% url 'monster_list'%}">
+                        <i class="fas fa-skull"></i>
+                        <p>Monsters</p>
+                    </a>
+                </li>
+                <li class="nav-item">
                     <a href="#">
                         <i class="fas fa-paw"></i>
                         <p>Races</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="{% url 'monster_list'%}">
-                        <i class="fas fa-skull"></i>
-                        <p>Monsters</p>
+                    <a href="{% url 'feat_list' %}">
+                        <i class="fas fa-user-graduate"></i>
+                        <p>Feat</p>
                     </a>
                 </li>
                 <li class="nav-item">
@@ -81,12 +87,6 @@
                             {% endfor %}
                         </ul>
                     </div>
-                </li>
-                <li class="nav-item">
-                    <a href="{% url 'feat_list' %}">
-                        <i class="fas fa-user-graduate"></i>
-                        <p>Feat</p>
-                    </a>
                 </li>
 
                 <li class="nav-section">

@@ -24,7 +24,16 @@
                         <li class="nav-item">
                             <a class="nav-link" id="pills-level-{{ challenge_rating }}"
                                data-toggle="pill" href="#tab-challenge-{{ challenge_rating }}" role="tab"
-                               aria-controls="pills-home" aria-selected="false">{{challenge_rating}}</a>
+                               aria-controls="pills-home" aria-selected="false">
+                                {% if challenge_rating == 0.125 %}
+                                <sup>1</sup>/<sub>8</sub>
+                                {% elif challenge_rating == 0.25 %}
+                                <sup>1</sup>/<sub>4</sub>
+                                {% elif challenge_rating == 0.5 %}
+                                <sup>1</sup>/<sub>2</sub>
+                                {% else %}
+                                {{challenge_rating}}
+                                {% endif %}</a>
                         </li>
                         {% endfor %}
                     </ul>
@@ -52,7 +61,7 @@
                                         <td class="text-center">
                                             {{monster.size}}
                                         </td>
-                                        <td class="text-center">{{monster.monster_type.name}}</td>
+                                        <td class="text-center">{{monster.monster_type.name}}{% if monster.monster_subtype %}<br>({{monster.monster_subtype}}){% endif %}</td>
                                         <td class="text-center">{{monster.alignment| title}}</td>
                                         <td>
                                             <a href="{% url 'card_view' monster.slug %}"><i class="fas fa-search text-danger"></i></a>
@@ -85,7 +94,7 @@
                                         <td class="text-center">
                                             {{monster.size}}
                                         </td>
-                                        <td class="text-center">{{monster.monster_type.name}}</td>
+                                        <td class="text-center">{{monster.monster_type.name}}{% if monster.monster_subtype %}<br> ({{monster.monster_subtype}}){% endif %}</td>
                                         <td class="text-center">{{monster.alignment| title}}</td>
                                         <td>
                                             <a href="{% url 'card_view' monster.slug %}"><i class="fas fa-search text-danger"></i></a>

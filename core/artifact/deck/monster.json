@@ -53,7 +53,7 @@
     "passive_perception": 20,
     "languages": [
       "Deep Speech",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -155,7 +155,7 @@
     "senses": [],
     "passive_perception": 12,
     "languages": [
-      "any one language (usually Common)"
+      "Any one language (usually Common)"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -1522,8 +1522,16 @@
         "name": "Thunder"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -2952,8 +2960,16 @@
         "name": "Psychic"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "condition_immunities": [
@@ -3341,7 +3357,7 @@
     "senses": [],
     "passive_perception": 12,
     "languages": [
-      "any six languages"
+      "Any six languages"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -3513,7 +3529,7 @@
     "senses": [],
     "passive_perception": 10,
     "languages": [
-      "one language known by its creator"
+      "One language known by its creator"
     ],
     "damage_vulnerabilities": [
       {
@@ -3592,7 +3608,7 @@
     "senses": [],
     "passive_perception": 10,
     "languages": [
-      "one language known by its creator"
+      "One language known by its creator"
     ],
     "damage_vulnerabilities": [
       {
@@ -3989,7 +4005,7 @@
     "passive_perception": 13,
     "languages": [
       "Abyssal",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -4002,8 +4018,16 @@
         "name": "Lightning"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -4109,7 +4133,7 @@
     "senses": [],
     "passive_perception": 10,
     "languages": [
-      "any one language (usually Common)"
+      "Any one language (usually Common)"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -4177,7 +4201,7 @@
     "senses": [],
     "passive_perception": 10,
     "languages": [
-      "any two languages"
+      "Any two languages"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -4260,7 +4284,7 @@
     "passive_perception": 18,
     "languages": [
       "Infernal",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -4269,8 +4293,14 @@
         "name": "Cold"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Piercing from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Slashing from nonmagical weapons that aren't silvered"
       }
     ],
     "damage_immunities": [
@@ -4530,7 +4560,7 @@
     "passive_perception": 10,
     "languages": [
       "Infernal",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -4539,8 +4569,14 @@
         "name": "Cold"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Piercing from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Slashing from nonmagical weapons that aren't silvered"
       }
     ],
     "damage_immunities": [
@@ -4732,7 +4768,7 @@
     "senses": [],
     "passive_perception": 10,
     "languages": [
-      "any one language (usually Common)"
+      "Any one language (usually Common)"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -5422,7 +5458,7 @@
     "passive_perception": 12,
     "languages": [
       "Infernal",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -5431,8 +5467,14 @@
         "name": "Cold"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Piercing from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Slashing from nonmagical weapons that aren't silvered"
       }
     ],
     "damage_immunities": [
@@ -6178,7 +6220,7 @@
     "passive_perception": 11,
     "languages": [
       "Infernal",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -6187,8 +6229,14 @@
         "name": "Cold"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Piercing from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Slashing from nonmagical weapons that aren't silvered"
       }
     ],
     "damage_immunities": [
@@ -6872,7 +6920,7 @@
     "senses": [],
     "passive_perception": 10,
     "languages": [
-      "any one language (usually Common)"
+      "Any one language (usually Common)"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -7111,7 +7159,7 @@
     "passive_perception": 15,
     "languages": [
       "all",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -7126,8 +7174,16 @@
         "name": "Psychic"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "condition_immunities": [],
@@ -7357,7 +7413,7 @@
     "senses": [],
     "passive_perception": 11,
     "languages": [
-      "any one language (usually Common)"
+      "Any one language (usually Common)"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -7434,7 +7490,7 @@
     "senses": [],
     "passive_perception": 10,
     "languages": [
-      "any one language (usually Common)"
+      "Any one language (usually Common)"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -7823,7 +7879,7 @@
     "passive_perception": 19,
     "languages": [
       "all",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -7832,8 +7888,16 @@
         "name": "Radiant"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [],
@@ -8367,7 +8431,7 @@
     "passive_perception": 9,
     "languages": [
       "Abyssal",
-      "telepathy 60 ft. (works only with creatures that understand Abyssal)"
+      "Telepathy 60 ft. (works only with creatures that understand Abyssal)"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -9120,8 +9184,16 @@
     ],
     "damage_resistances": [
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -9470,7 +9542,7 @@
     "passive_perception": 12,
     "languages": [
       "Infernal",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -9479,8 +9551,14 @@
         "name": "Cold"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Piercing from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Slashing from nonmagical weapons that aren't silvered"
       }
     ],
     "damage_immunities": [
@@ -9772,8 +9850,16 @@
     "damage_vulnerabilities": [],
     "damage_resistances": [
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -10788,7 +10874,7 @@
     ],
     "passive_perception": 11,
     "languages": [
-      "any languages it knew in life"
+      "Any languages it knew in life"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -10809,8 +10895,16 @@
         "name": "Thunder"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -11650,7 +11744,7 @@
     "passive_perception": 14,
     "languages": [
       "Giant Eagle",
-      "understands Common and Auran but can't speak"
+      "Understands Common and Auran but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -11728,9 +11822,9 @@
     "passive_perception": 14,
     "languages": [
       "Giant Elk",
-      "understands Common",
+      "Understands Common",
       "Elvish",
-      "and Sylvan but can't speak"
+      "Sylvan but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -12266,9 +12360,9 @@
     "passive_perception": 15,
     "languages": [
       "Giant Owl",
-      "understands Common",
+      "Understands Common",
       "Elvish",
-      "and Sylvan but can't speak"
+      "Sylvan but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -13384,7 +13478,7 @@
     "passive_perception": 13,
     "languages": [
       "Abyssal",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -13401,8 +13495,16 @@
         "name": "Lightning"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -13492,7 +13594,7 @@
     "senses": [],
     "passive_perception": 11,
     "languages": [
-      "any one language (usually Common)"
+      "Any one language (usually Common)"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -14564,7 +14666,7 @@
     "senses": [],
     "passive_perception": 12,
     "languages": [
-      "any one language (usually Common)"
+      "Any one language (usually Common)"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -14740,8 +14842,16 @@
     "damage_vulnerabilities": [],
     "damage_resistances": [
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -15187,7 +15297,7 @@
     "passive_perception": 11,
     "languages": [
       "Abyssal",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -15204,8 +15314,16 @@
         "name": "Lightning"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -15627,7 +15745,7 @@
     "passive_perception": 13,
     "languages": [
       "Infernal",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -15636,8 +15754,14 @@
         "name": "Cold"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Piercing from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Slashing from nonmagical weapons that aren't silvered"
       }
     ],
     "damage_immunities": [
@@ -15984,13 +16108,19 @@
     "passive_perception": 12,
     "languages": [
       "Infernal",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Piercing from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Slashing from nonmagical weapons that aren't silvered"
       }
     ],
     "damage_immunities": [
@@ -16336,8 +16466,16 @@
     "damage_vulnerabilities": [],
     "damage_resistances": [
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -16746,7 +16884,7 @@
     "senses": [],
     "passive_perception": 10,
     "languages": [
-      "any one language (usually Common)"
+      "Any one language (usually Common)"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -16928,7 +17066,7 @@
       "Celestial",
       "Infernal",
       "and Primordial but can't speak",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -16938,8 +17076,16 @@
         "name": "Lightning"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "condition_immunities": [
@@ -17272,8 +17418,16 @@
         "name": "Poison"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "condition_immunities": [
@@ -17641,7 +17795,7 @@
     "senses": [],
     "passive_perception": 11,
     "languages": [
-      "any four languages"
+      "Any four languages"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -17830,8 +17984,16 @@
     "damage_vulnerabilities": [],
     "damage_resistances": [
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -18073,7 +18235,7 @@
     "passive_perception": 13,
     "languages": [
       "Abyssal",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -18090,8 +18252,16 @@
         "name": "Lightning"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -18869,7 +19039,7 @@
     ],
     "passive_perception": 10,
     "languages": [
-      "the languages it knew in life"
+      "The languages it knew in life"
     ],
     "damage_vulnerabilities": [
       {
@@ -18879,8 +19049,16 @@
     ],
     "damage_resistances": [
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -18986,7 +19164,7 @@
     ],
     "passive_perception": 14,
     "languages": [
-      "the languages it knew in life"
+      "The languages it knew in life"
     ],
     "damage_vulnerabilities": [
       {
@@ -19005,8 +19183,16 @@
         "name": "Poison"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "condition_immunities": [
@@ -19141,7 +19327,7 @@
     "passive_perception": 11,
     "languages": [
       "Abyssal",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -19158,8 +19344,16 @@
         "name": "Lightning"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -19274,8 +19468,14 @@
         "name": "Fire"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Piercing from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Slashing from nonmagical weapons that aren't silvered"
       }
     ],
     "damage_immunities": [],
@@ -19456,7 +19656,7 @@
     "senses": [],
     "passive_perception": 12,
     "languages": [
-      "any two languages"
+      "Any two languages"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -20402,10 +20602,10 @@
     "senses": [],
     "passive_perception": 16,
     "languages": [
-      "understands Celestial",
+      "Understands Celestial",
       "Common",
       "Elvish",
-      "and Sylvan but can't speak"
+      "Sylvan but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -20563,7 +20763,7 @@
     "passive_perception": 14,
     "languages": [
       "Infernal",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -20572,8 +20772,14 @@
         "name": "Cold"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Piercing from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Slashing from nonmagical weapons that aren't silvered"
       }
     ],
     "damage_immunities": [
@@ -20692,8 +20898,8 @@
     ],
     "passive_perception": 21,
     "languages": [
-      "all",
-      "telepathy 120 ft."
+      "All",
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -20702,8 +20908,16 @@
         "name": "Radiant"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [],
@@ -21087,7 +21301,7 @@
     "senses": [],
     "passive_perception": 13,
     "languages": [
-      "any two languages"
+      "Any two languages"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -21365,8 +21579,16 @@
         "name": "Lightning"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -21553,8 +21775,16 @@
     "damage_resistances": [],
     "damage_immunities": [
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "condition_immunities": [],
@@ -22725,8 +22955,16 @@
     ],
     "damage_resistances": [
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -22957,7 +23195,7 @@
     "senses": [],
     "passive_perception": 15,
     "languages": [
-      "any one language (usually Common)"
+      "Any one language (usually Common)"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -23225,8 +23463,16 @@
         "name": "Thunder"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -23752,7 +23998,7 @@
     ],
     "passive_perception": 9,
     "languages": [
-      "understands all languages it spoke in life but can't speak"
+      "Understands all languages it spoke in life but can't speak"
     ],
     "damage_vulnerabilities": [
       {
@@ -23849,7 +24095,7 @@
     "passive_perception": 24,
     "languages": [
       "all",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -23858,8 +24104,16 @@
         "name": "Radiant"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -24029,8 +24283,16 @@
         "name": "Thunder"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -24407,7 +24669,7 @@
     "senses": [],
     "passive_perception": 16,
     "languages": [
-      "any two languages"
+      "Any two languages"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -24991,7 +25253,7 @@
       "Abyssal",
       "Common",
       "Infernal",
-      "telepathy 60 ft."
+      "Telepathy 60 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -25012,8 +25274,16 @@
         "name": "Poison"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [],
@@ -26357,8 +26627,16 @@
         "name": "Poison"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "condition_immunities": [
@@ -26491,7 +26769,7 @@
     "senses": [],
     "passive_perception": 10,
     "languages": [
-      "any one language (usually Common)"
+      "Any one language (usually Common)"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -26750,7 +27028,7 @@
     "senses": [],
     "passive_perception": 10,
     "languages": [
-      "any one language"
+      "Any one language"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -27054,7 +27332,7 @@
       "Celestial",
       "Elvish",
       "Sylvan",
-      "telepathy 60 ft."
+      "Telepathy 60 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -27187,7 +27465,7 @@
     ],
     "passive_perception": 17,
     "languages": [
-      "the languages it knew in life"
+      "The languages it knew in life"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -27196,8 +27474,16 @@
         "name": "Necrotic"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [],
@@ -27323,7 +27609,7 @@
     ],
     "passive_perception": 17,
     "languages": [
-      "the languages it knew in life"
+      "The languages it knew in life"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -27332,8 +27618,16 @@
         "name": "Necrotic"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [],
@@ -27451,7 +27745,7 @@
     ],
     "passive_perception": 17,
     "languages": [
-      "the languages it knew in life"
+      "The languages it knew in life"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -27460,8 +27754,16 @@
         "name": "Necrotic"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [],
@@ -27562,7 +27864,7 @@
     ],
     "passive_perception": 13,
     "languages": [
-      "the languages it knew in life"
+      "The languages it knew in life"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -27571,8 +27873,16 @@
         "name": "Necrotic"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [],
@@ -27656,7 +27966,7 @@
     "senses": [],
     "passive_perception": 12,
     "languages": [
-      "any one language (usually Common)"
+      "Any one language (usually Common)"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -27831,7 +28141,7 @@
     "passive_perception": 11,
     "languages": [
       "Abyssal",
-      "telepathy 120 ft."
+      "Telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -27848,8 +28158,16 @@
         "name": "Lightning"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -28189,8 +28507,16 @@
         "name": "Acid"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -29774,7 +30100,7 @@
     ],
     "passive_perception": 13,
     "languages": [
-      "the languages it knew in life"
+      "The languages it knew in life"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -29783,8 +30109,14 @@
         "name": "Necrotic"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Piercing from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Slashing from nonmagical weapons that aren't silvered"
       }
     ],
     "damage_immunities": [
@@ -29888,7 +30220,7 @@
     ],
     "passive_perception": 12,
     "languages": [
-      "the languages it knew in life"
+      "The languages it knew in life"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -29913,8 +30245,16 @@
         "name": "Thunder"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons"
+        "slug": "bludgeoning-from-nonmagical-weapons",
+        "name": "Bludgeoning from nonmagical weapons"
+      },
+      {
+        "slug": "piercing-from-nonmagical-weapons",
+        "name": "Piercing from nonmagical weapons"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons",
+        "name": "Slashing from nonmagical weapons"
       }
     ],
     "damage_immunities": [
@@ -30280,7 +30620,7 @@
     ],
     "passive_perception": 12,
     "languages": [
-      "the languages it knew in life"
+      "The languages it knew in life"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -30305,8 +30645,14 @@
         "name": "Thunder"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Piercing from nonmagical weapons that aren't silvered"
+      },{
+        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
+        "name": "Slashing from nonmagical weapons that aren't silvered"
       }
     ],
     "damage_immunities": [
@@ -30525,8 +30871,12 @@
     "damage_vulnerabilities": [],
     "damage_resistances": [
       {
-        "slug": "piercing and slashing from nonmagical weapons that aren't adamantine",
-        "name": "Piercing and slashing from nonmagical weapons that aren't adamantine"
+        "slug": "piercing-from-nonmagical-weapons-that-arent-adamantine",
+        "name": "Piercing from nonmagical weapons that aren't adamantine"
+      },
+      {
+        "slug": "slashing-from-nonmagical-weapons-that-arent-adamantine",
+        "name": "Slashing from nonmagical weapons that aren't adamantine"
       }
     ],
     "damage_immunities": [],
@@ -31635,7 +31985,7 @@
     ],
     "passive_perception": 8,
     "languages": [
-      "understands all languages it spoke in life but can't speak"
+      "Understands all languages it spoke in life but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],

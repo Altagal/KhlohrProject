@@ -2,10 +2,15 @@ import datetime
 import json
 import random
 
+from django.utils.text import slugify
+
 from core import settings
 
 
 def get_card_from_slug(card_slug):
+
+    card_slug = slugify(card_slug)
+
     with open("core/artifact/deck/index.json", 'r') as f:
         index_data = json.load(f)
 
