@@ -45,6 +45,15 @@ def card_view(request, card_slug):
             'card': card,
             'subclass_feature_list': get_deck("subclass_feature")
         }
+        # IF SUBCLASS
+    elif card["type"]["slug"] == "monster":
+        context = {
+            'card': card,
+            'monster_trait_list': get_deck("monster_trait"),
+            #     'monster_action_list': get_deck("monster_action"),
+            #     'monster_reaction_list': get_deck("monster_reaction"),
+            #     'legendary_action_list': get_deck("legendary_action")
+        }
     else:
         context = {
             'card': card,
@@ -159,7 +168,7 @@ def monster_list(request):
     context = {
         "plural_type_name": "Monsters",
         "table_list": get_deck("monster"),
-        "challenge_rating_range": [0, 1/8, 1/4, 1/2, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+        "challenge_rating_range": [0, 1 / 8, 1 / 4, 1 / 2, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
     }
 
     return render(request, 'cardviewer/monster_table_view.html', context)

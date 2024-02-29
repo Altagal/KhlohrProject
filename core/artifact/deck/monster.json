@@ -59,7 +59,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -118,7 +118,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Acolytes are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor spellcasting power by their deities.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -161,7 +161,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "spellcasting",
         "name": "Spellcasting"
@@ -253,7 +253,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -382,7 +382,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "legendary-resistance",
         "name": "Legendary Resistance"
@@ -507,7 +507,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "legendary-resistance",
         "name": "Legendary Resistance"
@@ -632,7 +632,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -761,7 +761,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "legendary-resistance",
         "name": "Legendary Resistance"
@@ -886,7 +886,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -1020,7 +1020,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -1149,7 +1149,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "legendary-resistance",
         "name": "Legendary Resistance"
@@ -1270,7 +1270,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "legendary-resistance",
         "name": "Legendary Resistance"
@@ -1399,7 +1399,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "ice-walk",
         "name": "Ice Walk"
@@ -1522,16 +1522,16 @@
         "name": "Thunder"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -1574,7 +1574,7 @@
         "name": "Unconscious"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "air-form",
         "name": "Air Form"
@@ -1674,7 +1674,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -1803,7 +1803,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "legendary-resistance",
         "name": "Legendary Resistance"
@@ -1928,7 +1928,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "legendary-resistance",
         "name": "Legendary Resistance"
@@ -2057,7 +2057,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -2190,7 +2190,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "legendary-resistance",
         "name": "Legendary Resistance"
@@ -2319,7 +2319,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -2457,7 +2457,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -2586,7 +2586,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "legendary-resistance",
         "name": "Legendary Resistance"
@@ -2707,7 +2707,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "legendary-resistance",
         "name": "Legendary Resistance"
@@ -2840,7 +2840,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "ice-walk",
         "name": "Ice Walk"
@@ -2960,16 +2960,16 @@
         "name": "Psychic"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "condition_immunities": [
@@ -2982,7 +2982,7 @@
         "name": "Frightened"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "inscrutable",
         "name": "Inscrutable"
@@ -3125,7 +3125,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "antimagic-susceptibility",
         "name": "Antimagic Susceptibility"
@@ -3217,7 +3217,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -3287,7 +3287,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -3316,7 +3316,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Archmages are powerful (and usually quite old) spellcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their magic without interruption.</p><p>An archmage typically has one or more apprentice mages, and an archmage's abode has numerous magical wards and guardians to discourage interlopers.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -3336,7 +3336,7 @@
         "value": "12"
       },
       {
-        "type": "spell",
+        "type": "Mage Armor",
         "value": "15"
       }
     ],
@@ -3362,17 +3362,13 @@
     "damage_vulnerabilities": [],
     "damage_resistances": [
       {
-        "slug": "damage from spells",
+        "slug": "damage-from-spells",
         "name": "Damage from spells"
-      },
-      {
-        "slug": "nonmagical bludgeoning, piercing, and slashing (from stoneskin)",
-        "name": "Nonmagical bludgeoning, piercing, and slashing (from stoneskin)"
       }
     ],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "magic-resistance",
         "name": "Magic Resistance"
@@ -3402,7 +3398,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -3450,7 +3446,7 @@
     ],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "assassinate",
         "name": "Assassinate"
@@ -3492,7 +3488,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>An awakened shrub is an ordinary shrub given sentience and mobility by the awaken spell or similar magic.</p>",
     "size": "Small",
     "monster_type": {
       "slug": "plant",
@@ -3545,7 +3541,7 @@
     ],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "false-appearance",
         "name": "False Appearance"
@@ -3571,7 +3567,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>An awakened tree is an ordinary tree given sentience and mobility by the awaken spell or similar magic.</p>",
     "size": "Huge",
     "monster_type": {
       "slug": "plant",
@@ -3628,7 +3624,7 @@
     ],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "false-appearance",
         "name": "False Appearance"
@@ -3654,7 +3650,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close.</p>",
     "size": "Large",
     "monster_type": {
       "slug": "beast",
@@ -3695,7 +3691,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "beak",
@@ -3777,7 +3773,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "heated-body",
         "name": "Heated Body"
@@ -3856,7 +3852,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "pack-tactics",
         "name": "Pack Tactics"
@@ -3932,7 +3928,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-smell",
         "name": "Keen Smell"
@@ -4018,16 +4014,16 @@
         "name": "Lightning"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -4046,7 +4042,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "death-throes",
         "name": "Death Throes"
@@ -4096,7 +4092,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p><b>Bandits</b> rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.</p><p><b>Pirates</b> are bandits of the high seas. They might be freebooters interested only in treasure and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation's vessels.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -4139,7 +4135,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "scimitar",
@@ -4164,7 +4160,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The <b>bandit captain</b> has these qualities in spades.</p><p>In addition to managing a crew of selfish malcontents, the <b>pirate captain</b> is a variation of the bandit captain, with a ship to protect and command. To keep the crew in line, the captain must mete out rewards and punishment on a regular basis.</p><p>More than treasure, a bandit captain or pirate captain craves infamy. A prisoner who appeals to the captain's vanity or ego is more likely to be treated fairly than a prisoner who does not or claims not to know anything of the captain's colorful reputation.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -4207,7 +4203,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -4293,14 +4289,16 @@
         "name": "Cold"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Piercing from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "damage_immunities": [
@@ -4319,7 +4317,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "barbed-hide",
         "name": "Barbed Hide"
@@ -4411,7 +4409,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "petrifying-gaze",
         "name": "Petrifying Gaze"
@@ -4487,7 +4485,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "echolocation",
         "name": "Echolocation"
@@ -4569,14 +4567,16 @@
         "name": "Cold"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Piercing from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "damage_immunities": [
@@ -4595,7 +4595,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "devils-sight",
         "name": "Devil's Sight"
@@ -4694,7 +4694,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -4774,7 +4774,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "reckless",
         "name": "Reckless"
@@ -4845,7 +4845,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-smell",
         "name": "Keen Smell"
@@ -4944,7 +4944,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -5062,7 +5062,7 @@
         "name": "Prone"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amorphous",
         "name": "Amorphous"
@@ -5101,7 +5101,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>A blink dog takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "fey",
@@ -5139,13 +5139,13 @@
     "passive_perception": 10,
     "languages": [
       "Blink Dog",
-      "understands Sylvan but can't speak it"
+      "Understands Sylvan but can't speak it"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-hearing-and-smell",
         "name": "Keen Hearing and Smell"
@@ -5175,7 +5175,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Taking its name from its crimson feathers and aggressive nature, the blood hawk fearlessly attacks almost any animal, stabbing it with its daggerlike beak. Blood hawks flock together in large numbers, attacking as a pack to take down prey.</p>",
     "size": "Small",
     "monster_type": {
       "slug": "beast",
@@ -5220,7 +5220,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-sight",
         "name": "Keen Sight"
@@ -5315,7 +5315,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -5381,7 +5381,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "charge",
         "name": "Charge"
@@ -5467,14 +5467,16 @@
         "name": "Cold"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Piercing from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "damage_immunities": [
@@ -5493,7 +5495,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "devils-sight",
         "name": "Devil's Sight"
@@ -5596,7 +5598,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -5686,7 +5688,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -5761,7 +5763,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-smell",
         "name": "Keen Smell"
@@ -5844,7 +5846,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "brute",
         "name": "Brute"
@@ -5932,7 +5934,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "standing-leap",
         "name": "Standing Leap"
@@ -6003,7 +6005,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -6069,7 +6071,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-smell",
         "name": "Keen Smell"
@@ -6139,7 +6141,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "charge",
         "name": "Charge"
@@ -6229,14 +6231,16 @@
         "name": "Cold"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Piercing from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "damage_immunities": [
@@ -6255,7 +6259,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "devils-sight",
         "name": "Devil's Sight"
@@ -6344,13 +6348,13 @@
     ],
     "passive_perception": 18,
     "languages": [
-      "understands Draconic but can't speak"
+      "Understands Draconic but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -6433,7 +6437,7 @@
     ],
     "passive_perception": 14,
     "languages": [
-      "understands Deep Speech but can't speak"
+      "Understands Deep Speech but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -6449,7 +6453,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -6529,7 +6533,7 @@
     ],
     "passive_perception": 9,
     "languages": [
-      "understands the languages of its creator but can't speak"
+      "Understands the languages of its creator but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -6547,8 +6551,16 @@
         "name": "Psychic"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
+        "slug": "bludgeoning-not-adamantine",
+        "name": "Bludgeoning (not adamantine)"
+      },
+      {
+        "slug": "piercing-not-adamantine",
+        "name": "Piercing (not adamantine)"
+      },
+      {
+        "slug": "slashing-not-adamantine",
+        "name": "Slashing (not adamantine)"
       }
     ],
     "condition_immunities": [
@@ -6577,7 +6589,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "acid-absorption",
         "name": "Acid Absorption"
@@ -6680,7 +6692,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "damage-transfer",
         "name": "Damage Transfer"
@@ -6774,7 +6786,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-smell",
         "name": "Keen Smell"
@@ -6862,7 +6874,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -6883,7 +6895,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -6926,7 +6938,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "club",
@@ -6997,7 +7009,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -7087,7 +7099,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -7174,20 +7186,20 @@
         "name": "Psychic"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "innate-spellcasting",
         "name": "Innate Spellcasting"
@@ -7279,7 +7291,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -7350,7 +7362,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "hold-breath",
         "name": "Hold Breath"
@@ -7376,7 +7388,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Fanatics are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -7419,7 +7431,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "dark-devotion",
         "name": "Dark Devotion"
@@ -7453,7 +7465,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -7496,7 +7508,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "dark-devotion",
         "name": "Dark Devotion"
@@ -7572,7 +7584,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "echolocation",
         "name": "Echolocation"
@@ -7606,7 +7618,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>A death dog is an ugly two-headed hound that roams plains, and deserts. Hate burns in a death dog's heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim's flesh to slowly rot off the bone.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "monstrosity",
@@ -7652,7 +7664,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "two-headed",
         "name": "Two-Headed"
@@ -7732,7 +7744,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "stone-camouflage",
         "name": "Stone Camouflage"
@@ -7811,7 +7823,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -7888,16 +7900,16 @@
         "name": "Radiant"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [],
@@ -7915,7 +7927,7 @@
         "name": "Frightened"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "angelic-weapons",
         "name": "Angelic Weapons"
@@ -8002,7 +8014,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-hearing-and-smell",
         "name": "Keen Hearing and Smell"
@@ -8093,7 +8105,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "elemental-demise",
         "name": "Elemental Demise"
@@ -8184,7 +8196,7 @@
         "name": "Charmed"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -8267,7 +8279,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "hooves",
@@ -8346,7 +8358,7 @@
     ],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -8460,7 +8472,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -8546,7 +8558,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "fey-ancestry",
         "name": "Fey Ancestry"
@@ -8649,7 +8661,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "fey-ancestry",
         "name": "Fey Ancestry"
@@ -8687,7 +8699,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p><b>Druids</b> dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are <b>tribal shamans</b> who heal the sick, pray to animal spirits, and provide spiritual guidance.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -8707,7 +8719,7 @@
         "value": "11"
       },
       {
-        "type": "spell",
+        "type": "Barkskin",
         "value": "16"
       }
     ],
@@ -8734,7 +8746,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "spellcasting",
         "name": "Spellcasting"
@@ -8780,7 +8792,7 @@
         "value": "11"
       },
       {
-        "type": "spell",
+        "type": "Barkskin",
         "value": "16"
       }
     ],
@@ -8813,7 +8825,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "innate-spellcasting",
         "name": "Innate Spellcasting"
@@ -8909,7 +8921,7 @@
     ],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "duergar-resilience",
         "name": "Duergar Resilience"
@@ -9019,7 +9031,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "death-burst",
         "name": "Death Burst"
@@ -9098,7 +9110,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-sight",
         "name": "Keen Sight"
@@ -9184,16 +9196,16 @@
     ],
     "damage_resistances": [
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -9224,7 +9236,7 @@
         "name": "Unconscious"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "earth-glide",
         "name": "Earth Glide"
@@ -9315,7 +9327,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "elemental-demise",
         "name": "Elemental Demise"
@@ -9394,7 +9406,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "trampling-charge",
         "name": "Trampling Charge"
@@ -9465,7 +9477,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "charge",
         "name": "Charge"
@@ -9551,14 +9563,16 @@
         "name": "Cold"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Piercing from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "damage_immunities": [
@@ -9577,7 +9591,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "hellish-weapons",
         "name": "Hellish Weapons"
@@ -9670,7 +9684,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "spider-climb",
         "name": "Spider Climb"
@@ -9765,7 +9779,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "two-heads",
         "name": "Two Heads"
@@ -9850,16 +9864,16 @@
     "damage_vulnerabilities": [],
     "damage_resistances": [
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -9906,7 +9920,7 @@
         "name": "Unconscious"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "fire-form",
         "name": "Fire Form"
@@ -9992,7 +10006,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -10063,7 +10077,7 @@
     ],
     "passive_perception": 10,
     "languages": [
-      "understands the languages of its creator but can't speak"
+      "Understands the languages of its creator but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -10077,8 +10091,16 @@
         "name": "Poison"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
+        "slug": "bludgeoning-not-adamantine",
+        "name": "Bludgeoning (not adamantine)"
+      },
+      {
+        "slug": "piercing-not-adamantine",
+        "name": "Piercing (not adamantine)"
+      },
+      {
+        "slug": "slashing-not-adamantine",
+        "name": "Slashing (not adamantine)"
       }
     ],
     "condition_immunities": [
@@ -10107,7 +10129,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "berserk",
         "name": "Berserk"
@@ -10157,7 +10179,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>A flying snake is a brightly colored, winged serpent found in remote jungles. Tribespeople and cultists sometimes domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils.</p>",
     "size": "Tiny",
     "monster_type": {
       "slug": "beast",
@@ -10211,7 +10233,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "flyby",
         "name": "Flyby"
@@ -10326,7 +10348,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "antimagic-susceptibility",
         "name": "Antimagic Susceptibility"
@@ -10356,7 +10378,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>A frog has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog's statistics can also be used to represent a toad.</p>",
     "size": "Tiny",
     "monster_type": {
       "slug": "beast",
@@ -10406,7 +10428,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -10479,7 +10501,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -10559,8 +10581,16 @@
     "damage_vulnerabilities": [],
     "damage_resistances": [
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
+        "slug": "bludgeoning-not-adamantine",
+        "name": "Bludgeoning (not adamantine)"
+      },
+      {
+        "slug": "piercing-not-adamantine",
+        "name": "Piercing (not adamantine)"
+      },
+      {
+        "slug": "slashing-not-adamantine",
+        "name": "Slashing (not adamantine)"
       }
     ],
     "damage_immunities": [
@@ -10583,7 +10613,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "false-appearance",
         "name": "False Appearance"
@@ -10688,7 +10718,7 @@
         "name": "Prone"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "ooze-cube",
         "name": "Ooze Cube"
@@ -10793,7 +10823,7 @@
         "name": "Exhaustion"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "stench",
         "name": "Stench"
@@ -10895,16 +10925,16 @@
         "name": "Thunder"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -10959,7 +10989,7 @@
         "name": "Restrained"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "ethereal-sight",
         "name": "Ethereal Sight"
@@ -11067,7 +11097,7 @@
         "name": "Exhaustion"
       }
     ],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -11137,7 +11167,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -11216,7 +11246,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-smell",
         "name": "Keen Smell"
@@ -11300,7 +11330,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "echolocation",
         "name": "Echolocation"
@@ -11371,7 +11401,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "charge",
         "name": "Charge"
@@ -11451,7 +11481,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -11522,7 +11552,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -11597,7 +11627,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -11668,7 +11698,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "hold-breath",
         "name": "Hold Breath"
@@ -11702,7 +11732,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>A giant eagle is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young as normal eagles).</p>",
     "size": "Large",
     "monster_type": {
       "slug": "beast",
@@ -11750,7 +11780,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-sight",
         "name": "Keen Sight"
@@ -11784,7 +11814,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>The majestic giant elk is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king. Legends tell of gods that take the form of giant elk when visiting the Material Plane. Many cultures therefore believe that to hunt these creatures is to invite divine wrath.</p>",
     "size": "Huge",
     "monster_type": {
       "slug": "beast",
@@ -11830,7 +11860,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "charge",
         "name": "Charge"
@@ -11860,7 +11890,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle's glands continue to shed light for 1d6 days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.</p>",
     "size": "Small",
     "monster_type": {
       "slug": "beast",
@@ -11906,7 +11936,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "illumination",
         "name": "Illumination"
@@ -11982,7 +12012,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -12057,7 +12087,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "charge",
         "name": "Charge"
@@ -12128,7 +12158,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "rampage",
         "name": "Rampage"
@@ -12154,7 +12184,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and others.</p>",
     "size": "Large",
     "monster_type": {
       "slug": "beast",
@@ -12204,7 +12234,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -12275,7 +12305,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "hold-breath",
         "name": "Hold Breath"
@@ -12368,7 +12398,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "flyby",
         "name": "Flyby"
@@ -12448,7 +12478,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -12515,7 +12545,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-smell",
         "name": "Keen Smell"
@@ -12591,7 +12621,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-smell",
         "name": "Keen Smell"
@@ -12667,7 +12697,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "claw",
@@ -12696,7 +12726,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Like their smaller kin, giant sea horses are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts.</p>",
     "size": "Large",
     "monster_type": {
       "slug": "beast",
@@ -12741,7 +12771,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "charge",
         "name": "Charge"
@@ -12771,7 +12801,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.</p>",
     "size": "Huge",
     "monster_type": {
       "slug": "beast",
@@ -12821,7 +12851,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "blood-frenzy",
         "name": "Blood Frenzy"
@@ -12851,7 +12881,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>To snare its prey, a giant spider spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-filled crevices. Such lairs are often festooned with web cocoons holding past victims.</p>",
     "size": "Large",
     "monster_type": {
       "slug": "beast",
@@ -12905,7 +12935,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "spider-climb",
         "name": "Spider Climb"
@@ -12993,7 +13023,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -13027,7 +13057,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>A giant vulture has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering.</p>",
     "size": "Large",
     "monster_type": {
       "slug": "beast",
@@ -13068,16 +13098,20 @@
     "senses": [],
     "passive_perception": 13,
     "languages": [
-      "understands Common but can't speak"
+      "Understands Common but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
-        "slug": "keen-sight-and-smell",
-        "name": "Keen Sight and Smell"
+        "slug": "keen-sight",
+        "name": "Keen Sight"
+      },
+      {
+        "slug": "keen-smell",
+        "name": "Keen Smell"
       },
       {
         "slug": "pack-tactics",
@@ -13161,7 +13195,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "sting",
@@ -13228,7 +13262,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-hearing-and-smell",
         "name": "Keen Hearing and Smell"
@@ -13254,7 +13288,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Smaller than a giant spider, a giant wolf spider hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "beast",
@@ -13308,7 +13342,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "spider-climb",
         "name": "Spider Climb"
@@ -13397,7 +13431,7 @@
         "name": "Prone"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "aberrant-ground",
         "name": "Aberrant Ground"
@@ -13495,16 +13529,16 @@
         "name": "Lightning"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -13519,7 +13553,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "innate-spellcasting",
         "name": "Innate Spellcasting"
@@ -13557,7 +13591,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Gladiators battle for the entertainment of raucous crowds. Some gladiators are brutal pit fighters who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -13600,7 +13634,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "brave",
         "name": "Brave"
@@ -13691,7 +13725,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "rampage",
         "name": "Rampage"
@@ -13766,7 +13800,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "charge",
         "name": "Charge"
@@ -13845,7 +13879,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "nimble-escape",
         "name": "Nimble Escape"
@@ -13940,7 +13974,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -14021,7 +14055,7 @@
         "name": "Petrified"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "trampling-charge",
         "name": "Trampling Charge"
@@ -14143,7 +14177,7 @@
         "name": "Prone"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amorphous",
         "name": "Amorphous"
@@ -14247,7 +14281,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -14327,7 +14361,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -14418,13 +14452,21 @@
     "damage_vulnerabilities": [],
     "damage_resistances": [
       {
-        "slug": "bludgeoning, piercing, and slashing damage from nonmagical weapons",
-        "name": "Bludgeoning, piercing, and slashing damage from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
+      },
+      {
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
+      },
+      {
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "stone-camouflage",
         "name": "Stone Camouflage"
@@ -14508,7 +14550,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-sight",
         "name": "Keen Sight"
@@ -14595,7 +14637,7 @@
         "name": "Blinded"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "blind-senses",
         "name": "Blind Senses"
@@ -14629,7 +14671,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Guards include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -14672,7 +14714,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "spear",
@@ -14756,7 +14798,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "rejuvenation",
         "name": "Rejuvenation"
@@ -14842,16 +14884,16 @@
     "damage_vulnerabilities": [],
     "damage_resistances": [
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -14870,7 +14912,7 @@
         "name": "Frightened"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "inscrutable",
         "name": "Inscrutable"
@@ -14979,7 +15021,7 @@
     ],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -15063,7 +15105,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -15141,7 +15183,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-sight",
         "name": "Keen Sight"
@@ -15209,7 +15251,7 @@
     ],
     "passive_perception": 15,
     "languages": [
-      "understands Infernal but can't speak it"
+      "Understands Infernal but can't speak it"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -15220,7 +15262,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-hearing-and-smell",
         "name": "Keen Hearing and Smell"
@@ -15314,16 +15356,16 @@
         "name": "Lightning"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -15338,7 +15380,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "magic-resistance",
         "name": "Magic Resistance"
@@ -15419,7 +15461,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -15493,7 +15535,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-sight",
         "name": "Keen Sight"
@@ -15576,7 +15618,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "martial-advantage",
         "name": "Martial Advantage"
@@ -15652,7 +15694,7 @@
     ],
     "passive_perception": 10,
     "languages": [
-      "understands the languages of its creator but can't speak"
+      "Understands the languages of its creator but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -15672,7 +15714,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "telepathic-bond",
         "name": "Telepathic Bond"
@@ -15754,14 +15796,16 @@
         "name": "Cold"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Piercing from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "damage_immunities": [
@@ -15780,7 +15824,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "devils-sight",
         "name": "Devil's Sight"
@@ -15822,7 +15866,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Smaller than a giant shark but larger and fiercer than a reef shark, a hunter shark haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long.</p>",
     "size": "Large",
     "monster_type": {
       "slug": "beast",
@@ -15872,7 +15916,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "blood-frenzy",
         "name": "Blood Frenzy"
@@ -15952,7 +15996,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "hold-breath",
         "name": "Hold Breath"
@@ -16035,7 +16079,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "pack-tactics",
         "name": "Pack Tactics"
@@ -16113,14 +16157,16 @@
     "damage_vulnerabilities": [],
     "damage_resistances": [
       {
-        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Piercing from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "damage_immunities": [
@@ -16139,7 +16185,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "devils-sight",
         "name": "Devil's Sight"
@@ -16261,7 +16307,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "death-burst",
         "name": "Death Burst"
@@ -16355,8 +16401,16 @@
         "name": "Cold"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical/nonsilver weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical/nonsilver weapons"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "damage_immunities": [
@@ -16375,7 +16429,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -16461,21 +16515,21 @@
     "passive_perception": 18,
     "languages": [
       "Auran",
-      "understands Common but doesn't speak it"
+      "Understands Common but doesn't speak it"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -16518,7 +16572,7 @@
         "name": "Unconscious"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "invisibility",
         "name": "Invisibility"
@@ -16594,7 +16648,7 @@
     ],
     "passive_perception": 10,
     "languages": [
-      "understands the languages of its creator but can't speak"
+      "Understands the languages of its creator but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -16612,8 +16666,16 @@
         "name": "Psychic"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
+        "slug": "bludgeoning-not-adamantine",
+        "name": "Bludgeoning (not adamantine)"
+      },
+      {
+        "slug": "piercing-not-adamantine",
+        "name": "Piercing (not adamantine)"
+      },
+      {
+        "slug": "slashing-not-adamantine",
+        "name": "Slashing (not adamantine)"
       }
     ],
     "condition_immunities": [
@@ -16642,7 +16704,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "fire-absorption",
         "name": "Fire Absorption"
@@ -16733,7 +16795,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-hearing-and-smell",
         "name": "Keen Hearing and Smell"
@@ -16813,7 +16875,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "echolocation",
         "name": "Echolocation"
@@ -16847,7 +16909,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Knights are warriors who pledge service to rulers, religious orders, and noble causes. A knight's alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -16890,7 +16952,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "brave",
         "name": "Brave"
@@ -16982,7 +17044,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "sunlight-sensitivity",
         "name": "Sunlight Sensitivity"
@@ -17062,7 +17124,7 @@
     ],
     "passive_perception": 14,
     "languages": [
-      "understands Abyssal",
+      "Understands Abyssal",
       "Celestial",
       "Infernal",
       "and Primordial but can't speak",
@@ -17076,16 +17138,16 @@
         "name": "Lightning"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "condition_immunities": [
@@ -17098,7 +17160,7 @@
         "name": "Paralyzed"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -17210,7 +17272,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "innate-spellcasting",
         "name": "Innate Spellcasting"
@@ -17290,7 +17352,7 @@
     ],
     "passive_perception": 10,
     "languages": [
-      "understands infernal but can't speak"
+      "Understands infernal but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -17323,7 +17385,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "devils-sight",
         "name": "Devil's Sight"
@@ -17418,16 +17480,16 @@
         "name": "Poison"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "condition_immunities": [
@@ -17452,7 +17514,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "legendary-resistance",
         "name": "Legendary Resistance"
@@ -17548,7 +17610,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-smell",
         "name": "Keen Smell"
@@ -17640,7 +17702,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -17712,7 +17774,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "hold-breath",
         "name": "Hold Breath"
@@ -17754,7 +17816,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Mages spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -17774,7 +17836,7 @@
         "value": "12"
       },
       {
-        "type": "spell",
+        "type": "Mage Armor",
         "value": "15"
       }
     ],
@@ -17801,7 +17863,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "spellcasting",
         "name": "Spellcasting"
@@ -17899,7 +17961,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "death-burst",
         "name": "Death Burst"
@@ -17984,16 +18046,16 @@
     "damage_vulnerabilities": [],
     "damage_resistances": [
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -18003,7 +18065,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "death-burst",
         "name": "Death Burst"
@@ -18033,7 +18095,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>A mammoth is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.</p>",
     "size": "Huge",
     "monster_type": {
       "slug": "beast",
@@ -18074,7 +18136,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "trampling-charge",
         "name": "Trampling Charge"
@@ -18154,7 +18216,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "tail-spike-regrowth",
         "name": "Tail Spike Regrowth"
@@ -18252,16 +18314,16 @@
         "name": "Lightning"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -18276,7 +18338,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "magic-resistance",
         "name": "Magic Resistance"
@@ -18327,7 +18389,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Mastiffs are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "beast",
@@ -18368,7 +18430,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-hearing-and-smell",
         "name": "Keen Hearing and Smell"
@@ -18442,7 +18504,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "petrifying-gaze",
         "name": "Petrifying Gaze"
@@ -18528,7 +18590,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -18607,7 +18669,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -18701,7 +18763,7 @@
         "name": "Prone"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -18791,7 +18853,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "charge",
         "name": "Charge"
@@ -18871,7 +18933,7 @@
     ],
     "passive_perception": 9,
     "languages": [
-      "understands Abyssal but can't speak"
+      "Understands Abyssal but can't speak"
     ],
     "damage_vulnerabilities": [
       {
@@ -18896,7 +18958,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "charge",
         "name": "Charge"
@@ -18967,7 +19029,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "beast-of-burden",
         "name": "Beast of Burden"
@@ -19049,16 +19111,16 @@
     ],
     "damage_resistances": [
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -19093,7 +19155,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -19183,16 +19245,16 @@
         "name": "Poison"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "condition_immunities": [
@@ -19217,7 +19279,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "magic-resistance",
         "name": "Magic Resistance"
@@ -19344,16 +19406,16 @@
         "name": "Lightning"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -19368,7 +19430,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "magic-resistance",
         "name": "Magic Resistance"
@@ -19468,14 +19530,16 @@
         "name": "Fire"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Piercing from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "damage_immunities": [],
@@ -19485,7 +19549,7 @@
         "name": "Charmed"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "innate-spellcasting",
         "name": "Innate Spellcasting"
@@ -19572,7 +19636,7 @@
     "senses": [],
     "passive_perception": 11,
     "languages": [
-      "understands Abyssal",
+      "Understands Abyssal",
       "Common",
       "and Infernal but can't speak"
     ],
@@ -19585,7 +19649,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "confer-fire-resistance",
         "name": "Confer Fire Resistance"
@@ -19619,7 +19683,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p><b>Nobles</b> wield great authority and influence as members of the upper class, possessing wealth and connections that can make them as powerful as monarchs and generals. A noble often travels in the company of guards, as well as servants who are commoners.</p><p>The noble's statistics can also be used to represent <b>courtiers</b> who aren't of noble birth.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -19662,7 +19726,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "rapier",
@@ -19777,7 +19841,7 @@
         "name": "Prone"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amorphous",
         "name": "Amorphous"
@@ -19862,7 +19926,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "hold-breath",
         "name": "Hold Breath"
@@ -19949,7 +20013,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "greatclub",
@@ -20016,7 +20080,7 @@
     ],
     "passive_perception": 8,
     "languages": [
-      "understands Common and Giant but can't speak"
+      "Understands Common and Giant but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -20032,7 +20096,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "undead-fortitude",
         "name": "Undead Fortitude"
@@ -20111,7 +20175,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "innate-spellcasting",
         "name": "Innate Spellcasting"
@@ -20206,7 +20270,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "aggressive",
         "name": "Aggressive"
@@ -20284,7 +20348,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "limited-telepathy",
         "name": "Limited Telepathy"
@@ -20372,7 +20436,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "flyby",
         "name": "Flyby"
@@ -20448,7 +20512,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-sight-and-smell",
         "name": "Keen Sight and Smell"
@@ -20527,7 +20591,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-smell",
         "name": "Keen Smell"
@@ -20611,7 +20675,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "hooves",
@@ -20632,7 +20696,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>A phase spider possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport.</p>",
     "size": "Large",
     "monster_type": {
       "slug": "monstrosity",
@@ -20682,7 +20746,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "ethereal-jaunt",
         "name": "Ethereal Jaunt"
@@ -20772,14 +20836,16 @@
         "name": "Cold"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Piercing from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "damage_immunities": [
@@ -20798,7 +20864,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "fear-aura",
         "name": "Fear Aura"
@@ -20908,16 +20974,16 @@
         "name": "Radiant"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [],
@@ -20935,7 +21001,7 @@
         "name": "Frightened"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "angelic-weapons",
         "name": "Angelic Weapons"
@@ -21026,7 +21092,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "hold-breath",
         "name": "Hold Breath"
@@ -21102,7 +21168,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -21168,7 +21234,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-smell",
         "name": "Keen Smell"
@@ -21243,7 +21309,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "hooves",
@@ -21264,7 +21330,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Priests bring the teachings of their gods to the common folk. They are the spiritual leaders of temples and shrines and often hold positions of influence in their communities. Evil priests might work openly under a tyrant, or they might be the leaders of religious sects hidden in the shadows of good society, overseeing depraved rites.</p><p>A priest typically has one or more acolytes to help with religious ceremonies and other sacred duties.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -21307,7 +21373,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "divine-eminence",
         "name": "Divine Eminence"
@@ -21387,13 +21453,13 @@
     ],
     "passive_perception": 13,
     "languages": [
-      "understands Common and Draconic but can't speak"
+      "Understands Common and Draconic but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-senses",
         "name": "Keen Senses"
@@ -21485,7 +21551,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "tunneler",
         "name": "Tunneler"
@@ -21579,16 +21645,16 @@
         "name": "Lightning"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -21603,7 +21669,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -21641,7 +21707,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>A quipper is a carnivorous fish with sharp teeth. Quippers can adapt to any aquatic environment, including cold subterranean lakes. They frequently gather in swarms; the statistics for a swarm of quippers appear later in this appendix.</p>",
     "size": "Tiny",
     "monster_type": {
       "slug": "beast",
@@ -21691,7 +21757,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "blood-frenzy",
         "name": "Blood Frenzy"
@@ -21775,20 +21841,20 @@
     "damage_resistances": [],
     "damage_immunities": [
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "limited-magic-immunity",
         "name": "Limited Magic Immunity"
@@ -21868,7 +21934,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-smell",
         "name": "Keen Smell"
@@ -21939,7 +22005,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "mimicry",
         "name": "Mimicry"
@@ -22030,7 +22096,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -22055,7 +22121,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters and coral reefs, gathering in small packs to hunt. A full-grown specimen measures 6 to 10 feet long.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "beast",
@@ -22105,7 +22171,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "pack-tactics",
         "name": "Pack Tactics"
@@ -22198,7 +22264,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "heated-body",
         "name": "Heated Body"
@@ -22269,7 +22335,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "charge",
         "name": "Charge"
@@ -22336,7 +22402,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "hooves",
@@ -22402,7 +22468,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-sight",
         "name": "Keen Sight"
@@ -22486,7 +22552,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "false-appearance",
         "name": "False Appearance"
@@ -22616,7 +22682,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "antimagic-susceptibility",
         "name": "Antimagic Susceptibility"
@@ -22696,7 +22762,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "iron-scent",
         "name": "Iron Scent"
@@ -22771,7 +22837,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-smell",
         "name": "Keen Smell"
@@ -22857,7 +22923,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "blood-frenzy",
         "name": "Blood Frenzy"
@@ -22955,16 +23021,16 @@
     ],
     "damage_resistances": [
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -22974,7 +23040,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "heated-body",
         "name": "Heated Body"
@@ -23057,7 +23123,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "magic-resistance",
         "name": "Magic Resistance"
@@ -23137,7 +23203,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "sting",
@@ -23158,7 +23224,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Scouts are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -23201,7 +23267,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-hearing-and-sight",
         "name": "Keen Hearing and Sight"
@@ -23289,7 +23355,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -23372,7 +23438,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "water-breathing",
         "name": "Water Breathing"
@@ -23463,16 +23529,16 @@
         "name": "Thunder"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -23519,7 +23585,7 @@
         "name": "Restrained"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amorphous",
         "name": "Amorphous"
@@ -23630,7 +23696,7 @@
         "name": "Exhaustion"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "lightning-absorption",
         "name": "Lightning Absorption"
@@ -23710,7 +23776,7 @@
     ],
     "passive_perception": 10,
     "languages": [
-      "understands commands given in any language but can't speak"
+      "Understands commands given in any language but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -23742,7 +23808,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "bound",
         "name": "Bound"
@@ -23844,7 +23910,7 @@
         "name": "Frightened"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "false-appearance",
         "name": "False Appearance"
@@ -23931,7 +23997,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -24023,7 +24089,7 @@
         "name": "Exhaustion"
       }
     ],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "shortsword",
@@ -24104,16 +24170,16 @@
         "name": "Radiant"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -24144,7 +24210,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "angelic-weapons",
         "name": "Angelic Weapons"
@@ -24258,7 +24324,7 @@
     ],
     "passive_perception": 10,
     "languages": [
-      "understands all languages it knew in life but can't speak"
+      "Understands all languages it knew in life but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -24283,16 +24349,16 @@
         "name": "Thunder"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -24343,7 +24409,7 @@
         "name": "Unconscious"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "incorporeal-movement",
         "name": "Incorporeal Movement"
@@ -24423,7 +24489,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "spider-climb",
         "name": "Spider Climb"
@@ -24520,7 +24586,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "rejuvenation",
         "name": "Rejuvenation"
@@ -24599,7 +24665,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "longsword",
@@ -24632,7 +24698,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information. Loyal spies would rather die than divulge information that could compromise them or their employers.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -24675,7 +24741,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "cunning-action",
         "name": "Cunning Action"
@@ -24780,7 +24846,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "death-burst",
         "name": "Death Burst"
@@ -24864,7 +24930,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "blood-drain",
@@ -24933,7 +24999,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "stone-camouflage",
         "name": "Stone Camouflage"
@@ -25014,7 +25080,7 @@
     ],
     "passive_perception": 10,
     "languages": [
-      "understands the languages of its creator but can't speak"
+      "Understands the languages of its creator but can't speak"
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -25028,8 +25094,16 @@
         "name": "Psychic"
       },
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
+        "slug": "bludgeoning-not-adamantine",
+        "name": "Bludgeoning (not adamantine)"
+      },
+      {
+        "slug": "piercing-not-adamantine",
+        "name": "Piercing (not adamantine)"
+      },
+      {
+        "slug": "slashing-not-adamantine",
+        "name": "Slashing (not adamantine)"
       }
     ],
     "condition_immunities": [
@@ -25058,7 +25132,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "immutable-form",
         "name": "Immutable Form"
@@ -25162,7 +25236,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -25274,21 +25348,21 @@
         "name": "Poison"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "telepathic-bond",
         "name": "Telepathic Bond"
@@ -25426,7 +25500,7 @@
         "name": "Stunned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "echolocation",
         "name": "Echolocation"
@@ -25560,7 +25634,7 @@
         "name": "Stunned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "swarm",
         "name": "Swarm"
@@ -25682,7 +25756,7 @@
         "name": "Stunned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "swarm",
         "name": "Swarm"
@@ -25804,7 +25878,7 @@
         "name": "Stunned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "swarm",
         "name": "Swarm"
@@ -25926,7 +26000,7 @@
         "name": "Stunned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "swarm",
         "name": "Swarm"
@@ -26048,7 +26122,7 @@
         "name": "Stunned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "blood-frenzy",
         "name": "Blood Frenzy"
@@ -26174,7 +26248,7 @@
         "name": "Stunned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-smell",
         "name": "Keen Smell"
@@ -26295,7 +26369,7 @@
         "name": "Stunned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "swarm",
         "name": "Swarm"
@@ -26413,7 +26487,7 @@
         "name": "Stunned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "swarm",
         "name": "Swarm"
@@ -26547,7 +26621,7 @@
         "name": "Stunned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "swarm",
         "name": "Swarm"
@@ -26627,16 +26701,16 @@
         "name": "Poison"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "condition_immunities": [
@@ -26657,7 +26731,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "legendary-resistance",
         "name": "Legendary Resistance"
@@ -26732,7 +26806,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -26775,7 +26849,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "pack-tactics",
         "name": "Pack Tactics"
@@ -26855,7 +26929,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-smell",
         "name": "Keen Smell"
@@ -26949,7 +27023,7 @@
     ],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "false-appearance",
         "name": "False Appearance"
@@ -26991,7 +27065,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Tribal warriors live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -27034,7 +27108,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "pack-tactics",
         "name": "Pack Tactics"
@@ -27101,7 +27175,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "trampling-charge",
         "name": "Trampling Charge"
@@ -27179,7 +27253,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-smell",
         "name": "Keen Smell"
@@ -27258,7 +27332,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -27356,7 +27430,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "charge",
         "name": "Charge"
@@ -27474,21 +27548,21 @@
         "name": "Necrotic"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -27618,21 +27692,21 @@
         "name": "Necrotic"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -27754,21 +27828,21 @@
         "name": "Necrotic"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -27873,21 +27947,21 @@
         "name": "Necrotic"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "regeneration",
         "name": "Regeneration"
@@ -27929,7 +28003,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>Veterans are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.</p>",
     "size": "Medium",
     "monster_type": {
       "slug": "humanoid",
@@ -27972,7 +28046,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -28064,7 +28138,7 @@
         "name": "Frightened"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "false-appearance",
         "name": "False Appearance"
@@ -28158,16 +28232,16 @@
         "name": "Lightning"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -28182,7 +28256,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "magic-resistance",
         "name": "Magic Resistance"
@@ -28269,10 +28343,14 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
-        "slug": "keen-sight-and-smell",
-        "name": "Keen Sight and Smell"
+        "slug": "keen-sight",
+        "name": "Keen Sight"
+      },
+      {
+        "slug": "keen-smell",
+        "name": "Keen Smell"
       },
       {
         "slug": "pack-tactics",
@@ -28340,7 +28418,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "trampling-charge",
         "name": "Trampling Charge"
@@ -28431,7 +28509,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "hooves",
@@ -28507,16 +28585,16 @@
         "name": "Acid"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -28559,7 +28637,7 @@
         "name": "Unconscious"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "water-form",
         "name": "Water Form"
@@ -28638,7 +28716,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-hearing-and-smell",
         "name": "Keen Hearing and Smell"
@@ -28709,12 +28787,20 @@
     "damage_resistances": [],
     "damage_immunities": [
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -28795,12 +28881,20 @@
     "damage_resistances": [],
     "damage_immunities": [
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -28881,12 +28975,20 @@
     "damage_resistances": [],
     "damage_immunities": [
       {
-        "slug": "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons",
-        "name": "Bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -28969,12 +29071,20 @@
     "damage_resistances": [],
     "damage_immunities": [
       {
-        "slug": "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -29051,12 +29161,20 @@
     "damage_resistances": [],
     "damage_immunities": [
       {
-        "slug": "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -29133,12 +29251,20 @@
     "damage_resistances": [],
     "damage_immunities": [
       {
-        "slug": "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -29223,12 +29349,20 @@
     "damage_resistances": [],
     "damage_immunities": [
       {
-        "slug": "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -29309,12 +29443,20 @@
     "damage_resistances": [],
     "damage_immunities": [
       {
-        "slug": "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -29402,12 +29544,20 @@
     "damage_resistances": [],
     "damage_immunities": [
       {
-        "slug": "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -29485,12 +29635,20 @@
     "damage_resistances": [],
     "damage_immunities": [
       {
-        "slug": "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -29576,12 +29734,20 @@
     "damage_resistances": [],
     "damage_immunities": [
       {
-        "slug": "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -29677,12 +29843,20 @@
     "damage_resistances": [],
     "damage_immunities": [
       {
-        "slug": "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -29763,12 +29937,20 @@
     "damage_resistances": [],
     "damage_immunities": [
       {
-        "slug": "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -29845,12 +30027,20 @@
     "damage_resistances": [],
     "damage_immunities": [
       {
-        "slug": "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -29929,12 +30119,20 @@
     "damage_resistances": [],
     "damage_immunities": [
       {
-        "slug": "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",
-        "name": "Bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "shapechanger",
         "name": "Shapechanger"
@@ -30033,7 +30231,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "bite",
@@ -30109,14 +30307,16 @@
         "name": "Necrotic"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Piercing from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "damage_immunities": [
@@ -30135,7 +30335,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "sunlight-sensitivity",
         "name": "Sunlight Sensitivity"
@@ -30245,16 +30445,16 @@
         "name": "Thunder"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons",
-        "name": "Bludgeoning from nonmagical weapons"
+        "slug": "bludgeoning-nonmagical",
+        "name": "Bludgeoning (Nonmagical)"
       },
       {
-        "slug": "piercing-from-nonmagical-weapons",
-        "name": "Piercing from nonmagical weapons"
+        "slug": "piercing-nonmagical",
+        "name": "Piercing (Nonmagical)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons",
-        "name": "Slashing from nonmagical weapons"
+        "slug": "slashing-nonmagical",
+        "name": "Slashing (Nonmagical)"
       }
     ],
     "damage_immunities": [
@@ -30297,7 +30497,7 @@
         "name": "Unconscious"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "consume-life",
         "name": "Consume Life"
@@ -30339,7 +30539,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fur and pale blue eyes. Frost giants use these evil creatures as guards and hunting companions, putting the wolves' deadly breath weapon to use against their foes. Winter wolves communicate with one another using growls and barks, but they speak Common and Giant well enough to follow simple conversations.</p>",
     "size": "Large",
     "monster_type": {
       "slug": "monstrosity",
@@ -30389,7 +30589,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-hearing-and-smell",
         "name": "Keen Hearing and Smell"
@@ -30468,7 +30668,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-hearing-and-smell",
         "name": "Keen Hearing and Smell"
@@ -30498,7 +30698,7 @@
       "slug": "monster",
       "name": "Monster"
     },
-    "desc": "",
+    "desc": "<p>A worg is an evil predator that delights in hunting and devouring creatures weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins. Those creatures use worgs as mounts, but a worg will turn on its rider if it feels mistreated or malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as well.</p>",
     "size": "Large",
     "monster_type": {
       "slug": "monstrosity",
@@ -30547,7 +30747,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "keen-hearing-and-smell",
         "name": "Keen Hearing and Smell"
@@ -30645,14 +30845,16 @@
         "name": "Thunder"
       },
       {
-        "slug": "bludgeoning-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Bludgeoning from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "piercing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Piercing from nonmagical weapons that aren't silvered"
-      },{
-        "slug": "slashing-from-nonmagical-weapons-that-arent-silvered",
-        "name": "Slashing from nonmagical weapons that aren't silvered"
+        "slug": "bludgeoning-nonmagical-not-silvered",
+        "name": "Bludgeoning (Nonmagical not silvered)"
+      },
+      {
+        "slug": "piercing-nonmagical-not-silvered",
+        "name": "Piercing (Nonmagical not silvered)"
+      },
+      {
+        "slug": "slashing-nonmagical-not-silvered",
+        "name": "Slashing (Nonmagical not silvered)"
       }
     ],
     "damage_immunities": [
@@ -30699,7 +30901,7 @@
         "name": "Restrained"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "incorporeal-movement",
         "name": "Incorporeal Movement"
@@ -30783,7 +30985,7 @@
     "damage_resistances": [],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -30871,17 +31073,17 @@
     "damage_vulnerabilities": [],
     "damage_resistances": [
       {
-        "slug": "piercing-from-nonmagical-weapons-that-arent-adamantine",
-        "name": "Piercing from nonmagical weapons that aren't adamantine"
+        "slug": "piercing-nonmagical-not-adamantine",
+        "name": "Piercing (Nonmagical not adamantine)"
       },
       {
-        "slug": "slashing-from-nonmagical-weapons-that-arent-adamantine",
-        "name": "Slashing from nonmagical weapons that aren't adamantine"
+        "slug": "slashing-nonmagical-not-adamantine",
+        "name": "Slashing (Nonmagical not adamantine)"
       }
     ],
     "damage_immunities": [],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "earth-glide",
         "name": "Earth Glide"
@@ -30989,7 +31191,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -31093,7 +31295,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -31192,7 +31394,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -31291,7 +31493,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -31395,7 +31597,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -31494,7 +31696,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -31603,7 +31805,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "amphibious",
         "name": "Amphibious"
@@ -31707,7 +31909,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -31802,7 +32004,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [],
+    "traits": [],
     "actions": [
       {
         "slug": "multiattack",
@@ -31905,7 +32107,7 @@
       }
     ],
     "condition_immunities": [],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "ice-walk",
         "name": "Ice Walk"
@@ -32001,7 +32203,7 @@
         "name": "Poisoned"
       }
     ],
-    "special_abilities": [
+    "traits": [
       {
         "slug": "undead-fortitude",
         "name": "Undead Fortitude"

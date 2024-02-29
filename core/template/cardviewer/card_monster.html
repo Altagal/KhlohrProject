@@ -11,6 +11,9 @@
     </div>
 </div>
 <div class="card-body">
+    {% autoescape off %}
+    {{card.desc}}
+    {% endautoescape %}
     <div class="row">
         <div class="col">
             <p>
@@ -22,22 +25,17 @@
                 <sup>1</sup>/<sub>2</sub>
                 {% else %}
                 {{card.challenge_rating}}
-                {% endif %} ({{card.xp}}xp)<br>
-                <b> Proficiency Bonus :</b> +{{card.proficiency_bonus}}
-
-
+                {% endif %} ({{card.xp}}xp)
             </p>
         </div>
     </div>
-    {% autoescape off %}
-    {{card.desc}}
-    {% endautoescape %}
+
     <div class="row">
         <div class="col">
             <p>
-                <b>Armor Class:</b> {% for armor_class in card.armor_class %}{% if not forloop.first %}, {% endif %} {{armor_class.value}} {% if armor_class.type %} ({{armor_class.type}}) {% endif %}{% endfor %} <br>
+                <b>Armor Class:</b> {% for armor_class in card.armor_class %}{% if not forloop.first %}, {% endif %} {{armor_class.value}} {% if armor_class.type %} ({{armor_class.type}}) {% endif %}{% endfor %}<br>
                 <b>Hit Points:</b> {{card.hit_points}} ({{card.hit_points_roll}})<br>
-                <b>Speed:</b> {% for speed in card.speed %}{% if not forloop.first %}, {% endif %} {% if speed.type %} {{speed.type}} {% endif %} {{speed.value}} ft.{% if speed.hover %} (hover){% endif %}{% endfor %} <br>
+                <b>Speed:</b> {% for speed in card.speed %}{% if not forloop.first %}, {% endif %} {% if speed.type %} {{speed.type}} {% endif %} {{speed.value}} ft.{% if speed.hover %} (hover){% endif %}{% endfor %}<br>
             </p>
         </div>
     </div>
@@ -82,63 +80,53 @@
     </div>
     {% endif %}
 
-
-    {% if card.damage_resistances %}
+    {% if card.damage_resistances or card.vulnerabilities or card.damage_immunities or card.condition_immunities%}
     <div class="row">
         <div class="col">
             <p>
-                <b>Damage Resistances:</b> {% for damage_resistance in card.damage_resistances %}{% if not forloop.first %}, {% endif %}{{damage_resistance.name|capfirst }}{% endfor %}
+                {% if card.damage_resistances %}
+                <b>Damage Resistances:</b> {% for damage_resistance in card.damage_resistances %}{% if not forloop.first %}, {% endif %}{{damage_resistance.name|capfirst }}{% endfor %}<br>
+                {% endif %}
+                {% if card.vulnerabilities %}
+                <b>Vulnerabilities:</b> {% for vulnerability in card.vulnerabilities %}{% if not forloop.first %}, {% endif %}{{vulnerability.name|capfirst }}{% endfor %}<br>
+                {% endif %}
+                {% if card.damage_immunities %}
+                <b>Damage Immunities:</b> {% for damage_immunity in card.damage_immunities%}{% if not forloop.first %}, {% endif %}{{damage_immunity.name|capfirst }}{% endfor %}<br>
+                {% endif %}
+                {% if card.condition_immunities %}
+                <b>Condition Immunities:</b> {% for condition_immunity in card.condition_immunities %}{% if not forloop.first %}, {% endif %}{{condition_immunity.name|capfirst }}{% endfor %}<br>
+                {% endif %}
             </p>
         </div>
     </div>
     {% endif %}
 
-    {% if card.vulnerabilities %}
+    {% if monster_trait_list and card.traits %}
     <div class="row">
         <div class="col">
-            <p>
-                <b>Vulnerabilities:</b> {% for vulnerability in card.vulnerabilities %}{% if not forloop.first %}, {% endif %}{{vulnerability.name|capfirst }}{% endfor %}
-            </p>
+            <h4 class="card-title mt-2 mb-3" style="border-bottom: 1px solid #dee2e6;"><b>Traits</b></h4>
         </div>
     </div>
-    {% endif %}
-    {% if card.damage_immunities %}
-    <div class="row">
-        <div class="col">
-            <p>
-                <b>Damage Immunities:</b> {% for damage_immunity in card.damage_immunities%}{% if not forloop.first %}, {% endif %}{{damage_immunity.name|capfirst }}{% endfor %}
-            </p>
-        </div>
-    </div>
-    {% endif %}
-    {% if card.condition_immunities %}
-    <div class="row">
-        <div class="col">
-            <p>
-                <b>Condition Immunities:</b> {% for condition_immunity in card.condition_immunities %}{% if not forloop.first %}, {% endif %}{{condition_immunity.name|capfirst }}{% endfor %}
-            </p>
-        </div>
-    </div>
-    {% endif %}
+    {% for monster_trait in card.traits %}
+    {% for trait in monster_trait_list %}
+    {% if trait.slug == monster_trait.slug %}
 
-    {% if special_abilities_list and card.special_abilities %}
-    {% for special_ability in special_abilities_list %}
-    {% if special_ability.slug == card.special_abilities.slug %}
     <div class="row">
         <div class="col">
-            <div class="card-title ">{{special_ability.name}}<a class="btn btn-sm" href="{% url 'card_view' special_ability.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            <div class="card-title">{{trait.name}}<a class="btn btn-sm" href="{% url 'card_view' trait.slug %}"><i class="fas fa-search text-danger"></i></a></div>
             {% autoescape off %}
-            {{special_ability.desc}}
+            {{trait.desc}}
             {% endautoescape %}
         </div>
     </div>
     {% endif %}
     {% endfor %}
-    {% elif card.special_abilities %}
+    {% endfor %}
+    {% elif card.abilities %}
     <div class="row">
         <div class="col">
             <p>
-                <b>Abilities:</b> {% for special_ability in card.special_abilities %}{% if not forloop.first %}, {% endif %}{{special_ability.name | title}}{% endfor%}
+                <b>Abilities:</b> {% for ability in card.abilities %}{% if not forloop.first %}, {% endif %}{{ability.name | title}}{% endfor%}
             </p>
         </div>
     </div>
@@ -155,6 +143,7 @@
             {% endautoescape %}
         </div>
     </div>
+
     {% endif %}
     {% endfor %}
     {% elif card.actions %}
@@ -207,7 +196,7 @@
     <div class="row">
         <div class="col">
             <p>
-                <b>Legendary Actions:</b> {% for legendary_action in card.special_abilities %}{% if not forloop.first %}, {% endif %}{{legendary_action.name | title}}{% endfor%}
+                <b>Legendary Actions:</b> {% for legendary_action in card.legendary_actions %}{% if not forloop.first %}, {% endif %}{{legendary_action.name | title}}{% endfor%}
             </p>
         </div>
     </div>
