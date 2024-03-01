@@ -6,26 +6,10 @@
         </div>
     </div>
     <div class="card-head-row">
-        <div class="card-category mt-0">Feat</div>
+        <div class="card-category mt-0">Class Feature - {{card.class.name}} {{card.level}}º Level </div>
     </div>
 </div>
 <div class="card-body">
-    {% if card.prerequisite %}
-    <div class="row">
-        <div class="col">
-            <p>
-                <b>Prerequisite:</b> {{card.prerequisite}}
-            </p>
-        </div>
-    </div>
-    {% endif %}
-    {% if card.ability_score_increase %}
-    <div class="row">
-        <div class="col">
-            <p><b>Ability Score Increase:</b> {{card.ability_score_increase}}</p>
-        </div>
-    </div>
-    {% endif %}
     {% autoescape off %}
     {{card.desc}}
     {% endautoescape %}

@@ -51,7 +51,7 @@ def card_view(request, card_slug):
             'card': card,
             'monster_trait_list': get_deck("monster_trait"),
             #     'monster_action_list': get_deck("monster_action"),
-            #     'monster_reaction_list': get_deck("monster_reaction"),
+            'monster_reaction_list': get_deck("monster_reaction"),
             #     'legendary_action_list': get_deck("legendary_action")
         }
     else:

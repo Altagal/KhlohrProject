@@ -1,12 +1,12 @@
 <div class="card-header">
     <div class="card-head-row">
-        <div class="card-title">{% if card.type.slug == "subclass"%}{{card.class.name}}: {% endif %}{{card.name}}</div>
+        <div class="card-title">{{card.class.name}}: {{card.name}}</div>
         <div class="card-tools">
             <button class="btn btn-danger" id="store_card"><i class="fa fa-print"></i></button>
         </div>
     </div>
     <div class="card-head-row">
-        <div class="card-category mt-0">{{card.type.name}}</div>
+        <div class="card-category mt-0">Subclass</div>
     </div>
 </div>
 <div class="card-body">

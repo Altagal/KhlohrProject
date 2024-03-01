@@ -4290,15 +4290,15 @@
       },
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "damage_immunities": [
@@ -4568,15 +4568,15 @@
       },
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "damage_immunities": [
@@ -5468,15 +5468,15 @@
       },
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "damage_immunities": [
@@ -6232,15 +6232,15 @@
       },
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "damage_immunities": [
@@ -9564,15 +9564,15 @@
       },
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "damage_immunities": [
@@ -15797,15 +15797,15 @@
       },
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "damage_immunities": [
@@ -16158,15 +16158,15 @@
     "damage_resistances": [
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "damage_immunities": [
@@ -16402,15 +16402,15 @@
       },
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "damage_immunities": [
@@ -19531,15 +19531,15 @@
       },
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "damage_immunities": [],
@@ -20837,15 +20837,15 @@
       },
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "damage_immunities": [
@@ -27492,7 +27492,7 @@
   },
   {
     "slug": "vampire-vampire",
-    "name": "Vampire, Vampire Form",
+    "name": "Vampire (Vampire Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -27632,7 +27632,7 @@
   },
   {
     "slug": "vampire-bat",
-    "name": "Vampire, Bat Form",
+    "name": "Vampire (Bat Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -27768,7 +27768,7 @@
   },
   {
     "slug": "vampire-mist",
-    "name": "Vampire, Mist Form",
+    "name": "Vampire (Mist Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -28737,7 +28737,7 @@
   },
   {
     "slug": "werebear-bear",
-    "name": "Werebear, Bear Form",
+    "name": "Werebear (Bear Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -28788,15 +28788,15 @@
     "damage_immunities": [
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "condition_immunities": [],
@@ -28833,7 +28833,7 @@
   },
   {
     "slug": "werebear-human",
-    "name": "Werebear, Human Form",
+    "name": "Werebear (Human Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -28882,15 +28882,15 @@
     "damage_immunities": [
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "condition_immunities": [],
@@ -28923,7 +28923,7 @@
   },
   {
     "slug": "werebear-hybrid",
-    "name": "Werebear, Hybrid Form",
+    "name": "Werebear (Hybrid Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -28976,15 +28976,15 @@
     "damage_immunities": [
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "condition_immunities": [],
@@ -29025,7 +29025,7 @@
   },
   {
     "slug": "wereboar-boar",
-    "name": "Wereboar, Boar Form",
+    "name": "Wereboar (Boar Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -29072,15 +29072,15 @@
     "damage_immunities": [
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "condition_immunities": [],
@@ -29113,7 +29113,7 @@
   },
   {
     "slug": "wereboar-human",
-    "name": "Wereboar, Human Form",
+    "name": "Wereboar (Human Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -29162,15 +29162,15 @@
     "damage_immunities": [
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "condition_immunities": [],
@@ -29203,7 +29203,7 @@
   },
   {
     "slug": "wereboar-hybrid",
-    "name": "Wereboar, Hybrid Form",
+    "name": "Wereboar (Hybrid Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -29252,15 +29252,15 @@
     "damage_immunities": [
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "condition_immunities": [],
@@ -29301,7 +29301,7 @@
   },
   {
     "slug": "wererat-human",
-    "name": "Wererat, Human Form",
+    "name": "Wererat (Human Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -29350,15 +29350,15 @@
     "damage_immunities": [
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "condition_immunities": [],
@@ -29395,7 +29395,7 @@
   },
   {
     "slug": "wererat-hybrid",
-    "name": "Wererat, Hybrid Form",
+    "name": "Wererat (Hybrid Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -29444,15 +29444,15 @@
     "damage_immunities": [
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "condition_immunities": [],
@@ -29493,7 +29493,7 @@
   },
   {
     "slug": "wererat-rat",
-    "name": "Wererat, Rat Form",
+    "name": "Wererat (Rat Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -29545,15 +29545,15 @@
     "damage_immunities": [
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "condition_immunities": [],
@@ -29582,7 +29582,7 @@
   },
   {
     "slug": "weretiger-human",
-    "name": "Weretiger, Human Form",
+    "name": "Weretiger (Human Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -29636,15 +29636,15 @@
     "damage_immunities": [
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "condition_immunities": [],
@@ -29681,7 +29681,7 @@
   },
   {
     "slug": "weretiger-hybrid",
-    "name": "Weretiger, Hybrid Form",
+    "name": "Weretiger (Hybrid Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -29735,15 +29735,15 @@
     "damage_immunities": [
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "condition_immunities": [],
@@ -29792,7 +29792,7 @@
   },
   {
     "slug": "weretiger-tiger",
-    "name": "Weretiger, Tiger Form",
+    "name": "Weretiger (Tiger Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -29844,15 +29844,15 @@
     "damage_immunities": [
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "condition_immunities": [],
@@ -29889,7 +29889,7 @@
   },
   {
     "slug": "werewolf-human",
-    "name": "Werewolf, Human Form",
+    "name": "Werewolf (Human Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -29938,15 +29938,15 @@
     "damage_immunities": [
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "condition_immunities": [],
@@ -29979,7 +29979,7 @@
   },
   {
     "slug": "werewolf-hybrid",
-    "name": "Werewolf, Hybrid Form",
+    "name": "Werewolf (Hybrid Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -30028,15 +30028,15 @@
     "damage_immunities": [
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "condition_immunities": [],
@@ -30073,7 +30073,7 @@
   },
   {
     "slug": "werewolf-wolf",
-    "name": "Werewolf, Wolf Form",
+    "name": "Werewolf (Wolf Form)",
     "type": {
       "slug": "monster",
       "name": "Monster"
@@ -30120,15 +30120,15 @@
     "damage_immunities": [
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "condition_immunities": [],
@@ -30308,15 +30308,15 @@
       },
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "damage_immunities": [
@@ -30846,15 +30846,15 @@
       },
       {
         "slug": "bludgeoning-nonmagical-not-silvered",
-        "name": "Bludgeoning (Nonmagical not silvered)"
+        "name": "Bludgeoning (Nonmagical and not silvered)"
       },
       {
         "slug": "piercing-nonmagical-not-silvered",
-        "name": "Piercing (Nonmagical not silvered)"
+        "name": "Piercing (Nonmagical and not silvered)"
       },
       {
         "slug": "slashing-nonmagical-not-silvered",
-        "name": "Slashing (Nonmagical not silvered)"
+        "name": "Slashing (Nonmagical and not silvered)"
       }
     ],
     "damage_immunities": [
@@ -31074,11 +31074,11 @@
     "damage_resistances": [
       {
         "slug": "piercing-nonmagical-not-adamantine",
-        "name": "Piercing (Nonmagical not adamantine)"
+        "name": "Piercing (Nonmagical and not adamantine)"
       },
       {
         "slug": "slashing-nonmagical-not-adamantine",
-        "name": "Slashing (Nonmagical not adamantine)"
+        "name": "Slashing (Nonmagical and not adamantine)"
       }
     ],
     "damage_immunities": [],
