@@ -29,7 +29,6 @@
             </p>
         </div>
     </div>
-
     <div class="row">
         <div class="col">
             <p>
@@ -69,17 +68,15 @@
             </p>
         </div>
     </div>
-
     {% if card.languages %}
     <div class="row">
         <div class="col">
             <p>
-                <b>Languages:</b> {% for language in card.languages %}{% if not forloop.first %}, {% endif %}{{language }} {% endfor %}
+                <b>Languages:</b> {% for language in card.languages %}{% if not forloop.first %}, {% endif %}{{language }}{% endfor %}
             </p>
         </div>
     </div>
     {% endif %}
-
     {% if card.damage_resistances or card.vulnerabilities or card.damage_immunities or card.condition_immunities%}
     <div class="row">
         <div class="col">
@@ -100,27 +97,25 @@
         </div>
     </div>
     {% endif %}
-
     {% if monster_trait_list and card.traits %}
     <div class="row">
         <div class="col">
-            <h4 class="card-title mt-2 mb-3" style="border-bottom: 1px solid #dee2e6;">Traits</h4>
+            <h4 class="card-title mt-2 mb-2" style="border-bottom: 1px solid #dee2e6;">Traits</h4>
         </div>
     </div>
     {% for monster_trait in card.traits %}
-    {% for trait in monster_trait_list %}
-    {% if trait.slug == monster_trait.slug %}
-
     <div class="row">
         <div class="col">
-            <div class="card-title">{{trait.name}}<a class="btn btn-sm" href="{% url 'card_view' trait.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            <div class="card-title">{{monster_trait.name}}<a class="btn btn-sm" href="{% url 'card_view' monster_trait.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            {% for trait in monster_trait_list %}
+            {% if trait.slug == monster_trait.slug %}
             {% autoescape off %}
             {{trait.desc}}
             {% endautoescape %}
+            {% endif %}
+            {% endfor %}
         </div>
     </div>
-    {% endif %}
-    {% endfor %}
     {% endfor %}
     {% elif card.traits %}
     <div class="row">
@@ -131,29 +126,25 @@
         </div>
     </div>
     {% endif %}
-
-
-
     {% if monster_action_list and card.actions %}
     <div class="row">
         <div class="col">
-            <h4 class="card-title mt-2 mb-3" style="border-bottom: 1px solid #dee2e6;">Action</h4>
+            <h4 class="card-title mt-2 mb-2" style="border-bottom: 1px solid #dee2e6;">Action</h4>
         </div>
     </div>
     {% for monster_action in card.actions %}
-    {% for action in monster_action_list %}
-    {% if action.slug == monster_action.slug %}
-
     <div class="row">
         <div class="col">
-            <div class="card-title">{{action.name}}<a class="btn btn-sm" href="{% url 'card_view' action.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            <div class="card-title">{{monster_action.name}}<a class="btn btn-sm" href="{% url 'card_view' monster_action.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            {% for action in monster_action_list %}
+            {% if action.slug == monster_action.slug %}
             {% autoescape off %}
             {{action.desc}}
             {% endautoescape %}
+            {% endif %}
+            {% endfor %}
         </div>
     </div>
-    {% endif %}
-    {% endfor %}
     {% endfor %}
     {% elif card.actions %}
     <div class="row">
@@ -164,31 +155,25 @@
         </div>
     </div>
     {% endif %}
-
-
-
-
-
     {% if monster_reaction_list and card.reactions %}
     <div class="row">
         <div class="col">
-            <h4 class="card-title mt-2 mb-3" style="border-bottom: 1px solid #dee2e6;">Reaction</h4>
+            <h4 class="card-title mt-2 mb-2" style="border-bottom: 1px solid #dee2e6;">Reaction</h4>
         </div>
     </div>
     {% for monster_reaction in card.reactions %}
-    {% for reaction in monster_reaction_list %}
-    {% if reaction.slug == monster_reaction.slug %}
-
     <div class="row">
         <div class="col">
-            <div class="card-title">{{reaction.name}}<a class="btn btn-sm" href="{% url 'card_view' reaction.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            <div class="card-title">{{monster_reaction.name}}<a class="btn btn-sm" href="{% url 'card_view' monster_reaction.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            {% for reaction in monster_reaction_list %}
+            {% if reaction.slug == monster_reaction.slug %}
             {% autoescape off %}
             {{reaction.desc}}
             {% endautoescape %}
+            {% endif %}
+            {% endfor %}
         </div>
     </div>
-    {% endif %}
-    {% endfor %}
     {% endfor %}
     {% elif card.reactions %}
     <div class="row">
@@ -199,29 +184,25 @@
         </div>
     </div>
     {% endif %}
-
-
-
     {% if monster_legendary_action_list and card.legendary_actions %}
     <div class="row">
         <div class="col">
-            <h4 class="card-title mt-2 mb-3" style="border-bottom: 1px solid #dee2e6;">Legendary Actions</h4>
+            <h4 class="card-title mt-2 mb-2" style="border-bottom: 1px solid #dee2e6;">Legendary Actions</h4>
         </div>
     </div>
     {% for monster_legendary_action in card.legendary_actions %}
-    {% for legendary_action in monster_legendary_action_list %}
-    {% if legendary_action.slug == monster_legendary_action.slug %}
-
     <div class="row">
         <div class="col">
-            <div class="card-title">{{legendary_action.name}}<a class="btn btn-sm" href="{% url 'card_view' legendary_action.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            <div class="card-title">{{monster_legendary_action.name}}<a class="btn btn-sm" href="{% url 'card_view' monster_legendary_action.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            {% for legendary_action in monster_legendary_action_list %}
+            {% if legendary_action.slug == monster_legendary_action.slug %}
             {% autoescape off %}
             {{legendary_action.desc}}
             {% endautoescape %}
+            {% endif %}
+            {% endfor %}
         </div>
     </div>
-    {% endif %}
-    {% endfor %}
     {% endfor %}
     {% elif card.legendary_actions %}
     <div class="row">
@@ -232,10 +213,6 @@
         </div>
     </div>
     {% endif %}
-
-
-
-
     <div class="row">
         <div class="col">
             <button class="btn btn-light btn-xs" disabled=""><b>Source:</b> {{card.source.name}}</button>

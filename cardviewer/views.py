@@ -29,35 +29,33 @@ def card_view(request, card_slug):
             'card': card,
             'range': range(10),
             'table_list': magic_school_spell_list,
-        }
-
+            }
     # IF CLASS
     elif card["type"]["slug"] == "class":
         context = {
             'card': card,
             'level_range': range(1, 21),
             'class_feature_list': get_deck("class_feature"),
-        }
-
+            }
     # IF SUBCLASS
     elif card["type"]["slug"] == "subclass":
         context = {
             'card': card,
             'subclass_feature_list': get_deck("subclass_feature")
-        }
-        # IF SUBCLASS
+            }
+    # IF MONSTER
     elif card["type"]["slug"] == "monster":
         context = {
             'card': card,
             'monster_trait_list': get_deck("monster_trait"),
-            #     'monster_action_list': get_deck("monster_action"),
+            'monster_action_list': get_deck("monster_action"),
             'monster_reaction_list': get_deck("monster_reaction"),
-            #     'legendary_action_list': get_deck("legendary_action")
-        }
+            'monster_legendary_action_list': get_deck("monster_legendary_action")
+            }
     else:
         context = {
             'card': card,
-        }
+            }
 
     return render(request, 'cardviewer/card_view.html', context)
 

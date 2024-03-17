@@ -1,16 +1,16 @@
 [
   {
-    "slug": "amphibious",
+    "slug": "amphibious-aboleth",
     "name": "Amphibious",
-    "desc": "<p>This monster can breathe air and water.</p>"
+    "desc": "<p>The aboleth can breathe air and water.</p>"
   },
   {
-    "slug": "mucous-cloud",
+    "slug": "mucous-cloud-aboleth",
     "name": "Mucous Cloud",
     "desc": "<p>While underwater, the aboleth is surrounded by transformative mucus. A creature that touches the aboleth or that hits it with a melee attack while within 5 ft. of it must make a DC 14 Constitution saving throw. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater.</p>"
   },
   {
-    "slug": "probing-telepathy",
+    "slug": "probing-telepathy-aboleth",
     "name": "Probing Telepathy",
     "desc": "<p>If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature.</p>"
   },
@@ -20,19 +20,169 @@
     "desc": "<p>The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:</p><p>- Cantrips (at will): light, sacred flame, thaumaturgy<br>- 1st level (3 slots): bless, cure wounds, sanctuary</p>"
   },
   {
-    "slug": "legendary-resistance",
+    "slug": "amphibious-adult-black-dragon",
+    "name": "Amphibious",
+    "desc": "<p>The dragon can breathe air and water.</p>"
+  },
+  {
+    "slug": "legendary-resistance-adult-black-dragon",
     "name": "Legendary Resistance",
-    "desc": "<p>If this monster fails a saving throw, it can choose to succeed instead.</p>"
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
-    "slug": "ice-walk",
+    "slug": "legendary-resistance-adult-blue-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "legendary-resistance-adult-brass-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "amphibious-adult-bronze-dragon",
+    "name": "Amphibious",
+    "desc": "<p>The dragon can breathe air and water.</p>"
+  },
+  {
+    "slug": "legendary-resistance-adult-bronze-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "legendary-resistance-adult-copper-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "amphibious-adult-gold-dragon",
+    "name": "Amphibious",
+    "desc": "<p>The dragon can breathe air and water.</p>"
+  },
+  {
+    "slug": "legendary-resistance-adult-gold-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "amphibious-adult-green-dragon",
+    "name": "Amphibious",
+    "desc": "<p>The dragon can breathe air and water.</p>"
+  },
+  {
+    "slug": "legendary-resistance-adult-green-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "legendary-resistance-adult-red-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "legendary-resistance-adult-silver-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "ice-walk-adult-white-dragon",
     "name": "Ice Walk",
-    "desc": "<p>This monster can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.</p>"
+    "desc": "<p>The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.</p>"
   },
   {
-    "slug": "air-form",
+    "slug": "legendary-resistance-adult-white-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "air-form-air-elemental",
     "name": "Air Form",
     "desc": "<p>The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.</p>"
+  },
+  {
+    "slug": "amphibious-ancient-black-dragon",
+    "name": "Amphibious",
+    "desc": "<p>The dragon can breathe air and water.</p>"
+  },
+  {
+    "slug": "legendary-resistance-ancient-black-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "legendary-resistance-ancient-blue-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "legendary-resistance-ancient-brass-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "amphibious-ancient-bronze-dragon",
+    "name": "Amphibious",
+    "desc": "<p>The dragon can breathe air and water.</p>"
+  },
+  {
+    "slug": "legendary-resistance-ancient-bronze-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "legendary-resistance-ancient-copper-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "amphibious-ancient-gold-dragon",
+    "name": "Amphibious",
+    "desc": "<p>The dragon can breathe air and water.</p>"
+  },
+  {
+    "slug": "legendary-resistance-ancient-gold-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "amphibious-ancient-green-dragon",
+    "name": "Amphibious",
+    "desc": "<p>The dragon can breathe air and water.</p>"
+  },
+  {
+    "slug": "legendary-resistance-ancient-green-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "legendary-resistance-ancient-red-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "legendary-resistance-ancient-silver-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "ice-walk-ancient-white-dragon",
+    "name": "Ice Walk",
+    "desc": "<p>The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.</p>"
+  },
+  {
+    "slug": "legendary-resistance-ancient-white-dragon",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "inscrutable-androsphinx",
+    "name": "Inscrutable",
+    "desc": "<p>The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.</p>"
+  },
+  {
+    "slug": "magic-weapons-androsphinx",
+    "name": "Magic Weapons",
+    "desc": "<p>The sphinx's weapon attacks are magical.</p>"
   },
   {
     "slug": "spellcasting-androsphinx",
@@ -40,9 +190,9 @@
     "desc": "<p>The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:</p><p>- Cantrips (at will): sacred flame, spare the dying, thaumaturgy<br>- 1st level (4 slots): command, detect evil and good, detect magic<br>- 2nd level (3 slots): lesser restoration, zone of truth<br>- 3rd level (3 slots): dispel magic, tongues<br>- 4th level (3 slots): banishment, freedom of movement<br>- 5th level (2 slots): flame strike, greater restoration<br>- 6th level (1 slot): heroes' feast</p>"
   },
   {
-    "slug": "antimagic-susceptibility",
+    "slug": "antimagic-susceptibility-animated-armor",
     "name": "Antimagic Susceptibility",
-    "desc": "<p>This monster is incapacitated while in the area of an antimagic field. If targeted by dispel magic, this monster must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.</p>"
+    "desc": "<p>The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.</p>"
   },
   {
     "slug": "false-appearance-animated-armor",
@@ -50,21 +200,30 @@
     "desc": "<p>While the armor remains motionless, it is indistinguishable from a normal suit of armor.</p>"
   },
   {
+    "slug": "magic-resistance-archmage",
+    "name": "Magic Resistance",
+    "desc": "<p>The archmage has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
     "slug": "spellcasting-archmage",
     "name": "Spellcasting",
     "desc": "<p>The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared:</p><p>- Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp<br>- 1st level (4 slots): detect magic, identify, mage armor*, magic missile<br>- 2nd level (3 slots): detect thoughts, mirror image, misty step<br>- 3rd level (3 slots): counterspell, fly, lightning bolt<br>- 4th level (3 slots): banishment, fire shield, stoneskin*<br>- 5th level (3 slots): cone of cold, scrying, wall of force<br>- 6th level (1 slot): globe of invulnerability<br>- 7th level (1 slot): teleport<br>- 8th level (1 slot): mind blank*<br>- 9th level (1 slot): time stop<br>* The archmage casts these spells on itself before combat.</p>"
   },
   {
-    "slug": "assassinate",
+    "slug": "assassinate-assassin",
     "name": "Assassinate",
     "desc": "<p>During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.</p>"
   },
   {
-    "slug": "evasion",
+    "slug": "evasion-assassin",
     "name": "Evasion",
     "desc": "<p>If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.</p>"
   },
-
+  {
+    "slug": "sneak-attack-1turn-assassin",
+    "name": "Sneak Attack (1/Turn)",
+    "desc": "<p>The assassin deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.</p>"
+  },
   {
     "slug": "false-appearance-awakened-shrub",
     "name": "False Appearance",
@@ -86,19 +245,54 @@
     "desc": "<p>When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (included in the attack).</p>"
   },
   {
-    "slug": "death-throes",
+    "slug": "illumination-azer",
+    "name": "Illumination",
+    "desc": "<p>The azer sheds bright light in a 10-foot radius and dim light for an additional 10 ft..</p>"
+  },
+  {
+    "slug": "pack-tactics-baboon",
+    "name": "Pack Tactics",
+    "desc": "<p>The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
+  },
+  {
+    "slug": "keen-smell-badger",
+    "name": "Keen Smell",
+    "desc": "<p>The badger has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+  },
+  {
+    "slug": "death-throes-balor",
     "name": "Death Throes",
     "desc": "<p>When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.</p>"
   },
   {
-    "slug": "fire-aura",
+    "slug": "fire-aura-balor",
     "name": "Fire Aura",
     "desc": "<p>At the start of each of the balor's turns, each creature within 5 feet of it takes 10 (3d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the balor or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.</p>"
   },
   {
-    "slug": "barbed-hide",
+    "slug": "magic-resistance-balor",
+    "name": "Magic Resistance",
+    "desc": "<p>The balor has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "magic-weapons-balor",
+    "name": "Magic Weapons",
+    "desc": "<p>The balor's weapon attacks are magical.</p>"
+  },
+  {
+    "slug": "barbed-hide-barbed-devil",
     "name": "Barbed Hide",
     "desc": "<p>At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it.</p>"
+  },
+  {
+    "slug": "devils-sight-barbed-devil",
+    "name": "Devil's Sight",
+    "desc": "<p>Magical darkness doesn't impede the devil's darkvision.</p>"
+  },
+  {
+    "slug": "magic-resistance-barbed-devil",
+    "name": "Magic Resistance",
+    "desc": "<p>The devil has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "petrifying-gaze-basilisk",
@@ -106,49 +300,74 @@
     "desc": "<p>If a creature starts its turn within 30 ft. of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic.<br>A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again. If it looks at the basilisk in the meantime, it must immediately make the save.<br>If the basilisk sees its reflection within 30 ft. of it in bright light, it mistakes itself for a rival and targets itself with its gaze.</p>"
   },
   {
-    "slug": "echolocation",
+    "slug": "echolocation-bat",
     "name": "Echolocation",
-    "desc": "<p>This monster can't use its blindsight while deafened.</p>"
+    "desc": "<p>The bat can't use its blindsight while deafened.</p>"
   },
   {
-    "slug": "keen-hearing",
+    "slug": "keen-hearing-bat",
     "name": "Keen Hearing",
-    "desc": "<p>This monster has advantage on Wisdom (Perception) checks that rely on hearing.</p>"
+    "desc": "<p>The bat has advantage on Wisdom (Perception) checks that rely on hearing.</p>"
   },
   {
-    "slug": "devils-sight-",
+    "slug": "devils-sight-bearded-devil",
     "name": "Devil's Sight",
-    "desc": "<p>Magical darkness doesn't impede this monster's darkvision.</p>"
+    "desc": "<p>Magical darkness doesn't impede the devil's darkvision.</p>"
   },
   {
-    "slug": "magic-resistance",
+    "slug": "magic-resistance-bearded-devil",
     "name": "Magic Resistance",
-    "desc": "<p>This creature has advantage on saving throws against spells and other magical effects.</p>"
+    "desc": "<p>The devil has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
-    "slug": "steadfast",
+    "slug": "steadfast-bearded-devil",
     "name": "Steadfast",
     "desc": "<p>The devil can't be frightened while it can see an allied creature within 30 feet of it.</p>"
   },
   {
-    "slug": "reckless",
+    "slug": "reckless-berserker",
     "name": "Reckless",
-    "desc": "<p>At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.</p>"
+    "desc": "<p>At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.</p>"
   },
   {
-    "slug": "corrosive-form",
+    "slug": "keen-smell-black-bear",
+    "name": "Keen Smell",
+    "desc": "<p>The bear has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+  },
+  {
+    "slug": "amphibious-black-dragon-wyrmling",
+    "name": "Amphibious",
+    "desc": "<p>The dragon can breathe air and water.</p>"
+  },
+  {
+    "slug": "amorphous-black-pudding",
+    "name": "Amorphous",
+    "desc": "<p>The pudding can move through a space as narrow as 1 inch wide without squeezing.</p>"
+  },
+  {
+    "slug": "corrosive-form-black-pudding",
     "name": "Corrosive Form",
     "desc": "<p>A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal or wood that hits the pudding is destroyed after dealing damage. The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.</p>"
   },
   {
-    "slug": "spider-climb",
+    "slug": "spider-climb-black-pudding",
     "name": "Spider Climb",
-    "desc": "<p>This monster can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
+    "desc": "<p>The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
-    "slug": "keen-sight",
+    "slug": "keen-hearing-and-smell-blink-dog",
+    "name": "Keen Hearing and Smell",
+    "desc": "<p>The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+  },
+  {
+    "slug": "keen-sight-blood-hawk",
     "name": "Keen Sight",
-    "desc": "<p>This monster has advantage on Wisdom (Perception) checks that rely on sight.</p>"
+    "desc": "<p>The hawk has advantage on Wisdom (Perception) checks that rely on sight.</p>"
+  },
+  {
+    "slug": "pack-tactics-blood-hawk",
+    "name": "Pack Tactics",
+    "desc": "<p>The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "charge-boar",
@@ -161,9 +380,29 @@
     "desc": "<p>If the boar takes 7 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</p>"
   },
   {
-    "slug": "brute",
+    "slug": "devils-sight-bone-devil",
+    "name": "Devil's Sight",
+    "desc": "<p>Magical darkness doesn't impede the devil's darkvision.</p>"
+  },
+  {
+    "slug": "magic-resistance-bone-devil",
+    "name": "Magic Resistance",
+    "desc": "<p>The devil has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "amphibious-bronze-dragon-wyrmling",
+    "name": "Amphibious",
+    "desc": "<p>The dragon can breathe air and water.</p>"
+  },
+  {
+    "slug": "keen-smell-brown-bear",
+    "name": "Keen Smell",
+    "desc": "<p>The bear has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+  },
+  {
+    "slug": "brute-bugbear",
     "name": "Brute",
-    "desc": "<p>A melee weapon deals one extra die of its damage when this monster hits with it (included in the attack).</p>"
+    "desc": "<p>A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).</p>"
   },
   {
     "slug": "surprise-attack-bugbear",
@@ -176,17 +415,37 @@
     "desc": "<p>The bulette's long jump is up to 30 ft. and its high jump is up to 15 ft., with or without a running start.</p>"
   },
   {
+    "slug": "keen-smell-cat",
+    "name": "Keen Smell",
+    "desc": "<p>The cat has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+  },
+  {
     "slug": "charge-centaur",
     "name": "Charge",
     "desc": "<p>If the centaur moves at least 30 ft. straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.</p>"
   },
   {
-    "slug": "sense-magic",
+    "slug": "devils-sight-chain-devil",
+    "name": "Devil's Sight",
+    "desc": "<p>Magical darkness doesn't impede the devil's darkvision.</p>"
+  },
+  {
+    "slug": "magic-resistance-chain-devil",
+    "name": "Magic Resistance",
+    "desc": "<p>The devil has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "amphibious-chuul",
+    "name": "Amphibious",
+    "desc": "<p>The chuul can breathe air and water.</p>"
+  },
+  {
+    "slug": "sense-magic-chuul",
     "name": "Sense Magic",
     "desc": "<p>The chuul senses magic within 120 feet of it at will. This trait otherwise works like the detect magic spell but isn't itself magical.</p>"
   },
   {
-    "slug": "acid-absorption",
+    "slug": "acid-absorption-clay-golem",
     "name": "Acid Absorption",
     "desc": "<p>Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.</p>"
   },
@@ -196,14 +455,39 @@
     "desc": "<p>Whenever the golem starts its turn with 60 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.</p>"
   },
   {
+    "slug": "immutable-form-clay-golem",
+    "name": "Immutable Form",
+    "desc": "<p>The golem is immune to any spell or effect that would alter its form.</p>"
+  },
+  {
+    "slug": "magic-resistance-clay-golem",
+    "name": "Magic Resistance",
+    "desc": "<p>The golem has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "magic-weapons-clay-golem",
+    "name": "Magic Weapons",
+    "desc": "<p>The golem's weapon attacks are magical.</p>"
+  },
+  {
+    "slug": "damage-transfer-cloaker",
+    "name": "Damage Transfer",
+    "desc": "<p>While attached to a creature, the cloaker takes only half the damage dealt to it (rounded down). and that creature takes the other half.</p>"
+  },
+  {
     "slug": "false-appearance-cloaker",
     "name": "False Appearance",
     "desc": "<p>While the cloaker remains motionless without its underside exposed, it is indistinguishable from a dark leather cloak.</p>"
   },
   {
-    "slug": "light-sensitivity",
+    "slug": "light-sensitivity-cloaker",
     "name": "Light Sensitivity",
     "desc": "<p>While in bright light, the cloaker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.</p>"
+  },
+  {
+    "slug": "keen-smell-cloud-giant",
+    "name": "Keen Smell",
+    "desc": "<p>The giant has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "innate-spellcasting-cloud-giant",
@@ -211,19 +495,24 @@
     "desc": "<p>The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:</p><p>At will: detect magic, fog cloud, light<br>3/day each: feather fall, fly, misty step, telekinesis<br>1/day each: control weather, gaseous form</p>"
   },
   {
-    "slug": "innate-spellcasting-storm-giant",
-    "name": "Innate Spellcasting",
-    "desc": "<p>The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:</p><p>At will: detect magic, feather fall, levitate, light<br>3/day each: control weather, water breathing</p>"
-  },
-  {
     "slug": "innate-spellcasting-couatl",
     "name": "Innate Spellcasting",
     "desc": "<p>The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:</p><p>At will: detect evil and good, detect magic, detect thoughts<br>3/day each: bless, create food and water, cure wounds, lesser restoration, protection from poison, sanctuary, shield<br>1/day each: dream, greater restoration, scrying</p>"
   },
   {
-    "slug": "shielded-mind",
+    "slug": "magic-weapons-couatl",
+    "name": "Magic Weapons",
+    "desc": "<p>The couatl's weapon attacks are magical.</p>"
+  },
+  {
+    "slug": "shielded-mind-couatl",
     "name": "Shielded Mind",
     "desc": "<p>The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.</p>"
+  },
+  {
+    "slug": "amphibious-crab",
+    "name": "Amphibious",
+    "desc": "<p>The crab can breathe air and water.</p>"
   },
   {
     "slug": "hold-breath-crocodile",
@@ -231,14 +520,24 @@
     "desc": "<p>The crocodile can hold its breath for 15 minutes.</p>"
   },
   {
-    "slug": "dark-devotion",
+    "slug": "dark-devotion-cult-fanatic",
     "name": "Dark Devotion",
-    "desc": "<p>This monster has advantage on saving throws against being charmed or frightened.</p>"
+    "desc": "<p>The fanatic has advantage on saving throws against being charmed or frightened.</p>"
   },
   {
-    "slug": "spellcasting-fanatic",
+    "slug": "spellcasting-cult-fanatic",
     "name": "Spellcasting",
     "desc": "<p>The fanatic is a 4th-level spellcaster. Its spell casting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:</p><p>Cantrips (at will): light, sacred flame, thaumaturgy<br>- 1st level (4 slots): command, inflict wounds, shield of faith<br>- 2nd level (3 slots): hold person, spiritual weapon</p>"
+  },
+  {
+    "slug": "dark-devotion-cultist",
+    "name": "Dark Devotion",
+    "desc": "<p>The cultist has advantage on saving throws against being charmed or frightened.</p>"
+  },
+  {
+    "slug": "echolocation-darkmantle",
+    "name": "Echolocation",
+    "desc": "<p>The darkmantle can't use its blindsight while deafened.</p>"
   },
   {
     "slug": "false-appearance-darkmantle",
@@ -246,17 +545,22 @@
     "desc": "<p>While the darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite.</p>"
   },
   {
-    "slug": "two-headed",
+    "slug": "two-headed-death-dog",
     "name": "Two-Headed",
     "desc": "<p>The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.</p>"
   },
   {
-    "slug": "gnome-cunning",
+    "slug": "stone-camouflage-deep-gnome-svirfneblin",
+    "name": "Stone Camouflage",
+    "desc": "<p>The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
+  },
+  {
+    "slug": "gnome-cunning-deep-gnome-svirfneblin",
     "name": "Gnome Cunning",
     "desc": "<p>The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.</p>"
   },
   {
-    "slug": "innate-spellcasting-gnome",
+    "slug": "innate-spellcasting-deep-gnome-svirfneblin",
     "name": "Innate Spellcasting",
     "desc": "<p>The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:<br>At will: nondetection (self only)<br>1/day each: blindness/deafness, blur, disguise self</p>"
   },
@@ -269,6 +573,21 @@
     "slug": "innate-spellcasting-deva",
     "name": "Innate Spellcasting",
     "desc": "<p>The deva's spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components:<br>At will: detect evil and good<br>1/day each: commune, raise dead</p>"
+  },
+  {
+    "slug": "magic-resistance-deva",
+    "name": "Magic Resistance",
+    "desc": "<p>The deva has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "keen-hearing-and-smell-dire-wolf",
+    "name": "Keen Hearing and Smell",
+    "desc": "<p>The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+  },
+  {
+    "slug": "pack-tactics-dire-wolf",
+    "name": "Pack Tactics",
+    "desc": "<p>The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "elemental-demise-djinni",
@@ -286,7 +605,7 @@
     "desc": "<p>The doppelganger can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
-    "slug": "ambusher",
+    "slug": "ambusher-doppelganger",
     "name": "Ambusher",
     "desc": "<p>In the first round of combat, the doppelganger has advantage on attack rolls against any creature it has surprised.</p>"
   },
@@ -296,24 +615,49 @@
     "desc": "<p>If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.</p>"
   },
   {
+    "slug": "amphibious-dragon-turtle",
+    "name": "Amphibious",
+    "desc": "<p>The dragon turtle can breathe air and water.</p>"
+  },
+  {
+    "slug": "fey-ancestry-drider",
+    "name": "Fey Ancestry",
+    "desc": "<p>The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.</p>"
+  },
+  {
     "slug": "innate-spellcasting-drider",
     "name": "Innate Spellcasting",
     "desc": "<p>The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:<br>At will: dancing lights<br>1/day each: darkness, faerie fire</p>"
   },
   {
-    "slug": "sunlight-sensitivity",
-    "name": "Sunlight Sensitivity",
-    "desc": "<p>While in sunlight, this monster has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
+    "slug": "spider-climb-drider",
+    "name": "Spider Climb",
+    "desc": "<p>The drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
-    "slug": "fey-ancestry",
+    "slug": "sunlight-sensitivity-drider",
+    "name": "Sunlight Sensitivity",
+    "desc": "<p>While in sunlight, the drider has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
+  },
+  {
+    "slug": "web-walker-drider",
+    "name": "Web Walker",
+    "desc": "<p>The drider ignores movement restrictions caused by webbing.</p>"
+  },
+  {
+    "slug": "fey-ancestry-drow",
     "name": "Fey Ancestry",
-    "desc": "<p>This mosnter has advantage on saving throws against being charmed, and magic can't put this monster to sleep.</p>"
+    "desc": "<p>The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.</p>"
   },
   {
     "slug": "innate-spellcasting-drow",
     "name": "Innate Spellcasting",
     "desc": "<p>The drow's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:<br>At will: dancing lights<br>1/day each: darkness, faerie fire</p>"
+  },
+  {
+    "slug": "sunlight-sensitivity-drow",
+    "name": "Sunlight Sensitivity",
+    "desc": "<p>While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "spellcasting-druid",
@@ -326,19 +670,29 @@
     "desc": "<p>The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:</p><p>At will: druidcraft<br>3/day each: entangle, goodberry<br>1/day each: barkskin, pass without trace, shillelagh</p>"
   },
   {
-    "slug": "speak-with-beasts-and-plants",
+    "slug": "magic-resistance-dryad",
+    "name": "Magic Resistance",
+    "desc": "<p>The dryad has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "speak-with-beasts-and-plants-dryad",
     "name": "Speak with Beasts and Plants",
     "desc": "<p>The dryad can communicate with beasts and plants as if they shared a language.</p>"
   },
   {
-    "slug": "tree-stride",
+    "slug": "tree-stride-dryad",
     "name": "Tree Stride",
     "desc": "<p>Once on her turn, the dryad can use 10 ft. of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 ft. of the first tree, appearing in an unoccupied space within 5 ft. of the second tree. Both trees must be large or bigger.</p>"
   },
   {
-    "slug": "duergar-resilience",
+    "slug": "duergar-resilience-duergar",
     "name": "Duergar Resilience",
     "desc": "<p>The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.</p>"
+  },
+  {
+    "slug": "sunlight-sensitivity-duergar",
+    "name": "Sunlight Sensitivity",
+    "desc": "<p>While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "death-burst-dust-mephit",
@@ -349,6 +703,21 @@
     "slug": "innate-spellcasting-dust-mephit",
     "name": "Innate Spellcasting",
     "desc": "<p>The mephit can innately cast sleep, requiring no material components. Its innate spellcasting ability is Charisma.</p>"
+  },
+  {
+    "slug": "keen-sight-eagle",
+    "name": "Keen Sight",
+    "desc": "<p>The eagle has advantage on Wisdom (Perception) checks that rely on sight.</p>"
+  },
+  {
+    "slug": "earth-glide-earth-elemental",
+    "name": "Earth Glide",
+    "desc": "<p>The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.</p>"
+  },
+  {
+    "slug": "siege-monster-earth-elemental",
+    "name": "Siege Monster",
+    "desc": "<p>The elemental deals double damage to objects and structures.</p>"
   },
   {
     "slug": "elemental-demise-efreeti",
@@ -366,32 +735,57 @@
     "desc": "<p>If the elephant moves at least 20 ft. straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action.</p>"
   },
   {
-    "slug": "hellish-weapons",
+    "slug": "charge-elk",
+    "name": "Charge",
+    "desc": "<p>If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>"
+  },
+  {
+    "slug": "hellish-weapons-erinyes",
     "name": "Hellish Weapons",
     "desc": "<p>The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).</p>"
   },
   {
-    "slug": "web-sense",
-    "name": "Web Sense",
-    "desc": "<p>While in contact with a web, this monster knows the exact location of any other creature in contact with the same web.</p>"
+    "slug": "magic-resistance-erinyes",
+    "name": "Magic Resistance",
+    "desc": "<p>The erinyes has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
-    "slug": "two-heads",
+    "slug": "spider-climb-ettercap",
+    "name": "Spider Climb",
+    "desc": "<p>The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
+  },
+  {
+    "slug": "web-sense-ettercap",
+    "name": "Web Sense",
+    "desc": "<p>While in contact with a web, the ettercap knows the exact location of any other creature in contact with the same web.</p>"
+  },
+  {
+    "slug": "web-walker-ettercap",
+    "name": "Web Walker",
+    "desc": "<p>The ettercap ignores movement restrictions caused by webbing.</p>"
+  },
+  {
+    "slug": "two-heads-ettin",
     "name": "Two Heads",
     "desc": "<p>The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.</p>"
   },
   {
-    "slug": "fire-form",
+    "slug": "wakeful-ettin",
+    "name": "Wakeful",
+    "desc": "<p>When one of the ettin's heads is asleep, its other head is awake.</p>"
+  },
+  {
+    "slug": "fire-form-fire-elemental",
     "name": "Fire Form",
     "desc": "<p>The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 ft. of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.</p>"
   },
   {
-    "slug": "illumination-elemental",
+    "slug": "illumination-fire-elemental",
     "name": "Illumination",
     "desc": "<p>The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 ft..</p>"
   },
   {
-    "slug": "water-susceptibility",
+    "slug": "water-susceptibility-fire-elemental",
     "name": "Water Susceptibility",
     "desc": "<p>For every 5 ft. the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.</p>"
   },
@@ -401,19 +795,49 @@
     "desc": "<p>Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.<br>The golem's creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 40 hit points or fewer, the golem might go berserk again.</p>"
   },
   {
-    "slug": "aversion-of-fire",
+    "slug": "aversion-of-fire-flesh-golem",
     "name": "Aversion of Fire",
     "desc": "<p>If the golem takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.</p>"
   },
   {
-    "slug": "flyby",
+    "slug": "immutable-form-flesh-golem",
+    "name": "Immutable Form",
+    "desc": "<p>The golem is immune to any spell or effect that would alter its form.</p>"
+  },
+  {
+    "slug": "lightning-absorption-flesh-golem",
+    "name": "Lightning Absorption",
+    "desc": "<p>Whenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.</p>"
+  },
+  {
+    "slug": "magic-resistance-flesh-golem",
+    "name": "Magic Resistance",
+    "desc": "<p>The golem has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "magic-weapons-flesh-golem",
+    "name": "Magic Weapons",
+    "desc": "<p>The golem's weapon attacks are magical.</p>"
+  },
+  {
+    "slug": "flyby-flying-snake",
     "name": "Flyby",
-    "desc": "<p>This monster doesn't provoke opportunity attacks when it flies out of an enemy's reach.</p>"
+    "desc": "<p>The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.</p>"
+  },
+  {
+    "slug": "antimagic-susceptibility-flying-sword",
+    "name": "Antimagic Susceptibility",
+    "desc": "<p>The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.</p>"
   },
   {
     "slug": "false-appearance-flying-sword",
     "name": "False Appearance",
     "desc": "<p>While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.</p>"
+  },
+  {
+    "slug": "amphibious-frog",
+    "name": "Amphibious",
+    "desc": "<p>The frog can breathe air and water</p>"
   },
   {
     "slug": "standing-leap-frog",
@@ -426,12 +850,12 @@
     "desc": "<p>While the gargoyle remains motion less, it is indistinguishable from an inanimate statue.</p>"
   },
   {
-    "slug": "ooze-cube",
+    "slug": "ooze-cube-gelatinous-cube",
     "name": "Ooze Cube",
     "desc": "<p>The cube takes up its entire space. Other creatures can enter the space, but a creature that does so is subjected to the cube's Engulf and has disadvantage on the saving throw.<br>Creatures inside the cube can be seen but have total cover.<br>A creature within 5 feet of the cube can take an action to pull a creature or object out of the cube. Doing so requires a successful DC 12 Strength check, and the creature making the attempt takes 10 (3d6) acid damage.<br>The cube can hold only one Large creature or up to four Medium or smaller creatures inside it at a time.</p>"
   },
   {
-    "slug": "transparent",
+    "slug": "transparent-gelatinous-cube",
     "name": "Transparent",
     "desc": "<p>Even when the cube is in plain sight, it takes a successful DC 15 Wisdom (Perception) check to spot a cube that has neither moved nor attacked. A creature that tries to enter the cube's space while unaware of the cube is surprised by the cube.</p>"
   },
@@ -441,14 +865,34 @@
     "desc": "<p>Any creature that starts its turn within 5 ft. of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.</p>"
   },
   {
-    "slug": "turn-defiance",
+    "slug": "turn-defiance-ghast",
     "name": "Turn Defiance",
     "desc": "<p>The ghast and any ghouls within 30 ft. of it have advantage on saving throws against effects that turn undead.</p>"
   },
   {
-    "slug": "ethereal-sight",
+    "slug": "ethereal-sight-ghost",
     "name": "Ethereal Sight",
     "desc": "<p>The ghost can see 60 ft. into the Ethereal Plane when it is on the Material Plane, and vice versa.</p>"
+  },
+  {
+    "slug": "incorporeal-movement-ghost",
+    "name": "Incorporeal Movement",
+    "desc": "<p>The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>"
+  },
+  {
+    "slug": "keen-smell-giant-badger",
+    "name": "Keen Smell",
+    "desc": "<p>The badger has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+  },
+  {
+    "slug": "echolocation-giant-bat",
+    "name": "Echolocation",
+    "desc": "<p>The bat can't use its blindsight while deafened.</p>"
+  },
+  {
+    "slug": "keen-hearing-giant-bat",
+    "name": "Keen Hearing",
+    "desc": "<p>The bat has advantage on Wisdom (Perception) checks that rely on hearing.</p>"
   },
   {
     "slug": "charge-giant-boar",
@@ -461,9 +905,19 @@
     "desc": "<p>If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</p>"
   },
   {
+    "slug": "amphibious-giant-crab",
+    "name": "Amphibious",
+    "desc": "<p>The crab can breathe air and water.</p>"
+  },
+  {
     "slug": "hold-breath-giant-crocodile",
     "name": "Hold Breath",
     "desc": "<p>The crocodile can hold its breath for 30 minutes.</p>"
+  },
+  {
+    "slug": "keen-sight-giant-eagle",
+    "name": "Keen Sight",
+    "desc": "<p>The eagle has advantage on Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "charge-giant-elk",
@@ -471,9 +925,14 @@
     "desc": "<p>If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.</p>"
   },
   {
-    "slug": "charge-elk",
-    "name": "Charge",
-    "desc": "<p>If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>"
+    "slug": "illumination-giant-fire-beetle",
+    "name": "Illumination",
+    "desc": "<p>The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 ft..</p>"
+  },
+  {
+    "slug": "amphibious-giant-frog",
+    "name": "Amphibious",
+    "desc": "<p>The frog can breathe air and water</p>"
   },
   {
     "slug": "standing-leap-giant-frog",
@@ -486,9 +945,14 @@
     "desc": "<p>If the goat moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>"
   },
   {
-    "slug": "sure-footed",
+    "slug": "sure-footed-giant-goat",
     "name": "Sure-Footed",
-    "desc": "<p>This monster has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.</p>"
+    "desc": "<p>The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.</p>"
+  },
+  {
+    "slug": "rampage-giant-hyena",
+    "name": "Rampage",
+    "desc": "<p>When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.</p>"
   },
   {
     "slug": "hold-breath-giant-octopus",
@@ -496,32 +960,127 @@
     "desc": "<p>While out of water, the octopus can hold its breath for 1 hour.</p>"
   },
   {
-    "slug": "underwater-camouflage",
+    "slug": "underwater-camouflage-giant-octopus",
     "name": "Underwater Camouflage",
-    "desc": "<p>This monster has advantage on Dexterity (Stealth) checks made while underwater.</p>"
+    "desc": "<p>The octopus has advantage on Dexterity (Stealth) checks made while underwater.</p>"
   },
   {
-    "slug": "charge-sea-horse",
+    "slug": "water-breathing-giant-octopus",
+    "name": "Water Breathing",
+    "desc": "<p>The octopus can breathe only underwater.</p>"
+  },
+  {
+    "slug": "flyby-giant-owl",
+    "name": "Flyby",
+    "desc": "<p>The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.</p>"
+  },
+  {
+    "slug": "keen-hearing-and-sight-giant-owl",
+    "name": "Keen Hearing and Sight",
+    "desc": "<p>The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.</p>"
+  },
+  {
+    "slug": "keen-smell-giant-rat",
+    "name": "Keen Smell",
+    "desc": "<p>The rat has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+  },
+  {
+    "slug": "pack-tactics-giant-rat",
+    "name": "Pack Tactics",
+    "desc": "<p>The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
+  },
+  {
+    "slug": "keen-smell-giant-rat-diseased",
+    "name": "Keen Smell",
+    "desc": "<p>The rat has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+  },
+  {
+    "slug": "pack-tactics-giant-rat-diseased",
+    "name": "Pack Tactics",
+    "desc": "<p>The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
+  },
+  {
+    "slug": "charge-giant-sea-horse",
     "name": "Charge",
     "desc": "<p>If the sea horse moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.</p>"
   },
   {
-    "slug": "standing-leap-toad",
+    "slug": "water-breathing-giant-sea-horse",
+    "name": "Water Breathing",
+    "desc": "<p>The sea horse can breathe only underwater.</p>"
+  },
+  {
+    "slug": "blood-frenzy-giant-shark",
+    "name": "Blood Frenzy",
+    "desc": "<p>The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>"
+  },
+  {
+    "slug": "water-breathing-giant-shark",
+    "name": "Water Breathing",
+    "desc": "<p>The shark can breathe only underwater.</p>"
+  },
+  {
+    "slug": "spider-climb-giant-spider",
+    "name": "Spider Climb",
+    "desc": "<p>The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
+  },
+  {
+    "slug": "web-sense-giant-spider",
+    "name": "Web Sense",
+    "desc": "<p>While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.</p>"
+  },
+  {
+    "slug": "web-walker-giant-spider",
+    "name": "Web Walker",
+    "desc": "<p>The spider ignores movement restrictions caused by webbing.</p>"
+  },
+  {
+    "slug": "amphibious-giant-toad",
+    "name": "Amphibious",
+    "desc": "<p>The toad can breathe air and water</p>"
+  },
+  {
+    "slug": "standing-leap-giant-toad",
     "name": "Standing Leap",
     "desc": "<p>The toad's long jump is up to 20 ft. and its high jump is up to 10 ft., with or without a running start.</p>"
   },
   {
-    "slug": "pack-tactics",
-    "name": "Pack Tactics",
-    "desc": "<p>This monster has advantage on an attack roll against a creature if at least one of this monster's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
+    "slug": "keen-sight-and-smell-giant-vulture",
+    "name": "Keen Sight and Smell",
+    "desc": "<p>The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.</p>"
   },
   {
-    "slug": "aberrant-ground",
+    "slug": "pack-tactics-giant-vulture",
+    "name": "Pack Tactics",
+    "desc": "<p>The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
+  },
+  {
+    "slug": "keen-hearing-and-smell-giant-weasel",
+    "name": "Keen Hearing and Smell",
+    "desc": "<p>The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+  },
+  {
+    "slug": "spider-climb-giant-wolf-spider",
+    "name": "Spider Climb",
+    "desc": "<p>The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
+  },
+  {
+    "slug": "web-sense-giant-wolf-spider",
+    "name": "Web Sense",
+    "desc": "<p>While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.</p>"
+  },
+  {
+    "slug": "web-walker-giant-wolf-spider",
+    "name": "Web Walker",
+    "desc": "<p>The spider ignores movement restrictions caused by webbing.</p>"
+  },
+  {
+    "slug": "aberrant-ground-gibbering-mouther",
     "name": "Aberrant Ground",
     "desc": "<p>The ground in a 10-foot radius around the mouther is doughlike difficult terrain. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.</p>"
   },
   {
-    "slug": "gibbering",
+    "slug": "gibbering-gibbering-mouther",
     "name": "Gibbering",
     "desc": "<p>The mouther babbles incoherently while it can see any creature and isn't incapacitated. Each creature that starts its turn within 20 feet of the mouther and can hear the gibbering must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can't take reactions until the start of its next turn and rolls a d8 to determine what it does during its turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.</p>"
   },
@@ -531,14 +1090,24 @@
     "desc": "<p>The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:<br>At will: darkness, detect magic, dispel magic<br>1/day each: confusion, fly, power word stun</p>"
   },
   {
-    "slug": "brave",
-    "name": "Brave",
-    "desc": "<p>This monster has advantage on saving throws against being frightened.</p>"
+    "slug": "magic-resistance-glabrezu",
+    "name": "Magic Resistance",
+    "desc": "<p>The glabrezu has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
-    "slug": "rampage",
+    "slug": "brave-gladiator",
+    "name": "Brave",
+    "desc": "<p>The gladiator has advantage on saving throws against being frightened.</p>"
+  },
+  {
+    "slug": "brute-gladiator",
+    "name": "Brute",
+    "desc": "<p>A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).</p>"
+  },
+  {
+    "slug": "rampage-gnoll",
     "name": "Rampage",
-    "desc": "<p>When this monster reduces a creature to 0 hit points with a melee attack on its turn, this monster can take a bonus action to move up to half its speed and make a bite attack.</p>"
+    "desc": "<p>When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.</p>"
   },
   {
     "slug": "charge-goat",
@@ -546,9 +1115,19 @@
     "desc": "<p>If the goat moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 2 (1d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 10 Strength saving throw or be knocked prone.</p>"
   },
   {
-    "slug": "nimble-escape",
+    "slug": "sure-footed-goat",
+    "name": "Sure-Footed",
+    "desc": "<p>The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.</p>"
+  },
+  {
+    "slug": "nimble-escape-goblin",
     "name": "Nimble Escape",
     "desc": "<p>The goblin can take the Disengage or Hide action as a bonus action on each of its turns.</p>"
+  },
+  {
+    "slug": "amphibious-gold-dragon-wyrmling",
+    "name": "Amphibious",
+    "desc": "<p>The dragon can breathe air and water.</p>"
   },
   {
     "slug": "trampling-charge-gorgon",
@@ -556,7 +1135,12 @@
     "desc": "<p>If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the gorgon can make one attack with its hooves against it as a bonus action.</p>"
   },
   {
-    "slug": "corrode-metal",
+    "slug": "amorphous-gray-ooze",
+    "name": "Amorphous",
+    "desc": "<p>The ooze can move through a space as narrow as 1 inch wide without squeezing.</p>"
+  },
+  {
+    "slug": "corrode-metal-gray-ooze",
     "name": "Corrode Metal",
     "desc": "<p>Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.<br>The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.</p>"
   },
@@ -566,29 +1150,69 @@
     "desc": "<p>While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.</p>"
   },
   {
+    "slug": "amphibious-green-dragon-wyrmling",
+    "name": "Amphibious",
+    "desc": "<p>The dragon can breathe air and water.</p>"
+  },
+  {
+    "slug": "amphibious-green-hag",
+    "name": "Amphibious",
+    "desc": "<p>The hag can breathe air and water.</p>"
+  },
+  {
     "slug": "innate-spellcasting-green-hag",
     "name": "Innate Spellcasting",
     "desc": "<p>The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:</p><p>At will: dancing lights, minor illusion, vicious mockery</p>"
   },
   {
-    "slug": "mimicry-hag",
+    "slug": "mimicry-green-hag",
     "name": "Mimicry",
     "desc": "<p>The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.</p>"
   },
   {
-    "slug": "blind-senses",
+    "slug": "stone-camouflage-grick",
+    "name": "Stone Camouflage",
+    "desc": "<p>The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
+  },
+  {
+    "slug": "keen-sight-griffon",
+    "name": "Keen Sight",
+    "desc": "<p>The griffon has advantage on Wisdom (Perception) checks that rely on sight.</p>"
+  },
+  {
+    "slug": "blind-senses-grimlock",
     "name": "Blind Senses",
     "desc": "<p>The grimlock can't use its blindsight while deafened and unable to smell.</p>"
   },
   {
-    "slug": "spellcasting-naga",
+    "slug": "keen-hearing-and-smell-grimlock",
+    "name": "Keen Hearing and Smell",
+    "desc": "<p>The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+  },
+  {
+    "slug": "stone-camouflage-grimlock",
+    "name": "Stone Camouflage",
+    "desc": "<p>The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
+  },
+  {
+    "slug": "rejuvenation-guardian-naga",
+    "name": "Rejuvenation",
+    "desc": "<p>If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.</p>"
+  },
+  {
+    "slug": "spellcasting-guardian-naga",
     "name": "Spellcasting",
     "desc": "<p>The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:</p><p>- Cantrips (at will): mending, sacred flame, thaumaturgy<br>- 1st level (4 slots): command, cure wounds, shield of faith<br>- 2nd level (3 slots): calm emotions, hold person<br>- 3rd level (3 slots): bestow curse, clairvoyance<br>- 4th level (3 slots): banishment, freedom of movement<br>- 5th level (2 slots): flame strike, geas<br>- 6th level (1 slot): true seeing</p>"
   },
   {
-    "slug": "inscrutable",
+    "slug": "inscrutable-gynosphinx",
     "name": "Inscrutable",
     "desc": "<p>The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.</p>"
+  },
+  {
+    "slug": "magic-weapons-gynosphinx",
+    "name": "Magic Weapons",
+    "desc": "<p>The sphinx's weapon attacks are magical.</p>"
   },
   {
     "slug": "spellcasting-gynosphinx",
@@ -596,12 +1220,37 @@
     "desc": "<p>The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:</p><p>- Cantrips (at will): mage hand, minor illusion, prestidigitation<br>- 1st level (4 slots): detect magic, identify, shield<br>- 2nd level (3 slots): darkness, locate object, suggestion<br>- 3rd level (3 slots): dispel magic, remove curse, tongues<br>- 4th level (3 slots): banishment, greater invisibility<br>- 5th level (1 slot): legend lore</p>"
   },
   {
+    "slug": "keen-sight-hawk",
+    "name": "Keen Sight",
+    "desc": "<p>The hawk has advantage on Wisdom (Perception) checks that rely on sight.</p>"
+  },
+  {
+    "slug": "keen-hearing-and-smell-hell-hound",
+    "name": "Keen Hearing and Smell",
+    "desc": "<p>The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+  },
+  {
+    "slug": "pack-tactics-hell-hound",
+    "name": "Pack Tactics",
+    "desc": "<p>The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
+  },
+  {
+    "slug": "magic-resistance-hezrou",
+    "name": "Magic Resistance",
+    "desc": "<p>The hezrou has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
     "slug": "stench-hezrou",
     "name": "Stench",
     "desc": "<p>Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.</p>"
   },
   {
-    "slug": "martial-advantage",
+    "slug": "keen-sight-hippogriff",
+    "name": "Keen Sight",
+    "desc": "<p>The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.</p>"
+  },
+  {
+    "slug": "martial-advantage-hobgoblin",
     "name": "Martial Advantage",
     "desc": "<p>Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 ft. of an ally of the hobgoblin that isn't incapacitated.</p>"
   },
@@ -611,9 +1260,24 @@
     "desc": "<p>While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.</p>"
   },
   {
-    "slug": "telepathic-bond-fiend",
-    "name": "Telepathic Bond",
-    "desc": "<p>The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence.</p>"
+    "slug": "devils-sight-horned-devil",
+    "name": "Devil's Sight",
+    "desc": "<p>Magical darkness doesn't impede the devil's darkvision.</p>"
+  },
+  {
+    "slug": "magic-resistance-horned-devil",
+    "name": "Magic Resistance",
+    "desc": "<p>The devil has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "blood-frenzy-hunter-shark",
+    "name": "Blood Frenzy",
+    "desc": "<p>The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>"
+  },
+  {
+    "slug": "water-breathing-hunter-shark",
+    "name": "Water Breathing",
+    "desc": "<p>The shark can breathe only underwater.</p>"
   },
   {
     "slug": "hold-breath-hydra",
@@ -621,19 +1285,34 @@
     "desc": "<p>The hydra can hold its breath for 1 hour.</p>"
   },
   {
-    "slug": "multiple-heads",
+    "slug": "multiple-heads-hydra",
     "name": "Multiple Heads",
     "desc": "<p>The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.<br>Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies.<br>At the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains 10 hit points for each head regrown in this way.</p>"
   },
   {
-    "slug": "reactive-heads",
+    "slug": "reactive-heads-hydra",
     "name": "Reactive Heads",
     "desc": "<p>For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.</p>"
   },
   {
-    "slug": "wakeful",
+    "slug": "wakeful-hydra",
     "name": "Wakeful",
-    "desc": "<p>While this monster sleeps, at least one of its heads is awake.</p>"
+    "desc": "<p>While the hydra sleeps, at least one of its heads is awake.</p>"
+  },
+  {
+    "slug": "pack-tactics-hyena",
+    "name": "Pack Tactics",
+    "desc": "<p>The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
+  },
+  {
+    "slug": "devils-sight-ice-devil",
+    "name": "Devil's Sight",
+    "desc": "<p>Magical darkness doesn't impede the devil's darkvision.</p>"
+  },
+  {
+    "slug": "magic-resistance-ice-devil",
+    "name": "Magic Resistance",
+    "desc": "<p>The devil has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "death-burst-ice-mephit",
@@ -656,34 +1335,99 @@
     "desc": "<p>The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
-    "slug": "invisibility",
+    "slug": "devils-sight-imp",
+    "name": "Devil's Sight",
+    "desc": "<p>Magical darkness doesn't impede the imp's darkvision.</p>"
+  },
+  {
+    "slug": "magic-resistance-imp",
+    "name": "Magic Resistance",
+    "desc": "<p>The imp has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "invisibility-invisible-stalker",
     "name": "Invisibility",
     "desc": "<p>The stalker is invisible.</p>"
   },
   {
-    "slug": "faultless-tracker",
+    "slug": "faultless-tracker-invisible-stalker",
     "name": "Faultless Tracker",
     "desc": "<p>The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.</p>"
   },
   {
-    "slug": "fire-absorption",
+    "slug": "fire-absorption-iron-golem",
     "name": "Fire Absorption",
     "desc": "<p>Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.</p>"
   },
   {
-    "slug": "immutable-form",
+    "slug": "immutable-form-iron-golem",
     "name": "Immutable Form",
-    "desc": "<p>This monster is immune to any spell or effect that would alter its form.</p>"
+    "desc": "<p>The golem is immune to any spell or effect that would alter its form.</p>"
   },
   {
-    "slug": "hold-breath-whale",
+    "slug": "magic-resistance-iron-golem",
+    "name": "Magic Resistance",
+    "desc": "<p>The golem has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "magic-weapons-iron-golem",
+    "name": "Magic Weapons",
+    "desc": "<p>The golem's weapon attacks are magical.</p>"
+  },
+  {
+    "slug": "keen-hearing-and-smell-jackal",
+    "name": "Keen Hearing and Smell",
+    "desc": "<p>The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+  },
+  {
+    "slug": "pack-tactics-jackal",
+    "name": "Pack Tactics",
+    "desc": "<p>The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
+  },
+  {
+    "slug": "echolocation-killer-whale",
+    "name": "Echolocation",
+    "desc": "<p>The whale can't use its blindsight while deafened.</p>"
+  },
+  {
+    "slug": "hold-breath-killer-whale",
     "name": "Hold Breath",
     "desc": "<p>The whale can hold its breath for 30 minutes</p>"
   },
   {
-    "slug": "freedom-of-movement",
+    "slug": "keen-hearing-killer-whale",
+    "name": "Keen Hearing",
+    "desc": "<p>The whale has advantage on Wisdom (Perception) checks that rely on hearing.</p>"
+  },
+  {
+    "slug": "brave-knight",
+    "name": "Brave",
+    "desc": "<p>The knight has advantage on saving throws against being frightened.</p>"
+  },
+  {
+    "slug": "sunlight-sensitivity-kobold",
+    "name": "Sunlight Sensitivity",
+    "desc": "<p>While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
+  },
+  {
+    "slug": "pack-tactics-kobold",
+    "name": "Pack Tactics",
+    "desc": "<p>The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
+  },
+  {
+    "slug": "amphibious-kraken",
+    "name": "Amphibious",
+    "desc": "<p>The kraken can breathe air and water.</p>"
+  },
+  {
+    "slug": "freedom-of-movement-kraken",
     "name": "Freedom of Movement",
     "desc": "<p>The kraken ignores difficult terrain, and magical effects can't reduce its speed or cause it to be restrained. It can spend 5 feet of movement to escape from nonmagical restraints or being grappled.</p>"
+  },
+  {
+    "slug": "siege-monster-kraken",
+    "name": "Siege Monster",
+    "desc": "<p>The kraken deals double damage to objects and structures.</p>"
   },
   {
     "slug": "innate-spellcasting-lamia",
@@ -691,9 +1435,19 @@
     "desc": "<p>The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components. At will: disguise self (any humanoid form), major image 3/day each: charm person, mirror image, scrying, suggestion 1/day: geas</p>"
   },
   {
-    "slug": "hellish-rejuvenation",
+    "slug": "devils-sight-lemure",
+    "name": "Devil's Sight",
+    "desc": "<p>Magical darkness doesn't impede the lemure's darkvision.</p>"
+  },
+  {
+    "slug": "hellish-rejuvenation-lemure",
     "name": "Hellish Rejuvenation",
     "desc": "<p>A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.</p>"
+  },
+  {
+    "slug": "legendary-resistance-lich",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the lich fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "rejuvenation-lich",
@@ -706,9 +1460,19 @@
     "desc": "<p>The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:</p><p>- Cantrips (at will): mage hand, prestidigitation, ray of frost<br>- 1st level (4 slots): detect magic, magic missile, shield, thunderwave<br>- 2nd level (3 slots): acid arrow, detect thoughts, invisibility, mirror image<br>- 3rd level (3 slots): animate dead, counterspell, dispel magic, fireball<br>- 4th level (3 slots): blight, dimension door<br>- 5th level (3 slots): cloudkill, scrying<br>- 6th level (1 slot): disintegrate, globe of invulnerability<br>- 7th level (1 slot): finger of death, plane shift<br>- 8th level (1 slot): dominate monster, power word stun<br>- 9th level (1 slot): power word kill</p>"
   },
   {
-    "slug": "turn-resistance",
+    "slug": "turn-resistance-lich",
     "name": "Turn Resistance",
     "desc": "<p>The lich has advantage on saving throws against any effect that turns undead.</p>"
+  },
+  {
+    "slug": "keen-smell-lion",
+    "name": "Keen Smell",
+    "desc": "<p>The lion has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+  },
+  {
+    "slug": "pack-tactics-lion",
+    "name": "Pack Tactics",
+    "desc": "<p>The lion has advantage on an attack roll against a creature if at least one of the lion's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "pounce-lion",
@@ -716,7 +1480,7 @@
     "desc": "<p>If the lion moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action.</p>"
   },
   {
-    "slug": "running-leap",
+    "slug": "running-leap-lion",
     "name": "Running Leap",
     "desc": "<p>With a 10-foot running start, the lion can long jump up to 25 ft..</p>"
   },
@@ -731,7 +1495,7 @@
     "desc": "<p>The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:</p><p>- Cantrips (at will): fire bolt, light, mage hand, prestidigitation<br>- 1st level (4 slots): detect magic, mage armor, magic missile, shield<br>- 2nd level (3 slots): misty step, suggestion<br>- 3rd level (3 slots): counterspell, fireball, fly<br>- 4th level (3 slots): greater invisibility, ice storm<br>- 5th level (1 slot): cone of cold</p>"
   },
   {
-    "slug": "death-burst-mephit",
+    "slug": "death-burst-magma-mephit",
     "name": "Death Burst",
     "desc": "<p>When the mephit dies, it explodes in a burst of lava. Each creature within 5 ft. of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.</p>"
   },
@@ -751,7 +1515,7 @@
     "desc": "<p>When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 ft. of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. Flammable objects that aren't being worn or carried in that area are ignited.</p>"
   },
   {
-    "slug": "ignited-illumination",
+    "slug": "ignited-illumination-magmin",
     "name": "Ignited Illumination",
     "desc": "<p>As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 ft.</p>"
   },
@@ -761,14 +1525,29 @@
     "desc": "<p>If the mammoth moves at least 20 ft. straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.</p>"
   },
   {
-    "slug": "tail-spike-regrowth",
+    "slug": "tail-spike-regrowth-manticore",
     "name": "Tail Spike Regrowth",
     "desc": "<p>The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.</p>"
   },
   {
-    "slug": "reactive",
+    "slug": "magic-resistance-marilith",
+    "name": "Magic Resistance",
+    "desc": "<p>The marilith has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "magic-weapons-marilith",
+    "name": "Magic Weapons",
+    "desc": "<p>The marilith's weapon attacks are magical.</p>"
+  },
+  {
+    "slug": "reactive-marilith",
     "name": "Reactive",
     "desc": "<p>The marilith can take one reaction on every turn in combat.</p>"
+  },
+  {
+    "slug": "keen-hearing-and-smell-mastiff",
+    "name": "Keen Hearing and Smell",
+    "desc": "<p>The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "petrifying-gaze-medusa",
@@ -776,22 +1555,32 @@
     "desc": "<p>When a creature that can see the medusa's eyes starts its turn within 30 ft. of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the greater restoration spell or other magic.<br>Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save.<br>If the medusa sees itself reflected on a polished surface within 30 ft. of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.</p>"
   },
   {
+    "slug": "amphibious-merfolk",
+    "name": "Amphibious",
+    "desc": "<p>The merfolk can breathe air and water.</p>"
+  },
+  {
+    "slug": "amphibious-merrow",
+    "name": "Amphibious",
+    "desc": "<p>The merrow can breathe air and water.</p>"
+  },
+  {
     "slug": "shapechanger-mimic",
     "name": "Shapechanger",
     "desc": "<p>The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn 't transformed. It reverts to its true form if it dies.</p>"
   },
   {
-    "slug": "adhesive-object-form-only",
+    "slug": "adhesive-object-form-only-mimic",
     "name": "Adhesive (Object Form Only)",
     "desc": "<p>The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 13). Ability checks made to escape this grapple have disadvantage.</p>"
   },
   {
-    "slug": "false-appearance-object-form-only",
+    "slug": "false-appearance-object-form-only-mimic",
     "name": "False Appearance (Object Form Only)",
     "desc": "<p>While the mimic remains motionless, it is indistinguishable from an ordinary object.</p>"
   },
   {
-    "slug": "grappler",
+    "slug": "grappler-mimic",
     "name": "Grappler",
     "desc": "<p>The mimic has advantage on attack rolls against any creature grappled by it.</p>"
   },
@@ -801,19 +1590,34 @@
     "desc": "<p>If the minotaur moves at least 10 ft. straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 ft. away and knocked prone.</p>"
   },
   {
-    "slug": "labyrinthine-recall",
+    "slug": "labyrinthine-recall-minotaur",
     "name": "Labyrinthine Recall",
     "desc": "<p>The minotaur can perfectly recall any path it has traveled.</p>"
   },
   {
-    "slug": "charge-skeleton",
+    "slug": "reckless-minotaur",
+    "name": "Reckless",
+    "desc": "<p>At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.</p>"
+  },
+  {
+    "slug": "charge-minotaur-skeleton",
     "name": "Charge",
     "desc": "<p>If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.</p>"
   },
   {
-    "slug": "beast-of-burden",
+    "slug": "beast-of-burden-mule",
     "name": "Beast of Burden",
     "desc": "<p>The mule is considered to be a Large animal for the purpose of determining its carrying capacity.</p>"
+  },
+  {
+    "slug": "sure-footed-mule",
+    "name": "Sure-Footed",
+    "desc": "<p>The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.</p>"
+  },
+  {
+    "slug": "magic-resistance-mummy-lord",
+    "name": "Magic Resistance",
+    "desc": "<p>The mummy lord has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "rejuvenation-mummy-lord",
@@ -826,24 +1630,44 @@
     "desc": "<p>The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:</p><p>- Cantrips (at will): sacred flame, thaumaturgy<br>- 1st level (4 slots): command, guiding bolt, shield of faith<br>- 2nd level (3 slots): hold person, silence, spiritual weapon<br>- 3rd level (3 slots): animate dead, dispel magic<br>- 4th level (3 slots): divination, guardian of faith<br>- 5th level (2 slots): contagion, insect plague<br>- 6th level (1 slot): harm</p>"
   },
   {
+    "slug": "magic-resistance-nalfeshnee",
+    "name": "Magic Resistance",
+    "desc": "<p>The nalfeshnee has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
     "slug": "innate-spellcasting-night-hag",
     "name": "Innate Spellcasting",
     "desc": "<p>The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:</p><p>At will: detect magic, magic missile<br>2/day each: plane shift (self only), ray of enfeeblement, sleep</p>"
   },
   {
-    "slug": "night-hag-items",
+    "slug": "magic-resistance-night-hag",
+    "name": "Magic Resistance",
+    "desc": "<p>The hag has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "night-hag-items-night-hag",
     "name": "Night Hag Items",
     "desc": "<p>A night hag carries two very rare magic items that she must craft for herself If either object is lost, the night hag will go to great lengths to retrieve it, as creating a new tool takes time and effort.<br>Heartstone: This lustrous black gem allows a night hag to become ethereal while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days.<br>Soul Bag: When an evil humanoid dies as a result of a night hag's Nightmare Haunting, the hag catches the soul in this black sack made of stitched flesh. A soul bag can hold only one evil soul at a time, and only the night hag who crafted the bag can catch a soul with it. Crafting a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make the bag).</p>"
   },
   {
-    "slug": "confer-fire-resistance",
+    "slug": "confer-fire-resistance-nightmare",
     "name": "Confer Fire Resistance",
     "desc": "<p>The nightmare can grant resistance to fire damage to anyone riding it.</p>"
   },
   {
-    "slug": "illumination",
+    "slug": "illumination-nightmare",
     "name": "Illumination",
-    "desc": "<p>This monster sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>"
+    "desc": "<p>The nightmare sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>"
+  },
+  {
+    "slug": "amorphous-ochre-jelly",
+    "name": "Amorphous",
+    "desc": "<p>The jelly can move through a space as narrow as 1 inch wide without squeezing.</p>"
+  },
+  {
+    "slug": "spider-climb-ochre-jelly",
+    "name": "Spider Climb",
+    "desc": "<p>The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
     "slug": "hold-breath-octopus",
@@ -851,7 +1675,17 @@
     "desc": "<p>While out of water, the octopus can hold its breath for 30 minutes.</p>"
   },
   {
-    "slug": "undead-fortitude",
+    "slug": "underwater-camouflage-octopus",
+    "name": "Underwater Camouflage",
+    "desc": "<p>The octopus has advantage on Dexterity (Stealth) checks made while underwater.</p>"
+  },
+  {
+    "slug": "water-breathing-octopus",
+    "name": "Water Breathing",
+    "desc": "<p>The octopus can breathe only underwater.</p>"
+  },
+  {
+    "slug": "undead-fortitude-ogre-zombie",
     "name": "Undead Fortitude",
     "desc": "<p>If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.</p>"
   },
@@ -861,12 +1695,17 @@
     "desc": "<p>The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:</p><p>At will: darkness, invisibility<br>1/day each: charm person, cone of cold, gaseous form, sleep</p>"
   },
   {
-    "slug": "regeneration",
-    "name": "Regeneration",
-    "desc": "<p>This monster regains 10 hit points at the start of its turn if it has at least 1 hit point.</p>"
+    "slug": "magic-weapons-oni",
+    "name": "Magic Weapons",
+    "desc": "<p>The oni's weapon attacks are magical.</p>"
   },
   {
-    "slug": "aggressive",
+    "slug": "regeneration-oni",
+    "name": "Regeneration",
+    "desc": "<p>The oni regains 10 hit points at the start of its turn if it has at least 1 hit point.</p>"
+  },
+  {
+    "slug": "aggressive-orc",
     "name": "Aggressive",
     "desc": "<p>As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.</p>"
   },
@@ -876,24 +1715,59 @@
     "desc": "<p>The otyugh can magically transmit simple messages and images to any creature within 120 ft. of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.</p>"
   },
   {
+    "slug": "flyby-owl",
+    "name": "Flyby",
+    "desc": "<p>The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.</p>"
+  },
+  {
+    "slug": "keen-hearing-and-sight-owl",
+    "name": "Keen Hearing and Sight",
+    "desc": "<p>The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.</p>"
+  },
+  {
+    "slug": "keen-sight-and-smell-owlbear",
+    "name": "Keen Sight and Smell",
+    "desc": "<p>The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.</p>"
+  },
+  {
+    "slug": "keen-smell-panther",
+    "name": "Keen Smell",
+    "desc": "<p>The panther has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+  },
+  {
     "slug": "pounce-panther",
     "name": "Pounce",
     "desc": "<p>If the panther moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.</p>"
   },
   {
-    "slug": "ethereal-jaunt",
+    "slug": "ethereal-jaunt-phase-spider",
     "name": "Ethereal Jaunt",
     "desc": "<p>As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.</p>"
   },
   {
-    "slug": "web-walker",
-    "name": "Web Walker",
-    "desc": "<p>This monster ignores movement restrictions caused by webbing.</p>"
+    "slug": "spider-climb-phase-spider",
+    "name": "Spider Climb",
+    "desc": "<p>The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
-    "slug": "fear-aura",
+    "slug": "web-walker-phase-spider",
+    "name": "Web Walker",
+    "desc": "<p>The spider ignores movement restrictions caused by webbing.</p>"
+  },
+  {
+    "slug": "fear-aura-pit-fiend",
     "name": "Fear Aura",
     "desc": "<p>Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.</p>"
+  },
+  {
+    "slug": "magic-resistance-pit-fiend",
+    "name": "Magic Resistance",
+    "desc": "<p>The pit fiend has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "magic-weapons-pit-fiend",
+    "name": "Magic Weapons",
+    "desc": "<p>The pit fiend's weapon attacks are magical.</p>"
   },
   {
     "slug": "innate-spellcasting-pit-fiend",
@@ -906,9 +1780,19 @@
     "desc": "<p>The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).</p>"
   },
   {
+    "slug": "divine-awareness-planetar",
+    "name": "Divine Awareness",
+    "desc": "<p>The planetar knows if it hears a lie.</p>"
+  },
+  {
     "slug": "innate-spellcasting-planetar",
     "name": "Innate Spellcasting",
     "desc": "<p>The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:<br>At will: detect evil and good, invisibility (self only)<br>3/day each: blade barrier, dispel evil and good, flame strike, raise dead<br>1/day each: commune, control weather, insect plague</p>"
+  },
+  {
+    "slug": "magic-resistance-planetar",
+    "name": "Magic Resistance",
+    "desc": "<p>The planetar has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "hold-breath-plesiosaurus",
@@ -916,7 +1800,12 @@
     "desc": "<p>The plesiosaurus can hold its breath for 1 hour.</p>"
   },
   {
-    "slug": "divine-eminence",
+    "slug": "keen-smell-polar-bear",
+    "name": "Keen Smell",
+    "desc": "<p>The bear has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+  },
+  {
+    "slug": "divine-eminence-priest",
     "name": "Divine Eminence",
     "desc": "<p>As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.</p>"
   },
@@ -926,12 +1815,22 @@
     "desc": "<p>The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:</p><p>- Cantrips (at will): light, sacred flame, thaumaturgy<br>- 1st level (4 slots): cure wounds, guiding bolt, sanctuary<br>- 2nd level (3 slots): lesser restoration, spiritual weapon<br>- 3rd level (2 slots): dispel magic, spirit guardians</p>"
   },
   {
+    "slug": "keen-senses-pseudodragon",
+    "name": "Keen Senses",
+    "desc": "<p>The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.</p>"
+  },
+  {
+    "slug": "magic-resistance-pseudodragon",
+    "name": "Magic Resistance",
+    "desc": "<p>The pseudodragon has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
     "slug": "limited-telepathy-pseudodragon",
     "name": "Limited Telepathy",
     "desc": "<p>The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 ft. of it that can understand a language.</p>"
   },
   {
-    "slug": "tunneler",
+    "slug": "tunneler-purple-worm",
     "name": "Tunneler",
     "desc": "<p>The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.</p>"
   },
@@ -941,12 +1840,22 @@
     "desc": "<p>The quasit can use its action to polymorph into a beast form that resembles a bat (speed 10 ft. fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad (40 ft., swim 40 ft.), or back into its true form . Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed . It reverts to its true form if it dies.</p>"
   },
   {
-    "slug": "water-breathing",
-    "name": "Water Breathing",
-    "desc": "<p>This creature can breathe only underwater.</p>"
+    "slug": "magic-resistance-quasit",
+    "name": "Magic Resistance",
+    "desc": "<p>The quasit has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
-    "slug": "limited-magic-immunity",
+    "slug": "blood-frenzy-quipper",
+    "name": "Blood Frenzy",
+    "desc": "<p>The quipper has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>"
+  },
+  {
+    "slug": "water-breathing-quipper",
+    "name": "Water Breathing",
+    "desc": "<p>The quipper can breathe only underwater.</p>"
+  },
+  {
+    "slug": "limited-magic-immunity-rakshasa",
     "name": "Limited Magic Immunity",
     "desc": "<p>The rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.</p>"
   },
@@ -956,9 +1865,24 @@
     "desc": "<p>The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:</p><p>At will: detect thoughts, disguise self, mage hand, minor illusion<br>3/day each: charm person, detect magic, invisibility, major image, suggestion<br>1/day each: dominate person, fly, plane shift, true seeing</p>"
   },
   {
+    "slug": "keen-smell-rat",
+    "name": "Keen Smell",
+    "desc": "<p>The rat has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+  },
+  {
     "slug": "mimicry-raven",
     "name": "Mimicry",
     "desc": "<p>The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p>"
+  },
+  {
+    "slug": "pack-tactics-reef-shark",
+    "name": "Pack Tactics",
+    "desc": "<p>The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
+  },
+  {
+    "slug": "water-breathing-reef-shark",
+    "name": "Water Breathing",
+    "desc": "<p>The shark can breathe only underwater.</p>"
   },
   {
     "slug": "heated-body-remorhaz",
@@ -971,19 +1895,34 @@
     "desc": "<p>If the rhinoceros moves at least 20 ft. straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.</p>"
   },
   {
+    "slug": "keen-sight-roc",
+    "name": "Keen Sight",
+    "desc": "<p>The roc has advantage on Wisdom (Perception) checks that rely on sight.</p>"
+  },
+  {
     "slug": "false-appearance-roper",
     "name": "False Appearance",
     "desc": "<p>While the roper remains motionless, it is indistinguishable from a normal cave formation, such as a stalagmite.</p>"
   },
   {
-    "slug": "grasping-tendrils",
+    "slug": "grasping-tendrils-roper",
     "name": "Grasping Tendrils",
     "desc": "<p>The roper can have up to six tendrils at a time. Each tendril can be attacked (AC 20; 10 hit points; immunity to poison and psychic damage). Destroying a tendril deals no damage to the roper, which can extrude a replacement tendril on its next turn. A tendril can also be broken if a creature takes an action and succeeds on a DC 15 Strength check against it.</p>"
   },
   {
-    "slug": "damage-transfer",
+    "slug": "spider-climb-roper",
+    "name": "Spider Climb",
+    "desc": "<p>The roper can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
+  },
+  {
+    "slug": "antimagic-susceptibility-rug-of-smothering",
+    "name": "Antimagic Susceptibility",
+    "desc": "<p>The rug is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the rug must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.</p>"
+  },
+  {
+    "slug": "damage-transfer-rug-of-smothering",
     "name": "Damage Transfer",
-    "desc": "<p>While it is grappling a creature, this monster takes only half the damage dealt to it, and the creature grappled by this monster takes the other half.</p>"
+    "desc": "<p>While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature grappled by the rug takes the other half.</p>"
   },
   {
     "slug": "false-appearance-rug-of-smothering",
@@ -991,27 +1930,37 @@
     "desc": "<p>While the rug remains motionless, it is indistinguishable from a normal rug.</p>"
   },
   {
-    "slug": "iron-scent",
+    "slug": "iron-scent-rust-monster",
     "name": "Iron Scent",
     "desc": "<p>The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.</p>"
   },
   {
-    "slug": "rust-metal",
+    "slug": "rust-metal-rust-monster",
     "name": "Rust Metal",
     "desc": "<p>Any nonmagical weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the rust monster is destroyed after dealing damage.</p>"
   },
   {
-    "slug": "blood-frenzy",
-    "name": "Blood Frenzy",
-    "desc": "<p>This monster has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>"
+    "slug": "keen-smell-saber-toothed-tiger",
+    "name": "Keen Smell",
+    "desc": "<p>The tiger has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
-    "slug": "limited-amphibiousness",
+    "slug": "pounce-saber-toothed-tiger",
+    "name": "Pounce",
+    "desc": "<p>If the tiger moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.</p>"
+  },
+  {
+    "slug": "blood-frenzy-sahuagin",
+    "name": "Blood Frenzy",
+    "desc": "<p>The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>"
+  },
+  {
+    "slug": "limited-amphibiousness-sahuagin",
     "name": "Limited Amphibiousness",
     "desc": "<p>The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.</p>"
   },
   {
-    "slug": "shark-telepathy",
+    "slug": "shark-telepathy-sahuagin",
     "name": "Shark Telepathy",
     "desc": "<p>The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.</p>"
   },
@@ -1026,37 +1975,62 @@
     "desc": "<p>Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).</p>"
   },
   {
-    "slug": "horrific-appearance",
+    "slug": "magic-resistance-satyr",
+    "name": "Magic Resistance",
+    "desc": "<p>The satyr has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "keen-hearing-and-sight-scout",
+    "name": "Keen Hearing and Sight",
+    "desc": "<p>The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.</p>"
+  },
+  {
+    "slug": "amphibious-sea-hag",
+    "name": "Amphibious",
+    "desc": "<p>The hag can breathe air and water.</p>"
+  },
+  {
+    "slug": "horrific-appearance-sea-hag",
     "name": "Horrific Appearance",
     "desc": "<p>Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.<br>Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.</p>"
   },
   {
-    "slug": "amorphous-",
-    "name": "Amorphous",
-    "desc": "<p>This monster can move through a space as narrow as 1 inch wide without squeezing.</p>"
+    "slug": "water-breathing-sea-horse",
+    "name": "Water Breathing",
+    "desc": "<p>The sea horse can breathe only underwater.</p>"
   },
   {
-    "slug": "shadow-stealth",
+    "slug": "amorphous-shadow",
+    "name": "Amorphous",
+    "desc": "<p>The shadow can move through a space as narrow as 1 inch wide without squeezing.</p>"
+  },
+  {
+    "slug": "shadow-stealth-shadow",
     "name": "Shadow Stealth",
     "desc": "<p>While in dim light or darkness, the shadow can take the Hide action as a bonus action. Its stealth bonus is also improved to +6.</p>"
   },
   {
-    "slug": "sunlight-weakness",
+    "slug": "sunlight-weakness-shadow",
     "name": "Sunlight Weakness",
     "desc": "<p>While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.</p>"
   },
   {
-    "slug": "lightning-absorption",
+    "slug": "lightning-absorption-shambling-mound",
     "name": "Lightning Absorption",
-    "desc": "<p>Whenever this monster is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.</p>"
+    "desc": "<p>Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.</p>"
   },
   {
-    "slug": "bound",
+    "slug": "bound-shield-guardian",
     "name": "Bound",
     "desc": "<p>The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.</p>"
   },
   {
-    "slug": "spell-storing",
+    "slug": "regeneration-shield-guardian",
+    "name": "Regeneration",
+    "desc": "<p>The shield guardian regains 10 hit points at the start of its turn if it has at least 1 hit. point.</p>"
+  },
+  {
+    "slug": "spell-storing-shield-guardian",
     "name": "Spell Storing",
     "desc": "<p>A spellcaster who wears the shield guardian's amulet can cause the guardian to store one spell of 4th level or lower. To do so, the wearer must cast the spell on the guardian. The spell has no effect but is stored within the guardian. When commanded to do so by the wearer or when a situation arises that was predefined by the spellcaster, the guardian casts the stored spell with any parameters set by the original caster, requiring no components. When the spell is cast or a new spell is stored, any previously stored spell is lost.</p>"
   },
@@ -1071,9 +2045,9 @@
     "desc": "<p>The solar's weapon attacks are magical. When the solar hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack).</p>"
   },
   {
-    "slug": "divine-awareness",
+    "slug": "divine-awareness-solar",
     "name": "Divine Awareness",
-    "desc": "<p>This monster knows if it hears a lie.</p>"
+    "desc": "<p>The solar knows if it hears a lie.</p>"
   },
   {
     "slug": "innate-spellcasting-solar",
@@ -1081,7 +2055,37 @@
     "desc": "<p>The solar's spell casting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:<br>At will: detect evil and good, invisibility (self only)<br>3/day each: blade barrier, dispel evil and good, resurrection<br>1/day each: commune, control weather</p>"
   },
   {
-    "slug": "rejuvenation-naga",
+    "slug": "magic-resistance-solar",
+    "name": "Magic Resistance",
+    "desc": "<p>The solar has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "incorporeal-movement-specter",
+    "name": "Incorporeal Movement",
+    "desc": "<p>The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>"
+  },
+  {
+    "slug": "sunlight-sensitivity-specter",
+    "name": "Sunlight Sensitivity",
+    "desc": "<p>While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
+  },
+  {
+    "slug": "spider-climb-spider",
+    "name": "Spider Climb",
+    "desc": "<p>The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
+  },
+  {
+    "slug": "web-sense-spider",
+    "name": "Web Sense",
+    "desc": "<p>While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.</p>"
+  },
+  {
+    "slug": "web-walker-spider",
+    "name": "Web Walker",
+    "desc": "<p>The spider ignores movement restrictions caused by webbing.</p>"
+  },
+  {
+    "slug": "rejuvenation-spirit-naga",
     "name": "Rejuvenation",
     "desc": "<p>If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.</p>"
   },
@@ -1091,7 +2095,7 @@
     "desc": "<p>The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:</p><p>- Cantrips (at will): mage hand, minor illusion, ray of frost<br>- 1st level (4 slots): charm person, detect magic, sleep<br>- 2nd level (3 slots): detect thoughts, hold person<br>- 3rd level (3 slots): lightning bolt, water breathing<br>- 4th level (3 slots): blight, dimension door<br>- 5th level (2 slots): dominate person</p>"
   },
   {
-    "slug": "cunning-action",
+    "slug": "cunning-action-spy",
     "name": "Cunning Action",
     "desc": "<p>On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.</p>"
   },
@@ -1099,11 +2103,6 @@
     "slug": "sneak-attack-1turn-spy",
     "name": "Sneak Attack (1/Turn)",
     "desc": "<p>The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.</p>"
-  },
-  {
-    "slug": "sneak-attack-1turn-assassin",
-    "name": "Sneak Attack (1/Turn)",
-    "desc": "<p>The assassin deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.</p>"
   },
   {
     "slug": "death-burst-steam-mephit",
@@ -1116,44 +2115,164 @@
     "desc": "<p>The mephit can innately cast blur, requiring no material components. Its innate spellcasting ability is Charisma.</p>"
   },
   {
-    "slug": "shapechanger-fiend",
+    "slug": "stone-camouflage-stone-giant",
+    "name": "Stone Camouflage",
+    "desc": "<p>The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
+  },
+  {
+    "slug": "immutable-form-stone-golem",
+    "name": "Immutable Form",
+    "desc": "<p>The golem is immune to any spell or effect that would alter its form.</p>"
+  },
+  {
+    "slug": "magic-resistance-stone-golem",
+    "name": "Magic Resistance",
+    "desc": "<p>The golem has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "magic-weapons-stone-golem",
+    "name": "Magic Weapons",
+    "desc": "<p>The golem's weapon attacks are magical.</p>"
+  },
+  {
+    "slug": "amphibious-storm-giant",
+    "name": "Amphibious",
+    "desc": "<p>The giant can breathe air and water.</p>"
+  },
+  {
+    "slug": "innate-spellcasting-storm-giant",
+    "name": "Innate Spellcasting",
+    "desc": "<p>The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:</p><p>At will: detect magic, feather fall, levitate, light<br>3/day each: control weather, water breathing</p>"
+  },
+  {
+    "slug": "telepathic-bond-succubus-incubus",
+    "name": "Telepathic Bond",
+    "desc": "<p>The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence.</p>"
+  },
+  {
+    "slug": "shapechanger-succubus-incubus",
     "name": "Shapechanger",
     "desc": "<p>The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
-    "slug": "swarm-bat",
+    "slug": "echolocation-swarm-of-bats",
+    "name": "Echolocation",
+    "desc": "<p>The swarm can't use its blindsight while deafened.</p>"
+  },
+  {
+    "slug": "keen-hearing-swarm-of-bats",
+    "name": "Keen Hearing",
+    "desc": "<p>The swarm has advantage on Wisdom (Perception) checks that rely on hearing.</p>"
+  },
+  {
+    "slug": "swarm-swarm-of-bats",
     "name": "Swarm",
     "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.</p>"
   },
   {
-    "slug": "swarm-insect",
+    "slug": "swarm-swarm-of-beetles",
     "name": "Swarm",
     "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.</p>"
   },
   {
-    "slug": "swarm-snake",
+    "slug": "swarm-swarm-of-centipedes",
+    "name": "Swarm",
+    "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.</p>"
+  },
+  {
+    "slug": "swarm-swarm-of-insects",
+    "name": "Swarm",
+    "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.</p>"
+  },
+  {
+    "slug": "swarm-swarm-of-poisonous-snakes",
     "name": "Swarm",
     "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.</p>"
   },
   {
-    "slug": "swarm-quipper",
+    "slug": "blood-frenzy-swarm-of-quippers",
+    "name": "Blood Frenzy",
+    "desc": "<p>The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>"
+  },
+  {
+    "slug": "swarm-swarm-of-quippers",
     "name": "Swarm",
     "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny quipper. The swarm can't regain hit points or gain temporary hit points.</p>"
   },
   {
-    "slug": "swarm-rat",
+    "slug": "water-breathing-swarm-of-quippers",
+    "name": "Water Breathing",
+    "desc": "<p>The swarm can breathe only underwater.</p>"
+  },
+  {
+    "slug": "keen-smell-swarm-of-rats",
+    "name": "Keen Smell",
+    "desc": "<p>The swarm has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+  },
+  {
+    "slug": "swarm-swarm-of-rats",
     "name": "Swarm",
     "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.</p>"
   },
   {
-    "slug": "swarm-raven",
+    "slug": "swarm-swarm-of-ravens",
     "name": "Swarm",
     "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.</p>"
   },
   {
-    "slug": "reflective-carapace",
+    "slug": "swarm-swarm-of-spiders",
+    "name": "Swarm",
+    "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.</p>"
+  },
+  {
+    "slug": "spider-climb-swarm-of-spiders",
+    "name": "Spider Climb",
+    "desc": "<p>The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
+  },
+  {
+    "slug": "web-sense-swarm-of-spiders",
+    "name": "Web Sense",
+    "desc": "<p>While in contact with a web, the swarm knows the exact location of any other creature in contact with the same web.</p>"
+  },
+  {
+    "slug": "web-walker-swarm-of-spiders",
+    "name": "Web Walker",
+    "desc": "<p>The swarm ignores movement restrictions caused by webbing.</p>"
+  },
+  {
+    "slug": "swarm-swarm-of-wasps",
+    "name": "Swarm",
+    "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.</p>"
+  },
+  {
+    "slug": "legendary-resistance-tarrasque",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the tarrasque fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "magic-resistance-tarrasque",
+    "name": "Magic Resistance",
+    "desc": "<p>The tarrasque has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "reflective-carapace-tarrasque",
     "name": "Reflective Carapace",
     "desc": "<p>Any time the tarrasque is targeted by a magic missile spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.</p>"
+  },
+  {
+    "slug": "siege-monster-tarrasque",
+    "name": "Siege Monster",
+    "desc": "<p>The tarrasque deals double damage to objects and structures.</p>"
+  },
+  {
+    "slug": "pack-tactics-thug",
+    "name": "Pack Tactics",
+    "desc": "<p>The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
+  },
+  {
+    "slug": "keen-smell-tiger",
+    "name": "Keen Smell",
+    "desc": "<p>The tiger has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "pounce-tiger",
@@ -1161,24 +2280,29 @@
     "desc": "<p>If the tiger moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.</p>"
   },
   {
-    "slug": "pounce-saber-toothed-tiger",
-    "name": "Pounce",
-    "desc": "<p>If the tiger moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.</p>"
-  },
-  {
     "slug": "false-appearance-treant",
     "name": "False Appearance",
     "desc": "<p>While the treant remains motionless, it is indistinguishable from a normal tree.</p>"
   },
   {
-    "slug": "siege-monster",
+    "slug": "siege-monster-treant",
     "name": "Siege Monster",
-    "desc": "<p>This monster deals double damage to objects and structures.</p>"
+    "desc": "<p>The treant deals double damage to objects and structures.</p>"
+  },
+  {
+    "slug": "pack-tactics-tribal-warrior",
+    "name": "Pack Tactics",
+    "desc": "<p>The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "trampling-charge-triceratops",
     "name": "Trampling Charge",
     "desc": "<p>If the triceratops moves at least 20 ft. straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the triceratops can make one stomp attack against it as a bonus action.</p>"
+  },
+  {
+    "slug": "keen-smell-troll",
+    "name": "Keen Smell",
+    "desc": "<p>The troll has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "regeneration-troll",
@@ -1196,27 +2320,102 @@
     "desc": "<p>The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no components:</p><p>At will: detect evil and good, druidcraft, pass without trace<br>1/day each: calm emotions, dispel evil and good, entangle</p>"
   },
   {
-    "slug": "magic-weapons",
-    "name": "Magic Weapons",
-    "desc": "<p>This monster's weapon attacks are magical.</p>"
+    "slug": "magic-resistance-unicorn",
+    "name": "Magic Resistance",
+    "desc": "<p>The unicorn has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
-    "slug": "shapechanger-vampire",
+    "slug": "magic-weapons-unicorn",
+    "name": "Magic Weapons",
+    "desc": "<p>The unicorn's weapon attacks are magical.</p>"
+  },
+  {
+    "slug": "shapechanger-vampire-vampire",
     "name": "Shapechanger",
     "desc": "<p>If the vampire isn't in sun light or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.<br>While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.<br>While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.</p>"
   },
   {
-    "slug": "regeneration-vampire",
+    "slug": "legendary-resistance-vampire-vampire",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the vampire fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "misty-escape-vampire-vampire",
+    "name": "Misty Escape",
+    "desc": "<p>When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.<br>While it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.</p>"
+  },
+  {
+    "slug": "regeneration-vampire-vampire",
     "name": "Regeneration",
     "desc": "<p>The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>"
   },
   {
-    "slug": "misty-escape",
-    "name": "Misty Escape",
-    "desc": "<p>When it drops to 0 hit points outside its resting place, this monster transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.<br>While it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.</p>"
+    "slug": "spider-climb-vampire-vampire",
+    "name": "Spider Climb",
+    "desc": "<p>The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
-    "slug": "vampire-weaknesses",
+    "slug": "vampire-weaknesses-vampire-vampire",
+    "name": "Vampire Weaknesses",
+    "desc": "<p>The vampire has the following flaws:<br>Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants.<br>Harmed by Running Water. The vampire takes 20 acid damage if it ends its turn in running water.<br>Stake to the Heart. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.<br>Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.</p>"
+  },
+  {
+    "slug": "shapechanger-vampire-bat",
+    "name": "Shapechanger",
+    "desc": "<p>If the vampire isn't in sun light or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.<br>While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.<br>While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.</p>"
+  },
+  {
+    "slug": "legendary-resistance-vampire-bat",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the vampire fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "misty-escape-vampire-bat",
+    "name": "Misty Escape",
+    "desc": "<p>When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.<br>While it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.</p>"
+  },
+  {
+    "slug": "regeneration-vampire-bat",
+    "name": "Regeneration",
+    "desc": "<p>The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>"
+  },
+  {
+    "slug": "spider-climb-vampire-bat",
+    "name": "Spider Climb",
+    "desc": "<p>The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
+  },
+  {
+    "slug": "vampire-weaknesses-vampire-bat",
+    "name": "Vampire Weaknesses",
+    "desc": "<p>The vampire has the following flaws:<br>Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants.<br>Harmed by Running Water. The vampire takes 20 acid damage if it ends its turn in running water.<br>Stake to the Heart. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.<br>Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.</p>"
+  },
+  {
+    "slug": "shapechanger-vampire-mist",
+    "name": "Shapechanger",
+    "desc": "<p>If the vampire isn't in sun light or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.<br>While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.<br>While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.</p>"
+  },
+  {
+    "slug": "legendary-resistance-vampire-mist",
+    "name": "Legendary Resistance",
+    "desc": "<p>If the vampire fails a saving throw, it can choose to succeed instead.</p>"
+  },
+  {
+    "slug": "misty-escape-vampire-mist",
+    "name": "Misty Escape",
+    "desc": "<p>When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.<br>While it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.</p>"
+  },
+  {
+    "slug": "regeneration-vampire-mist",
+    "name": "Regeneration",
+    "desc": "<p>The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>"
+  },
+  {
+    "slug": "spider-climb-vampire-mist",
+    "name": "Spider Climb",
+    "desc": "<p>The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
+  },
+  {
+    "slug": "vampire-weaknesses-vampire-mist",
     "name": "Vampire Weaknesses",
     "desc": "<p>The vampire has the following flaws:<br>Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants.<br>Harmed by Running Water. The vampire takes 20 acid damage if it ends its turn in running water.<br>Stake to the Heart. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.<br>Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.</p>"
   },
@@ -1224,6 +2423,11 @@
     "slug": "regeneration-vampire-spawn",
     "name": "Regeneration",
     "desc": "<p>The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>"
+  },
+  {
+    "slug": "spider-climb-vampire-spawn",
+    "name": "Spider Climb",
+    "desc": "<p>The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
     "slug": "vampire-weaknesses-vampire-spawn",
@@ -1236,103 +2440,318 @@
     "desc": "<p>While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.</p>"
   },
   {
-    "slug": "trampling-charge-horse",
+    "slug": "magic-resistance-vrock",
+    "name": "Magic Resistance",
+    "desc": "<p>The vrock has advantage on saving throws against spells and other magical effects.</p>"
+  },
+  {
+    "slug": "keen-sight-and-smell-vulture",
+    "name": "Keen Sight and Smell",
+    "desc": "<p>The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.</p>"
+  },
+  {
+    "slug": "pack-tactics-vulture",
+    "name": "Pack Tactics",
+    "desc": "<p>The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
+  },
+  {
+    "slug": "trampling-charge-warhorse",
     "name": "Trampling Charge",
     "desc": "<p>If the horse moves at least 20 ft. straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.</p>"
   },
   {
-    "slug": "water-form",
+    "slug": "water-form-water-elemental",
     "name": "Water Form",
     "desc": "<p>The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.</p>"
   },
   {
-    "slug": "freeze",
+    "slug": "freeze-water-elemental",
     "name": "Freeze",
     "desc": "<p>If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 ft. until the end of its next turn.</p>"
   },
   {
-    "slug": "shapechanger-werebear",
+    "slug": "keen-hearing-and-smell-weasel",
+    "name": "Keen Hearing and Smell",
+    "desc": "<p>The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+  },
+  {
+    "slug": "shapechanger-werebear-bear",
     "name": "Shapechanger",
     "desc": "<p>The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
-    "slug": "shapechanger-wereboar",
+    "slug": "keen-smell-werebear-bear",
+    "name": "Keen Smell",
+    "desc": "<p>The werebear has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+  },
+  {
+    "slug": "shapechanger-werebear-human",
+    "name": "Shapechanger",
+    "desc": "<p>The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
+  },
+  {
+    "slug": "keen-smell-werebear-human",
+    "name": "Keen Smell",
+    "desc": "<p>The werebear has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+  },
+  {
+    "slug": "shapechanger-werebear-hybrid",
+    "name": "Shapechanger",
+    "desc": "<p>The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
+  },
+  {
+    "slug": "keen-smell-werebear-hybrid",
+    "name": "Keen Smell",
+    "desc": "<p>The werebear has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+  },
+  {
+    "slug": "shapechanger-wereboar-boar",
     "name": "Shapechanger",
     "desc": "<p>The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
-    "slug": "relentless-wereboar",
-    "name": "Relentless",
-    "desc": "<p>If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</p>"
-  },
-  {
-    "slug": "charge-boar-or-hybrid-form-only",
+    "slug": "charge-boar-or-hybrid-form-only-wereboar-boar",
     "name": "Charge (Boar or Hybrid Form Only)",
     "desc": "<p>If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>"
   },
   {
-    "slug": "shapechanger-wererat",
+    "slug": "relentless-wereboar-boar",
+    "name": "Relentless",
+    "desc": "<p>If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</p>"
+  },
+  {
+    "slug": "shapechanger-wereboar-human",
+    "name": "Shapechanger",
+    "desc": "<p>The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
+  },
+  {
+    "slug": "relentless-wereboar-human",
+    "name": "Relentless",
+    "desc": "<p>If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</p>"
+  },
+  {
+    "slug": "shapechanger-wereboar-hybrid",
+    "name": "Shapechanger",
+    "desc": "<p>The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
+  },
+  {
+    "slug": "charge-boar-or-hybrid-form-only-wereboar-hybrid",
+    "name": "Charge (Boar or Hybrid Form Only)",
+    "desc": "<p>If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>"
+  },
+  {
+    "slug": "relentless-wereboar-hybrid",
+    "name": "Relentless",
+    "desc": "<p>If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</p>"
+  },
+  {
+    "slug": "shapechanger-wererat-human",
     "name": "Shapechanger",
     "desc": "<p>The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
-    "slug": "keen-smell",
+    "slug": "keen-smell-wererat-human",
     "name": "Keen Smell",
-    "desc": "<p>This monster has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+    "desc": "<p>The wererat has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
-    "slug": "shapechanger-weretiger",
+    "slug": "shapechanger-wererat-hybrid",
+    "name": "Shapechanger",
+    "desc": "<p>The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
+  },
+  {
+    "slug": "keen-smell-wererat-hybrid",
+    "name": "Keen Smell",
+    "desc": "<p>The wererat has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+  },
+  {
+    "slug": "shapechanger-wererat-rat",
+    "name": "Shapechanger",
+    "desc": "<p>The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
+  },
+  {
+    "slug": "keen-smell-wererat-rat",
+    "name": "Keen Smell",
+    "desc": "<p>The wererat has advantage on Wisdom (Perception) checks that rely on smell.</p>"
+  },
+  {
+    "slug": "shapechanger-weretiger-human",
     "name": "Shapechanger",
     "desc": "<p>The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
-    "slug": "pounce-weretiger",
+    "slug": "keen-hearing-and-smell-weretiger-human",
+    "name": "Keen Hearing and Smell",
+    "desc": "<p>The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+  },
+  {
+    "slug": "shapechanger-weretiger-hybrid",
+    "name": "Shapechanger",
+    "desc": "<p>The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
+  },
+  {
+    "slug": "keen-hearing-and-smell-weretiger-hybrid",
+    "name": "Keen Hearing and Smell",
+    "desc": "<p>The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+  },
+  {
+    "slug": "pounce-weretiger-hybrid",
     "name": "Pounce",
     "desc": "<p>If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.</p>"
   },
   {
-    "slug": "shapechanger-werewolf",
+    "slug": "shapechanger-weretiger-tiger",
+    "name": "Shapechanger",
+    "desc": "<p>The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
+  },
+  {
+    "slug": "keen-hearing-and-smell-weretiger-tiger",
+    "name": "Keen Hearing and Smell",
+    "desc": "<p>The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+  },
+  {
+    "slug": "pounce-weretiger-tiger",
+    "name": "Pounce",
+    "desc": "<p>If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.</p>"
+  },
+  {
+    "slug": "shapechanger-werewolf-human",
     "name": "Shapechanger",
     "desc": "<p>The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
-    "slug": "consume-life",
+    "slug": "keen-hearing-and-smell-werewolf-human",
+    "name": "Keen Hearing and Smell",
+    "desc": "<p>The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+  },
+  {
+    "slug": "shapechanger-werewolf-hybrid",
+    "name": "Shapechanger",
+    "desc": "<p>The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
+  },
+  {
+    "slug": "keen-hearing-and-smell-werewolf-hybrid",
+    "name": "Keen Hearing and Smell",
+    "desc": "<p>The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+  },
+  {
+    "slug": "shapechanger-werewolf-wolf",
+    "name": "Shapechanger",
+    "desc": "<p>The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
+  },
+  {
+    "slug": "keen-hearing-and-smell-werewolf-wolf",
+    "name": "Keen Hearing and Smell",
+    "desc": "<p>The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+  },
+  {
+    "slug": "sunlight-sensitivity-wight",
+    "name": "Sunlight Sensitivity",
+    "desc": "<p>While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
+  },
+  {
+    "slug": "consume-life-will-o-wisp",
     "name": "Consume Life",
     "desc": "<p>As a bonus action, the will-o'-wisp can target one creature it can see within 5 ft. of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-o'-wisp regains 10 (3d6) hit points.</p>"
   },
   {
-    "slug": "ephemeral",
+    "slug": "ephemeral-will-o-wisp",
     "name": "Ephemeral",
     "desc": "<p>The will-o'-wisp can't wear or carry anything.</p>"
   },
   {
-    "slug": "variable-illumination",
+    "slug": "incorporeal-movement-will-o-wisp",
+    "name": "Incorporeal Movement",
+    "desc": "<p>The will-o'-wisp can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>"
+  },
+  {
+    "slug": "variable-illumination-will-o-wisp",
     "name": "Variable Illumination",
     "desc": "<p>The will-o'-wisp sheds bright light in a 5- to 20-foot radius and dim light for an additional number of ft. equal to the chosen radius. The will-o'-wisp can alter the radius as a bonus action.</p>"
   },
   {
-    "slug": "snow-camouflage",
+    "slug": "keen-hearing-and-smell-winter-wolf",
+    "name": "Keen Hearing and Smell",
+    "desc": "<p>The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+  },
+  {
+    "slug": "pack-tactics-winter-wolf",
+    "name": "Pack Tactics",
+    "desc": "<p>The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
+  },
+  {
+    "slug": "snow-camouflage-winter-wolf",
     "name": "Snow Camouflage",
     "desc": "<p>The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.</p>"
   },
   {
-    "slug": "incorporeal-movement",
+    "slug": "keen-hearing-and-smell-wolf",
+    "name": "Keen Hearing and Smell",
+    "desc": "<p>The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+  },
+  {
+    "slug": "pack-tactics-wolf",
+    "name": "Pack Tactics",
+    "desc": "<p>The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
+  },
+  {
+    "slug": "keen-hearing-and-smell-worg",
+    "name": "Keen Hearing and Smell",
+    "desc": "<p>The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+  },
+  {
+    "slug": "incorporeal-movement-wraith",
     "name": "Incorporeal Movement",
-    "desc": "<p>This monster can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>"
+    "desc": "<p>The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>"
   },
   {
-    "slug": "earth-glide",
+    "slug": "sunlight-sensitivity-wraith",
+    "name": "Sunlight Sensitivity",
+    "desc": "<p>While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
+  },
+  {
+    "slug": "earth-glide-xorn",
     "name": "Earth Glide",
-    "desc": "<p>This monster can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.</p>"
+    "desc": "<p>The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.</p>"
   },
   {
-    "slug": "stone-camouflage",
+    "slug": "stone-camouflage-xorn",
     "name": "Stone Camouflage",
-    "desc": "<p>This monster has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
+    "desc": "<p>The xorn has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
   },
   {
-    "slug": "treasure-sense",
+    "slug": "treasure-sense-xorn",
     "name": "Treasure Sense",
     "desc": "<p>The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 ft. of it.</p>"
+  },
+  {
+    "slug": "amphibious-young-black-dragon",
+    "name": "Amphibious",
+    "desc": "<p>The dragon can breathe air and water.</p>"
+  },
+  {
+    "slug": "amphibious-young-bronze-dragon",
+    "name": "Amphibious",
+    "desc": "<p>The dragon can breathe air and water.</p>"
+  },
+  {
+    "slug": "amphibious-young-gold-dragon",
+    "name": "Amphibious",
+    "desc": "<p>The dragon can breathe air and water.</p>"
+  },
+  {
+    "slug": "amphibious-young-green-dragon",
+    "name": "Amphibious",
+    "desc": "<p>The dragon can breathe air and water.</p>"
+  },
+  {
+    "slug": "ice-walk-young-white-dragon",
+    "name": "Ice Walk",
+    "desc": "<p>The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.</p>"
+  },
+  {
+    "slug": "undead-fortitude-zombie",
+    "name": "Undead Fortitude",
+    "desc": "<p>If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.</p>"
   }
 ]

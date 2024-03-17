@@ -1,16 +1,16 @@
 [
   {
-    "slug": "parry-captain",
+    "slug": "parry-bandit-captain",
     "name": "Parry",
     "desc": "<p>The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.</p>"
   },
   {
-    "slug": "split",
+    "slug": "split-black-pudding",
     "name": "Split",
-    "desc": "<p>When this monster that is Medium or larger is subjected to lightning or slashing damage, it splits into two new monsters if it has at least 10 hit points. Each new monster has hit points equal to half the original monster's, rounded down. New monsters are one size smaller than the original monster.</p>"
+    "desc": "<p>When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.</p>"
   },
   {
-    "slug": "unnerving-mask",
+    "slug": "unnerving-mask-chain-devil",
     "name": "Unnerving Mask",
     "desc": "<p>When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.</p>"
   },
@@ -40,17 +40,22 @@
     "desc": "<p>The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.</p>"
   },
   {
-    "slug": "shield",
+    "slug": "split-ochre-jelly",
+    "name": "Split",
+    "desc": "<p>When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly.</p>"
+  },
+  {
+    "slug": "shield-shield-guardian",
     "name": "Shield",
     "desc": "<p>When a creature makes an attack against the wearer of the guardian's amulet, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 5 feet of the wearer.</p>"
   },
   {
-    "slug": "shriek",
+    "slug": "shriek-shrieker",
     "name": "Shriek",
     "desc": "<p>When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward</p>"
   },
   {
-    "slug": "rock-catching",
+    "slug": "rock-catching-stone-giant",
     "name": "Rock Catching",
     "desc": "<p>If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.</p>"
   }
