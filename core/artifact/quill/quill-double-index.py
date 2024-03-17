@@ -18,6 +18,13 @@ for card in card_data:
     else:
         seen.append(card['slug'])
 
-print(double_list)
+if not double_list:
+    print("There are no duplicates.")
+else:
+    counted = []
+    for slug in double_list:
+        if slug not in counted:
+            counted.append(slug)
+            print(str(double_list.count(slug) + 1) + " - " + slug)
 
 print("Finalizado")
