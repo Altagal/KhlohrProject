@@ -2512,7 +2512,7 @@
     "type": "class_feature"
   },
   {
-    "slug": "unarmored-defense",
+    "slug": "unarmored-defense-barbarian",
     "type": "class_feature"
   },
   {
@@ -2580,7 +2580,7 @@
     "type": "class_feature"
   },
   {
-    "slug": "expertise",
+    "slug": "expertise-bard",
     "type": "class_feature"
   },
   {
@@ -2612,7 +2612,7 @@
     "type": "class_feature"
   },
   {
-    "slug": "harness-divine-power",
+    "slug": "harness-divine-power-cleric",
     "type": "class_feature"
   },
   {
@@ -2676,7 +2676,7 @@
     "type": "class_feature"
   },
   {
-    "slug": "unarmored-defense",
+    "slug": "unarmored-defense-monk",
     "type": "class_feature"
   },
   {
@@ -2780,7 +2780,7 @@
     "type": "class_feature"
   },
   {
-    "slug": "harness-divine-power",
+    "slug": "harness-divine-power-paladin",
     "type": "class_feature"
   },
   {
@@ -2868,7 +2868,7 @@
     "type": "class_feature"
   },
   {
-    "slug": "expertise",
+    "slug": "expertise-rogue",
     "type": "class_feature"
   },
   {
@@ -3476,7 +3476,7 @@
     "type": "monster"
   },
   {
-    "slug": "assassin",
+    "slug": "assassin-monster",
     "type": "monster"
   },
   {
@@ -3716,7 +3716,7 @@
     "type": "monster"
   },
   {
-    "slug": "druid",
+    "slug": "druid-monster",
     "type": "monster"
   },
   {
@@ -4352,7 +4352,7 @@
     "type": "monster"
   },
   {
-    "slug": "scout",
+    "slug": "scout-monster",
     "type": "monster"
   },
   {
