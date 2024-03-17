@@ -783,7 +783,7 @@
     "desc": "<p>The tarrasque makes one bite attack or uses its Swallow.</p>"
   },
   {
-    "slug": "hooves-unicorn",
+    "slug": "legendary-hooves-unicorn",
     "type": {
       "slug": "monster_legendary_action",
       "name": "Monster Legendary Action"
@@ -819,7 +819,7 @@
     "desc": "<p>The vampire moves up to its speed without provoking opportunity attacks.</p>"
   },
   {
-    "slug": "unarmed-strike-vampire-vampire",
+    "slug": "legendary-unarmed-strike-vampire-vampire",
     "type": {
       "slug": "monster_legendary_action",
       "name": "Monster Legendary Action"

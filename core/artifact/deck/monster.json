@@ -27365,7 +27365,7 @@
     "reactions": [],
     "legendary_actions": [
       {
-        "slug": "hooves-unicorn",
+        "slug": "legendary-hooves-unicorn",
         "name": "Hooves"
       },
       {
@@ -27501,7 +27501,7 @@
         "name": "Move"
       },
       {
-        "slug": "unarmed-strike-vampire-vampire",
+        "slug": "legendary-unarmed-strike-vampire-vampire",
         "name": "Unarmed Strike"
       },
       {
