@@ -4698,5 +4698,6017 @@
   {
     "slug": "zombie",
     "type": "monster"
+  },
+  {
+    "slug": "multiattack-aboleth",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tentacle-aboleth",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-aboleth",
+    "type": "monster_action"
+  },
+  {
+    "slug": "enslave-aboleth",
+    "type": "monster_action"
+  },
+  {
+    "slug": "club-acolyte",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-adult-black-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-adult-black-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-adult-black-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-adult-black-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-adult-black-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "acid-breath-adult-black-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-adult-blue-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-adult-blue-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-adult-blue-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-adult-blue-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-adult-blue-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "lightning-breath-adult-blue-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-adult-brass-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-adult-brass-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-adult-brass-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-adult-brass-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-adult-brass-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-adult-brass-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-adult-bronze-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-adult-bronze-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-adult-bronze-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-adult-bronze-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-adult-bronze-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-adult-bronze-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-adult-copper-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-adult-copper-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-adult-copper-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-adult-copper-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-adult-copper-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-adult-copper-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-adult-gold-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-adult-gold-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-adult-gold-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-adult-gold-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-adult-gold-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-adult-gold-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-adult-green-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-adult-green-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-adult-green-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-adult-green-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-adult-green-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "poison-breath-adult-green-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-adult-red-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-adult-red-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-adult-red-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-adult-red-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-adult-red-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "fire-breath-adult-red-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-adult-silver-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-adult-silver-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-adult-silver-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-adult-silver-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-adult-silver-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-adult-silver-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-adult-white-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-adult-white-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-adult-white-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-adult-white-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-adult-white-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "cold-breath-adult-white-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-air-elemental",
+    "type": "monster_action"
+  },
+  {
+    "slug": "slam-air-elemental",
+    "type": "monster_action"
+  },
+  {
+    "slug": "whirlwind-air-elemental",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-ancient-black-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-ancient-black-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-ancient-black-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-ancient-black-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-ancient-black-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "acid-breath-ancient-black-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-ancient-blue-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-ancient-blue-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-ancient-blue-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-ancient-blue-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-ancient-blue-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "lightning-breath-ancient-blue-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-ancient-brass-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-ancient-brass-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-ancient-brass-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-ancient-brass-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-ancient-brass-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-ancient-brass-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "change-shape-ancient-brass-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-ancient-bronze-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-ancient-bronze-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-ancient-bronze-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-ancient-bronze-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-ancient-bronze-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-ancient-bronze-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "change-shape-ancient-bronze-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-ancient-copper-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-ancient-copper-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-ancient-copper-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-ancient-copper-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-ancient-copper-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-ancient-copper-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "change-shape-ancient-copper-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-ancient-gold-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-ancient-gold-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-ancient-gold-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-ancient-gold-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-ancient-gold-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-ancient-gold-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "change-shape-ancient-gold-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-ancient-green-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-ancient-green-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-ancient-green-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-ancient-green-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-ancient-green-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "poison-breath-ancient-green-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-ancient-red-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-ancient-red-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-ancient-red-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-ancient-red-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-ancient-red-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "fire-breath-ancient-red-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-ancient-silver-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-ancient-silver-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-ancient-silver-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-ancient-silver-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-ancient-silver-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-ancient-silver-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "change-shape-ancient-silver-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-ancient-white-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-ancient-white-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-ancient-white-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-ancient-white-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-ancient-white-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "cold-breath-ancient-white-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-androsphinx",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-androsphinx",
+    "type": "monster_action"
+  },
+  {
+    "slug": "roar-androsphinx",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-animated-armor",
+    "type": "monster_action"
+  },
+  {
+    "slug": "slam-animated-armor",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-ankheg",
+    "type": "monster_action"
+  },
+  {
+    "slug": "acid-spray-ankheg",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-ape",
+    "type": "monster_action"
+  },
+  {
+    "slug": "fist-ape",
+    "type": "monster_action"
+  },
+  {
+    "slug": "rock-ape",
+    "type": "monster_action"
+  },
+  {
+    "slug": "dagger-archmage",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-assassin",
+    "type": "monster_action"
+  },
+  {
+    "slug": "shortsword-assassin",
+    "type": "monster_action"
+  },
+  {
+    "slug": "light-crossbow-assassin",
+    "type": "monster_action"
+  },
+  {
+    "slug": "rake-awakened-shrub",
+    "type": "monster_action"
+  },
+  {
+    "slug": "slam-awakened-tree",
+    "type": "monster_action"
+  },
+  {
+    "slug": "beak-axe-beak",
+    "type": "monster_action"
+  },
+  {
+    "slug": "warhammer-azer",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-baboon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-badger",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-balor",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longsword-balor",
+    "type": "monster_action"
+  },
+  {
+    "slug": "whip-balor",
+    "type": "monster_action"
+  },
+  {
+    "slug": "teleport-balor",
+    "type": "monster_action"
+  },
+  {
+    "slug": "scimitar-bandit",
+    "type": "monster_action"
+  },
+  {
+    "slug": "light-crossbow-bandit",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-bandit-captain",
+    "type": "monster_action"
+  },
+  {
+    "slug": "scimitar-bandit-captain",
+    "type": "monster_action"
+  },
+  {
+    "slug": "dagger-bandit-captain",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-barbed-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-barbed-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-barbed-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hurl-flame-barbed-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-basilisk",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-bat",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-bearded-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "beard-bearded-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "glaive-bearded-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-behir",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-behir",
+    "type": "monster_action"
+  },
+  {
+    "slug": "constrict-behir",
+    "type": "monster_action"
+  },
+  {
+    "slug": "lightning-breath-behir",
+    "type": "monster_action"
+  },
+  {
+    "slug": "swallow-behir",
+    "type": "monster_action"
+  },
+  {
+    "slug": "greataxe-berserker",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-black-bear",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-black-bear",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-black-bear",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-black-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "acid-breath-black-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "pseudopod-black-pudding",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-blink-dog",
+    "type": "monster_action"
+  },
+  {
+    "slug": "teleport-blink-dog",
+    "type": "monster_action"
+  },
+  {
+    "slug": "beak-blood-hawk",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-blue-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "lightning-breath-blue-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tusk-boar",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-bone-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-bone-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "sting-bone-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-brass-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-brass-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-bronze-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-bronze-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-brown-bear",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-brown-bear",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-brown-bear",
+    "type": "monster_action"
+  },
+  {
+    "slug": "morningstar-bugbear",
+    "type": "monster_action"
+  },
+  {
+    "slug": "javelin-bugbear",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-bulette",
+    "type": "monster_action"
+  },
+  {
+    "slug": "deadly-leap-bulette",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-camel",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-cat",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-centaur",
+    "type": "monster_action"
+  },
+  {
+    "slug": "pike-centaur",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hooves-centaur",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longbow-centaur",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-chain-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "chain-chain-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "animate-chains-chain-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-chimera",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-chimera",
+    "type": "monster_action"
+  },
+  {
+    "slug": "horns-chimera",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-chimera",
+    "type": "monster_action"
+  },
+  {
+    "slug": "fire-breath-chimera",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-chuul",
+    "type": "monster_action"
+  },
+  {
+    "slug": "pincer-chuul",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tentacles-chuul",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-clay-golem",
+    "type": "monster_action"
+  },
+  {
+    "slug": "slam-clay-golem",
+    "type": "monster_action"
+  },
+  {
+    "slug": "haste-clay-golem",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-cloaker",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-cloaker",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-cloaker",
+    "type": "monster_action"
+  },
+  {
+    "slug": "moan-cloaker",
+    "type": "monster_action"
+  },
+  {
+    "slug": "phantasms-cloaker",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-cloud-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "morningstar-cloud-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "rock-cloud-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-cockatrice",
+    "type": "monster_action"
+  },
+  {
+    "slug": "club-commoner",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-constrictor-snake",
+    "type": "monster_action"
+  },
+  {
+    "slug": "constrict-constrictor-snake",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-copper-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-copper-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-couatl",
+    "type": "monster_action"
+  },
+  {
+    "slug": "constrict-couatl",
+    "type": "monster_action"
+  },
+  {
+    "slug": "change-shape-couatl",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-crab",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-crocodile",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-cult-fanatic",
+    "type": "monster_action"
+  },
+  {
+    "slug": "dagger-cult-fanatic",
+    "type": "monster_action"
+  },
+  {
+    "slug": "scimitar-cultist",
+    "type": "monster_action"
+  },
+  {
+    "slug": "crush-darkmantle",
+    "type": "monster_action"
+  },
+  {
+    "slug": "darkness-aura-darkmantle",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-death-dog",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-death-dog",
+    "type": "monster_action"
+  },
+  {
+    "slug": "war-pick-deep-gnome-svirfneblin",
+    "type": "monster_action"
+  },
+  {
+    "slug": "poisoned-dart-deep-gnome-svirfneblin",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-deer",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-deva",
+    "type": "monster_action"
+  },
+  {
+    "slug": "mace-deva",
+    "type": "monster_action"
+  },
+  {
+    "slug": "healing-touch-deva",
+    "type": "monster_action"
+  },
+  {
+    "slug": "change-shape-deva",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-dire-wolf",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-djinni",
+    "type": "monster_action"
+  },
+  {
+    "slug": "scimitar-djinni",
+    "type": "monster_action"
+  },
+  {
+    "slug": "create-whirlwind-djinni",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-doppelganger",
+    "type": "monster_action"
+  },
+  {
+    "slug": "slam-doppelganger",
+    "type": "monster_action"
+  },
+  {
+    "slug": "read-thoughts-doppelganger",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hooves-draft-horse",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-dragon-turtle",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-dragon-turtle",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-dragon-turtle",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-dragon-turtle",
+    "type": "monster_action"
+  },
+  {
+    "slug": "steam-breath-dragon-turtle",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-dretch",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-dretch",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-dretch",
+    "type": "monster_action"
+  },
+  {
+    "slug": "fetid-cloud-dretch",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-drider",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-drider",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longsword-drider",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longbow-drider",
+    "type": "monster_action"
+  },
+  {
+    "slug": "shortsword-drow",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hand-crossbow-drow",
+    "type": "monster_action"
+  },
+  {
+    "slug": "quarterstaff-druid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "club-dryad",
+    "type": "monster_action"
+  },
+  {
+    "slug": "fey-charm-dryad",
+    "type": "monster_action"
+  },
+  {
+    "slug": "enlarge-duergar",
+    "type": "monster_action"
+  },
+  {
+    "slug": "war-pick-duergar",
+    "type": "monster_action"
+  },
+  {
+    "slug": "javelin-duergar",
+    "type": "monster_action"
+  },
+  {
+    "slug": "invisibility-duergar",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-dust-mephit",
+    "type": "monster_action"
+  },
+  {
+    "slug": "blinding-breath-dust-mephit",
+    "type": "monster_action"
+  },
+  {
+    "slug": "talons-eagle",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-earth-elemental",
+    "type": "monster_action"
+  },
+  {
+    "slug": "slam-earth-elemental",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-efreeti",
+    "type": "monster_action"
+  },
+  {
+    "slug": "scimitar-efreeti",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hurl-flame-efreeti",
+    "type": "monster_action"
+  },
+  {
+    "slug": "gore-elephant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "stomp-elephant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "ram-elk",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hooves-elk",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-erinyes",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longsword-erinyes",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longbow-erinyes",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-ettercap",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-ettercap",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-ettercap",
+    "type": "monster_action"
+  },
+  {
+    "slug": "web-ettercap",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-ettin",
+    "type": "monster_action"
+  },
+  {
+    "slug": "battleaxe-ettin",
+    "type": "monster_action"
+  },
+  {
+    "slug": "morningstar-ettin",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-fire-elemental",
+    "type": "monster_action"
+  },
+  {
+    "slug": "touch-fire-elemental",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-fire-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "greatsword-fire-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "rock-fire-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-flesh-golem",
+    "type": "monster_action"
+  },
+  {
+    "slug": "slam-flesh-golem",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-flying-snake",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longsword-flying-sword",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-frost-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "greataxe-frost-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "rock-frost-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-gargoyle",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-gargoyle",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-gargoyle",
+    "type": "monster_action"
+  },
+  {
+    "slug": "pseudopod-gelatinous-cube",
+    "type": "monster_action"
+  },
+  {
+    "slug": "engulf-gelatinous-cube",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-ghast",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-ghast",
+    "type": "monster_action"
+  },
+  {
+    "slug": "withering-touch-ghost",
+    "type": "monster_action"
+  },
+  {
+    "slug": "etherealness-ghost",
+    "type": "monster_action"
+  },
+  {
+    "slug": "horrifying-visage-ghost",
+    "type": "monster_action"
+  },
+  {
+    "slug": "possession-ghost",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-ghoul",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-ghoul",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-giant-ape",
+    "type": "monster_action"
+  },
+  {
+    "slug": "fist-giant-ape",
+    "type": "monster_action"
+  },
+  {
+    "slug": "rock-giant-ape",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-giant-badger",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-giant-badger",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-giant-badger",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-giant-bat",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tusk-giant-boar",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-giant-centipede",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-giant-constrictor-snake",
+    "type": "monster_action"
+  },
+  {
+    "slug": "constrict-giant-constrictor-snake",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-giant-crab",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-giant-crocodile",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-giant-crocodile",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-giant-crocodile",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-giant-eagle",
+    "type": "monster_action"
+  },
+  {
+    "slug": "beak-giant-eagle",
+    "type": "monster_action"
+  },
+  {
+    "slug": "talons-giant-eagle",
+    "type": "monster_action"
+  },
+  {
+    "slug": "ram-giant-elk",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hooves-giant-elk",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-giant-fire-beetle",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-giant-frog",
+    "type": "monster_action"
+  },
+  {
+    "slug": "swallow-giant-frog",
+    "type": "monster_action"
+  },
+  {
+    "slug": "ram-giant-goat",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-giant-hyena",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-giant-lizard",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tentacles-giant-octopus",
+    "type": "monster_action"
+  },
+  {
+    "slug": "ink-cloud-giant-octopus",
+    "type": "monster_action"
+  },
+  {
+    "slug": "talons-giant-owl",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-giant-poisonous-snake",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-giant-rat",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-giant-rat-diseased",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-giant-scorpion",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-giant-scorpion",
+    "type": "monster_action"
+  },
+  {
+    "slug": "sting-giant-scorpion",
+    "type": "monster_action"
+  },
+  {
+    "slug": "ram-giant-sea-horse",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-giant-shark",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-giant-spider",
+    "type": "monster_action"
+  },
+  {
+    "slug": "web-giant-spider",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-giant-toad",
+    "type": "monster_action"
+  },
+  {
+    "slug": "swallow-giant-toad",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-giant-vulture",
+    "type": "monster_action"
+  },
+  {
+    "slug": "beak-giant-vulture",
+    "type": "monster_action"
+  },
+  {
+    "slug": "talons-giant-vulture",
+    "type": "monster_action"
+  },
+  {
+    "slug": "sting-giant-wasp",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-giant-weasel",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-giant-wolf-spider",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-gibbering-mouther",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bites-gibbering-mouther",
+    "type": "monster_action"
+  },
+  {
+    "slug": "blinding-spittle-gibbering-mouther",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-glabrezu",
+    "type": "monster_action"
+  },
+  {
+    "slug": "pincer-glabrezu",
+    "type": "monster_action"
+  },
+  {
+    "slug": "fist-glabrezu",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-gladiator",
+    "type": "monster_action"
+  },
+  {
+    "slug": "spear-gladiator",
+    "type": "monster_action"
+  },
+  {
+    "slug": "shield-bash-gladiator",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-gnoll",
+    "type": "monster_action"
+  },
+  {
+    "slug": "spear-gnoll",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longbow-gnoll",
+    "type": "monster_action"
+  },
+  {
+    "slug": "ram-goat",
+    "type": "monster_action"
+  },
+  {
+    "slug": "scimitar-goblin",
+    "type": "monster_action"
+  },
+  {
+    "slug": "shortbow-goblin",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-gold-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-gold-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "gore-gorgon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hooves-gorgon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "petrifying-breath-gorgon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "pseudopod-gray-ooze",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-green-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "poison-breath-green-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-green-hag",
+    "type": "monster_action"
+  },
+  {
+    "slug": "illusory-appearance-green-hag",
+    "type": "monster_action"
+  },
+  {
+    "slug": "invisible-passage-green-hag",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-grick",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tentacles-grick",
+    "type": "monster_action"
+  },
+  {
+    "slug": "beak-grick",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-griffon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "beak-griffon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-griffon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "spiked-bone-club-grimlock",
+    "type": "monster_action"
+  },
+  {
+    "slug": "spear-guard",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-guardian-naga",
+    "type": "monster_action"
+  },
+  {
+    "slug": "spit-poison-guardian-naga",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-gynosphinx",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-gynosphinx",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-half-red-dragon-veteran",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longsword-half-red-dragon-veteran",
+    "type": "monster_action"
+  },
+  {
+    "slug": "shortsword-half-red-dragon-veteran",
+    "type": "monster_action"
+  },
+  {
+    "slug": "heavy-crossbow-half-red-dragon-veteran",
+    "type": "monster_action"
+  },
+  {
+    "slug": "fire-breath-half-red-dragon-veteran",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-harpy",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-harpy",
+    "type": "monster_action"
+  },
+  {
+    "slug": "club-harpy",
+    "type": "monster_action"
+  },
+  {
+    "slug": "luring-song-harpy",
+    "type": "monster_action"
+  },
+  {
+    "slug": "talons-hawk",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-hell-hound",
+    "type": "monster_action"
+  },
+  {
+    "slug": "fire-breath-hell-hound",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-hezrou",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-hezrou",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-hezrou",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-hill-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "greatclub-hill-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "rock-hill-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-hippogriff",
+    "type": "monster_action"
+  },
+  {
+    "slug": "beak-hippogriff",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-hippogriff",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longsword-hobgoblin",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longbow-hobgoblin",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-homunculus",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-horned-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "fork-horned-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-horned-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hurl-flame-horned-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-hunter-shark",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-hydra",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-hydra",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-hyena",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-ice-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-ice-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-ice-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-ice-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "wall-of-ice-ice-devil",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-ice-mephit",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frost-breath-ice-mephit",
+    "type": "monster_action"
+  },
+  {
+    "slug": "sting-bite-in-beast-form-imp",
+    "type": "monster_action"
+  },
+  {
+    "slug": "invisibility-imp",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-invisible-stalker",
+    "type": "monster_action"
+  },
+  {
+    "slug": "slam-invisible-stalker",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-iron-golem",
+    "type": "monster_action"
+  },
+  {
+    "slug": "slam-iron-golem",
+    "type": "monster_action"
+  },
+  {
+    "slug": "sword-iron-golem",
+    "type": "monster_action"
+  },
+  {
+    "slug": "poison-breath-iron-golem",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-jackal",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-killer-whale",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-knight",
+    "type": "monster_action"
+  },
+  {
+    "slug": "greatsword-knight",
+    "type": "monster_action"
+  },
+  {
+    "slug": "heavy-crossbow-knight",
+    "type": "monster_action"
+  },
+  {
+    "slug": "leadership-knight",
+    "type": "monster_action"
+  },
+  {
+    "slug": "dagger-kobold",
+    "type": "monster_action"
+  },
+  {
+    "slug": "sling-kobold",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-kraken",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-kraken",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tentacle-kraken",
+    "type": "monster_action"
+  },
+  {
+    "slug": "fling-kraken",
+    "type": "monster_action"
+  },
+  {
+    "slug": "lightning-storm-kraken",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-lamia",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-lamia",
+    "type": "monster_action"
+  },
+  {
+    "slug": "dagger-lamia",
+    "type": "monster_action"
+  },
+  {
+    "slug": "intoxicating-touch-lamia",
+    "type": "monster_action"
+  },
+  {
+    "slug": "fist-lemure",
+    "type": "monster_action"
+  },
+  {
+    "slug": "paralyzing-touch-lich",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-lion",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-lion",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-lizard",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-lizardfolk",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-lizardfolk",
+    "type": "monster_action"
+  },
+  {
+    "slug": "heavy-club-lizardfolk",
+    "type": "monster_action"
+  },
+  {
+    "slug": "javelin-lizardfolk",
+    "type": "monster_action"
+  },
+  {
+    "slug": "spiked-shield-lizardfolk",
+    "type": "monster_action"
+  },
+  {
+    "slug": "dagger-mage",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-magma-mephit",
+    "type": "monster_action"
+  },
+  {
+    "slug": "fire-breath-magma-mephit",
+    "type": "monster_action"
+  },
+  {
+    "slug": "touch-magmin",
+    "type": "monster_action"
+  },
+  {
+    "slug": "gore-mammoth",
+    "type": "monster_action"
+  },
+  {
+    "slug": "stomp-mammoth",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-manticore",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-manticore",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-manticore",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-spike-manticore",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-marilith",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longsword-marilith",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-marilith",
+    "type": "monster_action"
+  },
+  {
+    "slug": "teleport-marilith",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-mastiff",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-medusa",
+    "type": "monster_action"
+  },
+  {
+    "slug": "snake-hair-medusa",
+    "type": "monster_action"
+  },
+  {
+    "slug": "shortsword-medusa",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longbow-medusa",
+    "type": "monster_action"
+  },
+  {
+    "slug": "spear-merfolk",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-merrow",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-merrow",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-merrow",
+    "type": "monster_action"
+  },
+  {
+    "slug": "harpoon-merrow",
+    "type": "monster_action"
+  },
+  {
+    "slug": "pseudopod-mimic",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-mimic",
+    "type": "monster_action"
+  },
+  {
+    "slug": "greataxe-minotaur",
+    "type": "monster_action"
+  },
+  {
+    "slug": "gore-minotaur",
+    "type": "monster_action"
+  },
+  {
+    "slug": "greataxe-minotaur-skeleton",
+    "type": "monster_action"
+  },
+  {
+    "slug": "gore-minotaur-skeleton",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hooves-mule",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-mummy",
+    "type": "monster_action"
+  },
+  {
+    "slug": "rotting-fist-mummy",
+    "type": "monster_action"
+  },
+  {
+    "slug": "dreadful-glare-mummy",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-mummy-lord",
+    "type": "monster_action"
+  },
+  {
+    "slug": "rotting-fist-mummy-lord",
+    "type": "monster_action"
+  },
+  {
+    "slug": "dreadful-glare-mummy-lord",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-nalfeshnee",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-nalfeshnee",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-nalfeshnee",
+    "type": "monster_action"
+  },
+  {
+    "slug": "horror-nimbus-nalfeshnee",
+    "type": "monster_action"
+  },
+  {
+    "slug": "teleport-nalfeshnee",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-hag-form-only-night-hag",
+    "type": "monster_action"
+  },
+  {
+    "slug": "change-shape-night-hag",
+    "type": "monster_action"
+  },
+  {
+    "slug": "etherealness-night-hag",
+    "type": "monster_action"
+  },
+  {
+    "slug": "nightmare-haunting-night-hag",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hooves-nightmare",
+    "type": "monster_action"
+  },
+  {
+    "slug": "ethereal-stride-nightmare",
+    "type": "monster_action"
+  },
+  {
+    "slug": "rapier-noble",
+    "type": "monster_action"
+  },
+  {
+    "slug": "pseudopod-ochre-jelly",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tentacles-octopus",
+    "type": "monster_action"
+  },
+  {
+    "slug": "ink-cloud-octopus",
+    "type": "monster_action"
+  },
+  {
+    "slug": "greatclub-ogre",
+    "type": "monster_action"
+  },
+  {
+    "slug": "javelin-ogre",
+    "type": "monster_action"
+  },
+  {
+    "slug": "morningstar-ogre-zombie",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-oni",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-oni-form-only-oni",
+    "type": "monster_action"
+  },
+  {
+    "slug": "glaive-oni",
+    "type": "monster_action"
+  },
+  {
+    "slug": "change-shape-oni",
+    "type": "monster_action"
+  },
+  {
+    "slug": "greataxe-orc",
+    "type": "monster_action"
+  },
+  {
+    "slug": "javelin-orc",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-otyugh",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-otyugh",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tentacle-otyugh",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tentacle-slam-otyugh",
+    "type": "monster_action"
+  },
+  {
+    "slug": "talons-owl",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-owlbear",
+    "type": "monster_action"
+  },
+  {
+    "slug": "beak-owlbear",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-owlbear",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-panther",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-panther",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hooves-pegasus",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-phase-spider",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-pit-fiend",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-pit-fiend",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-pit-fiend",
+    "type": "monster_action"
+  },
+  {
+    "slug": "mace-pit-fiend",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-pit-fiend",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-planetar",
+    "type": "monster_action"
+  },
+  {
+    "slug": "greatsword-planetar",
+    "type": "monster_action"
+  },
+  {
+    "slug": "healing-touch-planetar",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-plesiosaurus",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-poisonous-snake",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-polar-bear",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-polar-bear",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-polar-bear",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hooves-pony",
+    "type": "monster_action"
+  },
+  {
+    "slug": "mace-priest",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-pseudodragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "sting-pseudodragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-purple-worm",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-purple-worm",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-stinger-purple-worm",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-bite-in-beast-form-quasit",
+    "type": "monster_action"
+  },
+  {
+    "slug": "scare-quasit",
+    "type": "monster_action"
+  },
+  {
+    "slug": "invisibility-quasit",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-quipper",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-rakshasa",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-rakshasa",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-rat",
+    "type": "monster_action"
+  },
+  {
+    "slug": "beak-raven",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-red-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "fire-breath-red-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-reef-shark",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-remorhaz",
+    "type": "monster_action"
+  },
+  {
+    "slug": "swallow-remorhaz",
+    "type": "monster_action"
+  },
+  {
+    "slug": "gore-rhinoceros",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hooves-riding-horse",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-roc",
+    "type": "monster_action"
+  },
+  {
+    "slug": "beak-roc",
+    "type": "monster_action"
+  },
+  {
+    "slug": "talons-roc",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-roper",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-roper",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tendril-roper",
+    "type": "monster_action"
+  },
+  {
+    "slug": "reel-roper",
+    "type": "monster_action"
+  },
+  {
+    "slug": "smother-rug-of-smothering",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-rust-monster",
+    "type": "monster_action"
+  },
+  {
+    "slug": "antennae-rust-monster",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-saber-toothed-tiger",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-saber-toothed-tiger",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-sahuagin",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-sahuagin",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-sahuagin",
+    "type": "monster_action"
+  },
+  {
+    "slug": "spear-sahuagin",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-salamander",
+    "type": "monster_action"
+  },
+  {
+    "slug": "spear-salamander",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-salamander",
+    "type": "monster_action"
+  },
+  {
+    "slug": "ram-satyr",
+    "type": "monster_action"
+  },
+  {
+    "slug": "shortsword-satyr",
+    "type": "monster_action"
+  },
+  {
+    "slug": "shortbow-satyr",
+    "type": "monster_action"
+  },
+  {
+    "slug": "sting-scorpion",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-scout",
+    "type": "monster_action"
+  },
+  {
+    "slug": "shortsword-scout",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longbow-scout",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-sea-hag",
+    "type": "monster_action"
+  },
+  {
+    "slug": "death-glare-sea-hag",
+    "type": "monster_action"
+  },
+  {
+    "slug": "illusory-appearance-sea-hag",
+    "type": "monster_action"
+  },
+  {
+    "slug": "strength-drain-shadow",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-shambling-mound",
+    "type": "monster_action"
+  },
+  {
+    "slug": "slam-shambling-mound",
+    "type": "monster_action"
+  },
+  {
+    "slug": "engulf-shambling-mound",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-shield-guardian",
+    "type": "monster_action"
+  },
+  {
+    "slug": "fist-shield-guardian",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-silver-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-silver-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "shortsword-skeleton",
+    "type": "monster_action"
+  },
+  {
+    "slug": "shortbow-skeleton",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-solar",
+    "type": "monster_action"
+  },
+  {
+    "slug": "greatsword-solar",
+    "type": "monster_action"
+  },
+  {
+    "slug": "slaying-longbow-solar",
+    "type": "monster_action"
+  },
+  {
+    "slug": "flying-sword-solar",
+    "type": "monster_action"
+  },
+  {
+    "slug": "healing-touch-solar",
+    "type": "monster_action"
+  },
+  {
+    "slug": "life-drain-specter",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-spider",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-spirit-naga",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longsword-sprite",
+    "type": "monster_action"
+  },
+  {
+    "slug": "shortbow-sprite",
+    "type": "monster_action"
+  },
+  {
+    "slug": "heart-sight-sprite",
+    "type": "monster_action"
+  },
+  {
+    "slug": "invisibility-sprite",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-spy",
+    "type": "monster_action"
+  },
+  {
+    "slug": "shortsword-spy",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hand-crossbow-spy",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-steam-mephit",
+    "type": "monster_action"
+  },
+  {
+    "slug": "steam-breath-steam-mephit",
+    "type": "monster_action"
+  },
+  {
+    "slug": "blood-drain-stirge",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-stone-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "greatclub-stone-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "rock-stone-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-stone-golem",
+    "type": "monster_action"
+  },
+  {
+    "slug": "slam-stone-golem",
+    "type": "monster_action"
+  },
+  {
+    "slug": "slow-stone-golem",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-storm-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "greatsword-storm-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "rock-storm-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "lightning-strike-storm-giant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-fiend-form-only-succubus-incubus",
+    "type": "monster_action"
+  },
+  {
+    "slug": "charm-succubus-incubus",
+    "type": "monster_action"
+  },
+  {
+    "slug": "draining-kiss-succubus-incubus",
+    "type": "monster_action"
+  },
+  {
+    "slug": "etherealness-succubus-incubus",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bites-swarm-of-bats",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bites-swarm-of-beetles",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bites-swarm-of-centipedes",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bites-swarm-of-insects",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bites-swarm-of-poisonous-snakes",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bites-swarm-of-quippers",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bites-swarm-of-rats",
+    "type": "monster_action"
+  },
+  {
+    "slug": "beaks-swarm-of-ravens",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bites-swarm-of-spiders",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bites-swarm-of-wasps",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-tarrasque",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-tarrasque",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-tarrasque",
+    "type": "monster_action"
+  },
+  {
+    "slug": "horns-tarrasque",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-tarrasque",
+    "type": "monster_action"
+  },
+  {
+    "slug": "frightful-presence-tarrasque",
+    "type": "monster_action"
+  },
+  {
+    "slug": "swallow-tarrasque",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-thug",
+    "type": "monster_action"
+  },
+  {
+    "slug": "mace-thug",
+    "type": "monster_action"
+  },
+  {
+    "slug": "heavy-crossbow-thug",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-tiger",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-tiger",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-treant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "slam-treant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "rock-treant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "animate-trees-treant",
+    "type": "monster_action"
+  },
+  {
+    "slug": "spear-tribal-warrior",
+    "type": "monster_action"
+  },
+  {
+    "slug": "gore-triceratops",
+    "type": "monster_action"
+  },
+  {
+    "slug": "stomp-triceratops",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-troll",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-troll",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-troll",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-tyrannosaurus-rex",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-tyrannosaurus-rex",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tail-tyrannosaurus-rex",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-unicorn",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hooves-unicorn",
+    "type": "monster_action"
+  },
+  {
+    "slug": "horn-unicorn",
+    "type": "monster_action"
+  },
+  {
+    "slug": "healing-touch-unicorn",
+    "type": "monster_action"
+  },
+  {
+    "slug": "teleport-unicorn",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-vampire-vampire",
+    "type": "monster_action"
+  },
+  {
+    "slug": "unarmed-strike-vampire-vampire",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-vampire-vampire",
+    "type": "monster_action"
+  },
+  {
+    "slug": "charm-vampire-vampire",
+    "type": "monster_action"
+  },
+  {
+    "slug": "children-of-the-night-vampire-vampire",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-vampire-bat",
+    "type": "monster_action"
+  },
+  {
+    "slug": "charm-vampire-bat",
+    "type": "monster_action"
+  },
+  {
+    "slug": "children-of-the-night-vampire-bat",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-vampire-spawn",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-vampire-spawn",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-vampire-spawn",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-veteran",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longsword-veteran",
+    "type": "monster_action"
+  },
+  {
+    "slug": "shortsword-veteran",
+    "type": "monster_action"
+  },
+  {
+    "slug": "heavy-crossbow-veteran",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-violet-fungus",
+    "type": "monster_action"
+  },
+  {
+    "slug": "rotting-touch-violet-fungus",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-vrock",
+    "type": "monster_action"
+  },
+  {
+    "slug": "beak-vrock",
+    "type": "monster_action"
+  },
+  {
+    "slug": "talons-vrock",
+    "type": "monster_action"
+  },
+  {
+    "slug": "spores-vrock",
+    "type": "monster_action"
+  },
+  {
+    "slug": "stunning-screech-vrock",
+    "type": "monster_action"
+  },
+  {
+    "slug": "beak-vulture",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hooves-warhorse",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hooves-warhorse-skeleton",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-water-elemental",
+    "type": "monster_action"
+  },
+  {
+    "slug": "slam-water-elemental",
+    "type": "monster_action"
+  },
+  {
+    "slug": "whelm-water-elemental",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-weasel",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-werebear-bear",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-werebear-bear",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-werebear-bear",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-werebear-human",
+    "type": "monster_action"
+  },
+  {
+    "slug": "greataxe-werebear-human",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-werebear-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-werebear-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-werebear-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "greataxe-werebear-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tusks-wereboar-boar",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-wereboar-human",
+    "type": "monster_action"
+  },
+  {
+    "slug": "maul-wereboar-human",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-wereboar-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "maul-wereboar-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "tusks-wereboar-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-wererat-human",
+    "type": "monster_action"
+  },
+  {
+    "slug": "shortsword-wererat-human",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hand-crossbow-wererat-human",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-wererat-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-wererat-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "shortsword-wererat-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "hand-crossbow-wererat-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-wererat-rat",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-weretiger-human",
+    "type": "monster_action"
+  },
+  {
+    "slug": "scimitar-weretiger-human",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longbow-weretiger-human",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-weretiger-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-weretiger-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-weretiger-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "scimitar-weretiger-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longbow-weretiger-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-weretiger-tiger",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-weretiger-tiger",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-werewolf-human",
+    "type": "monster_action"
+  },
+  {
+    "slug": "spear-werewolf-human",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-werewolf-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-werewolf-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-werewolf-hybrid",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-werewolf-wolf",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-white-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "cold-breath-white-dragon-wyrmling",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-wight",
+    "type": "monster_action"
+  },
+  {
+    "slug": "life-drain-wight",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longsword-wight",
+    "type": "monster_action"
+  },
+  {
+    "slug": "longbow-wight",
+    "type": "monster_action"
+  },
+  {
+    "slug": "shock-will-o-wisp",
+    "type": "monster_action"
+  },
+  {
+    "slug": "invisibility-will-o-wisp",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-winter-wolf",
+    "type": "monster_action"
+  },
+  {
+    "slug": "cold-breath-winter-wolf",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-wolf",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-worg",
+    "type": "monster_action"
+  },
+  {
+    "slug": "life-drain-wraith",
+    "type": "monster_action"
+  },
+  {
+    "slug": "create-specter-wraith",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-wyvern",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-wyvern",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claws-wyvern",
+    "type": "monster_action"
+  },
+  {
+    "slug": "stinger-wyvern",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-xorn",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-xorn",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-xorn",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-young-black-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-young-black-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-young-black-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "acid-breath-young-black-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-young-blue-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-young-blue-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-young-blue-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "lightning-breath-young-blue-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-young-brass-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-young-brass-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-young-brass-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-young-brass-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-young-bronze-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-young-bronze-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-young-bronze-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-young-bronze-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-young-copper-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-young-copper-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-young-copper-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-young-copper-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-young-gold-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-young-gold-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-young-gold-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-young-gold-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-young-green-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-young-green-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-young-green-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "poison-breath-young-green-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-young-red-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-young-red-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-young-red-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "fire-breath-young-red-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-young-silver-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-young-silver-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-young-silver-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "breath-weapons-young-silver-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "multiattack-young-white-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "bite-young-white-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "claw-young-white-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "cold-breath-young-white-dragon",
+    "type": "monster_action"
+  },
+  {
+    "slug": "slam-zombie",
+    "type": "monster_action"
+  },
+  {
+    "slug": "parry-bandit-captain",
+    "type": "monster_reaction"
+  },
+  {
+    "slug": "split-black-pudding",
+    "type": "monster_reaction"
+  },
+  {
+    "slug": "unnerving-mask-chain-devil",
+    "type": "monster_reaction"
+  },
+  {
+    "slug": "parry-erinyes",
+    "type": "monster_reaction"
+  },
+  {
+    "slug": "parry-gladiator",
+    "type": "monster_reaction"
+  },
+  {
+    "slug": "parry-knight",
+    "type": "monster_reaction"
+  },
+  {
+    "slug": "parry-marilith",
+    "type": "monster_reaction"
+  },
+  {
+    "slug": "parry-noble",
+    "type": "monster_reaction"
+  },
+  {
+    "slug": "split-ochre-jelly",
+    "type": "monster_reaction"
+  },
+  {
+    "slug": "shield-shield-guardian",
+    "type": "monster_reaction"
+  },
+  {
+    "slug": "shriek-shrieker",
+    "type": "monster_reaction"
+  },
+  {
+    "slug": "rock-catching-stone-giant",
+    "type": "monster_reaction"
+  },
+  {
+    "slug": "detect-aboleth",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-swipe-aboleth",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "psychic-drain-costs-2-actions-aboleth",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-adult-black-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-adult-black-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-adult-black-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-adult-blue-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-adult-blue-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-adult-blue-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-adult-brass-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-adult-brass-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-adult-brass-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-adult-bronze-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-adult-bronze-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-adult-bronze-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-adult-copper-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-adult-copper-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-adult-copper-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-adult-gold-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-adult-gold-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-adult-gold-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-adult-green-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-adult-green-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-adult-green-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-adult-red-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-adult-red-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-adult-red-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-adult-silver-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-adult-silver-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-adult-silver-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-adult-white-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-adult-white-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-adult-white-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-ancient-black-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-ancient-black-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-ancient-black-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-ancient-blue-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-ancient-blue-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-ancient-blue-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-ancient-brass-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-ancient-brass-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-ancient-brass-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-ancient-bronze-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-ancient-bronze-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-ancient-bronze-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-ancient-copper-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-ancient-copper-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-ancient-copper-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-ancient-gold-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-ancient-gold-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-ancient-gold-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-ancient-green-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-ancient-green-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-ancient-green-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-ancient-red-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-ancient-red-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-ancient-red-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-ancient-silver-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-ancient-silver-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-ancient-silver-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "detect-ancient-white-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tail-attack-ancient-white-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "wing-attack-costs-2-actions-ancient-white-dragon",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "claw-attack-androsphinx",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "teleport-costs-2-actions-androsphinx",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "cast-a-spell-costs-3-actions-androsphinx",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "claw-attack-gynosphinx",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "teleport-costs-2-actions-gynosphinx",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "cast-a-spell-costs-3-actions-gynosphinx",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "tentacle-attack-or-fling-kraken",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "lightning-storm-costs-2-actions-kraken",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "ink-cloud-costs-3-actions-kraken",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "cantrip-lich",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "paralyzing-touch-costs-2-actions-lich",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "frightening-gaze-costs-2-actions-lich",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "disrupt-life-costs-3-actions-lich",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "attack-mummy-lord",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "blinding-dust-mummy-lord",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "blasphemous-word-costs-2-actions-mummy-lord",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "channel-negative-energy-costs-2-actions-mummy-lord",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "whirlwind-of-sand-costs-2-actions-mummy-lord",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "teleport-solar",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "searing-burst-costs-2-actions-solar",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "blinding-gaze-costs-3-actions-solar",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "attack-tarrasque",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "move-tarrasque",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "chomp-costs-2-actions-tarrasque",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "hooves-unicorn",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "shimmering-shield-costs-2-actions-unicorn",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "heal-self-costs-3-actions-unicorn",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "move-vampire-vampire",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "unarmed-strike-vampire-vampire",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "bite-costs-2-actions-vampire-vampire",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "move-vampire-bat",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "unarmed-strike-vampire-bat",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "bite-costs-2-actions-vampire-bat",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "move-vampire-mist",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "unarmed-strike-vampire-mist",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "bite-costs-2-actions-vampire-mist",
+    "type": "monster_legendary_action"
+  },
+  {
+    "slug": "amphibious-aboleth",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "mucous-cloud-aboleth",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "probing-telepathy-aboleth",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spellcasting-acolyte",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-adult-black-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-adult-black-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-adult-blue-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-adult-brass-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-adult-bronze-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-adult-bronze-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-adult-copper-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-adult-gold-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-adult-gold-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-adult-green-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-adult-green-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-adult-red-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-adult-silver-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "ice-walk-adult-white-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-adult-white-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "air-form-air-elemental",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-ancient-black-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-ancient-black-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-ancient-blue-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-ancient-brass-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-ancient-bronze-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-ancient-bronze-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-ancient-copper-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-ancient-gold-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-ancient-gold-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-ancient-green-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-ancient-green-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-ancient-red-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-ancient-silver-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "ice-walk-ancient-white-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-ancient-white-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "inscrutable-androsphinx",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-weapons-androsphinx",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spellcasting-androsphinx",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "antimagic-susceptibility-animated-armor",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "false-appearance-animated-armor",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-archmage",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spellcasting-archmage",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "assassinate-assassin",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "evasion-assassin",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "sneak-attack-1turn-assassin",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "false-appearance-awakened-shrub",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "false-appearance-awakened-tree",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "heated-body-azer",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "heated-weapons-azer",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "illumination-azer",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pack-tactics-baboon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-badger",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "death-throes-balor",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "fire-aura-balor",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-balor",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-weapons-balor",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "barbed-hide-barbed-devil",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "devils-sight-barbed-devil",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-barbed-devil",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "petrifying-gaze-basilisk",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "echolocation-bat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-bat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "devils-sight-bearded-devil",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-bearded-devil",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "steadfast-bearded-devil",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "reckless-berserker",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-black-bear",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-black-dragon-wyrmling",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amorphous-black-pudding",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "corrosive-form-black-pudding",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spider-climb-black-pudding",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-smell-blink-dog",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-sight-blood-hawk",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pack-tactics-blood-hawk",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "charge-boar",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "relentless-boar",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "devils-sight-bone-devil",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-bone-devil",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-bronze-dragon-wyrmling",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-brown-bear",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "brute-bugbear",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "surprise-attack-bugbear",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "standing-leap-bulette",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-cat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "charge-centaur",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "devils-sight-chain-devil",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-chain-devil",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-chuul",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "sense-magic-chuul",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "acid-absorption-clay-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "berserk-clay-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "immutable-form-clay-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-clay-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-weapons-clay-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "damage-transfer-cloaker",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "false-appearance-cloaker",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "light-sensitivity-cloaker",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-cloud-giant",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-cloud-giant",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-couatl",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-weapons-couatl",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shielded-mind-couatl",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-crab",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "hold-breath-crocodile",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "dark-devotion-cult-fanatic",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spellcasting-cult-fanatic",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "dark-devotion-cultist",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "echolocation-darkmantle",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "false-appearance-darkmantle",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "two-headed-death-dog",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "stone-camouflage-deep-gnome-svirfneblin",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "gnome-cunning-deep-gnome-svirfneblin",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-deep-gnome-svirfneblin",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "angelic-weapons-deva",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-deva",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-deva",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-smell-dire-wolf",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pack-tactics-dire-wolf",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "elemental-demise-djinni",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-djinni",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-doppelganger",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "ambusher-doppelganger",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "surprise-attack-doppelganger",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-dragon-turtle",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "fey-ancestry-drider",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-drider",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spider-climb-drider",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "sunlight-sensitivity-drider",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "web-walker-drider",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "fey-ancestry-drow",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-drow",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "sunlight-sensitivity-drow",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spellcasting-druid",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-dryad",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-dryad",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "speak-with-beasts-and-plants-dryad",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "tree-stride-dryad",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "duergar-resilience-duergar",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "sunlight-sensitivity-duergar",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "death-burst-dust-mephit",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-dust-mephit",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-sight-eagle",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "earth-glide-earth-elemental",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "siege-monster-earth-elemental",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "elemental-demise-efreeti",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-efreeti",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "trampling-charge-elephant",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "charge-elk",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "hellish-weapons-erinyes",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-erinyes",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spider-climb-ettercap",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "web-sense-ettercap",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "web-walker-ettercap",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "two-heads-ettin",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "wakeful-ettin",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "fire-form-fire-elemental",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "illumination-fire-elemental",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "water-susceptibility-fire-elemental",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "berserk-flesh-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "aversion-of-fire-flesh-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "immutable-form-flesh-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "lightning-absorption-flesh-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-flesh-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-weapons-flesh-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "flyby-flying-snake",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "antimagic-susceptibility-flying-sword",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "false-appearance-flying-sword",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-frog",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "standing-leap-frog",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "false-appearance-gargoyle",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "ooze-cube-gelatinous-cube",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "transparent-gelatinous-cube",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "stench-ghast",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "turn-defiance-ghast",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "ethereal-sight-ghost",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "incorporeal-movement-ghost",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-giant-badger",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "echolocation-giant-bat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-giant-bat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "charge-giant-boar",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "relentless-giant-boar",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-giant-crab",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "hold-breath-giant-crocodile",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-sight-giant-eagle",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "charge-giant-elk",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "illumination-giant-fire-beetle",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-giant-frog",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "standing-leap-giant-frog",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "charge-giant-goat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "sure-footed-giant-goat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "rampage-giant-hyena",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "hold-breath-giant-octopus",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "underwater-camouflage-giant-octopus",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "water-breathing-giant-octopus",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "flyby-giant-owl",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-sight-giant-owl",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-giant-rat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pack-tactics-giant-rat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-giant-rat-diseased",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pack-tactics-giant-rat-diseased",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "charge-giant-sea-horse",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "water-breathing-giant-sea-horse",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "blood-frenzy-giant-shark",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "water-breathing-giant-shark",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spider-climb-giant-spider",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "web-sense-giant-spider",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "web-walker-giant-spider",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-giant-toad",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "standing-leap-giant-toad",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-sight-and-smell-giant-vulture",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pack-tactics-giant-vulture",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-smell-giant-weasel",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spider-climb-giant-wolf-spider",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "web-sense-giant-wolf-spider",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "web-walker-giant-wolf-spider",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "aberrant-ground-gibbering-mouther",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "gibbering-gibbering-mouther",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-glabrezu",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-glabrezu",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "brave-gladiator",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "brute-gladiator",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "rampage-gnoll",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "charge-goat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "sure-footed-goat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "nimble-escape-goblin",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-gold-dragon-wyrmling",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "trampling-charge-gorgon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amorphous-gray-ooze",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "corrode-metal-gray-ooze",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "false-appearance-gray-ooze",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-green-dragon-wyrmling",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-green-hag",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-green-hag",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "mimicry-green-hag",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "stone-camouflage-grick",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-sight-griffon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "blind-senses-grimlock",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-smell-grimlock",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "stone-camouflage-grimlock",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "rejuvenation-guardian-naga",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spellcasting-guardian-naga",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "inscrutable-gynosphinx",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-weapons-gynosphinx",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spellcasting-gynosphinx",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-sight-hawk",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-smell-hell-hound",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pack-tactics-hell-hound",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-hezrou",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "stench-hezrou",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-sight-hippogriff",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "martial-advantage-hobgoblin",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "telepathic-bond-homunculus",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "devils-sight-horned-devil",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-horned-devil",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "blood-frenzy-hunter-shark",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "water-breathing-hunter-shark",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "hold-breath-hydra",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "multiple-heads-hydra",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "reactive-heads-hydra",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "wakeful-hydra",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pack-tactics-hyena",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "devils-sight-ice-devil",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-ice-devil",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "death-burst-ice-mephit",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "false-appearance-ice-mephit",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-ice-mephit",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-imp",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "devils-sight-imp",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-imp",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "invisibility-invisible-stalker",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "faultless-tracker-invisible-stalker",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "fire-absorption-iron-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "immutable-form-iron-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-iron-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-weapons-iron-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-smell-jackal",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pack-tactics-jackal",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "echolocation-killer-whale",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "hold-breath-killer-whale",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-killer-whale",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "brave-knight",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "sunlight-sensitivity-kobold",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pack-tactics-kobold",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-kraken",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "freedom-of-movement-kraken",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "siege-monster-kraken",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-lamia",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "devils-sight-lemure",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "hellish-rejuvenation-lemure",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-lich",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "rejuvenation-lich",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spellcasting-lich",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "turn-resistance-lich",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-lion",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pack-tactics-lion",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pounce-lion",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "running-leap-lion",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "hold-breath-lizardfolk",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spellcasting-mage",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "death-burst-magma-mephit",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "false-appearance-magma-mephit",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-magma-mephit",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "death-burst-magmin",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "ignited-illumination-magmin",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "trampling-charge-mammoth",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "tail-spike-regrowth-manticore",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-marilith",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-weapons-marilith",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "reactive-marilith",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-smell-mastiff",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "petrifying-gaze-medusa",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-merfolk",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-merrow",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-mimic",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "adhesive-object-form-only-mimic",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "false-appearance-object-form-only-mimic",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "grappler-mimic",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "charge-minotaur",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "labyrinthine-recall-minotaur",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "reckless-minotaur",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "charge-minotaur-skeleton",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "beast-of-burden-mule",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "sure-footed-mule",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-mummy-lord",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "rejuvenation-mummy-lord",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spellcasting-mummy-lord",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-nalfeshnee",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-night-hag",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-night-hag",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "night-hag-items-night-hag",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "confer-fire-resistance-nightmare",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "illumination-nightmare",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amorphous-ochre-jelly",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spider-climb-ochre-jelly",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "hold-breath-octopus",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "underwater-camouflage-octopus",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "water-breathing-octopus",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "undead-fortitude-ogre-zombie",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-oni",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-weapons-oni",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "regeneration-oni",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "aggressive-orc",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "limited-telepathy-otyugh",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "flyby-owl",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-sight-owl",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-sight-and-smell-owlbear",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-panther",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pounce-panther",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "ethereal-jaunt-phase-spider",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spider-climb-phase-spider",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "web-walker-phase-spider",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "fear-aura-pit-fiend",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-pit-fiend",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-weapons-pit-fiend",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-pit-fiend",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "angelic-weapons-planetar",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "divine-awareness-planetar",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-planetar",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-planetar",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "hold-breath-plesiosaurus",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-polar-bear",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "divine-eminence-priest",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spellcasting-priest",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-senses-pseudodragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-pseudodragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "limited-telepathy-pseudodragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "tunneler-purple-worm",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-quasit",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-quasit",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "blood-frenzy-quipper",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "water-breathing-quipper",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "limited-magic-immunity-rakshasa",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-rakshasa",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-rat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "mimicry-raven",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pack-tactics-reef-shark",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "water-breathing-reef-shark",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "heated-body-remorhaz",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "charge-rhinoceros",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-sight-roc",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "false-appearance-roper",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "grasping-tendrils-roper",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spider-climb-roper",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "antimagic-susceptibility-rug-of-smothering",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "damage-transfer-rug-of-smothering",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "false-appearance-rug-of-smothering",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "iron-scent-rust-monster",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "rust-metal-rust-monster",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-saber-toothed-tiger",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pounce-saber-toothed-tiger",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "blood-frenzy-sahuagin",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "limited-amphibiousness-sahuagin",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shark-telepathy-sahuagin",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "heated-body-salamander",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "heated-weapons-salamander",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-satyr",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-sight-scout",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-sea-hag",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "horrific-appearance-sea-hag",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "water-breathing-sea-horse",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amorphous-shadow",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shadow-stealth-shadow",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "sunlight-weakness-shadow",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "lightning-absorption-shambling-mound",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "bound-shield-guardian",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "regeneration-shield-guardian",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spell-storing-shield-guardian",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "false-appearance-shrieker",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "angelic-weapons-solar",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "divine-awareness-solar",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-solar",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-solar",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "incorporeal-movement-specter",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "sunlight-sensitivity-specter",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spider-climb-spider",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "web-sense-spider",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "web-walker-spider",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "rejuvenation-spirit-naga",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spellcasting-spirit-naga",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "cunning-action-spy",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "sneak-attack-1turn-spy",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "death-burst-steam-mephit",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-steam-mephit",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "stone-camouflage-stone-giant",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "immutable-form-stone-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-stone-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-weapons-stone-golem",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-storm-giant",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-storm-giant",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "telepathic-bond-succubus-incubus",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-succubus-incubus",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "echolocation-swarm-of-bats",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-swarm-of-bats",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "swarm-swarm-of-bats",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "swarm-swarm-of-beetles",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "swarm-swarm-of-centipedes",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "swarm-swarm-of-insects",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "swarm-swarm-of-poisonous-snakes",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "blood-frenzy-swarm-of-quippers",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "swarm-swarm-of-quippers",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "water-breathing-swarm-of-quippers",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-swarm-of-rats",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "swarm-swarm-of-rats",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "swarm-swarm-of-ravens",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "swarm-swarm-of-spiders",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spider-climb-swarm-of-spiders",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "web-sense-swarm-of-spiders",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "web-walker-swarm-of-spiders",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "swarm-swarm-of-wasps",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-tarrasque",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-tarrasque",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "reflective-carapace-tarrasque",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "siege-monster-tarrasque",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pack-tactics-thug",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-tiger",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pounce-tiger",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "false-appearance-treant",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "siege-monster-treant",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pack-tactics-tribal-warrior",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "trampling-charge-triceratops",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-troll",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "regeneration-troll",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "charge-unicorn",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "innate-spellcasting-unicorn",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-unicorn",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-weapons-unicorn",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-vampire-vampire",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-vampire-vampire",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "misty-escape-vampire-vampire",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "regeneration-vampire-vampire",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spider-climb-vampire-vampire",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "vampire-weaknesses-vampire-vampire",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-vampire-bat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-vampire-bat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "misty-escape-vampire-bat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "regeneration-vampire-bat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spider-climb-vampire-bat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "vampire-weaknesses-vampire-bat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-vampire-mist",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "legendary-resistance-vampire-mist",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "misty-escape-vampire-mist",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "regeneration-vampire-mist",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spider-climb-vampire-mist",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "vampire-weaknesses-vampire-mist",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "regeneration-vampire-spawn",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "spider-climb-vampire-spawn",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "vampire-weaknesses-vampire-spawn",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "false-appearance-violet-fungus",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "magic-resistance-vrock",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-sight-and-smell-vulture",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pack-tactics-vulture",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "trampling-charge-warhorse",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "water-form-water-elemental",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "freeze-water-elemental",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-smell-weasel",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-werebear-bear",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-werebear-bear",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-werebear-human",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-werebear-human",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-werebear-hybrid",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-werebear-hybrid",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-wereboar-boar",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "charge-boar-or-hybrid-form-only-wereboar-boar",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "relentless-wereboar-boar",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-wereboar-human",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "relentless-wereboar-human",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-wereboar-hybrid",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "charge-boar-or-hybrid-form-only-wereboar-hybrid",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "relentless-wereboar-hybrid",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-wererat-human",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-wererat-human",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-wererat-hybrid",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-wererat-hybrid",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-wererat-rat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-smell-wererat-rat",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-weretiger-human",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-smell-weretiger-human",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-weretiger-hybrid",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-smell-weretiger-hybrid",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pounce-weretiger-hybrid",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-weretiger-tiger",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-smell-weretiger-tiger",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pounce-weretiger-tiger",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-werewolf-human",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-smell-werewolf-human",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-werewolf-hybrid",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-smell-werewolf-hybrid",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "shapechanger-werewolf-wolf",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-smell-werewolf-wolf",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "sunlight-sensitivity-wight",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "consume-life-will-o-wisp",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "ephemeral-will-o-wisp",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "incorporeal-movement-will-o-wisp",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "variable-illumination-will-o-wisp",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-smell-winter-wolf",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pack-tactics-winter-wolf",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "snow-camouflage-winter-wolf",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-smell-wolf",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "pack-tactics-wolf",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "keen-hearing-and-smell-worg",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "incorporeal-movement-wraith",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "sunlight-sensitivity-wraith",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "earth-glide-xorn",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "stone-camouflage-xorn",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "treasure-sense-xorn",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-young-black-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-young-bronze-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-young-gold-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "amphibious-young-green-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "ice-walk-young-white-dragon",
+    "type": "monster_trait"
+  },
+  {
+    "slug": "undead-fortitude-zombie",
+    "type": "monster_trait"
   }
 ]

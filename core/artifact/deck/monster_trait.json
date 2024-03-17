@@ -1,2756 +1,4960 @@
 [
   {
     "slug": "amphibious-aboleth",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The aboleth can breathe air and water.</p>"
   },
   {
     "slug": "mucous-cloud-aboleth",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Mucous Cloud",
     "desc": "<p>While underwater, the aboleth is surrounded by transformative mucus. A creature that touches the aboleth or that hits it with a melee attack while within 5 ft. of it must make a DC 14 Constitution saving throw. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater.</p>"
   },
   {
     "slug": "probing-telepathy-aboleth",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Probing Telepathy",
     "desc": "<p>If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature.</p>"
   },
   {
     "slug": "spellcasting-acolyte",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spellcasting",
     "desc": "<p>The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:</p><p>- Cantrips (at will): light, sacred flame, thaumaturgy<br>- 1st level (3 slots): bless, cure wounds, sanctuary</p>"
   },
   {
     "slug": "amphibious-adult-black-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The dragon can breathe air and water.</p>"
   },
   {
     "slug": "legendary-resistance-adult-black-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "legendary-resistance-adult-blue-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "legendary-resistance-adult-brass-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "amphibious-adult-bronze-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The dragon can breathe air and water.</p>"
   },
   {
     "slug": "legendary-resistance-adult-bronze-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "legendary-resistance-adult-copper-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "amphibious-adult-gold-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The dragon can breathe air and water.</p>"
   },
   {
     "slug": "legendary-resistance-adult-gold-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "amphibious-adult-green-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The dragon can breathe air and water.</p>"
   },
   {
     "slug": "legendary-resistance-adult-green-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "legendary-resistance-adult-red-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "legendary-resistance-adult-silver-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "ice-walk-adult-white-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Ice Walk",
     "desc": "<p>The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.</p>"
   },
   {
     "slug": "legendary-resistance-adult-white-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "air-form-air-elemental",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Air Form",
     "desc": "<p>The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.</p>"
   },
   {
     "slug": "amphibious-ancient-black-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The dragon can breathe air and water.</p>"
   },
   {
     "slug": "legendary-resistance-ancient-black-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "legendary-resistance-ancient-blue-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "legendary-resistance-ancient-brass-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "amphibious-ancient-bronze-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The dragon can breathe air and water.</p>"
   },
   {
     "slug": "legendary-resistance-ancient-bronze-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "legendary-resistance-ancient-copper-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "amphibious-ancient-gold-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The dragon can breathe air and water.</p>"
   },
   {
     "slug": "legendary-resistance-ancient-gold-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "amphibious-ancient-green-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The dragon can breathe air and water.</p>"
   },
   {
     "slug": "legendary-resistance-ancient-green-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "legendary-resistance-ancient-red-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "legendary-resistance-ancient-silver-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "ice-walk-ancient-white-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Ice Walk",
     "desc": "<p>The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.</p>"
   },
   {
     "slug": "legendary-resistance-ancient-white-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the dragon fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "inscrutable-androsphinx",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Inscrutable",
     "desc": "<p>The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.</p>"
   },
   {
     "slug": "magic-weapons-androsphinx",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Weapons",
     "desc": "<p>The sphinx's weapon attacks are magical.</p>"
   },
   {
     "slug": "spellcasting-androsphinx",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spellcasting",
     "desc": "<p>The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:</p><p>- Cantrips (at will): sacred flame, spare the dying, thaumaturgy<br>- 1st level (4 slots): command, detect evil and good, detect magic<br>- 2nd level (3 slots): lesser restoration, zone of truth<br>- 3rd level (3 slots): dispel magic, tongues<br>- 4th level (3 slots): banishment, freedom of movement<br>- 5th level (2 slots): flame strike, greater restoration<br>- 6th level (1 slot): heroes' feast</p>"
   },
   {
     "slug": "antimagic-susceptibility-animated-armor",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Antimagic Susceptibility",
     "desc": "<p>The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.</p>"
   },
   {
     "slug": "false-appearance-animated-armor",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "False Appearance",
     "desc": "<p>While the armor remains motionless, it is indistinguishable from a normal suit of armor.</p>"
   },
   {
     "slug": "magic-resistance-archmage",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The archmage has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "spellcasting-archmage",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spellcasting",
     "desc": "<p>The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared:</p><p>- Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp<br>- 1st level (4 slots): detect magic, identify, mage armor*, magic missile<br>- 2nd level (3 slots): detect thoughts, mirror image, misty step<br>- 3rd level (3 slots): counterspell, fly, lightning bolt<br>- 4th level (3 slots): banishment, fire shield, stoneskin*<br>- 5th level (3 slots): cone of cold, scrying, wall of force<br>- 6th level (1 slot): globe of invulnerability<br>- 7th level (1 slot): teleport<br>- 8th level (1 slot): mind blank*<br>- 9th level (1 slot): time stop<br>* The archmage casts these spells on itself before combat.</p>"
   },
   {
     "slug": "assassinate-assassin",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Assassinate",
     "desc": "<p>During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.</p>"
   },
   {
     "slug": "evasion-assassin",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Evasion",
     "desc": "<p>If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.</p>"
   },
   {
     "slug": "sneak-attack-1turn-assassin",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Sneak Attack (1/Turn)",
     "desc": "<p>The assassin deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.</p>"
   },
   {
     "slug": "false-appearance-awakened-shrub",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "False Appearance",
     "desc": "<p>While the shrub remains motionless, it is indistinguishable from a normal shrub.</p>"
   },
   {
     "slug": "false-appearance-awakened-tree",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "False Appearance",
     "desc": "<p>While the tree remains motionless, it is indistinguishable from a normal tree.</p>"
   },
   {
     "slug": "heated-body-azer",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Heated Body",
     "desc": "<p>A creature that touches the azer or hits it with a melee attack while within 5 ft. of it takes 5 (1d10) fire damage.</p>"
   },
   {
     "slug": "heated-weapons-azer",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Heated Weapons",
     "desc": "<p>When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (included in the attack).</p>"
   },
   {
     "slug": "illumination-azer",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Illumination",
     "desc": "<p>The azer sheds bright light in a 10-foot radius and dim light for an additional 10 ft..</p>"
   },
   {
     "slug": "pack-tactics-baboon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pack Tactics",
     "desc": "<p>The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "keen-smell-badger",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The badger has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "death-throes-balor",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Death Throes",
     "desc": "<p>When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.</p>"
   },
   {
     "slug": "fire-aura-balor",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Fire Aura",
     "desc": "<p>At the start of each of the balor's turns, each creature within 5 feet of it takes 10 (3d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the balor or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.</p>"
   },
   {
     "slug": "magic-resistance-balor",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The balor has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "magic-weapons-balor",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Weapons",
     "desc": "<p>The balor's weapon attacks are magical.</p>"
   },
   {
     "slug": "barbed-hide-barbed-devil",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Barbed Hide",
     "desc": "<p>At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it.</p>"
   },
   {
     "slug": "devils-sight-barbed-devil",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Devil's Sight",
     "desc": "<p>Magical darkness doesn't impede the devil's darkvision.</p>"
   },
   {
     "slug": "magic-resistance-barbed-devil",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The devil has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "petrifying-gaze-basilisk",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Petrifying Gaze",
     "desc": "<p>If a creature starts its turn within 30 ft. of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic.<br>A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again. If it looks at the basilisk in the meantime, it must immediately make the save.<br>If the basilisk sees its reflection within 30 ft. of it in bright light, it mistakes itself for a rival and targets itself with its gaze.</p>"
   },
   {
     "slug": "echolocation-bat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Echolocation",
     "desc": "<p>The bat can't use its blindsight while deafened.</p>"
   },
   {
     "slug": "keen-hearing-bat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing",
     "desc": "<p>The bat has advantage on Wisdom (Perception) checks that rely on hearing.</p>"
   },
   {
     "slug": "devils-sight-bearded-devil",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Devil's Sight",
     "desc": "<p>Magical darkness doesn't impede the devil's darkvision.</p>"
   },
   {
     "slug": "magic-resistance-bearded-devil",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The devil has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "steadfast-bearded-devil",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Steadfast",
     "desc": "<p>The devil can't be frightened while it can see an allied creature within 30 feet of it.</p>"
   },
   {
     "slug": "reckless-berserker",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Reckless",
     "desc": "<p>At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.</p>"
   },
   {
     "slug": "keen-smell-black-bear",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The bear has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "amphibious-black-dragon-wyrmling",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The dragon can breathe air and water.</p>"
   },
   {
     "slug": "amorphous-black-pudding",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amorphous",
     "desc": "<p>The pudding can move through a space as narrow as 1 inch wide without squeezing.</p>"
   },
   {
     "slug": "corrosive-form-black-pudding",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Corrosive Form",
     "desc": "<p>A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal or wood that hits the pudding is destroyed after dealing damage. The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.</p>"
   },
   {
     "slug": "spider-climb-black-pudding",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spider Climb",
     "desc": "<p>The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
     "slug": "keen-hearing-and-smell-blink-dog",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Smell",
     "desc": "<p>The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "keen-sight-blood-hawk",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Sight",
     "desc": "<p>The hawk has advantage on Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "pack-tactics-blood-hawk",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pack Tactics",
     "desc": "<p>The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "charge-boar",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Charge",
     "desc": "<p>If the boar moves at least 20 ft. straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 3 (1d6) slashing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.</p>"
   },
   {
     "slug": "relentless-boar",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Relentless",
     "desc": "<p>If the boar takes 7 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</p>"
   },
   {
     "slug": "devils-sight-bone-devil",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Devil's Sight",
     "desc": "<p>Magical darkness doesn't impede the devil's darkvision.</p>"
   },
   {
     "slug": "magic-resistance-bone-devil",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The devil has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "amphibious-bronze-dragon-wyrmling",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The dragon can breathe air and water.</p>"
   },
   {
     "slug": "keen-smell-brown-bear",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The bear has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "brute-bugbear",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Brute",
     "desc": "<p>A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).</p>"
   },
   {
     "slug": "surprise-attack-bugbear",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Surprise Attack",
     "desc": "<p>If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.</p>"
   },
   {
     "slug": "standing-leap-bulette",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Standing Leap",
     "desc": "<p>The bulette's long jump is up to 30 ft. and its high jump is up to 15 ft., with or without a running start.</p>"
   },
   {
     "slug": "keen-smell-cat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The cat has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "charge-centaur",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Charge",
     "desc": "<p>If the centaur moves at least 30 ft. straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.</p>"
   },
   {
     "slug": "devils-sight-chain-devil",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Devil's Sight",
     "desc": "<p>Magical darkness doesn't impede the devil's darkvision.</p>"
   },
   {
     "slug": "magic-resistance-chain-devil",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The devil has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "amphibious-chuul",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The chuul can breathe air and water.</p>"
   },
   {
     "slug": "sense-magic-chuul",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Sense Magic",
     "desc": "<p>The chuul senses magic within 120 feet of it at will. This trait otherwise works like the detect magic spell but isn't itself magical.</p>"
   },
   {
     "slug": "acid-absorption-clay-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Acid Absorption",
     "desc": "<p>Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.</p>"
   },
   {
     "slug": "berserk-clay-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Berserk",
     "desc": "<p>Whenever the golem starts its turn with 60 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.</p>"
   },
   {
     "slug": "immutable-form-clay-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Immutable Form",
     "desc": "<p>The golem is immune to any spell or effect that would alter its form.</p>"
   },
   {
     "slug": "magic-resistance-clay-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The golem has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "magic-weapons-clay-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Weapons",
     "desc": "<p>The golem's weapon attacks are magical.</p>"
   },
   {
     "slug": "damage-transfer-cloaker",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Damage Transfer",
     "desc": "<p>While attached to a creature, the cloaker takes only half the damage dealt to it (rounded down). and that creature takes the other half.</p>"
   },
   {
     "slug": "false-appearance-cloaker",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "False Appearance",
     "desc": "<p>While the cloaker remains motionless without its underside exposed, it is indistinguishable from a dark leather cloak.</p>"
   },
   {
     "slug": "light-sensitivity-cloaker",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Light Sensitivity",
     "desc": "<p>While in bright light, the cloaker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "keen-smell-cloud-giant",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The giant has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "innate-spellcasting-cloud-giant",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:</p><p>At will: detect magic, fog cloud, light<br>3/day each: feather fall, fly, misty step, telekinesis<br>1/day each: control weather, gaseous form</p>"
   },
   {
     "slug": "innate-spellcasting-couatl",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:</p><p>At will: detect evil and good, detect magic, detect thoughts<br>3/day each: bless, create food and water, cure wounds, lesser restoration, protection from poison, sanctuary, shield<br>1/day each: dream, greater restoration, scrying</p>"
   },
   {
     "slug": "magic-weapons-couatl",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Weapons",
     "desc": "<p>The couatl's weapon attacks are magical.</p>"
   },
   {
     "slug": "shielded-mind-couatl",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shielded Mind",
     "desc": "<p>The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.</p>"
   },
   {
     "slug": "amphibious-crab",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The crab can breathe air and water.</p>"
   },
   {
     "slug": "hold-breath-crocodile",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Hold Breath",
     "desc": "<p>The crocodile can hold its breath for 15 minutes.</p>"
   },
   {
     "slug": "dark-devotion-cult-fanatic",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Dark Devotion",
     "desc": "<p>The fanatic has advantage on saving throws against being charmed or frightened.</p>"
   },
   {
     "slug": "spellcasting-cult-fanatic",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spellcasting",
     "desc": "<p>The fanatic is a 4th-level spellcaster. Its spell casting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:</p><p>Cantrips (at will): light, sacred flame, thaumaturgy<br>- 1st level (4 slots): command, inflict wounds, shield of faith<br>- 2nd level (3 slots): hold person, spiritual weapon</p>"
   },
   {
     "slug": "dark-devotion-cultist",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Dark Devotion",
     "desc": "<p>The cultist has advantage on saving throws against being charmed or frightened.</p>"
   },
   {
     "slug": "echolocation-darkmantle",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Echolocation",
     "desc": "<p>The darkmantle can't use its blindsight while deafened.</p>"
   },
   {
     "slug": "false-appearance-darkmantle",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "False Appearance",
     "desc": "<p>While the darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite.</p>"
   },
   {
     "slug": "two-headed-death-dog",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Two-Headed",
     "desc": "<p>The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.</p>"
   },
   {
     "slug": "stone-camouflage-deep-gnome-svirfneblin",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Stone Camouflage",
     "desc": "<p>The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
   },
   {
     "slug": "gnome-cunning-deep-gnome-svirfneblin",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Gnome Cunning",
     "desc": "<p>The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.</p>"
   },
   {
     "slug": "innate-spellcasting-deep-gnome-svirfneblin",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:<br>At will: nondetection (self only)<br>1/day each: blindness/deafness, blur, disguise self</p>"
   },
   {
     "slug": "angelic-weapons-deva",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Angelic Weapons",
     "desc": "<p>The deva's weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).</p>"
   },
   {
     "slug": "innate-spellcasting-deva",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The deva's spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components:<br>At will: detect evil and good<br>1/day each: commune, raise dead</p>"
   },
   {
     "slug": "magic-resistance-deva",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The deva has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "keen-hearing-and-smell-dire-wolf",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Smell",
     "desc": "<p>The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "pack-tactics-dire-wolf",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pack Tactics",
     "desc": "<p>The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "elemental-demise-djinni",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Elemental Demise",
     "desc": "<p>If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.</p>"
   },
   {
     "slug": "innate-spellcasting-djinni",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:</p><p>At will: detect evil and good, detect magic, thunderwave<br>3/day each: create food and water (can create wine instead of water), tongues, wind walk<br>1/day each: conjure elemental (air elemental only), creation, gaseous form, invisibility, major image, plane shift</p>"
   },
   {
     "slug": "shapechanger-doppelganger",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The doppelganger can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "ambusher-doppelganger",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Ambusher",
     "desc": "<p>In the first round of combat, the doppelganger has advantage on attack rolls against any creature it has surprised.</p>"
   },
   {
     "slug": "surprise-attack-doppelganger",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Surprise Attack",
     "desc": "<p>If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.</p>"
   },
   {
     "slug": "amphibious-dragon-turtle",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The dragon turtle can breathe air and water.</p>"
   },
   {
     "slug": "fey-ancestry-drider",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Fey Ancestry",
     "desc": "<p>The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.</p>"
   },
   {
     "slug": "innate-spellcasting-drider",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:<br>At will: dancing lights<br>1/day each: darkness, faerie fire</p>"
   },
   {
     "slug": "spider-climb-drider",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spider Climb",
     "desc": "<p>The drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
     "slug": "sunlight-sensitivity-drider",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Sunlight Sensitivity",
     "desc": "<p>While in sunlight, the drider has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "web-walker-drider",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Web Walker",
     "desc": "<p>The drider ignores movement restrictions caused by webbing.</p>"
   },
   {
     "slug": "fey-ancestry-drow",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Fey Ancestry",
     "desc": "<p>The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.</p>"
   },
   {
     "slug": "innate-spellcasting-drow",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The drow's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:<br>At will: dancing lights<br>1/day each: darkness, faerie fire</p>"
   },
   {
     "slug": "sunlight-sensitivity-drow",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Sunlight Sensitivity",
     "desc": "<p>While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "spellcasting-druid",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spellcasting",
     "desc": "<p>The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:</p><p>- Cantrips (at will): druidcraft, produce flame, shillelagh<br>- 1st level (4 slots): entangle, longstrider, speak with animals, thunderwave<br>- 2nd level (3 slots): animal messenger, barkskin</p>"
   },
   {
     "slug": "innate-spellcasting-dryad",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:</p><p>At will: druidcraft<br>3/day each: entangle, goodberry<br>1/day each: barkskin, pass without trace, shillelagh</p>"
   },
   {
     "slug": "magic-resistance-dryad",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The dryad has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "speak-with-beasts-and-plants-dryad",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Speak with Beasts and Plants",
     "desc": "<p>The dryad can communicate with beasts and plants as if they shared a language.</p>"
   },
   {
     "slug": "tree-stride-dryad",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Tree Stride",
     "desc": "<p>Once on her turn, the dryad can use 10 ft. of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 ft. of the first tree, appearing in an unoccupied space within 5 ft. of the second tree. Both trees must be large or bigger.</p>"
   },
   {
     "slug": "duergar-resilience-duergar",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Duergar Resilience",
     "desc": "<p>The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.</p>"
   },
   {
     "slug": "sunlight-sensitivity-duergar",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Sunlight Sensitivity",
     "desc": "<p>While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "death-burst-dust-mephit",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Death Burst",
     "desc": "<p>When the mephit dies, it explodes in a burst of dust. Each creature within 5 ft. of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.</p>"
   },
   {
     "slug": "innate-spellcasting-dust-mephit",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The mephit can innately cast sleep, requiring no material components. Its innate spellcasting ability is Charisma.</p>"
   },
   {
     "slug": "keen-sight-eagle",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Sight",
     "desc": "<p>The eagle has advantage on Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "earth-glide-earth-elemental",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Earth Glide",
     "desc": "<p>The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.</p>"
   },
   {
     "slug": "siege-monster-earth-elemental",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Siege Monster",
     "desc": "<p>The elemental deals double damage to objects and structures.</p>"
   },
   {
     "slug": "elemental-demise-efreeti",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Elemental Demise",
     "desc": "<p>If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the djinni was wearing or carrying.</p>"
   },
   {
     "slug": "innate-spellcasting-efreeti",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The efreeti's innate spell casting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:</p><p>At will: detect magic<br>3/day: enlarge/reduce, tongues<br>1/day each: conjure elemental (fire elemental only), gaseous form, invisibility, major image, plane shift, wall of fire</p>"
   },
   {
     "slug": "trampling-charge-elephant",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Trampling Charge",
     "desc": "<p>If the elephant moves at least 20 ft. straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action.</p>"
   },
   {
     "slug": "charge-elk",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Charge",
     "desc": "<p>If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>"
   },
   {
     "slug": "hellish-weapons-erinyes",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Hellish Weapons",
     "desc": "<p>The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).</p>"
   },
   {
     "slug": "magic-resistance-erinyes",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The erinyes has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "spider-climb-ettercap",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spider Climb",
     "desc": "<p>The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
     "slug": "web-sense-ettercap",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Web Sense",
     "desc": "<p>While in contact with a web, the ettercap knows the exact location of any other creature in contact with the same web.</p>"
   },
   {
     "slug": "web-walker-ettercap",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Web Walker",
     "desc": "<p>The ettercap ignores movement restrictions caused by webbing.</p>"
   },
   {
     "slug": "two-heads-ettin",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Two Heads",
     "desc": "<p>The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.</p>"
   },
   {
     "slug": "wakeful-ettin",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Wakeful",
     "desc": "<p>When one of the ettin's heads is asleep, its other head is awake.</p>"
   },
   {
     "slug": "fire-form-fire-elemental",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Fire Form",
     "desc": "<p>The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 ft. of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.</p>"
   },
   {
     "slug": "illumination-fire-elemental",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Illumination",
     "desc": "<p>The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 ft..</p>"
   },
   {
     "slug": "water-susceptibility-fire-elemental",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Water Susceptibility",
     "desc": "<p>For every 5 ft. the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.</p>"
   },
   {
     "slug": "berserk-flesh-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Berserk",
     "desc": "<p>Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.<br>The golem's creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 40 hit points or fewer, the golem might go berserk again.</p>"
   },
   {
     "slug": "aversion-of-fire-flesh-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Aversion of Fire",
     "desc": "<p>If the golem takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.</p>"
   },
   {
     "slug": "immutable-form-flesh-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Immutable Form",
     "desc": "<p>The golem is immune to any spell or effect that would alter its form.</p>"
   },
   {
     "slug": "lightning-absorption-flesh-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Lightning Absorption",
     "desc": "<p>Whenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.</p>"
   },
   {
     "slug": "magic-resistance-flesh-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The golem has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "magic-weapons-flesh-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Weapons",
     "desc": "<p>The golem's weapon attacks are magical.</p>"
   },
   {
     "slug": "flyby-flying-snake",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Flyby",
     "desc": "<p>The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.</p>"
   },
   {
     "slug": "antimagic-susceptibility-flying-sword",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Antimagic Susceptibility",
     "desc": "<p>The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.</p>"
   },
   {
     "slug": "false-appearance-flying-sword",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "False Appearance",
     "desc": "<p>While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.</p>"
   },
   {
     "slug": "amphibious-frog",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The frog can breathe air and water</p>"
   },
   {
     "slug": "standing-leap-frog",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Standing Leap",
     "desc": "<p>The frog's long jump is up to 10 ft. and its high jump is up to 5 ft., with or without a running start.</p>"
   },
   {
     "slug": "false-appearance-gargoyle",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "False Appearance",
     "desc": "<p>While the gargoyle remains motion less, it is indistinguishable from an inanimate statue.</p>"
   },
   {
     "slug": "ooze-cube-gelatinous-cube",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Ooze Cube",
     "desc": "<p>The cube takes up its entire space. Other creatures can enter the space, but a creature that does so is subjected to the cube's Engulf and has disadvantage on the saving throw.<br>Creatures inside the cube can be seen but have total cover.<br>A creature within 5 feet of the cube can take an action to pull a creature or object out of the cube. Doing so requires a successful DC 12 Strength check, and the creature making the attempt takes 10 (3d6) acid damage.<br>The cube can hold only one Large creature or up to four Medium or smaller creatures inside it at a time.</p>"
   },
   {
     "slug": "transparent-gelatinous-cube",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Transparent",
     "desc": "<p>Even when the cube is in plain sight, it takes a successful DC 15 Wisdom (Perception) check to spot a cube that has neither moved nor attacked. A creature that tries to enter the cube's space while unaware of the cube is surprised by the cube.</p>"
   },
   {
     "slug": "stench-ghast",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Stench",
     "desc": "<p>Any creature that starts its turn within 5 ft. of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.</p>"
   },
   {
     "slug": "turn-defiance-ghast",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Turn Defiance",
     "desc": "<p>The ghast and any ghouls within 30 ft. of it have advantage on saving throws against effects that turn undead.</p>"
   },
   {
     "slug": "ethereal-sight-ghost",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Ethereal Sight",
     "desc": "<p>The ghost can see 60 ft. into the Ethereal Plane when it is on the Material Plane, and vice versa.</p>"
   },
   {
     "slug": "incorporeal-movement-ghost",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Incorporeal Movement",
     "desc": "<p>The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>"
   },
   {
     "slug": "keen-smell-giant-badger",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The badger has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "echolocation-giant-bat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Echolocation",
     "desc": "<p>The bat can't use its blindsight while deafened.</p>"
   },
   {
     "slug": "keen-hearing-giant-bat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing",
     "desc": "<p>The bat has advantage on Wisdom (Perception) checks that rely on hearing.</p>"
   },
   {
     "slug": "charge-giant-boar",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Charge",
     "desc": "<p>If the boar moves at least 20 ft. straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>"
   },
   {
     "slug": "relentless-giant-boar",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Relentless",
     "desc": "<p>If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</p>"
   },
   {
     "slug": "amphibious-giant-crab",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The crab can breathe air and water.</p>"
   },
   {
     "slug": "hold-breath-giant-crocodile",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Hold Breath",
     "desc": "<p>The crocodile can hold its breath for 30 minutes.</p>"
   },
   {
     "slug": "keen-sight-giant-eagle",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Sight",
     "desc": "<p>The eagle has advantage on Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "charge-giant-elk",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Charge",
     "desc": "<p>If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.</p>"
   },
   {
     "slug": "illumination-giant-fire-beetle",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Illumination",
     "desc": "<p>The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 ft..</p>"
   },
   {
     "slug": "amphibious-giant-frog",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The frog can breathe air and water</p>"
   },
   {
     "slug": "standing-leap-giant-frog",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Standing Leap",
     "desc": "<p>The frog's long jump is up to 20 ft. and its high jump is up to 10 ft., with or without a running start.</p>"
   },
   {
     "slug": "charge-giant-goat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Charge",
     "desc": "<p>If the goat moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>"
   },
   {
     "slug": "sure-footed-giant-goat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Sure-Footed",
     "desc": "<p>The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.</p>"
   },
   {
     "slug": "rampage-giant-hyena",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Rampage",
     "desc": "<p>When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.</p>"
   },
   {
     "slug": "hold-breath-giant-octopus",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Hold Breath",
     "desc": "<p>While out of water, the octopus can hold its breath for 1 hour.</p>"
   },
   {
     "slug": "underwater-camouflage-giant-octopus",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Underwater Camouflage",
     "desc": "<p>The octopus has advantage on Dexterity (Stealth) checks made while underwater.</p>"
   },
   {
     "slug": "water-breathing-giant-octopus",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Water Breathing",
     "desc": "<p>The octopus can breathe only underwater.</p>"
   },
   {
     "slug": "flyby-giant-owl",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Flyby",
     "desc": "<p>The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.</p>"
   },
   {
     "slug": "keen-hearing-and-sight-giant-owl",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Sight",
     "desc": "<p>The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.</p>"
   },
   {
     "slug": "keen-smell-giant-rat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The rat has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "pack-tactics-giant-rat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pack Tactics",
     "desc": "<p>The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "keen-smell-giant-rat-diseased",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The rat has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "pack-tactics-giant-rat-diseased",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pack Tactics",
     "desc": "<p>The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "charge-giant-sea-horse",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Charge",
     "desc": "<p>If the sea horse moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.</p>"
   },
   {
     "slug": "water-breathing-giant-sea-horse",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Water Breathing",
     "desc": "<p>The sea horse can breathe only underwater.</p>"
   },
   {
     "slug": "blood-frenzy-giant-shark",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Blood Frenzy",
     "desc": "<p>The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>"
   },
   {
     "slug": "water-breathing-giant-shark",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Water Breathing",
     "desc": "<p>The shark can breathe only underwater.</p>"
   },
   {
     "slug": "spider-climb-giant-spider",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spider Climb",
     "desc": "<p>The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
     "slug": "web-sense-giant-spider",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Web Sense",
     "desc": "<p>While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.</p>"
   },
   {
     "slug": "web-walker-giant-spider",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Web Walker",
     "desc": "<p>The spider ignores movement restrictions caused by webbing.</p>"
   },
   {
     "slug": "amphibious-giant-toad",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The toad can breathe air and water</p>"
   },
   {
     "slug": "standing-leap-giant-toad",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Standing Leap",
     "desc": "<p>The toad's long jump is up to 20 ft. and its high jump is up to 10 ft., with or without a running start.</p>"
   },
   {
     "slug": "keen-sight-and-smell-giant-vulture",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Sight and Smell",
     "desc": "<p>The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.</p>"
   },
   {
     "slug": "pack-tactics-giant-vulture",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pack Tactics",
     "desc": "<p>The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "keen-hearing-and-smell-giant-weasel",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Smell",
     "desc": "<p>The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "spider-climb-giant-wolf-spider",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spider Climb",
     "desc": "<p>The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
     "slug": "web-sense-giant-wolf-spider",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Web Sense",
     "desc": "<p>While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.</p>"
   },
   {
     "slug": "web-walker-giant-wolf-spider",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Web Walker",
     "desc": "<p>The spider ignores movement restrictions caused by webbing.</p>"
   },
   {
     "slug": "aberrant-ground-gibbering-mouther",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Aberrant Ground",
     "desc": "<p>The ground in a 10-foot radius around the mouther is doughlike difficult terrain. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.</p>"
   },
   {
     "slug": "gibbering-gibbering-mouther",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Gibbering",
     "desc": "<p>The mouther babbles incoherently while it can see any creature and isn't incapacitated. Each creature that starts its turn within 20 feet of the mouther and can hear the gibbering must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can't take reactions until the start of its next turn and rolls a d8 to determine what it does during its turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.</p>"
   },
   {
     "slug": "innate-spellcasting-glabrezu",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:<br>At will: darkness, detect magic, dispel magic<br>1/day each: confusion, fly, power word stun</p>"
   },
   {
     "slug": "magic-resistance-glabrezu",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The glabrezu has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "brave-gladiator",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Brave",
     "desc": "<p>The gladiator has advantage on saving throws against being frightened.</p>"
   },
   {
     "slug": "brute-gladiator",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Brute",
     "desc": "<p>A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).</p>"
   },
   {
     "slug": "rampage-gnoll",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Rampage",
     "desc": "<p>When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.</p>"
   },
   {
     "slug": "charge-goat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Charge",
     "desc": "<p>If the goat moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 2 (1d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 10 Strength saving throw or be knocked prone.</p>"
   },
   {
     "slug": "sure-footed-goat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Sure-Footed",
     "desc": "<p>The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.</p>"
   },
   {
     "slug": "nimble-escape-goblin",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Nimble Escape",
     "desc": "<p>The goblin can take the Disengage or Hide action as a bonus action on each of its turns.</p>"
   },
   {
     "slug": "amphibious-gold-dragon-wyrmling",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The dragon can breathe air and water.</p>"
   },
   {
     "slug": "trampling-charge-gorgon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Trampling Charge",
     "desc": "<p>If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the gorgon can make one attack with its hooves against it as a bonus action.</p>"
   },
   {
     "slug": "amorphous-gray-ooze",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amorphous",
     "desc": "<p>The ooze can move through a space as narrow as 1 inch wide without squeezing.</p>"
   },
   {
     "slug": "corrode-metal-gray-ooze",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Corrode Metal",
     "desc": "<p>Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.<br>The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.</p>"
   },
   {
     "slug": "false-appearance-gray-ooze",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "False Appearance",
     "desc": "<p>While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.</p>"
   },
   {
     "slug": "amphibious-green-dragon-wyrmling",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The dragon can breathe air and water.</p>"
   },
   {
     "slug": "amphibious-green-hag",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The hag can breathe air and water.</p>"
   },
   {
     "slug": "innate-spellcasting-green-hag",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:</p><p>At will: dancing lights, minor illusion, vicious mockery</p>"
   },
   {
     "slug": "mimicry-green-hag",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Mimicry",
     "desc": "<p>The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.</p>"
   },
   {
     "slug": "stone-camouflage-grick",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Stone Camouflage",
     "desc": "<p>The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
   },
   {
     "slug": "keen-sight-griffon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Sight",
     "desc": "<p>The griffon has advantage on Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "blind-senses-grimlock",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Blind Senses",
     "desc": "<p>The grimlock can't use its blindsight while deafened and unable to smell.</p>"
   },
   {
     "slug": "keen-hearing-and-smell-grimlock",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Smell",
     "desc": "<p>The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "stone-camouflage-grimlock",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Stone Camouflage",
     "desc": "<p>The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
   },
   {
     "slug": "rejuvenation-guardian-naga",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Rejuvenation",
     "desc": "<p>If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.</p>"
   },
   {
     "slug": "spellcasting-guardian-naga",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spellcasting",
     "desc": "<p>The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:</p><p>- Cantrips (at will): mending, sacred flame, thaumaturgy<br>- 1st level (4 slots): command, cure wounds, shield of faith<br>- 2nd level (3 slots): calm emotions, hold person<br>- 3rd level (3 slots): bestow curse, clairvoyance<br>- 4th level (3 slots): banishment, freedom of movement<br>- 5th level (2 slots): flame strike, geas<br>- 6th level (1 slot): true seeing</p>"
   },
   {
     "slug": "inscrutable-gynosphinx",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Inscrutable",
     "desc": "<p>The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.</p>"
   },
   {
     "slug": "magic-weapons-gynosphinx",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Weapons",
     "desc": "<p>The sphinx's weapon attacks are magical.</p>"
   },
   {
     "slug": "spellcasting-gynosphinx",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spellcasting",
     "desc": "<p>The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:</p><p>- Cantrips (at will): mage hand, minor illusion, prestidigitation<br>- 1st level (4 slots): detect magic, identify, shield<br>- 2nd level (3 slots): darkness, locate object, suggestion<br>- 3rd level (3 slots): dispel magic, remove curse, tongues<br>- 4th level (3 slots): banishment, greater invisibility<br>- 5th level (1 slot): legend lore</p>"
   },
   {
     "slug": "keen-sight-hawk",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Sight",
     "desc": "<p>The hawk has advantage on Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "keen-hearing-and-smell-hell-hound",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Smell",
     "desc": "<p>The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "pack-tactics-hell-hound",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pack Tactics",
     "desc": "<p>The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "magic-resistance-hezrou",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The hezrou has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "stench-hezrou",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Stench",
     "desc": "<p>Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.</p>"
   },
   {
     "slug": "keen-sight-hippogriff",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Sight",
     "desc": "<p>The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "martial-advantage-hobgoblin",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Martial Advantage",
     "desc": "<p>Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 ft. of an ally of the hobgoblin that isn't incapacitated.</p>"
   },
   {
     "slug": "telepathic-bond-homunculus",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Telepathic Bond",
     "desc": "<p>While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.</p>"
   },
   {
     "slug": "devils-sight-horned-devil",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Devil's Sight",
     "desc": "<p>Magical darkness doesn't impede the devil's darkvision.</p>"
   },
   {
     "slug": "magic-resistance-horned-devil",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The devil has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "blood-frenzy-hunter-shark",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Blood Frenzy",
     "desc": "<p>The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>"
   },
   {
     "slug": "water-breathing-hunter-shark",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Water Breathing",
     "desc": "<p>The shark can breathe only underwater.</p>"
   },
   {
     "slug": "hold-breath-hydra",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Hold Breath",
     "desc": "<p>The hydra can hold its breath for 1 hour.</p>"
   },
   {
     "slug": "multiple-heads-hydra",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Multiple Heads",
     "desc": "<p>The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.<br>Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies.<br>At the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains 10 hit points for each head regrown in this way.</p>"
   },
   {
     "slug": "reactive-heads-hydra",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Reactive Heads",
     "desc": "<p>For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.</p>"
   },
   {
     "slug": "wakeful-hydra",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Wakeful",
     "desc": "<p>While the hydra sleeps, at least one of its heads is awake.</p>"
   },
   {
     "slug": "pack-tactics-hyena",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pack Tactics",
     "desc": "<p>The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "devils-sight-ice-devil",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Devil's Sight",
     "desc": "<p>Magical darkness doesn't impede the devil's darkvision.</p>"
   },
   {
     "slug": "magic-resistance-ice-devil",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The devil has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "death-burst-ice-mephit",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Death Burst",
     "desc": "<p>When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 ft. of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.</p>"
   },
   {
     "slug": "false-appearance-ice-mephit",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "False Appearance",
     "desc": "<p>While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice.</p>"
   },
   {
     "slug": "innate-spellcasting-ice-mephit",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The mephit can innately cast fog cloud, requiring no material components. Its innate spellcasting ability is Charisma.</p>"
   },
   {
     "slug": "shapechanger-imp",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "devils-sight-imp",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Devil's Sight",
     "desc": "<p>Magical darkness doesn't impede the imp's darkvision.</p>"
   },
   {
     "slug": "magic-resistance-imp",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The imp has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "invisibility-invisible-stalker",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Invisibility",
     "desc": "<p>The stalker is invisible.</p>"
   },
   {
     "slug": "faultless-tracker-invisible-stalker",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Faultless Tracker",
     "desc": "<p>The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.</p>"
   },
   {
     "slug": "fire-absorption-iron-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Fire Absorption",
     "desc": "<p>Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.</p>"
   },
   {
     "slug": "immutable-form-iron-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Immutable Form",
     "desc": "<p>The golem is immune to any spell or effect that would alter its form.</p>"
   },
   {
     "slug": "magic-resistance-iron-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The golem has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "magic-weapons-iron-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Weapons",
     "desc": "<p>The golem's weapon attacks are magical.</p>"
   },
   {
     "slug": "keen-hearing-and-smell-jackal",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Smell",
     "desc": "<p>The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "pack-tactics-jackal",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pack Tactics",
     "desc": "<p>The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "echolocation-killer-whale",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Echolocation",
     "desc": "<p>The whale can't use its blindsight while deafened.</p>"
   },
   {
     "slug": "hold-breath-killer-whale",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Hold Breath",
     "desc": "<p>The whale can hold its breath for 30 minutes</p>"
   },
   {
     "slug": "keen-hearing-killer-whale",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing",
     "desc": "<p>The whale has advantage on Wisdom (Perception) checks that rely on hearing.</p>"
   },
   {
     "slug": "brave-knight",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Brave",
     "desc": "<p>The knight has advantage on saving throws against being frightened.</p>"
   },
   {
     "slug": "sunlight-sensitivity-kobold",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Sunlight Sensitivity",
     "desc": "<p>While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "pack-tactics-kobold",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pack Tactics",
     "desc": "<p>The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "amphibious-kraken",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The kraken can breathe air and water.</p>"
   },
   {
     "slug": "freedom-of-movement-kraken",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Freedom of Movement",
     "desc": "<p>The kraken ignores difficult terrain, and magical effects can't reduce its speed or cause it to be restrained. It can spend 5 feet of movement to escape from nonmagical restraints or being grappled.</p>"
   },
   {
     "slug": "siege-monster-kraken",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Siege Monster",
     "desc": "<p>The kraken deals double damage to objects and structures.</p>"
   },
   {
     "slug": "innate-spellcasting-lamia",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components. At will: disguise self (any humanoid form), major image 3/day each: charm person, mirror image, scrying, suggestion 1/day: geas</p>"
   },
   {
     "slug": "devils-sight-lemure",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Devil's Sight",
     "desc": "<p>Magical darkness doesn't impede the lemure's darkvision.</p>"
   },
   {
     "slug": "hellish-rejuvenation-lemure",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Hellish Rejuvenation",
     "desc": "<p>A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.</p>"
   },
   {
     "slug": "legendary-resistance-lich",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the lich fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "rejuvenation-lich",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Rejuvenation",
     "desc": "<p>If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.</p>"
   },
   {
     "slug": "spellcasting-lich",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spellcasting",
     "desc": "<p>The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:</p><p>- Cantrips (at will): mage hand, prestidigitation, ray of frost<br>- 1st level (4 slots): detect magic, magic missile, shield, thunderwave<br>- 2nd level (3 slots): acid arrow, detect thoughts, invisibility, mirror image<br>- 3rd level (3 slots): animate dead, counterspell, dispel magic, fireball<br>- 4th level (3 slots): blight, dimension door<br>- 5th level (3 slots): cloudkill, scrying<br>- 6th level (1 slot): disintegrate, globe of invulnerability<br>- 7th level (1 slot): finger of death, plane shift<br>- 8th level (1 slot): dominate monster, power word stun<br>- 9th level (1 slot): power word kill</p>"
   },
   {
     "slug": "turn-resistance-lich",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Turn Resistance",
     "desc": "<p>The lich has advantage on saving throws against any effect that turns undead.</p>"
   },
   {
     "slug": "keen-smell-lion",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The lion has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "pack-tactics-lion",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pack Tactics",
     "desc": "<p>The lion has advantage on an attack roll against a creature if at least one of the lion's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "pounce-lion",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pounce",
     "desc": "<p>If the lion moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action.</p>"
   },
   {
     "slug": "running-leap-lion",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Running Leap",
     "desc": "<p>With a 10-foot running start, the lion can long jump up to 25 ft..</p>"
   },
   {
     "slug": "hold-breath-lizardfolk",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Hold Breath",
     "desc": "<p>The lizardfolk can hold its breath for 15 minutes.</p>"
   },
   {
     "slug": "spellcasting-mage",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spellcasting",
     "desc": "<p>The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:</p><p>- Cantrips (at will): fire bolt, light, mage hand, prestidigitation<br>- 1st level (4 slots): detect magic, mage armor, magic missile, shield<br>- 2nd level (3 slots): misty step, suggestion<br>- 3rd level (3 slots): counterspell, fireball, fly<br>- 4th level (3 slots): greater invisibility, ice storm<br>- 5th level (1 slot): cone of cold</p>"
   },
   {
     "slug": "death-burst-magma-mephit",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Death Burst",
     "desc": "<p>When the mephit dies, it explodes in a burst of lava. Each creature within 5 ft. of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.</p>"
   },
   {
     "slug": "false-appearance-magma-mephit",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "False Appearance",
     "desc": "<p>While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.</p>"
   },
   {
     "slug": "innate-spellcasting-magma-mephit",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The mephit can innately cast heat metal (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.</p>"
   },
   {
     "slug": "death-burst-magmin",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Death Burst",
     "desc": "<p>When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 ft. of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. Flammable objects that aren't being worn or carried in that area are ignited.</p>"
   },
   {
     "slug": "ignited-illumination-magmin",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Ignited Illumination",
     "desc": "<p>As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 ft.</p>"
   },
   {
     "slug": "trampling-charge-mammoth",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Trampling Charge",
     "desc": "<p>If the mammoth moves at least 20 ft. straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.</p>"
   },
   {
     "slug": "tail-spike-regrowth-manticore",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Tail Spike Regrowth",
     "desc": "<p>The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.</p>"
   },
   {
     "slug": "magic-resistance-marilith",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The marilith has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "magic-weapons-marilith",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Weapons",
     "desc": "<p>The marilith's weapon attacks are magical.</p>"
   },
   {
     "slug": "reactive-marilith",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Reactive",
     "desc": "<p>The marilith can take one reaction on every turn in combat.</p>"
   },
   {
     "slug": "keen-hearing-and-smell-mastiff",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Smell",
     "desc": "<p>The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "petrifying-gaze-medusa",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Petrifying Gaze",
     "desc": "<p>When a creature that can see the medusa's eyes starts its turn within 30 ft. of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the greater restoration spell or other magic.<br>Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save.<br>If the medusa sees itself reflected on a polished surface within 30 ft. of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.</p>"
   },
   {
     "slug": "amphibious-merfolk",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The merfolk can breathe air and water.</p>"
   },
   {
     "slug": "amphibious-merrow",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The merrow can breathe air and water.</p>"
   },
   {
     "slug": "shapechanger-mimic",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn 't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "adhesive-object-form-only-mimic",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Adhesive (Object Form Only)",
     "desc": "<p>The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 13). Ability checks made to escape this grapple have disadvantage.</p>"
   },
   {
     "slug": "false-appearance-object-form-only-mimic",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "False Appearance (Object Form Only)",
     "desc": "<p>While the mimic remains motionless, it is indistinguishable from an ordinary object.</p>"
   },
   {
     "slug": "grappler-mimic",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Grappler",
     "desc": "<p>The mimic has advantage on attack rolls against any creature grappled by it.</p>"
   },
   {
     "slug": "charge-minotaur",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Charge",
     "desc": "<p>If the minotaur moves at least 10 ft. straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 ft. away and knocked prone.</p>"
   },
   {
     "slug": "labyrinthine-recall-minotaur",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Labyrinthine Recall",
     "desc": "<p>The minotaur can perfectly recall any path it has traveled.</p>"
   },
   {
     "slug": "reckless-minotaur",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Reckless",
     "desc": "<p>At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.</p>"
   },
   {
     "slug": "charge-minotaur-skeleton",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Charge",
     "desc": "<p>If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.</p>"
   },
   {
     "slug": "beast-of-burden-mule",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Beast of Burden",
     "desc": "<p>The mule is considered to be a Large animal for the purpose of determining its carrying capacity.</p>"
   },
   {
     "slug": "sure-footed-mule",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Sure-Footed",
     "desc": "<p>The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.</p>"
   },
   {
     "slug": "magic-resistance-mummy-lord",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The mummy lord has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "rejuvenation-mummy-lord",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Rejuvenation",
     "desc": "<p>A destroyed mummy lord gains a new body in 24 hours if its heart is intact, regaining all its hit points and becoming active again. The new body appears within 5 feet of the mummy lord's heart.</p>"
   },
   {
     "slug": "spellcasting-mummy-lord",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spellcasting",
     "desc": "<p>The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:</p><p>- Cantrips (at will): sacred flame, thaumaturgy<br>- 1st level (4 slots): command, guiding bolt, shield of faith<br>- 2nd level (3 slots): hold person, silence, spiritual weapon<br>- 3rd level (3 slots): animate dead, dispel magic<br>- 4th level (3 slots): divination, guardian of faith<br>- 5th level (2 slots): contagion, insect plague<br>- 6th level (1 slot): harm</p>"
   },
   {
     "slug": "magic-resistance-nalfeshnee",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The nalfeshnee has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "innate-spellcasting-night-hag",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:</p><p>At will: detect magic, magic missile<br>2/day each: plane shift (self only), ray of enfeeblement, sleep</p>"
   },
   {
     "slug": "magic-resistance-night-hag",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The hag has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "night-hag-items-night-hag",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Night Hag Items",
     "desc": "<p>A night hag carries two very rare magic items that she must craft for herself If either object is lost, the night hag will go to great lengths to retrieve it, as creating a new tool takes time and effort.<br>Heartstone: This lustrous black gem allows a night hag to become ethereal while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days.<br>Soul Bag: When an evil humanoid dies as a result of a night hag's Nightmare Haunting, the hag catches the soul in this black sack made of stitched flesh. A soul bag can hold only one evil soul at a time, and only the night hag who crafted the bag can catch a soul with it. Crafting a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make the bag).</p>"
   },
   {
     "slug": "confer-fire-resistance-nightmare",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Confer Fire Resistance",
     "desc": "<p>The nightmare can grant resistance to fire damage to anyone riding it.</p>"
   },
   {
     "slug": "illumination-nightmare",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Illumination",
     "desc": "<p>The nightmare sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>"
   },
   {
     "slug": "amorphous-ochre-jelly",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amorphous",
     "desc": "<p>The jelly can move through a space as narrow as 1 inch wide without squeezing.</p>"
   },
   {
     "slug": "spider-climb-ochre-jelly",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spider Climb",
     "desc": "<p>The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
     "slug": "hold-breath-octopus",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Hold Breath",
     "desc": "<p>While out of water, the octopus can hold its breath for 30 minutes.</p>"
   },
   {
     "slug": "underwater-camouflage-octopus",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Underwater Camouflage",
     "desc": "<p>The octopus has advantage on Dexterity (Stealth) checks made while underwater.</p>"
   },
   {
     "slug": "water-breathing-octopus",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Water Breathing",
     "desc": "<p>The octopus can breathe only underwater.</p>"
   },
   {
     "slug": "undead-fortitude-ogre-zombie",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Undead Fortitude",
     "desc": "<p>If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.</p>"
   },
   {
     "slug": "innate-spellcasting-oni",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:</p><p>At will: darkness, invisibility<br>1/day each: charm person, cone of cold, gaseous form, sleep</p>"
   },
   {
     "slug": "magic-weapons-oni",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Weapons",
     "desc": "<p>The oni's weapon attacks are magical.</p>"
   },
   {
     "slug": "regeneration-oni",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Regeneration",
     "desc": "<p>The oni regains 10 hit points at the start of its turn if it has at least 1 hit point.</p>"
   },
   {
     "slug": "aggressive-orc",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Aggressive",
     "desc": "<p>As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.</p>"
   },
   {
     "slug": "limited-telepathy-otyugh",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Limited Telepathy",
     "desc": "<p>The otyugh can magically transmit simple messages and images to any creature within 120 ft. of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.</p>"
   },
   {
     "slug": "flyby-owl",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Flyby",
     "desc": "<p>The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.</p>"
   },
   {
     "slug": "keen-hearing-and-sight-owl",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Sight",
     "desc": "<p>The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.</p>"
   },
   {
     "slug": "keen-sight-and-smell-owlbear",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Sight and Smell",
     "desc": "<p>The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.</p>"
   },
   {
     "slug": "keen-smell-panther",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The panther has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "pounce-panther",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pounce",
     "desc": "<p>If the panther moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.</p>"
   },
   {
     "slug": "ethereal-jaunt-phase-spider",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Ethereal Jaunt",
     "desc": "<p>As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.</p>"
   },
   {
     "slug": "spider-climb-phase-spider",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spider Climb",
     "desc": "<p>The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
     "slug": "web-walker-phase-spider",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Web Walker",
     "desc": "<p>The spider ignores movement restrictions caused by webbing.</p>"
   },
   {
     "slug": "fear-aura-pit-fiend",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Fear Aura",
     "desc": "<p>Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.</p>"
   },
   {
     "slug": "magic-resistance-pit-fiend",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The pit fiend has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "magic-weapons-pit-fiend",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Weapons",
     "desc": "<p>The pit fiend's weapon attacks are magical.</p>"
   },
   {
     "slug": "innate-spellcasting-pit-fiend",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:<br>At will: detect magic, fireball<br>3/day each: hold monster, wall of fire</p>"
   },
   {
     "slug": "angelic-weapons-planetar",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Angelic Weapons",
     "desc": "<p>The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).</p>"
   },
   {
     "slug": "divine-awareness-planetar",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Divine Awareness",
     "desc": "<p>The planetar knows if it hears a lie.</p>"
   },
   {
     "slug": "innate-spellcasting-planetar",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:<br>At will: detect evil and good, invisibility (self only)<br>3/day each: blade barrier, dispel evil and good, flame strike, raise dead<br>1/day each: commune, control weather, insect plague</p>"
   },
   {
     "slug": "magic-resistance-planetar",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The planetar has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "hold-breath-plesiosaurus",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Hold Breath",
     "desc": "<p>The plesiosaurus can hold its breath for 1 hour.</p>"
   },
   {
     "slug": "keen-smell-polar-bear",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The bear has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "divine-eminence-priest",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Divine Eminence",
     "desc": "<p>As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.</p>"
   },
   {
     "slug": "spellcasting-priest",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spellcasting",
     "desc": "<p>The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:</p><p>- Cantrips (at will): light, sacred flame, thaumaturgy<br>- 1st level (4 slots): cure wounds, guiding bolt, sanctuary<br>- 2nd level (3 slots): lesser restoration, spiritual weapon<br>- 3rd level (2 slots): dispel magic, spirit guardians</p>"
   },
   {
     "slug": "keen-senses-pseudodragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Senses",
     "desc": "<p>The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.</p>"
   },
   {
     "slug": "magic-resistance-pseudodragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The pseudodragon has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "limited-telepathy-pseudodragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Limited Telepathy",
     "desc": "<p>The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 ft. of it that can understand a language.</p>"
   },
   {
     "slug": "tunneler-purple-worm",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Tunneler",
     "desc": "<p>The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.</p>"
   },
   {
     "slug": "shapechanger-quasit",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The quasit can use its action to polymorph into a beast form that resembles a bat (speed 10 ft. fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad (40 ft., swim 40 ft.), or back into its true form . Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed . It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "magic-resistance-quasit",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The quasit has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "blood-frenzy-quipper",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Blood Frenzy",
     "desc": "<p>The quipper has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>"
   },
   {
     "slug": "water-breathing-quipper",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Water Breathing",
     "desc": "<p>The quipper can breathe only underwater.</p>"
   },
   {
     "slug": "limited-magic-immunity-rakshasa",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Limited Magic Immunity",
     "desc": "<p>The rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.</p>"
   },
   {
     "slug": "innate-spellcasting-rakshasa",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:</p><p>At will: detect thoughts, disguise self, mage hand, minor illusion<br>3/day each: charm person, detect magic, invisibility, major image, suggestion<br>1/day each: dominate person, fly, plane shift, true seeing</p>"
   },
   {
     "slug": "keen-smell-rat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The rat has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "mimicry-raven",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Mimicry",
     "desc": "<p>The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p>"
   },
   {
     "slug": "pack-tactics-reef-shark",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pack Tactics",
     "desc": "<p>The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "water-breathing-reef-shark",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Water Breathing",
     "desc": "<p>The shark can breathe only underwater.</p>"
   },
   {
     "slug": "heated-body-remorhaz",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Heated Body",
     "desc": "<p>A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.</p>"
   },
   {
     "slug": "charge-rhinoceros",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Charge",
     "desc": "<p>If the rhinoceros moves at least 20 ft. straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.</p>"
   },
   {
     "slug": "keen-sight-roc",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Sight",
     "desc": "<p>The roc has advantage on Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "false-appearance-roper",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "False Appearance",
     "desc": "<p>While the roper remains motionless, it is indistinguishable from a normal cave formation, such as a stalagmite.</p>"
   },
   {
     "slug": "grasping-tendrils-roper",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Grasping Tendrils",
     "desc": "<p>The roper can have up to six tendrils at a time. Each tendril can be attacked (AC 20; 10 hit points; immunity to poison and psychic damage). Destroying a tendril deals no damage to the roper, which can extrude a replacement tendril on its next turn. A tendril can also be broken if a creature takes an action and succeeds on a DC 15 Strength check against it.</p>"
   },
   {
     "slug": "spider-climb-roper",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spider Climb",
     "desc": "<p>The roper can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
     "slug": "antimagic-susceptibility-rug-of-smothering",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Antimagic Susceptibility",
     "desc": "<p>The rug is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the rug must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.</p>"
   },
   {
     "slug": "damage-transfer-rug-of-smothering",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Damage Transfer",
     "desc": "<p>While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature grappled by the rug takes the other half.</p>"
   },
   {
     "slug": "false-appearance-rug-of-smothering",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "False Appearance",
     "desc": "<p>While the rug remains motionless, it is indistinguishable from a normal rug.</p>"
   },
   {
     "slug": "iron-scent-rust-monster",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Iron Scent",
     "desc": "<p>The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.</p>"
   },
   {
     "slug": "rust-metal-rust-monster",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Rust Metal",
     "desc": "<p>Any nonmagical weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the rust monster is destroyed after dealing damage.</p>"
   },
   {
     "slug": "keen-smell-saber-toothed-tiger",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The tiger has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "pounce-saber-toothed-tiger",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pounce",
     "desc": "<p>If the tiger moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.</p>"
   },
   {
     "slug": "blood-frenzy-sahuagin",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Blood Frenzy",
     "desc": "<p>The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>"
   },
   {
     "slug": "limited-amphibiousness-sahuagin",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Limited Amphibiousness",
     "desc": "<p>The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.</p>"
   },
   {
     "slug": "shark-telepathy-sahuagin",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shark Telepathy",
     "desc": "<p>The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.</p>"
   },
   {
     "slug": "heated-body-salamander",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Heated Body",
     "desc": "<p>A creature that touches the salamander or hits it with a melee attack while within 5 ft. of it takes 7 (2d6) fire damage.</p>"
   },
   {
     "slug": "heated-weapons-salamander",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Heated Weapons",
     "desc": "<p>Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).</p>"
   },
   {
     "slug": "magic-resistance-satyr",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The satyr has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "keen-hearing-and-sight-scout",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Sight",
     "desc": "<p>The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.</p>"
   },
   {
     "slug": "amphibious-sea-hag",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The hag can breathe air and water.</p>"
   },
   {
     "slug": "horrific-appearance-sea-hag",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Horrific Appearance",
     "desc": "<p>Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.<br>Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.</p>"
   },
   {
     "slug": "water-breathing-sea-horse",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Water Breathing",
     "desc": "<p>The sea horse can breathe only underwater.</p>"
   },
   {
     "slug": "amorphous-shadow",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amorphous",
     "desc": "<p>The shadow can move through a space as narrow as 1 inch wide without squeezing.</p>"
   },
   {
     "slug": "shadow-stealth-shadow",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shadow Stealth",
     "desc": "<p>While in dim light or darkness, the shadow can take the Hide action as a bonus action. Its stealth bonus is also improved to +6.</p>"
   },
   {
     "slug": "sunlight-weakness-shadow",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Sunlight Weakness",
     "desc": "<p>While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.</p>"
   },
   {
     "slug": "lightning-absorption-shambling-mound",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Lightning Absorption",
     "desc": "<p>Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.</p>"
   },
   {
     "slug": "bound-shield-guardian",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Bound",
     "desc": "<p>The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.</p>"
   },
   {
     "slug": "regeneration-shield-guardian",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Regeneration",
     "desc": "<p>The shield guardian regains 10 hit points at the start of its turn if it has at least 1 hit. point.</p>"
   },
   {
     "slug": "spell-storing-shield-guardian",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spell Storing",
     "desc": "<p>A spellcaster who wears the shield guardian's amulet can cause the guardian to store one spell of 4th level or lower. To do so, the wearer must cast the spell on the guardian. The spell has no effect but is stored within the guardian. When commanded to do so by the wearer or when a situation arises that was predefined by the spellcaster, the guardian casts the stored spell with any parameters set by the original caster, requiring no components. When the spell is cast or a new spell is stored, any previously stored spell is lost.</p>"
   },
   {
     "slug": "false-appearance-shrieker",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "False Appearance",
     "desc": "<p>While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.</p>"
   },
   {
     "slug": "angelic-weapons-solar",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Angelic Weapons",
     "desc": "<p>The solar's weapon attacks are magical. When the solar hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack).</p>"
   },
   {
     "slug": "divine-awareness-solar",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Divine Awareness",
     "desc": "<p>The solar knows if it hears a lie.</p>"
   },
   {
     "slug": "innate-spellcasting-solar",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The solar's spell casting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:<br>At will: detect evil and good, invisibility (self only)<br>3/day each: blade barrier, dispel evil and good, resurrection<br>1/day each: commune, control weather</p>"
   },
   {
     "slug": "magic-resistance-solar",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The solar has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "incorporeal-movement-specter",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Incorporeal Movement",
     "desc": "<p>The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>"
   },
   {
     "slug": "sunlight-sensitivity-specter",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Sunlight Sensitivity",
     "desc": "<p>While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "spider-climb-spider",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spider Climb",
     "desc": "<p>The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
     "slug": "web-sense-spider",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Web Sense",
     "desc": "<p>While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.</p>"
   },
   {
     "slug": "web-walker-spider",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Web Walker",
     "desc": "<p>The spider ignores movement restrictions caused by webbing.</p>"
   },
   {
     "slug": "rejuvenation-spirit-naga",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Rejuvenation",
     "desc": "<p>If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.</p>"
   },
   {
     "slug": "spellcasting-spirit-naga",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spellcasting",
     "desc": "<p>The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:</p><p>- Cantrips (at will): mage hand, minor illusion, ray of frost<br>- 1st level (4 slots): charm person, detect magic, sleep<br>- 2nd level (3 slots): detect thoughts, hold person<br>- 3rd level (3 slots): lightning bolt, water breathing<br>- 4th level (3 slots): blight, dimension door<br>- 5th level (2 slots): dominate person</p>"
   },
   {
     "slug": "cunning-action-spy",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Cunning Action",
     "desc": "<p>On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.</p>"
   },
   {
     "slug": "sneak-attack-1turn-spy",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Sneak Attack (1/Turn)",
     "desc": "<p>The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.</p>"
   },
   {
     "slug": "death-burst-steam-mephit",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Death Burst",
     "desc": "<p>When the mephit dies, it explodes in a cloud of steam. Each creature within 5 ft. of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage.</p>"
   },
   {
     "slug": "innate-spellcasting-steam-mephit",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The mephit can innately cast blur, requiring no material components. Its innate spellcasting ability is Charisma.</p>"
   },
   {
     "slug": "stone-camouflage-stone-giant",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Stone Camouflage",
     "desc": "<p>The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
   },
   {
     "slug": "immutable-form-stone-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Immutable Form",
     "desc": "<p>The golem is immune to any spell or effect that would alter its form.</p>"
   },
   {
     "slug": "magic-resistance-stone-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The golem has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "magic-weapons-stone-golem",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Weapons",
     "desc": "<p>The golem's weapon attacks are magical.</p>"
   },
   {
     "slug": "amphibious-storm-giant",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The giant can breathe air and water.</p>"
   },
   {
     "slug": "innate-spellcasting-storm-giant",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:</p><p>At will: detect magic, feather fall, levitate, light<br>3/day each: control weather, water breathing</p>"
   },
   {
     "slug": "telepathic-bond-succubus-incubus",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Telepathic Bond",
     "desc": "<p>The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence.</p>"
   },
   {
     "slug": "shapechanger-succubus-incubus",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "echolocation-swarm-of-bats",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Echolocation",
     "desc": "<p>The swarm can't use its blindsight while deafened.</p>"
   },
   {
     "slug": "keen-hearing-swarm-of-bats",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing",
     "desc": "<p>The swarm has advantage on Wisdom (Perception) checks that rely on hearing.</p>"
   },
   {
     "slug": "swarm-swarm-of-bats",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Swarm",
     "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.</p>"
   },
   {
     "slug": "swarm-swarm-of-beetles",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Swarm",
     "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.</p>"
   },
   {
     "slug": "swarm-swarm-of-centipedes",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Swarm",
     "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.</p>"
   },
   {
     "slug": "swarm-swarm-of-insects",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Swarm",
     "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.</p>"
   },
   {
     "slug": "swarm-swarm-of-poisonous-snakes",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Swarm",
     "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.</p>"
   },
   {
     "slug": "blood-frenzy-swarm-of-quippers",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Blood Frenzy",
     "desc": "<p>The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>"
   },
   {
     "slug": "swarm-swarm-of-quippers",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Swarm",
     "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny quipper. The swarm can't regain hit points or gain temporary hit points.</p>"
   },
   {
     "slug": "water-breathing-swarm-of-quippers",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Water Breathing",
     "desc": "<p>The swarm can breathe only underwater.</p>"
   },
   {
     "slug": "keen-smell-swarm-of-rats",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The swarm has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "swarm-swarm-of-rats",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Swarm",
     "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.</p>"
   },
   {
     "slug": "swarm-swarm-of-ravens",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Swarm",
     "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.</p>"
   },
   {
     "slug": "swarm-swarm-of-spiders",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Swarm",
     "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.</p>"
   },
   {
     "slug": "spider-climb-swarm-of-spiders",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spider Climb",
     "desc": "<p>The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
     "slug": "web-sense-swarm-of-spiders",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Web Sense",
     "desc": "<p>While in contact with a web, the swarm knows the exact location of any other creature in contact with the same web.</p>"
   },
   {
     "slug": "web-walker-swarm-of-spiders",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Web Walker",
     "desc": "<p>The swarm ignores movement restrictions caused by webbing.</p>"
   },
   {
     "slug": "swarm-swarm-of-wasps",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Swarm",
     "desc": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.</p>"
   },
   {
     "slug": "legendary-resistance-tarrasque",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the tarrasque fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "magic-resistance-tarrasque",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The tarrasque has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "reflective-carapace-tarrasque",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Reflective Carapace",
     "desc": "<p>Any time the tarrasque is targeted by a magic missile spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.</p>"
   },
   {
     "slug": "siege-monster-tarrasque",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Siege Monster",
     "desc": "<p>The tarrasque deals double damage to objects and structures.</p>"
   },
   {
     "slug": "pack-tactics-thug",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pack Tactics",
     "desc": "<p>The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "keen-smell-tiger",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The tiger has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "pounce-tiger",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pounce",
     "desc": "<p>If the tiger moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.</p>"
   },
   {
     "slug": "false-appearance-treant",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "False Appearance",
     "desc": "<p>While the treant remains motionless, it is indistinguishable from a normal tree.</p>"
   },
   {
     "slug": "siege-monster-treant",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Siege Monster",
     "desc": "<p>The treant deals double damage to objects and structures.</p>"
   },
   {
     "slug": "pack-tactics-tribal-warrior",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pack Tactics",
     "desc": "<p>The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "trampling-charge-triceratops",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Trampling Charge",
     "desc": "<p>If the triceratops moves at least 20 ft. straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the triceratops can make one stomp attack against it as a bonus action.</p>"
   },
   {
     "slug": "keen-smell-troll",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The troll has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "regeneration-troll",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Regeneration",
     "desc": "<p>The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>"
   },
   {
     "slug": "charge-unicorn",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Charge",
     "desc": "<p>If the unicorn moves at least 20 ft. straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.</p>"
   },
   {
     "slug": "innate-spellcasting-unicorn",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Innate Spellcasting",
     "desc": "<p>The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no components:</p><p>At will: detect evil and good, druidcraft, pass without trace<br>1/day each: calm emotions, dispel evil and good, entangle</p>"
   },
   {
     "slug": "magic-resistance-unicorn",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The unicorn has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "magic-weapons-unicorn",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Weapons",
     "desc": "<p>The unicorn's weapon attacks are magical.</p>"
   },
   {
     "slug": "shapechanger-vampire-vampire",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>If the vampire isn't in sun light or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.<br>While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.<br>While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.</p>"
   },
   {
     "slug": "legendary-resistance-vampire-vampire",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the vampire fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "misty-escape-vampire-vampire",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Misty Escape",
     "desc": "<p>When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.<br>While it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.</p>"
   },
   {
     "slug": "regeneration-vampire-vampire",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Regeneration",
     "desc": "<p>The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>"
   },
   {
     "slug": "spider-climb-vampire-vampire",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spider Climb",
     "desc": "<p>The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
     "slug": "vampire-weaknesses-vampire-vampire",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Vampire Weaknesses",
     "desc": "<p>The vampire has the following flaws:<br>Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants.<br>Harmed by Running Water. The vampire takes 20 acid damage if it ends its turn in running water.<br>Stake to the Heart. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.<br>Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.</p>"
   },
   {
     "slug": "shapechanger-vampire-bat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>If the vampire isn't in sun light or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.<br>While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.<br>While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.</p>"
   },
   {
     "slug": "legendary-resistance-vampire-bat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the vampire fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "misty-escape-vampire-bat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Misty Escape",
     "desc": "<p>When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.<br>While it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.</p>"
   },
   {
     "slug": "regeneration-vampire-bat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Regeneration",
     "desc": "<p>The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>"
   },
   {
     "slug": "spider-climb-vampire-bat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spider Climb",
     "desc": "<p>The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
     "slug": "vampire-weaknesses-vampire-bat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Vampire Weaknesses",
     "desc": "<p>The vampire has the following flaws:<br>Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants.<br>Harmed by Running Water. The vampire takes 20 acid damage if it ends its turn in running water.<br>Stake to the Heart. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.<br>Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.</p>"
   },
   {
     "slug": "shapechanger-vampire-mist",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>If the vampire isn't in sun light or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.<br>While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.<br>While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.</p>"
   },
   {
     "slug": "legendary-resistance-vampire-mist",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Legendary Resistance",
     "desc": "<p>If the vampire fails a saving throw, it can choose to succeed instead.</p>"
   },
   {
     "slug": "misty-escape-vampire-mist",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Misty Escape",
     "desc": "<p>When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.<br>While it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.</p>"
   },
   {
     "slug": "regeneration-vampire-mist",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Regeneration",
     "desc": "<p>The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>"
   },
   {
     "slug": "spider-climb-vampire-mist",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spider Climb",
     "desc": "<p>The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
     "slug": "vampire-weaknesses-vampire-mist",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Vampire Weaknesses",
     "desc": "<p>The vampire has the following flaws:<br>Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants.<br>Harmed by Running Water. The vampire takes 20 acid damage if it ends its turn in running water.<br>Stake to the Heart. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.<br>Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.</p>"
   },
   {
     "slug": "regeneration-vampire-spawn",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Regeneration",
     "desc": "<p>The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>"
   },
   {
     "slug": "spider-climb-vampire-spawn",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Spider Climb",
     "desc": "<p>The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
   },
   {
     "slug": "vampire-weaknesses-vampire-spawn",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Vampire Weaknesses",
     "desc": "<p>The vampire has the following flaws:<br>Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants.<br>Harmed by Running Water. The vampire takes 20 acid damage when it ends its turn in running water.<br>Stake to the Heart. The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.<br>Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.</p>"
   },
   {
     "slug": "false-appearance-violet-fungus",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "False Appearance",
     "desc": "<p>While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.</p>"
   },
   {
     "slug": "magic-resistance-vrock",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Magic Resistance",
     "desc": "<p>The vrock has advantage on saving throws against spells and other magical effects.</p>"
   },
   {
     "slug": "keen-sight-and-smell-vulture",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Sight and Smell",
     "desc": "<p>The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.</p>"
   },
   {
     "slug": "pack-tactics-vulture",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pack Tactics",
     "desc": "<p>The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "trampling-charge-warhorse",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Trampling Charge",
     "desc": "<p>If the horse moves at least 20 ft. straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.</p>"
   },
   {
     "slug": "water-form-water-elemental",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Water Form",
     "desc": "<p>The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.</p>"
   },
   {
     "slug": "freeze-water-elemental",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Freeze",
     "desc": "<p>If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 ft. until the end of its next turn.</p>"
   },
   {
     "slug": "keen-hearing-and-smell-weasel",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Smell",
     "desc": "<p>The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "shapechanger-werebear-bear",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "keen-smell-werebear-bear",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The werebear has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "shapechanger-werebear-human",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "keen-smell-werebear-human",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The werebear has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "shapechanger-werebear-hybrid",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "keen-smell-werebear-hybrid",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The werebear has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "shapechanger-wereboar-boar",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "charge-boar-or-hybrid-form-only-wereboar-boar",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Charge (Boar or Hybrid Form Only)",
     "desc": "<p>If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>"
   },
   {
     "slug": "relentless-wereboar-boar",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Relentless",
     "desc": "<p>If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</p>"
   },
   {
     "slug": "shapechanger-wereboar-human",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "relentless-wereboar-human",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Relentless",
     "desc": "<p>If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</p>"
   },
   {
     "slug": "shapechanger-wereboar-hybrid",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "charge-boar-or-hybrid-form-only-wereboar-hybrid",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Charge (Boar or Hybrid Form Only)",
     "desc": "<p>If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>"
   },
   {
     "slug": "relentless-wereboar-hybrid",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Relentless",
     "desc": "<p>If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</p>"
   },
   {
     "slug": "shapechanger-wererat-human",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "keen-smell-wererat-human",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The wererat has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "shapechanger-wererat-hybrid",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "keen-smell-wererat-hybrid",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The wererat has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "shapechanger-wererat-rat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "keen-smell-wererat-rat",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Smell",
     "desc": "<p>The wererat has advantage on Wisdom (Perception) checks that rely on smell.</p>"
   },
   {
     "slug": "shapechanger-weretiger-human",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "keen-hearing-and-smell-weretiger-human",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Smell",
     "desc": "<p>The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "shapechanger-weretiger-hybrid",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "keen-hearing-and-smell-weretiger-hybrid",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Smell",
     "desc": "<p>The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "pounce-weretiger-hybrid",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pounce",
     "desc": "<p>If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.</p>"
   },
   {
     "slug": "shapechanger-weretiger-tiger",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "keen-hearing-and-smell-weretiger-tiger",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Smell",
     "desc": "<p>The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "pounce-weretiger-tiger",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pounce",
     "desc": "<p>If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.</p>"
   },
   {
     "slug": "shapechanger-werewolf-human",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "keen-hearing-and-smell-werewolf-human",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Smell",
     "desc": "<p>The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "shapechanger-werewolf-hybrid",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "keen-hearing-and-smell-werewolf-hybrid",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Smell",
     "desc": "<p>The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "shapechanger-werewolf-wolf",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Shapechanger",
     "desc": "<p>The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>"
   },
   {
     "slug": "keen-hearing-and-smell-werewolf-wolf",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Smell",
     "desc": "<p>The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "sunlight-sensitivity-wight",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Sunlight Sensitivity",
     "desc": "<p>While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "consume-life-will-o-wisp",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Consume Life",
     "desc": "<p>As a bonus action, the will-o'-wisp can target one creature it can see within 5 ft. of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-o'-wisp regains 10 (3d6) hit points.</p>"
   },
   {
     "slug": "ephemeral-will-o-wisp",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Ephemeral",
     "desc": "<p>The will-o'-wisp can't wear or carry anything.</p>"
   },
   {
     "slug": "incorporeal-movement-will-o-wisp",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Incorporeal Movement",
     "desc": "<p>The will-o'-wisp can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>"
   },
   {
     "slug": "variable-illumination-will-o-wisp",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Variable Illumination",
     "desc": "<p>The will-o'-wisp sheds bright light in a 5- to 20-foot radius and dim light for an additional number of ft. equal to the chosen radius. The will-o'-wisp can alter the radius as a bonus action.</p>"
   },
   {
     "slug": "keen-hearing-and-smell-winter-wolf",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Smell",
     "desc": "<p>The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "pack-tactics-winter-wolf",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pack Tactics",
     "desc": "<p>The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "snow-camouflage-winter-wolf",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Snow Camouflage",
     "desc": "<p>The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.</p>"
   },
   {
     "slug": "keen-hearing-and-smell-wolf",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Smell",
     "desc": "<p>The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "pack-tactics-wolf",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Pack Tactics",
     "desc": "<p>The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
   },
   {
     "slug": "keen-hearing-and-smell-worg",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Keen Hearing and Smell",
     "desc": "<p>The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
   },
   {
     "slug": "incorporeal-movement-wraith",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Incorporeal Movement",
     "desc": "<p>The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>"
   },
   {
     "slug": "sunlight-sensitivity-wraith",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Sunlight Sensitivity",
     "desc": "<p>While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
   },
   {
     "slug": "earth-glide-xorn",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Earth Glide",
     "desc": "<p>The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.</p>"
   },
   {
     "slug": "stone-camouflage-xorn",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Stone Camouflage",
     "desc": "<p>The xorn has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
   },
   {
     "slug": "treasure-sense-xorn",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Treasure Sense",
     "desc": "<p>The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 ft. of it.</p>"
   },
   {
     "slug": "amphibious-young-black-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The dragon can breathe air and water.</p>"
   },
   {
     "slug": "amphibious-young-bronze-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The dragon can breathe air and water.</p>"
   },
   {
     "slug": "amphibious-young-gold-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The dragon can breathe air and water.</p>"
   },
   {
     "slug": "amphibious-young-green-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Amphibious",
     "desc": "<p>The dragon can breathe air and water.</p>"
   },
   {
     "slug": "ice-walk-young-white-dragon",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Ice Walk",
     "desc": "<p>The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.</p>"
   },
   {
     "slug": "undead-fortitude-zombie",
+    "type": {
+      "slug": "monster_trait",
+      "name": "Monster Trait"
+    },
     "name": "Undead Fortitude",
     "desc": "<p>If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.</p>"
   }
