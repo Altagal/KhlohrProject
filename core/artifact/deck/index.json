@@ -10710,5 +10710,1409 @@
   {
     "slug": "undead-fortitude-zombie",
     "type": "monster_trait"
+  },
+  {
+    "slug": "adamantine-armor",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ammunition-1",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ammunition-2",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ammunition-3",
+    "type": "magic_item"
+  },
+  {
+    "slug": "amulet-of-health",
+    "type": "magic_item"
+  },
+  {
+    "slug": "amulet-of-proof-against-detection-and-location",
+    "type": "magic_item"
+  },
+  {
+    "slug": "amulet-of-the-planes",
+    "type": "magic_item"
+  },
+  {
+    "slug": "animated-shield",
+    "type": "magic_item"
+  },
+  {
+    "slug": "apparatus-of-the-crab",
+    "type": "magic_item"
+  },
+  {
+    "slug": "armor-1",
+    "type": "magic_item"
+  },
+  {
+    "slug": "armor-2",
+    "type": "magic_item"
+  },
+  {
+    "slug": "armor-3",
+    "type": "magic_item"
+  },
+  {
+    "slug": "armor-of-invulnerability",
+    "type": "magic_item"
+  },
+  {
+    "slug": "armor-of-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "armor-of-vulnerability",
+    "type": "magic_item"
+  },
+  {
+    "slug": "arrow-catching-shield",
+    "type": "magic_item"
+  },
+  {
+    "slug": "arrow-of-slaying",
+    "type": "magic_item"
+  },
+  {
+    "slug": "bag-of-beans",
+    "type": "magic_item"
+  },
+  {
+    "slug": "bag-of-devouring",
+    "type": "magic_item"
+  },
+  {
+    "slug": "bag-of-holding",
+    "type": "magic_item"
+  },
+  {
+    "slug": "bag-of-tricks",
+    "type": "magic_item"
+  },
+  {
+    "slug": "gray-bag-of-tricks",
+    "type": "magic_item"
+  },
+  {
+    "slug": "rust-bag-of-tricks",
+    "type": "magic_item"
+  },
+  {
+    "slug": "tan-bag-of-tricks",
+    "type": "magic_item"
+  },
+  {
+    "slug": "bead-of-force",
+    "type": "magic_item"
+  },
+  {
+    "slug": "belt-of-dwarvenkind",
+    "type": "magic_item"
+  },
+  {
+    "slug": "belt-of-hill-giant-strength",
+    "type": "magic_item"
+  },
+  {
+    "slug": "belt-of-stone-giant-strength",
+    "type": "magic_item"
+  },
+  {
+    "slug": "belt-of-frost-giant-strength",
+    "type": "magic_item"
+  },
+  {
+    "slug": "belt-of-fire-giant-strength",
+    "type": "magic_item"
+  },
+  {
+    "slug": "belt-of-cloud-giant-strength",
+    "type": "magic_item"
+  },
+  {
+    "slug": "belt-of-storm-giant-strength",
+    "type": "magic_item"
+  },
+  {
+    "slug": "berserker-axe",
+    "type": "magic_item"
+  },
+  {
+    "slug": "boots-of-elvenkind",
+    "type": "magic_item"
+  },
+  {
+    "slug": "boots-of-levitation",
+    "type": "magic_item"
+  },
+  {
+    "slug": "boots-of-speed",
+    "type": "magic_item"
+  },
+  {
+    "slug": "boots-of-striding-and-springing",
+    "type": "magic_item"
+  },
+  {
+    "slug": "boots-of-the-winterlands",
+    "type": "magic_item"
+  },
+  {
+    "slug": "bowl-of-commanding-water-elementals",
+    "type": "magic_item"
+  },
+  {
+    "slug": "bracers-of-archery",
+    "type": "magic_item"
+  },
+  {
+    "slug": "bracers-of-defense",
+    "type": "magic_item"
+  },
+  {
+    "slug": "brazier-of-commanding-fire-elementals",
+    "type": "magic_item"
+  },
+  {
+    "slug": "brooch-of-shielding",
+    "type": "magic_item"
+  },
+  {
+    "slug": "broom-of-flying",
+    "type": "magic_item"
+  },
+  {
+    "slug": "candle-of-invocation",
+    "type": "magic_item"
+  },
+  {
+    "slug": "cape-of-the-mountebank",
+    "type": "magic_item"
+  },
+  {
+    "slug": "carpet-of-flying",
+    "type": "magic_item"
+  },
+  {
+    "slug": "carpet-of-flying-3-ft-a-5-ft",
+    "type": "magic_item"
+  },
+  {
+    "slug": "carpet-of-flying-4-ft-a-6-ft",
+    "type": "magic_item"
+  },
+  {
+    "slug": "carpet-of-flying-5-ft-a-7-ft",
+    "type": "magic_item"
+  },
+  {
+    "slug": "carpet-of-flying-6-ft-a-9-ft",
+    "type": "magic_item"
+  },
+  {
+    "slug": "censer-of-controlling-air-elementals",
+    "type": "magic_item"
+  },
+  {
+    "slug": "chime-of-opening",
+    "type": "magic_item"
+  },
+  {
+    "slug": "circlet-of-blasting",
+    "type": "magic_item"
+  },
+  {
+    "slug": "cloak-of-arachnida",
+    "type": "magic_item"
+  },
+  {
+    "slug": "cloak-of-displacement",
+    "type": "magic_item"
+  },
+  {
+    "slug": "cloak-of-elvenkind",
+    "type": "magic_item"
+  },
+  {
+    "slug": "cloak-of-protection",
+    "type": "magic_item"
+  },
+  {
+    "slug": "cloak-of-the-bat",
+    "type": "magic_item"
+  },
+  {
+    "slug": "cloak-of-the-manta-ray",
+    "type": "magic_item"
+  },
+  {
+    "slug": "crystal-ball",
+    "type": "magic_item"
+  },
+  {
+    "slug": "crystal-ball-of-mind-reading",
+    "type": "magic_item"
+  },
+  {
+    "slug": "crystal-ball-of-telepathy",
+    "type": "magic_item"
+  },
+  {
+    "slug": "crystal-ball-of-true-seeing",
+    "type": "magic_item"
+  },
+  {
+    "slug": "cube-of-force",
+    "type": "magic_item"
+  },
+  {
+    "slug": "cubic-gate",
+    "type": "magic_item"
+  },
+  {
+    "slug": "dagger-of-venom",
+    "type": "magic_item"
+  },
+  {
+    "slug": "dancing-sword",
+    "type": "magic_item"
+  },
+  {
+    "slug": "decanter-of-endless-water",
+    "type": "magic_item"
+  },
+  {
+    "slug": "deck-of-illusions",
+    "type": "magic_item"
+  },
+  {
+    "slug": "deck-of-many-things",
+    "type": "magic_item"
+  },
+  {
+    "slug": "defender",
+    "type": "magic_item"
+  },
+  {
+    "slug": "demon-armor",
+    "type": "magic_item"
+  },
+  {
+    "slug": "dimensional-shackles",
+    "type": "magic_item"
+  },
+  {
+    "slug": "dragon-scale-mail",
+    "type": "magic_item"
+  },
+  {
+    "slug": "black-dragon-scale-mail",
+    "type": "magic_item"
+  },
+  {
+    "slug": "blue-dragon-scale-mail",
+    "type": "magic_item"
+  },
+  {
+    "slug": "brass-dragon-scale-mail",
+    "type": "magic_item"
+  },
+  {
+    "slug": "bronze-dragon-scale-mail",
+    "type": "magic_item"
+  },
+  {
+    "slug": "copper-dragon-scale-mail",
+    "type": "magic_item"
+  },
+  {
+    "slug": "gold-dragon-scale-mail",
+    "type": "magic_item"
+  },
+  {
+    "slug": "green-dragon-scale-mail",
+    "type": "magic_item"
+  },
+  {
+    "slug": "red-dragon-scale-mail",
+    "type": "magic_item"
+  },
+  {
+    "slug": "silver-dragon-scale-mail",
+    "type": "magic_item"
+  },
+  {
+    "slug": "white-dragon-scale-mail",
+    "type": "magic_item"
+  },
+  {
+    "slug": "dragon-slayer",
+    "type": "magic_item"
+  },
+  {
+    "slug": "dust-of-disappearance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "dust-of-dryness",
+    "type": "magic_item"
+  },
+  {
+    "slug": "dust-of-sneezing-and-choking",
+    "type": "magic_item"
+  },
+  {
+    "slug": "dwarven-plate",
+    "type": "magic_item"
+  },
+  {
+    "slug": "dwarven-thrower",
+    "type": "magic_item"
+  },
+  {
+    "slug": "efficient-quiver",
+    "type": "magic_item"
+  },
+  {
+    "slug": "efreeti-bottle",
+    "type": "magic_item"
+  },
+  {
+    "slug": "elemental-gem",
+    "type": "magic_item"
+  },
+  {
+    "slug": "air-elemental-gem",
+    "type": "magic_item"
+  },
+  {
+    "slug": "earth-elemental-gem",
+    "type": "magic_item"
+  },
+  {
+    "slug": "fire-elemental-gem",
+    "type": "magic_item"
+  },
+  {
+    "slug": "water-elemental-gem",
+    "type": "magic_item"
+  },
+  {
+    "slug": "elven-chain",
+    "type": "magic_item"
+  },
+  {
+    "slug": "eversmoking-bottle",
+    "type": "magic_item"
+  },
+  {
+    "slug": "eyes-of-charming",
+    "type": "magic_item"
+  },
+  {
+    "slug": "eyes-of-minute-seeing",
+    "type": "magic_item"
+  },
+  {
+    "slug": "eyes-of-the-eagle",
+    "type": "magic_item"
+  },
+  {
+    "slug": "feather-token",
+    "type": "magic_item"
+  },
+  {
+    "slug": "anchor-feather-token",
+    "type": "magic_item"
+  },
+  {
+    "slug": "bird-feather-token",
+    "type": "magic_item"
+  },
+  {
+    "slug": "fan-feather-token",
+    "type": "magic_item"
+  },
+  {
+    "slug": "swan-boat-feather-token",
+    "type": "magic_item"
+  },
+  {
+    "slug": "tree-feather-token",
+    "type": "magic_item"
+  },
+  {
+    "slug": "whip-feather-token",
+    "type": "magic_item"
+  },
+  {
+    "slug": "bronze-griffon-figurine-of-wondrous-power",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ebony-fly-figurine-of-wondrous-power",
+    "type": "magic_item"
+  },
+  {
+    "slug": "golden-lions-figurine-of-wondrous-power",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ivory-goats-figurine-of-wondrous-power",
+    "type": "magic_item"
+  },
+  {
+    "slug": "marble-elephant-figurine-of-wondrous-power",
+    "type": "magic_item"
+  },
+  {
+    "slug": "obsidian-steed-figurine-of-wondrous-power",
+    "type": "magic_item"
+  },
+  {
+    "slug": "onyx-dog-figurine-of-wondrous-power",
+    "type": "magic_item"
+  },
+  {
+    "slug": "serpentine-owl-figurine-of-wondrous-power",
+    "type": "magic_item"
+  },
+  {
+    "slug": "silver-raven-figurine-of-wondrous-power",
+    "type": "magic_item"
+  },
+  {
+    "slug": "flame-tongue",
+    "type": "magic_item"
+  },
+  {
+    "slug": "folding-boat",
+    "type": "magic_item"
+  },
+  {
+    "slug": "frost-brand",
+    "type": "magic_item"
+  },
+  {
+    "slug": "gauntlets-of-ogre-power",
+    "type": "magic_item"
+  },
+  {
+    "slug": "gem-of-brightness",
+    "type": "magic_item"
+  },
+  {
+    "slug": "gem-of-seeing",
+    "type": "magic_item"
+  },
+  {
+    "slug": "giant-slayer",
+    "type": "magic_item"
+  },
+  {
+    "slug": "glamoured-studded-leather-armor",
+    "type": "magic_item"
+  },
+  {
+    "slug": "gloves-of-missile-snaring",
+    "type": "magic_item"
+  },
+  {
+    "slug": "gloves-of-swimming-and-climbing",
+    "type": "magic_item"
+  },
+  {
+    "slug": "goggles-of-night",
+    "type": "magic_item"
+  },
+  {
+    "slug": "hammer-of-thunderbolts",
+    "type": "magic_item"
+  },
+  {
+    "slug": "handy-haversack",
+    "type": "magic_item"
+  },
+  {
+    "slug": "hat-of-disguise",
+    "type": "magic_item"
+  },
+  {
+    "slug": "headband-of-intellect",
+    "type": "magic_item"
+  },
+  {
+    "slug": "helm-of-brilliance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "helm-of-comprehending-languages",
+    "type": "magic_item"
+  },
+  {
+    "slug": "helm-of-telepathy",
+    "type": "magic_item"
+  },
+  {
+    "slug": "helm-of-teleportation",
+    "type": "magic_item"
+  },
+  {
+    "slug": "holy-avenger",
+    "type": "magic_item"
+  },
+  {
+    "slug": "horn-of-blasting",
+    "type": "magic_item"
+  },
+  {
+    "slug": "silver-horn-of-valhalla",
+    "type": "magic_item"
+  },
+  {
+    "slug": "brass-horn-of-valhalla",
+    "type": "magic_item"
+  },
+  {
+    "slug": "bronze-horn-of-valhalla",
+    "type": "magic_item"
+  },
+  {
+    "slug": "iron-horn-of-valhalla",
+    "type": "magic_item"
+  },
+  {
+    "slug": "horseshoes-of-a-zephyr",
+    "type": "magic_item"
+  },
+  {
+    "slug": "horseshoes-of-speed",
+    "type": "magic_item"
+  },
+  {
+    "slug": "immovable-rod",
+    "type": "magic_item"
+  },
+  {
+    "slug": "instant-fortress",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ioun-stone-of-absorption",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ioun-stone-of-agility",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ioun-stone-of-awareness",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ioun-stone-of-fortitude",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ioun-stone-of-greater-absorption",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ioun-stone-of-insight",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ioun-stone-of-intellect",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ioun-stone-of-leadership",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ioun-stone-of-mastery",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ioun-stone-of-protection",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ioun-stone-of-regeneration",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ioun-stone-of-reserve",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ioun-stone-of-strength",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ioun-stone-of-sustenance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "iron-bands-of-binding",
+    "type": "magic_item"
+  },
+  {
+    "slug": "iron-flask",
+    "type": "magic_item"
+  },
+  {
+    "slug": "javelin-of-lightning",
+    "type": "magic_item"
+  },
+  {
+    "slug": "lantern-of-revealing",
+    "type": "magic_item"
+  },
+  {
+    "slug": "luck-blade",
+    "type": "magic_item"
+  },
+  {
+    "slug": "mace-of-disruption",
+    "type": "magic_item"
+  },
+  {
+    "slug": "mace-of-smiting",
+    "type": "magic_item"
+  },
+  {
+    "slug": "mace-of-terror",
+    "type": "magic_item"
+  },
+  {
+    "slug": "mantle-of-spell-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "manual-of-bodily-health",
+    "type": "magic_item"
+  },
+  {
+    "slug": "manual-of-gainful-exercise",
+    "type": "magic_item"
+  },
+  {
+    "slug": "manual-of-golems",
+    "type": "magic_item"
+  },
+  {
+    "slug": "manual-of-clay-golems",
+    "type": "magic_item"
+  },
+  {
+    "slug": "manual-of-flesh-golems",
+    "type": "magic_item"
+  },
+  {
+    "slug": "manual-of-iron-golems",
+    "type": "magic_item"
+  },
+  {
+    "slug": "manual-of-stone-golems",
+    "type": "magic_item"
+  },
+  {
+    "slug": "manual-of-quickness-of-action",
+    "type": "magic_item"
+  },
+  {
+    "slug": "marvelous-pigments",
+    "type": "magic_item"
+  },
+  {
+    "slug": "medallion-of-thoughts",
+    "type": "magic_item"
+  },
+  {
+    "slug": "mirror-of-life-trapping",
+    "type": "magic_item"
+  },
+  {
+    "slug": "mithral-armor",
+    "type": "magic_item"
+  },
+  {
+    "slug": "necklace-of-adaptation",
+    "type": "magic_item"
+  },
+  {
+    "slug": "necklace-of-fireballs",
+    "type": "magic_item"
+  },
+  {
+    "slug": "necklace-of-prayer-beads",
+    "type": "magic_item"
+  },
+  {
+    "slug": "nine-lives-stealer",
+    "type": "magic_item"
+  },
+  {
+    "slug": "oathbow",
+    "type": "magic_item"
+  },
+  {
+    "slug": "oil-of-etherealness",
+    "type": "magic_item"
+  },
+  {
+    "slug": "oil-of-sharpness",
+    "type": "magic_item"
+  },
+  {
+    "slug": "oil-of-slipperiness",
+    "type": "magic_item"
+  },
+  {
+    "slug": "pearl-of-power",
+    "type": "magic_item"
+  },
+  {
+    "slug": "periapt-of-health",
+    "type": "magic_item"
+  },
+  {
+    "slug": "periapt-of-proof-against-poison",
+    "type": "magic_item"
+  },
+  {
+    "slug": "periapt-of-wound-closure",
+    "type": "magic_item"
+  },
+  {
+    "slug": "philter-of-love",
+    "type": "magic_item"
+  },
+  {
+    "slug": "pipes-of-haunting",
+    "type": "magic_item"
+  },
+  {
+    "slug": "pipes-of-the-sewers",
+    "type": "magic_item"
+  },
+  {
+    "slug": "plate-armor-of-etherealness",
+    "type": "magic_item"
+  },
+  {
+    "slug": "portable-hole",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-animal-friendship",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-clairvoyance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-climbing",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-diminution",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-flying",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-gaseous-form",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-hill-giant-strength",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-frost-giant-strength",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-stone-giant-strength",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-fire-giant-strength",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-cloud-giant-strength",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-storm-giant-strength",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-growth",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-healing",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-greater-healing",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-superior-healing",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-supreme-healing",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-heroism",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-invisibility",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-mind-reading",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-poison",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-acid-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-cold-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-fire-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-force-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-lightning-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-necrotic-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-poison-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-psychic-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-radiant-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-thunder-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-speed",
+    "type": "magic_item"
+  },
+  {
+    "slug": "potion-of-water-breathing",
+    "type": "magic_item"
+  },
+  {
+    "slug": "restorative-ointment",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-animal-influence",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-djinni-summoning",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-elemental-command",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-air-elemental-command",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-earth-elemental-command",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-fire-elemental-command",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-water-elemental-command",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-evasion",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-feather-falling",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-free-action",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-invisibility",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-jumping",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-mind-shielding",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-protection",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-regeneration",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-acid-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-cold-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-fire-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-force-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-lightning-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-necrotic-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-poison-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-psychic-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-radiant-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-thunder-resistance",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-shooting-stars",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-spell-storing",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-spell-turning",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-swimming",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-telekinesis",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-the-ram",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-three-wishes",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-warmth",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-water-walking",
+    "type": "magic_item"
+  },
+  {
+    "slug": "ring-of-x-ray-vision",
+    "type": "magic_item"
+  },
+  {
+    "slug": "robe-of-eyes",
+    "type": "magic_item"
+  },
+  {
+    "slug": "robe-of-scintillating-colors",
+    "type": "magic_item"
+  },
+  {
+    "slug": "robe-of-stars",
+    "type": "magic_item"
+  },
+  {
+    "slug": "robe-of-the-archmagi",
+    "type": "magic_item"
+  },
+  {
+    "slug": "robe-of-useful-items",
+    "type": "magic_item"
+  },
+  {
+    "slug": "rod-of-absorption",
+    "type": "magic_item"
+  },
+  {
+    "slug": "rod-of-alertness",
+    "type": "magic_item"
+  },
+  {
+    "slug": "rod-of-lordly-might",
+    "type": "magic_item"
+  },
+  {
+    "slug": "rod-of-rulership",
+    "type": "magic_item"
+  },
+  {
+    "slug": "rod-of-security",
+    "type": "magic_item"
+  },
+  {
+    "slug": "rope-of-climbing",
+    "type": "magic_item"
+  },
+  {
+    "slug": "rope-of-entanglement",
+    "type": "magic_item"
+  },
+  {
+    "slug": "scarab-of-protection",
+    "type": "magic_item"
+  },
+  {
+    "slug": "scimitar-of-speed",
+    "type": "magic_item"
+  },
+  {
+    "slug": "shield-of-missile-attraction",
+    "type": "magic_item"
+  },
+  {
+    "slug": "slippers-of-spider-climbing",
+    "type": "magic_item"
+  },
+  {
+    "slug": "sovereign-glue",
+    "type": "magic_item"
+  },
+  {
+    "slug": "spell-scroll-cantrip",
+    "type": "magic_item"
+  },
+  {
+    "slug": "spell-scroll-1st",
+    "type": "magic_item"
+  },
+  {
+    "slug": "spell-scroll-2nd",
+    "type": "magic_item"
+  },
+  {
+    "slug": "spell-scroll-3rd",
+    "type": "magic_item"
+  },
+  {
+    "slug": "spell-scroll-4th",
+    "type": "magic_item"
+  },
+  {
+    "slug": "spell-scroll-5th",
+    "type": "magic_item"
+  },
+  {
+    "slug": "spell-scroll-6th",
+    "type": "magic_item"
+  },
+  {
+    "slug": "spell-scroll-7th",
+    "type": "magic_item"
+  },
+  {
+    "slug": "spell-scroll-8th",
+    "type": "magic_item"
+  },
+  {
+    "slug": "spell-scroll-9th",
+    "type": "magic_item"
+  },
+  {
+    "slug": "spellguard-shield",
+    "type": "magic_item"
+  },
+  {
+    "slug": "sphere-of-annihilation",
+    "type": "magic_item"
+  },
+  {
+    "slug": "staff-of-charming",
+    "type": "magic_item"
+  },
+  {
+    "slug": "staff-of-fire",
+    "type": "magic_item"
+  },
+  {
+    "slug": "staff-of-frost",
+    "type": "magic_item"
+  },
+  {
+    "slug": "staff-of-healing",
+    "type": "magic_item"
+  },
+  {
+    "slug": "staff-of-power",
+    "type": "magic_item"
+  },
+  {
+    "slug": "staff-of-striking",
+    "type": "magic_item"
+  },
+  {
+    "slug": "staff-of-swarming-insects",
+    "type": "magic_item"
+  },
+  {
+    "slug": "staff-of-the-magi",
+    "type": "magic_item"
+  },
+  {
+    "slug": "staff-of-the-python",
+    "type": "magic_item"
+  },
+  {
+    "slug": "staff-of-the-woodlands",
+    "type": "magic_item"
+  },
+  {
+    "slug": "staff-of-thunder-and-lightning",
+    "type": "magic_item"
+  },
+  {
+    "slug": "staff-of-withering",
+    "type": "magic_item"
+  },
+  {
+    "slug": "stone-of-controlling-earth-elementals",
+    "type": "magic_item"
+  },
+  {
+    "slug": "stone-of-good-luck-luckstone",
+    "type": "magic_item"
+  },
+  {
+    "slug": "sun-blade",
+    "type": "magic_item"
+  },
+  {
+    "slug": "sword-of-life-stealing",
+    "type": "magic_item"
+  },
+  {
+    "slug": "sword-of-sharpness",
+    "type": "magic_item"
+  },
+  {
+    "slug": "sword-of-wounding",
+    "type": "magic_item"
+  },
+  {
+    "slug": "talisman-of-pure-good",
+    "type": "magic_item"
+  },
+  {
+    "slug": "talisman-of-the-sphere",
+    "type": "magic_item"
+  },
+  {
+    "slug": "talisman-of-ultimate-evil",
+    "type": "magic_item"
+  },
+  {
+    "slug": "tome-of-clear-thought",
+    "type": "magic_item"
+  },
+  {
+    "slug": "tome-of-leadership-and-influence",
+    "type": "magic_item"
+  },
+  {
+    "slug": "tome-of-understanding",
+    "type": "magic_item"
+  },
+  {
+    "slug": "trident-of-fish-command",
+    "type": "magic_item"
+  },
+  {
+    "slug": "universal-solvent",
+    "type": "magic_item"
+  },
+  {
+    "slug": "vicious-weapon",
+    "type": "magic_item"
+  },
+  {
+    "slug": "vorpal-sword",
+    "type": "magic_item"
+  },
+  {
+    "slug": "wand-of-binding",
+    "type": "magic_item"
+  },
+  {
+    "slug": "wand-of-enemy-detection",
+    "type": "magic_item"
+  },
+  {
+    "slug": "wand-of-fear",
+    "type": "magic_item"
+  },
+  {
+    "slug": "wand-of-fireballs",
+    "type": "magic_item"
+  },
+  {
+    "slug": "wand-of-lightning-bolts",
+    "type": "magic_item"
+  },
+  {
+    "slug": "wand-of-magic-detection",
+    "type": "magic_item"
+  },
+  {
+    "slug": "wand-of-magic-missiles",
+    "type": "magic_item"
+  },
+  {
+    "slug": "wand-of-paralysis",
+    "type": "magic_item"
+  },
+  {
+    "slug": "wand-of-polymorph",
+    "type": "magic_item"
+  },
+  {
+    "slug": "wand-of-secrets",
+    "type": "magic_item"
+  },
+  {
+    "slug": "wand-of-the-war-mage-1",
+    "type": "magic_item"
+  },
+  {
+    "slug": "wand-of-the-war-mage-2",
+    "type": "magic_item"
+  },
+  {
+    "slug": "wand-of-the-war-mage-3",
+    "type": "magic_item"
+  },
+  {
+    "slug": "wand-of-web",
+    "type": "magic_item"
+  },
+  {
+    "slug": "wand-of-wonder",
+    "type": "magic_item"
+  },
+  {
+    "slug": "weapon-1",
+    "type": "magic_item"
+  },
+  {
+    "slug": "weapon-2",
+    "type": "magic_item"
+  },
+  {
+    "slug": "weapon-3",
+    "type": "magic_item"
+  },
+  {
+    "slug": "well-of-many-worlds",
+    "type": "magic_item"
+  },
+  {
+    "slug": "wind-fan",
+    "type": "magic_item"
+  },
+  {
+    "slug": "winged-boots",
+    "type": "magic_item"
+  },
+  {
+    "slug": "wings-of-flying",
+    "type": "magic_item"
+  },
+  {
+    "slug": "orb-of-dragonkind",
+    "type": "magic_item"
   }
 ]

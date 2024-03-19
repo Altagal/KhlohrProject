@@ -1,0 +1,34 @@
+<div class="card-header">
+    <div class="card-head-row">
+        <div class="card-title">{{card.name}}</div>
+        <div class="card-tools">
+            <button class="btn btn-danger" id="store_card"><i class="fa fa-print"></i></button>
+        </div>
+    </div>
+    <div class="card-head-row">
+        <div class="card-category mt-0">Magic Item - {{card.rarity.name}} - {{card.category.name}}</div>
+    </div>
+</div>
+<div class="card-body">
+    <div class="row mb-3">
+        <div class="col">
+            {% if card.requires_attunement %}
+            <div class="row">
+                <div class="col">
+                    <p>
+                        {{card.requires_attunement}}
+                    </p>
+                </div>
+            </div>
+            {% endif %}
+            {% autoescape off %}
+            {{card.desc}}
+            {% endautoescape %}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <button class="btn btn-light btn-xs" disabled=""><b>Source:</b> {{card.source.name}}</button>
+        </div>
+    </div>
+</div>

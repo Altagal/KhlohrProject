@@ -1,0 +1,19 @@
+<tr>
+    <td colspan="8" class="card_type">
+        <div class="reduce_to_fit">
+            Magic Item - {{card.rarity.name}} - {{card.category.name}}
+        </div>
+    </td>
+</tr>
+<tr class="card_description">
+    <td colspan="8">
+        <div style="font-size:mm">
+            {% if card.requires_attunement %}
+            <p style="text-align: center;">{{card.requires_attunement}}</p>
+            {% endif %}
+            {% autoescape on %}
+            {{ card.desc | safe }}
+            {% endautoescape %}
+        </div>
+    </td>
+</tr>

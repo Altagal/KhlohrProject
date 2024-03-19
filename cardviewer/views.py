@@ -29,20 +29,20 @@ def card_view(request, card_slug):
             'card': card,
             'range': range(10),
             'table_list': magic_school_spell_list,
-            }
+        }
     # IF CLASS
     elif card["type"]["slug"] == "class":
         context = {
             'card': card,
             'level_range': range(1, 21),
             'class_feature_list': get_deck("class_feature"),
-            }
+        }
     # IF SUBCLASS
     elif card["type"]["slug"] == "subclass":
         context = {
             'card': card,
             'subclass_feature_list': get_deck("subclass_feature")
-            }
+        }
     # IF MONSTER
     elif card["type"]["slug"] == "monster":
         context = {
@@ -51,11 +51,11 @@ def card_view(request, card_slug):
             'monster_action_list': get_deck("monster_action"),
             'monster_reaction_list': get_deck("monster_reaction"),
             'monster_legendary_action_list': get_deck("monster_legendary_action")
-            }
+        }
     else:
         context = {
             'card': card,
-            }
+        }
 
     return render(request, 'cardviewer/card_view.html', context)
 
@@ -170,3 +170,13 @@ def monster_list(request):
     }
 
     return render(request, 'cardviewer/monster_table_view.html', context)
+
+
+def magic_item_list(request):
+    context = {
+        "plural_type_name": "Itens",
+        "rarity_list": ["Common", "Uncommon", "Rare", "Very Rare", "Legendary", "Artifact", "Other"],
+        "table_list": get_deck("magic_item"),
+    }
+
+    return render(request, 'cardviewer/magic_item_table_view.html', context)

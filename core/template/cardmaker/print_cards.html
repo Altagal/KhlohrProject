@@ -30,7 +30,8 @@
         {% include 'cardmaker/card_feat.html'%}
         {% elif card.type.slug == "class" %}
         {% include 'cardmaker/card_class.html'%}
-
+        {% elif card.type.slug == "magic_item" %}
+        {% include 'cardmaker/card_magic_item.html'%}
         {% else %}
         {% include 'cardmaker/card_generic.html'%}
         {% endif %}

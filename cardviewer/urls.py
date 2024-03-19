@@ -7,6 +7,7 @@ urlpatterns = [
 
     path('spells', views.spell_list, name='spell_list'),
     path('itens', views.item_list, name='item_list'),
+    path('magic-itens', views.magic_item_list, name='magic_item_list'),
     path('infusions', views.infusion_list, name='infusion_list'),
     path('ability-scores-and-skills', views.ability_score_skill_list, name='ability_score_skill_list'),
     path('feats', views.feat_list, name='feat_list'),
