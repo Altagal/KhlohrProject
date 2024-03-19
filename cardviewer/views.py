@@ -174,7 +174,7 @@ def monster_list(request):
 
 def magic_item_list(request):
     context = {
-        "plural_type_name": "Itens",
+        "plural_type_name": "Magic Itens",
         "rarity_list": ["Common", "Uncommon", "Rare", "Very Rare", "Legendary", "Artifact", "Other"],
         "table_list": get_deck("magic_item"),
     }
