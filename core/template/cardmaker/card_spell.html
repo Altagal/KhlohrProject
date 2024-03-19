@@ -1,7 +1,7 @@
 <tr>
     <td colspan="8" class="card_type">
         <div class="reduce_to_fit">
-            {{card.type.name | title}} - {% if card.level == 0 %}Cantrip{% else %}{{card.level}}º Level{% endif %} of {{card.magic_school.name}}{% if card.is_ritual or card.is_chronomancy or card.is_renaissance %} -{% endif %}{% if card.is_ritual %} Ritual{% endif %}{% if card.is_chronomancy %} Chronomancy{% endif %}{% if card.is_renaissance %} Renaissance{% endif %}
+            Spell - {% if card.level == 0 %}Cantrip{% else %}{{card.level}}º Level{% endif %} of {{card.magic_school.name}}{% if card.is_ritual or card.is_chronomancy or card.is_renaissance %} -{% endif %}{% if card.is_ritual %} Ritual{% endif %}{% if card.is_chronomancy %} Chronomancy{% endif %}{% if card.is_renaissance %} Renaissance{% endif %}
         </div>
     </td>
 </tr>
