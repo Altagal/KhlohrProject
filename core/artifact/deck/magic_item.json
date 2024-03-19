@@ -4692,7 +4692,7 @@
       "slug": "magic_item",
       "name": "Magic Item"
     },
-    "desc": "<p>You regain 2d4 + 2 hit points when you drink this potion. The potion's red liquid glimmers when agitated.</p>",
+    "desc": "<p>The potion's red liquid glimmers when agitated.</p><p>You regain 2d4 + 2 hit points when you drink this potion.</p>",
     "rarity": {
       "slug": "common",
       "name": "Common"
@@ -4714,7 +4714,7 @@
       "slug": "magic_item",
       "name": "Magic Item"
     },
-    "desc": "<p>You regain 4d4 + 4 hit points when you drink this potion. The potion's red liquid glimmers when agitated.</p>",
+    "desc": "<p>The potion's red liquid glimmers when agitated.</p><p>You regain 4d4 + 4 hit points when you drink this potion.</p>",
     "rarity": {
       "slug": "uncommon",
       "name": "Uncommon"
@@ -4736,7 +4736,7 @@
       "slug": "magic_item",
       "name": "Magic Item"
     },
-    "desc": "<p>You regain 8d4 + 8 hit points when you drink this potion. The potion's red liquid glimmers when agitated.</p>",
+    "desc": "<p>The potion's red liquid glimmers when agitated.</p><p>You regain 8d4 + 8 hit points when you drink this potion.</p>",
     "rarity": {
       "slug": "rare",
       "name": "Rare"
@@ -4758,7 +4758,7 @@
       "slug": "magic_item",
       "name": "Magic Item"
     },
-    "desc": "<p>You regain 10d4 + 20 hit points when you drink this potion. The potion's red liquid glimmers when agitated.</p>",
+    "desc": "<p>The potion's red liquid glimmers when agitated.</p><p>You regain 10d4 + 20 hit points when you drink this potion.</p>",
     "rarity": {
       "slug": "very-rare",
       "name": "Very Rare"
