@@ -1,0 +1,59 @@
+{% extends "layout/base.html" %}
+{% load static %}
+{% block title %}Armors{% endblock %}
+{% block stylesheet %}{% endblock %}
+{% block content %}
+<div class="page-inner">
+    <div class="row">
+        <div class="col">
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">Armors</div>
+                </div>
+                <div class="card-body">
+                    <div class="tab-content">
+                        <div class="tab-pane fade active show" id="tab-rarity-all" role="tabpanel" aria-labelledby="pills-contact-tab">
+                            <div class="table-responsive">
+                                <table class="table table-hover no-paging-table">
+                                    <thead>
+                                    <tr>
+                                        <th scope="col" style="width: 35%;">Name</th>
+                                        <th scope="col" style="width: 10%;">Type</th>
+                                        <th scope="col" style="width: 15%;">Cost</th>
+                                        <th scope="col" style="width: 35%;">Armor Class</th>
+                                        <th scope="col" style="width: 5%;">Strength</th>
+                                        <th scope="col" style="width: 5%;">Stealth</th>
+                                        <th scope="col" style="width: 5%;">Weight</th>
+                                        <th class="text-center" scope="col"></th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    {% for armor in table_list %}
+                                    <tr>
+                                        <td>{{armor.name}}</td>
+
+                                        <td>{{armor.armor_category.name}}</td>
+                                        <td>{{armor.cost.quantity}} {{armor.cost.unit}}</td>
+                                        <td>{{armor.armor_class}} {% if armor.dex_bonus %}+ Dex{% endif %}{% if armor.dex_max_bonus %} (max {{armor.dex_max_bonus}}){% endif %}</td>
+                                        <td>{% if armor.str_min %}Str {{armor.str_min}} {% endif %}</td>
+                                        <td>{% if armor.stealth_disadvantage %}Disadvantage on stealth{% endif %}</td>
+                                        <td>{% if armor.weight %}{{armor.weight}} lb.{% endif %}</td>
+                                        <td>
+                                            <a href="{% url 'card_view' armor.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                        </td>
+                                    </tr>
+                                    {% endfor %}
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+{% block javascript %}
+<script src="{% static 'assets/js/custom/table_view_script.js' %}"></script>
+{% endblock %}

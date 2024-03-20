@@ -1,0 +1,40 @@
+<div class="card-header">
+    <div class="card-head-row">
+        <div class="card-title">{{card.name}}</div>
+        <div class="card-tools">
+            <button class="btn btn-danger" id="store_card"><i class="fa fa-print"></i></button>
+        </div>
+    </div>
+    <div class="card-head-row">
+        <div class="card-category mt-0">Armor - {{card.armor_category.name}}</div>
+    </div>
+</div>
+<div class="card-body">
+    <div class="row">
+        <div class="col">
+            <p>
+                <b>Cost</b>: {{card.cost.quantity}} {{card.cost.unit}}
+            </p>
+        </div>
+        <div class="col">
+            <p>
+                <b>Weight</b>: {{card.weight}} lb.
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <p>
+                <b>Armor Class</b>:{% if card.plus_armor %} +{% endif %} {{card.armor_class}} {% if card.dex_bonus %}+ Dex{% endif %}{% if card.dex_max_bonus %} (max {{card.dex_max_bonus}}){% endif %}<br>
+                {% if card.str_min %}<b>Requires Strength</b>: {{card.str_min}}<br>{% endif %}
+                {% if card.stealth_disadvantage %}<b>Disadvantage on Stealth</b><br>{% endif %}
+            </p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col">
+            <button class="btn btn-light btn-xs" disabled=""><b>Source:</b> {{card.source.name}}</button>
+        </div>
+    </div>
+</div>

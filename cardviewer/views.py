@@ -79,16 +79,6 @@ def spell_list(request):
     return render(request, 'cardviewer/spell_table_view.html', context)
 
 
-def item_list(request):
-    context = {
-        "plural_type_name": "Itens",
-        "rarity_list": ["Common", "Uncommon", "Rare", "Very Rare", "Legendary", "Artifact", "Other"],
-        "table_list": get_deck("item"),
-    }
-
-    return render(request, 'cardviewer/item_table_view.html', context)
-
-
 def infusion_list(request):
     context = {
         "plural_type_name": "Infusions",
@@ -180,3 +170,11 @@ def magic_item_list(request):
     }
 
     return render(request, 'cardviewer/magic_item_table_view.html', context)
+
+
+def armor_list(request):
+    context = {
+        "table_list": get_deck("armor"),
+    }
+
+    return render(request, 'cardviewer/armor_table_view.html', context)

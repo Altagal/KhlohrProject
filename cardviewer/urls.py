@@ -6,7 +6,6 @@ urlpatterns = [
     path('card/<slug:card_slug>', views.card_view, name='card_view'),
 
     path('spells', views.spell_list, name='spell_list'),
-    path('itens', views.item_list, name='item_list'),
     path('magic-itens', views.magic_item_list, name='magic_item_list'),
     path('infusions', views.infusion_list, name='infusion_list'),
     path('ability-scores-and-skills', views.ability_score_skill_list, name='ability_score_skill_list'),
@@ -17,5 +16,5 @@ urlpatterns = [
     path('battle-maneuvers', views.battle_maneuver_list, name='battle_maneuver_list'),
     path('fighting-styles', views.fighting_style_list, name='fighting_style_list'),
     path('monsters', views.monster_list, name='monster_list'),
-
+    path('armors', views.armor_list, name='armor_list'),
 ]

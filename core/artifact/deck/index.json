@@ -1132,7 +1132,7 @@
     "type": "spell"
   },
   {
-    "slug": "shield",
+    "slug": "shield-spell",
     "type": "spell"
   },
   {
@@ -12114,5 +12114,57 @@
   {
     "slug": "orb-of-dragonkind",
     "type": "magic_item"
+  },
+  {
+    "slug": "padded-armor",
+    "type": "armor"
+  },
+  {
+    "slug": "leather-armor",
+    "type": "armor"
+  },
+  {
+    "slug": "studded-leather-armor",
+    "type": "armor"
+  },
+  {
+    "slug": "hide-armor",
+    "type": "armor"
+  },
+  {
+    "slug": "chain-shirt",
+    "type": "armor"
+  },
+  {
+    "slug": "scale-mail",
+    "type": "armor"
+  },
+  {
+    "slug": "breastplate",
+    "type": "armor"
+  },
+  {
+    "slug": "half-plate-armor",
+    "type": "armor"
+  },
+  {
+    "slug": "ring-mail",
+    "type": "armor"
+  },
+  {
+    "slug": "chain-mail",
+    "type": "armor"
+  },
+  {
+    "slug": "splint-armor",
+    "type": "armor"
+  },
+  {
+    "slug": "plate-armor",
+    "type": "armor"
+  },
+  {
+    "slug": "shield",
+    "type": "armor"
   }
 ]

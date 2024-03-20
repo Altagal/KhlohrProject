@@ -1,0 +1,366 @@
+[
+  {
+    "slug": "padded-armor",
+    "name": "Padded Armor",
+    "type": {
+      "slug": "armor",
+      "name": "Armor"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 5,
+      "unit": "gp"
+    },
+    "armor_class": 11,
+    "plus_armor": false,
+    "dex_bonus": true,
+    "dex_max_bonus": false,
+    "str_min": false,
+    "stealth_disadvantage": true,
+    "weight": 8,
+    "armor_category": {
+      "slug": "light-armor",
+      "name": "Light Armor"
+    },
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "leather-armor",
+    "name": "Leather Armor",
+    "type": {
+      "slug": "armor",
+      "name": "Armor"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 10,
+      "unit": "gp"
+    },
+    "armor_class": 11,
+    "plus_armor": false,
+    "dex_bonus": true,
+    "dex_max_bonus": false,
+    "str_min": false,
+    "stealth_disadvantage": false,
+    "weight": 10,
+    "armor_category": {
+      "slug": "light-armor",
+      "name": "Light Armor"
+    },
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "studded-leather-armor",
+    "name": "Studded Leather Armor",
+    "type": {
+      "slug": "armor",
+      "name": "Armor"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 45,
+      "unit": "gp"
+    },
+    "armor_class": 12,
+    "plus_armor": false,
+    "dex_bonus": true,
+    "dex_max_bonus": false,
+    "str_min": false,
+    "stealth_disadvantage": false,
+    "weight": 13,
+    "armor_category": {
+      "slug": "light-armor",
+      "name": "Light Armor"
+    },
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "hide-armor",
+    "name": "Hide Armor",
+    "type": {
+      "slug": "armor",
+      "name": "Armor"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 10,
+      "unit": "gp"
+    },
+    "armor_class": 12,
+    "plus_armor": false,
+    "dex_bonus": true,
+    "dex_max_bonus": 2,
+    "str_min": false,
+    "stealth_disadvantage": false,
+    "weight": 12,
+    "armor_category": {
+      "slug": "medium-armor",
+      "name": "Medium Armor"
+    },
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "chain-shirt",
+    "name": "Chain Shirt",
+    "type": {
+      "slug": "armor",
+      "name": "Armor"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 50,
+      "unit": "gp"
+    },
+    "armor_class": 13,
+    "plus_armor": false,
+    "dex_bonus": true,
+    "dex_max_bonus": 2,
+    "str_min": false,
+    "stealth_disadvantage": false,
+    "weight": 20,
+    "armor_category": {
+      "slug": "medium-armor",
+      "name": "Medium Armor"
+    },
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "scale-mail",
+    "name": "Scale Mail",
+    "type": {
+      "slug": "armor",
+      "name": "Armor"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 50,
+      "unit": "gp"
+    },
+    "armor_class": 14,
+    "plus_armor": false,
+    "dex_bonus": true,
+    "dex_max_bonus": 2,
+    "str_min": false,
+    "stealth_disadvantage": true,
+    "weight": 45,
+    "armor_category": {
+      "slug": "medium-armor",
+      "name": "Medium Armor"
+    },
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "breastplate",
+    "name": "Breastplate",
+    "type": {
+      "slug": "armor",
+      "name": "Armor"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 400,
+      "unit": "gp"
+    },
+    "armor_class": 14,
+    "plus_armor": false,
+    "dex_bonus": true,
+    "dex_max_bonus": 2,
+    "str_min": false,
+    "stealth_disadvantage": false,
+    "weight": 20,
+    "armor_category": {
+      "slug": "medium-armor",
+      "name": "Medium Armor"
+    },
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "half-plate-armor",
+    "name": "Half Plate Armor",
+    "type": {
+      "slug": "armor",
+      "name": "Armor"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 750,
+      "unit": "gp"
+    },
+    "armor_class": 15,
+    "plus_armor": false,
+    "dex_bonus": true,
+    "dex_max_bonus": 2,
+    "str_min": false,
+    "stealth_disadvantage": true,
+    "weight": 40,
+    "armor_category": {
+      "slug": "medium-armor",
+      "name": "Medium Armor"
+    },
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "ring-mail",
+    "name": "Ring Mail",
+    "type": {
+      "slug": "armor",
+      "name": "Armor"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 30,
+      "unit": "gp"
+    },
+    "armor_class": 14,
+    "plus_armor": false,
+    "dex_bonus": false,
+    "dex_max_bonus": false,
+    "str_min": false,
+    "stealth_disadvantage": true,
+    "weight": 40,
+    "armor_category": {
+      "slug": "heavy-armor",
+      "name": "Heavy Armor"
+    },
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "chain-mail",
+    "name": "Chain Mail",
+    "type": {
+      "slug": "armor",
+      "name": "Armor"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 75,
+      "unit": "gp"
+    },
+    "armor_class": 16,
+    "plus_armor": false,
+    "dex_bonus": false,
+    "dex_max_bonus": false,
+    "str_min": 13,
+    "stealth_disadvantage": true,
+    "weight": 55,
+    "armor_category": {
+      "slug": "heavy-armor",
+      "name": "Heavy Armor"
+    },
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "splint-armor",
+    "name": "Splint Armor",
+    "type": {
+      "slug": "armor",
+      "name": "Armor"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 200,
+      "unit": "gp"
+    },
+    "armor_class": 17,
+    "plus_armor": false,
+    "dex_bonus": false,
+    "dex_max_bonus": false,
+    "str_min": 15,
+    "stealth_disadvantage": true,
+    "weight": 60,
+    "armor_category": {
+      "slug": "heavy-armor",
+      "name": "Heavy Armor"
+    },
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "plate-armor",
+    "name": "Plate Armor",
+    "type": {
+      "slug": "armor",
+      "name": "Armor"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 1500,
+      "unit": "gp"
+    },
+    "armor_class": 18,
+    "plus_armor": false,
+    "dex_bonus": false,
+    "dex_max_bonus": false,
+    "str_min": 15,
+    "stealth_disadvantage": true,
+    "weight": 65,
+    "armor_category": {
+      "slug": "heavy-armor",
+      "name": "Heavy Armor"
+    },
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "shield",
+    "name": "Shield",
+    "type": {
+      "slug": "armor",
+      "name": "Armor"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 10,
+      "unit": "gp"
+    },
+    "armor_class": 2,
+    "plus_armor": true,
+    "dex_bonus": false,
+    "dex_max_bonus": false,
+    "str_min": false,
+    "stealth_disadvantage": false,
+    "weight": 6,
+    "armor_category": {
+      "slug": "shield",
+      "name": "Shield"
+    },
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  }
+]
