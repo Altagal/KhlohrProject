@@ -10329,7 +10329,7 @@
     }
   },
   {
-    "slug": "shield",
+    "slug": "shield-spell",
     "name": "Shield",
     "type": {
       "slug": "spell",
