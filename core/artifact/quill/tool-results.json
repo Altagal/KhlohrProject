@@ -374,50 +374,6 @@
     }
   },
   {
-    "slug": "disguise-kit",
-    "name": "Disguise Kit",
-    "type": {
-      "slug": "tool",
-      "name": "Tool"
-    },
-    "desc": "<p>This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.</p>",
-    "cost": {
-      "quantity": 25,
-      "unit": "gp"
-    },
-    "weight": 3,
-    "tool_category": {
-      "slug": "kit",
-      "name": "Kit"
-    },
-    "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
-    }
-  },
-  {
-    "slug": "forgery-kit",
-    "name": "Forgery Kit",
-    "type": {
-      "slug": "tool",
-      "name": "Tool"
-    },
-    "desc": "<p>This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.</p>",
-    "cost": {
-      "quantity": 15,
-      "unit": "gp"
-    },
-    "weight": 5,
-    "tool_category": {
-      "slug": "kit",
-      "name": "Kit"
-    },
-    "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
-    }
-  },
-  {
     "slug": "dice-set",
     "name": "Dice Set",
     "type": {
@@ -455,28 +411,6 @@
     "tool_category": {
       "slug": "gaming-sets",
       "name": "Gaming Sets"
-    },
-    "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
-    }
-  },
-  {
-    "slug": "herbalism-kit",
-    "name": "Herbalism Kit",
-    "type": {
-      "slug": "tool",
-      "name": "Tool"
-    },
-    "desc": "<p>This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing.</p>",
-    "cost": {
-      "quantity": 5,
-      "unit": "gp"
-    },
-    "weight": 3,
-    "tool_category": {
-      "slug": "kit",
-      "name": "Kit"
     },
     "source": {
       "slug": "PHB",
@@ -717,28 +651,6 @@
     },
     "weight": 2,
     "tool_category": false,
-    "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
-    }
-  },
-  {
-    "slug": "poisoners-kit",
-    "name": "Poisoner's Kit",
-    "type": {
-      "slug": "tool",
-      "name": "Tool"
-    },
-    "desc": "<p>A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.</p>",
-    "cost": {
-      "quantity": 50,
-      "unit": "gp"
-    },
-    "weight": 2,
-    "tool_category": {
-      "slug": "kit",
-      "name": "Kit"
-    },
     "source": {
       "slug": "PHB",
       "name": "Player's Handbook"

@@ -777,7 +777,7 @@
       "slug": "adventuring_gear",
       "name": "Adventuring Gear"
     },
-    "desc": "<p> A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).</p>",
+    "desc": "<p>A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).</p>",
     "cost": {
       "quantity": 25,
       "unit": "gp"
@@ -1140,72 +1140,6 @@
       "unit": "gp"
     },
     "weight": 12,
-    "gear_category": {
-      "slug": "kit",
-      "name": "Kit"
-    },
-    "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
-    }
-  },
-  {
-    "slug": "disguise-kit",
-    "name": "Disguise Kit",
-    "type": {
-      "slug": "adventuring_gear",
-      "name": "Adventuring Gear"
-    },
-    "desc": "<p>This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.</p>",
-    "cost": {
-      "quantity": 25,
-      "unit": "gp"
-    },
-    "weight": 3,
-    "gear_category": {
-      "slug": "kit",
-      "name": "Kit"
-    },
-    "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
-    }
-  },
-  {
-    "slug": "forgery-kit",
-    "name": "Forgery Kit",
-    "type": {
-      "slug": "adventuring_gear",
-      "name": "Adventuring Gear"
-    },
-    "desc": "<p>This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.</p>",
-    "cost": {
-      "quantity": 15,
-      "unit": "gp"
-    },
-    "weight": 5,
-    "gear_category": {
-      "slug": "kit",
-      "name": "Kit"
-    },
-    "source": {
-      "slug": "PHB",
-      "name": "Player's Handbook"
-    }
-  },
-  {
-    "slug": "herbalism-kit",
-    "name": "Herbalism Kit",
-    "type": {
-      "slug": "adventuring_gear",
-      "name": "Adventuring Gear"
-    },
-    "desc": "<p>This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing.</p>",
-    "cost": {
-      "quantity": 5,
-      "unit": "gp"
-    },
-    "weight": 3,
     "gear_category": {
       "slug": "kit",
       "name": "Kit"

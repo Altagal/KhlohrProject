@@ -194,3 +194,11 @@ def adventuring_gear_list(request):
     }
 
     return render(request, 'cardviewer/adventuring_gear_table_view.html', context)
+
+
+def tool_list(request):
+    context = {
+        "table_list": get_deck("tool"),
+    }
+
+    return render(request, 'cardviewer/tool_table_view.html', context)

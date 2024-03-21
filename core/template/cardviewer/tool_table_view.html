@@ -1,0 +1,52 @@
+{% extends "layout/base.html" %}
+{% load static %}
+{% block title %}Tools{% endblock %}
+{% block stylesheet %}{% endblock %}
+{% block content %}
+<div class="page-inner">
+    <div class="row">
+        <div class="col">
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">Tools</div>
+                </div>
+                <div class="card-body">
+                    <div class="tab-content">
+                        <div class="tab-pane fade active show" id="tab-rarity-all" role="tabpanel" aria-labelledby="pills-contact-tab">
+                            <div class="table-responsive">
+                                <table class="table table-hover generic-table">
+                                    <thead>
+                                    <tr>
+                                        <th scope="col" style="width: 40%;">Name</th>
+                                        <th scope="col" style="width: 40%;">Category</th>
+                                        <th scope="col" style="width: 15%;">Cost</th>
+                                        <th scope="col" style="width: 10%;">Weight</th>
+                                        <th class="text-center" scope="col"></th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    {% for tool in table_list %}
+                                    <tr>
+                                        <td>{{tool.name}}</td>
+                                        <td>{{tool.tool_category.name}}</td>
+                                        <td>{{tool.cost.quantity}} {{tool.cost.unit}}</td>
+                                        <td>{% if tool.weight %}{{tool.weight}} lb.{% endif %}</td>
+                                        <td>
+                                            <a href="{% url 'card_view' tool.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                        </td>
+                                    </tr>
+                                    {% endfor %}
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+{% block javascript %}
+<script src="{% static 'assets/js/custom/table_view_script.js' %}"></script>
+{% endblock %}
