@@ -186,3 +186,11 @@ def weapon_list(request):
     }
 
     return render(request, 'cardviewer/weapon_table_view.html', context)
+
+
+def adventuring_gear_list(request):
+    context = {
+        "table_list": get_deck("adventuring_gear"),
+    }
+
+    return render(request, 'cardviewer/adventuring_gear_table_view.html', context)

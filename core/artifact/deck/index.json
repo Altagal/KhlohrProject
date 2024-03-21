@@ -12314,5 +12314,469 @@
   {
     "slug": "net",
     "type": "weapon"
+  },
+    {
+    "slug": "abacus",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "acid-vial",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "alchemists-fire-flask",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "alms-box",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "arrow",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "block-of-incense",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "blowgun-needle",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "censer",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "crossbow-bolt",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "sling-bullet",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "amulet",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "antitoxin-vial",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "crystal",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "orb",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "rod",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "staff",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "wand",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "backpack",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "ball-bearings-bag-of-1000",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "barrel",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "basket",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "bedroll",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "bell",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "blanket",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "block-and-tackle",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "book",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "bottle-glass",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "bucket",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "caltrops",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "candle",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "case-crossbow-bolt",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "case-map-or-scroll",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "chain-10-feet",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "chalk-1-piece",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "chest",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "clothes-common",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "clothes-costume",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "clothes-fine",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "clothes-travelers",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "component-pouch",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "crowbar",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "sprig-of-mistletoe",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "totem",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "wooden-staff",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "yew-wand",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "emblem",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "fishing-tackle",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "flask-or-tankard",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "grappling-hook",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "hammer",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "hammer-sledge",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "holy-water-flask",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "hourglass",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "hunting-trap",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "ink-1-ounce-bottle",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "ink-pen",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "jug-or-pitcher",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "climbers-kit",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "disguise-kit",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "forgery-kit",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "herbalism-kit",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "healers-kit",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "mess-kit",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "poisoners-kit",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "ladder-10-foot",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "lamp",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "lantern-bullseye",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "lantern-hooded",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "little-bag-of-sand",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "lock",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "magnifying-glass",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "manacles",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "mirror-steel",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "oil-flask",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "paper-one-sheet",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "parchment-one-sheet",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "perfume-vial",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "pick-miners",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "piton",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "poison-basic-vial",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "pole-10-foot",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "pot-iron",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "pouch",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "quiver",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "ram-portable",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "rations-1-day",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "reliquary",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "robes",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "rope-hempen-50-feet",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "rope-silk-50-feet",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "sack",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "scale-merchants",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "sealing-wax",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "shovel",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "signal-whistle",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "signet-ring",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "small-knife",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "soap",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "spellbook",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "spike-iron",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "spyglass",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "string-10-feet",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "tent-two-person",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "tinderbox",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "torch",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "vestments",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "vial",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "waterskin",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "whetstone",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "burglars-pack",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "diplomats-pack",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "dungeoneers-pack",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "entertainers-pack",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "explorers-pack",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "priests-pack",
+    "type": "adventuring_gear"
+  },
+  {
+    "slug": "scholars-pack",
+    "type": "adventuring_gear"
   }
 ]

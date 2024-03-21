@@ -20,6 +20,8 @@
     {% include 'cardviewer/card_armor.html'%}
     {% elif card.type.slug == "weapon" %}
     {% include 'cardviewer/card_weapon.html'%}
+    {% elif card.type.slug == "adventuring_gear" %}
+    {% include 'cardviewer/card_adventuring_gear.html'%}
     {% else %}
     {% include 'cardviewer/card_generic.html'%}
     {% endif %}

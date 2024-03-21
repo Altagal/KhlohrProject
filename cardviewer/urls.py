@@ -18,4 +18,5 @@ urlpatterns = [
     path('monsters', views.monster_list, name='monster_list'),
     path('armors', views.armor_list, name='armor_list'),
     path('weapons', views.weapon_list, name='weapon_list'),
+    path('adventuring-gears', views.adventuring_gear_list, name='adventuring_gear_list'),
 ]
