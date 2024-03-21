@@ -6,10 +6,24 @@
         </div>
     </div>
     <div class="card-head-row">
-        <div class="card-category mt-0">Tool{% if card.gear_category %} - {{card.tool_category.name}}{% endif %}</div>
+        <div class="card-category mt-0">Tool{% if card.tool_category %} - {{card.tool_category.name}}{% endif %}</div>
     </div>
 </div>
 <div class="card-body">
+
+    <div class="row">
+        <div class="col">
+            <p>
+                <b>Cost</b>: {{card.cost.quantity}} {{card.cost.unit}}
+            </p>
+        </div>
+        <div class="col">
+            <p>
+                <b>Weight</b>: {{card.weight}} lb.
+            </p>
+        </div>
+    </div>
+
     {% autoescape off %}
     {{card.desc}}
     {% endautoescape %}
