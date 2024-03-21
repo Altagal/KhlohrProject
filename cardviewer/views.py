@@ -178,3 +178,11 @@ def armor_list(request):
     }
 
     return render(request, 'cardviewer/armor_table_view.html', context)
+
+
+def weapon_list(request):
+    context = {
+        "table_list": get_deck("weapon"),
+    }
+
+    return render(request, 'cardviewer/weapon_table_view.html', context)

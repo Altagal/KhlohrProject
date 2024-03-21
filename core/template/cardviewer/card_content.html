@@ -18,6 +18,8 @@
     {% include 'cardviewer/card_magic_item.html'%}
     {% elif card.type.slug == "armor" %}
     {% include 'cardviewer/card_armor.html'%}
+    {% elif card.type.slug == "weapon" %}
+    {% include 'cardviewer/card_weapon.html'%}
     {% else %}
     {% include 'cardviewer/card_generic.html'%}
     {% endif %}

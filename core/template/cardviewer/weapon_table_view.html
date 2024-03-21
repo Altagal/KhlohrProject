@@ -1,0 +1,57 @@
+{% extends "layout/base.html" %}
+{% load static %}
+{% block title %}Weapons{% endblock %}
+{% block stylesheet %}{% endblock %}
+{% block content %}
+<div class="page-inner">
+    <div class="row">
+        <div class="col">
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">Weapons</div>
+                </div>
+                <div class="card-body">
+                    <div class="tab-content">
+                        <div class="tab-pane fade active show" id="tab-rarity-all" role="tabpanel" aria-labelledby="pills-contact-tab">
+                            <div class="table-responsive">
+                                <table class="table table-hover no-paging-table">
+                                    <thead>
+                                    <tr>
+                                        <th scope="col" style="width: 25%;">Name</th>
+                                        <th scope="col" style="width: 20%;">Damage</th>
+                                        <th scope="col" style="width: 20%;">Category</th>
+                                        <th scope="col" style="width: 10%;">Cost</th>
+                                        <th scope="col" style="width: 10%;">Weight</th>
+                                        <th scope="col" style="width: 40%;">Properties</th>
+                                        <th class="text-center" scope="col"></th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    {% for weapon in table_list %}
+                                    <tr>
+                                        <td>{{weapon.name}}</td>
+                                        <td>{% if weapon.damage %}{{weapon.damage.damage_dice}} {{weapon.damage.damage_type.name}}{% endif %}</td>
+                                        <td>{{weapon.weapon_category.name}} {{weapon.weapon_range.name}}</td>
+                                        <td>{{weapon.cost.quantity}} {{weapon.cost.unit}}</td>
+                                        <td>{{weapon.weight}} lb.</td>
+                                        <td>{% if weapon.special %}Special<br>{% endif %}{% for property in weapon.weapon_properties %}{{property.name}}{%if property.min_range and property.max_range %}({{property.min_range}}/{{property.max_range}}){% endif %}<br>{% endfor %}
+                                        </td>
+                                        <td>
+                                            <a href="{% url 'card_view' weapon.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                        </td>
+                                    </tr>
+                                    {% endfor %}
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+{% block javascript %}
+<script src="{% static 'assets/js/custom/table_view_script.js' %}"></script>
+{% endblock %}

@@ -1,52 +1,148 @@
   {
-    "slug": "padded-armor",
-    "type": "armor"
+    "slug": "club",
+    "type": "weapon"
   },
   {
-    "slug": "leather-armor",
-    "type": "armor"
+    "slug": "dagger",
+    "type": "weapon"
   },
   {
-    "slug": "studded-leather-armor",
-    "type": "armor"
+    "slug": "greatclub",
+    "type": "weapon"
   },
   {
-    "slug": "hide-armor",
-    "type": "armor"
+    "slug": "handaxe",
+    "type": "weapon"
   },
   {
-    "slug": "chain-shirt",
-    "type": "armor"
+    "slug": "javelin",
+    "type": "weapon"
   },
   {
-    "slug": "scale-mail",
-    "type": "armor"
+    "slug": "light-hammer",
+    "type": "weapon"
   },
   {
-    "slug": "breastplate",
-    "type": "armor"
+    "slug": "mace",
+    "type": "weapon"
   },
   {
-    "slug": "half-plate-armor",
-    "type": "armor"
+    "slug": "quarterstaff",
+    "type": "weapon"
   },
   {
-    "slug": "ring-mail",
-    "type": "armor"
+    "slug": "sickle",
+    "type": "weapon"
   },
   {
-    "slug": "chain-mail",
-    "type": "armor"
+    "slug": "spear",
+    "type": "weapon"
   },
   {
-    "slug": "splint-armor",
-    "type": "armor"
+    "slug": "crossbow-light",
+    "type": "weapon"
   },
   {
-    "slug": "plate-armor",
-    "type": "armor"
+    "slug": "dart",
+    "type": "weapon"
   },
   {
-    "slug": "shield",
-    "type": "armor"
+    "slug": "shortbow",
+    "type": "weapon"
+  },
+  {
+    "slug": "sling",
+    "type": "weapon"
+  },
+  {
+    "slug": "battleaxe",
+    "type": "weapon"
+  },
+  {
+    "slug": "flail",
+    "type": "weapon"
+  },
+  {
+    "slug": "glaive",
+    "type": "weapon"
+  },
+  {
+    "slug": "greataxe",
+    "type": "weapon"
+  },
+  {
+    "slug": "greatsword",
+    "type": "weapon"
+  },
+  {
+    "slug": "halberd",
+    "type": "weapon"
+  },
+  {
+    "slug": "lance",
+    "type": "weapon"
+  },
+  {
+    "slug": "longsword",
+    "type": "weapon"
+  },
+  {
+    "slug": "maul",
+    "type": "weapon"
+  },
+  {
+    "slug": "morningstar",
+    "type": "weapon"
+  },
+  {
+    "slug": "pike",
+    "type": "weapon"
+  },
+  {
+    "slug": "rapier",
+    "type": "weapon"
+  },
+  {
+    "slug": "scimitar",
+    "type": "weapon"
+  },
+  {
+    "slug": "shortsword",
+    "type": "weapon"
+  },
+  {
+    "slug": "trident",
+    "type": "weapon"
+  },
+  {
+    "slug": "war-pick",
+    "type": "weapon"
+  },
+  {
+    "slug": "warhammer",
+    "type": "weapon"
+  },
+  {
+    "slug": "whip",
+    "type": "weapon"
+  },
+  {
+    "slug": "blowgun",
+    "type": "weapon"
+  },
+  {
+    "slug": "crossbow-hand",
+    "type": "weapon"
+  },
+  {
+    "slug": "crossbow-heavy",
+    "type": "weapon"
+  },
+  {
+    "slug": "longbow",
+    "type": "weapon"
+  },
+  {
+    "slug": "net",
+    "type": "weapon"
   },

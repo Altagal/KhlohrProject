@@ -1,0 +1,57 @@
+<div class="card-header">
+    <div class="card-head-row">
+        <div class="card-title">{{card.name}}</div>
+        <div class="card-tools">
+            <button class="btn btn-danger" id="store_card"><i class="fa fa-print"></i></button>
+        </div>
+    </div>
+    <div class="card-head-row">
+        <div class="card-category mt-0">{{card.type.name}} - {{card.weapon_category.name}} {{card.weapon_range.name}}</div>
+    </div>
+</div>
+<div class="card-body">
+    <div class="row">
+        <div class="col">
+            <p>
+                <b>Cost</b>: {{card.cost.quantity}} {{card.cost.unit}}
+            </p>
+        </div>
+        <div class="col">
+            <p>
+                <b>Weight</b>: {{card.weight}} lb.
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <p>
+                <b>Damage</b>: {% if card.damage %}{{card.damage.damage_dice}} {{card.damage.damage_type.name}}{% else %} - {% endif %}
+            </p>
+        </div>
+    </div>
+    {% if card.weapon_properties%}
+    <div class="row">
+        <div class="col">
+            <p>
+                <b>Properties</b>: {% if card.special %}Special{% endif %}{% for property in card.weapon_properties %}{% if not forloop.first or card.special%}, {% endif %}{{property.name}}{%if property.min_range and property.max_range %}({{property.min_range}}/{{property.max_range}}){% endif %}{% endfor %}
+            </p>
+        </div>
+    </div>
+    {% endif %}
+
+    {% autoescape off %}
+    {{card.desc}}
+    {% endautoescape %}
+
+    {% if card.special %}
+    {% autoescape off %}
+    {{card.special}}
+    {% endautoescape %}
+    {% endif %}
+
+    <div class="row">
+        <div class="col">
+            <button class="btn btn-light btn-xs" disabled=""><b>Source:</b> {{card.source.name}}</button>
+        </div>
+    </div>
+</div>

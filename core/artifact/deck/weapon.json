@@ -1,0 +1,1647 @@
+[
+  {
+    "slug": "club",
+    "name": "Club",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 1,
+      "unit": "sp"
+    },
+    "weight": 2,
+    "damage": {
+      "damage_dice": "1d4",
+      "damage_type": {
+        "slug": "bludgeoning",
+        "name": "Bludgeoning"
+      }
+    },
+    "weapon_category": {
+      "slug": "simple",
+      "name": "Simple"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "light",
+        "name": "Light"
+      },
+      {
+        "slug": "monk",
+        "name": "Monk"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "dagger",
+    "name": "Dagger",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 2,
+      "unit": "gp"
+    },
+    "weight": 1,
+    "damage": {
+      "damage_dice": "1d4",
+      "damage_type": {
+        "slug": "piercing",
+        "name": "Piercing"
+      }
+    },
+    "weapon_category": {
+      "slug": "simple",
+      "name": "Simple"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "finesse",
+        "name": "Finesse"
+      },
+      {
+        "slug": "light",
+        "name": "Light"
+      },
+      {
+        "slug": "thrown",
+        "name": "Thrown",
+        "min_range": 20,
+        "max_range": 60
+      },
+      {
+        "slug": "monk",
+        "name": "Monk"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "greatclub",
+    "name": "Greatclub",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 2,
+      "unit": "sp"
+    },
+    "weight": 10,
+    "damage": {
+      "damage_dice": "1d8",
+      "damage_type": {
+        "slug": "bludgeoning",
+        "name": "Bludgeoning"
+      }
+    },
+    "weapon_category": {
+      "slug": "simple",
+      "name": "Simple"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "two-handed",
+        "name": "Two-Handed"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "handaxe",
+    "name": "Handaxe",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 5,
+      "unit": "gp"
+    },
+    "weight": 2,
+    "damage": {
+      "damage_dice": "1d6",
+      "damage_type": {
+        "slug": "slashing",
+        "name": "Slashing"
+      }
+    },
+    "weapon_category": {
+      "slug": "simple",
+      "name": "Simple"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "light",
+        "name": "Light"
+      },
+      {
+        "slug": "thrown",
+        "name": "Thrown",
+        "min_range": 20,
+        "max_range": 60
+      },
+      {
+        "slug": "monk",
+        "name": "Monk"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "javelin",
+    "name": "Javelin",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 5,
+      "unit": "sp"
+    },
+    "weight": 2,
+    "damage": {
+      "damage_dice": "1d6",
+      "damage_type": {
+        "slug": "piercing",
+        "name": "Piercing"
+      }
+    },
+    "weapon_category": {
+      "slug": "simple",
+      "name": "Simple"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "thrown",
+        "name": "Thrown",
+        "min_range": 30,
+        "max_range": 120
+      },
+      {
+        "slug": "monk",
+        "name": "Monk"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "light-hammer",
+    "name": "Light hammer",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 2,
+      "unit": "gp"
+    },
+    "weight": 2,
+    "damage": {
+      "damage_dice": "1d4",
+      "damage_type": {
+        "slug": "bludgeoning",
+        "name": "Bludgeoning"
+      }
+    },
+    "weapon_category": {
+      "slug": "simple",
+      "name": "Simple"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "light",
+        "name": "Light"
+      },
+      {
+        "slug": "thrown",
+        "name": "Thrown",
+        "min_range": 20,
+        "max_range": 60
+      },
+      {
+        "slug": "monk",
+        "name": "Monk"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "mace",
+    "name": "Mace",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 5,
+      "unit": "gp"
+    },
+    "weight": 4,
+    "damage": {
+      "damage_dice": "1d6",
+      "damage_type": {
+        "slug": "bludgeoning",
+        "name": "Bludgeoning"
+      }
+    },
+    "weapon_category": {
+      "slug": "simple",
+      "name": "Simple"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "monk",
+        "name": "Monk"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "quarterstaff",
+    "name": "Quarterstaff",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 2,
+      "unit": "sp"
+    },
+    "weight": 4,
+    "damage": {
+      "damage_dice": "1d6",
+      "damage_type": {
+        "slug": "bludgeoning",
+        "name": "Bludgeoning"
+      }
+    },
+    "weapon_category": {
+      "slug": "simple",
+      "name": "Simple"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "versatile",
+        "name": "Versatile"
+      },
+      {
+        "slug": "monk",
+        "name": "Monk"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "sickle",
+    "name": "Sickle",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 1,
+      "unit": "gp"
+    },
+    "weight": 2,
+    "damage": {
+      "damage_dice": "1d4",
+      "damage_type": {
+        "slug": "slashing",
+        "name": "Slashing"
+      }
+    },
+    "weapon_category": {
+      "slug": "simple",
+      "name": "Simple"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "light",
+        "name": "Light"
+      },
+      {
+        "slug": "monk",
+        "name": "Monk"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "spear",
+    "name": "Spear",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 1,
+      "unit": "gp"
+    },
+    "weight": 3,
+    "damage": {
+      "damage_dice": "1d6",
+      "damage_type": {
+        "slug": "piercing",
+        "name": "Piercing"
+      }
+    },
+    "weapon_category": {
+      "slug": "simple",
+      "name": "Simple"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "thrown",
+        "name": "Thrown",
+        "min_range": 20,
+        "max_range": 60
+      },
+      {
+        "slug": "versatile",
+        "name": "Versatile"
+      },
+      {
+        "slug": "monk",
+        "name": "Monk"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "crossbow-light",
+    "name": "Crossbow, light",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 25,
+      "unit": "gp"
+    },
+    "weight": 5,
+    "damage": {
+      "damage_dice": "1d8",
+      "damage_type": {
+        "slug": "piercing",
+        "name": "Piercing"
+      }
+    },
+    "weapon_category": {
+      "slug": "simple",
+      "name": "Simple"
+    },
+    "weapon_range": {
+      "slug": "ranged",
+      "name": "Ranged"
+    },
+    "weapon_properties": [
+      {
+        "slug": "ammunition",
+        "name": "Ammunition",
+        "min_range": 80,
+        "max_range": 320
+      },
+      {
+        "slug": "loading",
+        "name": "Loading"
+      },
+      {
+        "slug": "two-handed",
+        "name": "Two-Handed"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "dart",
+    "name": "Dart",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 5,
+      "unit": "cp"
+    },
+    "weight": 0.25,
+    "damage": {
+      "damage_dice": "1d4",
+      "damage_type": {
+        "slug": "piercing",
+        "name": "Piercing"
+      }
+    },
+    "weapon_category": {
+      "slug": "simple",
+      "name": "Simple"
+    },
+    "weapon_range": {
+      "slug": "ranged",
+      "name": "Ranged"
+    },
+    "weapon_properties": [
+      {
+        "slug": "finesse",
+        "name": "Finesse"
+      },
+      {
+        "slug": "thrown",
+        "name": "Thrown",
+        "min_range": 20,
+        "max_range": 60
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "shortbow",
+    "name": "Shortbow",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 25,
+      "unit": "gp"
+    },
+    "weight": 2,
+    "damage": {
+      "damage_dice": "1d6",
+      "damage_type": {
+        "slug": "piercing",
+        "name": "Piercing"
+      }
+    },
+    "weapon_category": {
+      "slug": "simple",
+      "name": "Simple"
+    },
+    "weapon_range": {
+      "slug": "ranged",
+      "name": "Ranged"
+    },
+    "weapon_properties": [
+      {
+        "slug": "ammunition",
+        "name": "Ammunition",
+        "min_range": 80,
+        "max_range": 320
+      },
+      {
+        "slug": "two-handed",
+        "name": "Two-Handed"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "sling",
+    "name": "Sling",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 1,
+      "unit": "sp"
+    },
+    "weight": 0,
+    "damage": {
+      "damage_dice": "1d4",
+      "damage_type": {
+        "slug": "bludgeoning",
+        "name": "Bludgeoning"
+      }
+    },
+    "weapon_category": {
+      "slug": "simple",
+      "name": "Simple"
+    },
+    "weapon_range": {
+      "slug": "ranged",
+      "name": "Ranged"
+    },
+    "weapon_properties": [
+      {
+        "slug": "ammunition",
+        "name": "Ammunition",
+        "min_range": 30,
+        "max_range": 120
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "battleaxe",
+    "name": "Battleaxe",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 10,
+      "unit": "gp"
+    },
+    "weight": 4,
+    "damage": {
+      "damage_dice": "1d8",
+      "damage_type": {
+        "slug": "slashing",
+        "name": "Slashing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "versatile",
+        "name": "Versatile"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "flail",
+    "name": "Flail",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 10,
+      "unit": "gp"
+    },
+    "weight": 2,
+    "damage": {
+      "damage_dice": "1d8",
+      "damage_type": {
+        "slug": "bludgeoning",
+        "name": "Bludgeoning"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "glaive",
+    "name": "Glaive",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 20,
+      "unit": "gp"
+    },
+    "weight": 6,
+    "damage": {
+      "damage_dice": "1d10",
+      "damage_type": {
+        "slug": "slashing",
+        "name": "Slashing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "heavy",
+        "name": "Heavy"
+      },
+      {
+        "slug": "reach",
+        "name": "Reach"
+      },
+      {
+        "slug": "two-handed",
+        "name": "Two-Handed"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "greataxe",
+    "name": "Greataxe",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 30,
+      "unit": "gp"
+    },
+    "weight": 7,
+    "damage": {
+      "damage_dice": "1d12",
+      "damage_type": {
+        "slug": "slashing",
+        "name": "Slashing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "heavy",
+        "name": "Heavy"
+      },
+      {
+        "slug": "two-handed",
+        "name": "Two-Handed"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "greatsword",
+    "name": "Greatsword",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 50,
+      "unit": "gp"
+    },
+    "weight": 6,
+    "damage": {
+      "damage_dice": "2d6",
+      "damage_type": {
+        "slug": "slashing",
+        "name": "Slashing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "heavy",
+        "name": "Heavy"
+      },
+      {
+        "slug": "two-handed",
+        "name": "Two-Handed"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "halberd",
+    "name": "Halberd",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 20,
+      "unit": "gp"
+    },
+    "weight": 6,
+    "damage": {
+      "damage_dice": "1d10",
+      "damage_type": {
+        "slug": "slashing",
+        "name": "Slashing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "heavy",
+        "name": "Heavy"
+      },
+      {
+        "slug": "reach",
+        "name": "Reach"
+      },
+      {
+        "slug": "two-handed",
+        "name": "Two-Handed"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "lance",
+    "name": "Lance",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 10,
+      "unit": "gp"
+    },
+    "weight": 6,
+    "damage": {
+      "damage_dice": "1d12",
+      "damage_type": {
+        "slug": "piercing",
+        "name": "Piercing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "reach",
+        "name": "Reach"
+      }
+    ],
+    "special": "<p>You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "longsword",
+    "name": "Longsword",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 15,
+      "unit": "gp"
+    },
+    "weight": 3,
+    "damage": {
+      "damage_dice": "1d8",
+      "damage_type": {
+        "slug": "slashing",
+        "name": "Slashing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "versatile",
+        "name": "Versatile"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "maul",
+    "name": "Maul",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 10,
+      "unit": "gp"
+    },
+    "weight": 10,
+    "damage": {
+      "damage_dice": "2d6",
+      "damage_type": {
+        "slug": "bludgeoning",
+        "name": "Bludgeoning"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "heavy",
+        "name": "Heavy"
+      },
+      {
+        "slug": "two-handed",
+        "name": "Two-Handed"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "morningstar",
+    "name": "Morningstar",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 15,
+      "unit": "gp"
+    },
+    "weight": 4,
+    "damage": {
+      "damage_dice": "1d8",
+      "damage_type": {
+        "slug": "piercing",
+        "name": "Piercing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "pike",
+    "name": "Pike",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 5,
+      "unit": "gp"
+    },
+    "weight": 18,
+    "damage": {
+      "damage_dice": "1d10",
+      "damage_type": {
+        "slug": "piercing",
+        "name": "Piercing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "heavy",
+        "name": "Heavy"
+      },
+      {
+        "slug": "reach",
+        "name": "Reach"
+      },
+      {
+        "slug": "two-handed",
+        "name": "Two-Handed"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "rapier",
+    "name": "Rapier",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 25,
+      "unit": "gp"
+    },
+    "weight": 2,
+    "damage": {
+      "damage_dice": "1d8",
+      "damage_type": {
+        "slug": "piercing",
+        "name": "Piercing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "finesse",
+        "name": "Finesse"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "scimitar",
+    "name": "Scimitar",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 25,
+      "unit": "gp"
+    },
+    "weight": 3,
+    "damage": {
+      "damage_dice": "1d6",
+      "damage_type": {
+        "slug": "slashing",
+        "name": "Slashing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "finesse",
+        "name": "Finesse"
+      },
+      {
+        "slug": "light",
+        "name": "Light"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "shortsword",
+    "name": "Shortsword",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 10,
+      "unit": "gp"
+    },
+    "weight": 2,
+    "damage": {
+      "damage_dice": "1d6",
+      "damage_type": {
+        "slug": "piercing",
+        "name": "Piercing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "finesse",
+        "name": "Finesse"
+      },
+      {
+        "slug": "light",
+        "name": "Light"
+      },
+      {
+        "slug": "monk",
+        "name": "Monk"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "trident",
+    "name": "Trident",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 5,
+      "unit": "gp"
+    },
+    "weight": 4,
+    "damage": {
+      "damage_dice": "1d6",
+      "damage_type": {
+        "slug": "slashing",
+        "name": "Slashing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "thrown",
+        "name": "Thrown",
+        "min_range": 20,
+        "max_range": 60
+      },
+      {
+        "slug": "versatile",
+        "name": "Versatile"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "war-pick",
+    "name": "War pick",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 5,
+      "unit": "gp"
+    },
+    "weight": 2,
+    "damage": {
+      "damage_dice": "1d8",
+      "damage_type": {
+        "slug": "piercing",
+        "name": "Piercing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "warhammer",
+    "name": "Warhammer",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 15,
+      "unit": "gp"
+    },
+    "weight": 2,
+    "damage": {
+      "damage_dice": "1d8",
+      "damage_type": {
+        "slug": "bludgeoning",
+        "name": "Bludgeoning"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "versatile",
+        "name": "Versatile"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "whip",
+    "name": "Whip",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 2,
+      "unit": "gp"
+    },
+    "weight": 3,
+    "damage": {
+      "damage_dice": "1d4",
+      "damage_type": {
+        "slug": "slashing",
+        "name": "Slashing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "melee",
+      "name": "Melee"
+    },
+    "weapon_properties": [
+      {
+        "slug": "finesse",
+        "name": "Finesse"
+      },
+      {
+        "slug": "reach",
+        "name": "Reach"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "blowgun",
+    "name": "Blowgun",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 10,
+      "unit": "gp"
+    },
+    "weight": 1,
+    "damage": {
+      "damage_dice": "1",
+      "damage_type": {
+        "slug": "piercing",
+        "name": "Piercing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "ranged",
+      "name": "Ranged"
+    },
+    "weapon_properties": [
+      {
+        "slug": "ammunition",
+        "name": "Ammunition",
+        "min_range": 25,
+        "max_range": 100
+      },
+      {
+        "slug": "loading",
+        "name": "Loading"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "crossbow-hand",
+    "name": "Crossbow, hand",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 75,
+      "unit": "gp"
+    },
+    "weight": 3,
+    "damage": {
+      "damage_dice": "1d6",
+      "damage_type": {
+        "slug": "piercing",
+        "name": "Piercing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "ranged",
+      "name": "Ranged"
+    },
+    "weapon_properties": [
+      {
+        "slug": "ammunition",
+        "name": "Ammunition",
+        "min_range": 30,
+        "max_range": 120
+      },
+      {
+        "slug": "light",
+        "name": "Light"
+      },
+      {
+        "slug": "loading",
+        "name": "Loading"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "crossbow-heavy",
+    "name": "Crossbow, heavy",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 50,
+      "unit": "gp"
+    },
+    "weight": 18,
+    "damage": {
+      "damage_dice": "1d10",
+      "damage_type": {
+        "slug": "piercing",
+        "name": "Piercing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "ranged",
+      "name": "Ranged"
+    },
+    "weapon_properties": [
+      {
+        "slug": "ammunition",
+        "name": "Ammunition",
+        "min_range": 100,
+        "max_range": 400
+      },
+      {
+        "slug": "heavy",
+        "name": "Heavy"
+      },
+      {
+        "slug": "loading",
+        "name": "Loading"
+      },
+      {
+        "slug": "two-handed",
+        "name": "Two-Handed"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "longbow",
+    "name": "Longbow",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 50,
+      "unit": "gp"
+    },
+    "weight": 2,
+    "damage": {
+      "damage_dice": "1d8",
+      "damage_type": {
+        "slug": "piercing",
+        "name": "Piercing"
+      }
+    },
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "ranged",
+      "name": "Ranged"
+    },
+    "weapon_properties": [
+      {
+        "slug": "ammunition",
+        "name": "Ammunition",
+        "min_range": 150,
+        "max_range": 600
+      },
+      {
+        "slug": "heavy",
+        "name": "Heavy"
+      },
+      {
+        "slug": "two-handed",
+        "name": "Two-Handed"
+      }
+    ],
+    "special": false,
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  },
+  {
+    "slug": "net",
+    "name": "Net",
+    "type": {
+      "slug": "weapon",
+      "name": "Weapon"
+    },
+    "desc": "",
+    "cost": {
+      "quantity": 1,
+      "unit": "gp"
+    },
+    "weight": 3,
+    "damage": false,
+    "weapon_category": {
+      "slug": "martial",
+      "name": "Martial"
+    },
+    "weapon_range": {
+      "slug": "ranged",
+      "name": "Ranged"
+    },
+    "weapon_properties": [
+      {
+        "slug": "thrown",
+        "name": "Thrown",
+        "min_range": 5,
+        "max_range": 15
+      }
+    ],
+    "special": "<p>A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
+  }
+]
