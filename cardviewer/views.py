@@ -8,8 +8,8 @@ from core import settings
 
 def home(request):
     context = {
-        # "card": get_daily_card(),
-        "card": get_randon_card(),
+        "card_daily": get_daily_card(),
+        "card_randon": get_randon_card(),
     }
 
     return render(request, 'cardviewer/home.html', context)

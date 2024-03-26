@@ -7,9 +7,21 @@
         <div class="col-md-6">
             <div class="card">
                 <div class="card-header">
+                    <div class="card-title text-center">Daily card</div>
+                </div>
+                {% with card=card_daily %}
+                {% include 'cardviewer/card_content.html'%}
+                {% endwith %}
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
                     <div class="card-title text-center">Randon card</div>
                 </div>
+                {% with card=card_randon %}
                 {% include 'cardviewer/card_content.html'%}
+                {% endwith %}
             </div>
         </div>
     </div>
@@ -20,11 +32,10 @@
     $(document).ready(function() {
         $('#store_card').click(function() {
             $.ajax({
-                url: '{% url 'store_card_in_cart' card.slug %}',
+                url: '{% url 'store_card_in_cart' card_daily.slug %}',
                 type: 'GET',
             });
         });
     });
-
 </script>
 {% endblock %}
