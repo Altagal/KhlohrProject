@@ -6,7 +6,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The aboleth makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The aboleth makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-swipe-aboleth",
@@ -15,7 +19,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Swipe",
-    "desc": "<p>The aboleth makes one tail attack.</p>"
+    "desc": "<p>The aboleth makes one tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "psychic-drain-costs-2-actions-aboleth",
@@ -24,7 +32,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Psychic Drain (Costs 2 Actions)",
-    "desc": "<p>One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.</p>"
+    "desc": "<p>One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-adult-black-dragon",
@@ -33,7 +45,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-adult-black-dragon",
@@ -42,7 +58,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-adult-black-dragon",
@@ -51,7 +71,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-adult-blue-dragon",
@@ -60,7 +84,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-adult-blue-dragon",
@@ -69,7 +97,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-adult-blue-dragon",
@@ -78,7 +110,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-adult-brass-dragon",
@@ -87,7 +123,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-adult-brass-dragon",
@@ -96,7 +136,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-adult-brass-dragon",
@@ -105,7 +149,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-adult-bronze-dragon",
@@ -114,7 +162,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-adult-bronze-dragon",
@@ -123,7 +175,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-adult-bronze-dragon",
@@ -132,7 +188,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-adult-copper-dragon",
@@ -141,7 +201,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-adult-copper-dragon",
@@ -150,7 +214,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-adult-copper-dragon",
@@ -159,7 +227,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-adult-gold-dragon",
@@ -168,7 +240,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-adult-gold-dragon",
@@ -177,7 +253,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-adult-gold-dragon",
@@ -186,7 +266,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-adult-green-dragon",
@@ -195,7 +279,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-adult-green-dragon",
@@ -204,7 +292,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-adult-green-dragon",
@@ -213,7 +305,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-adult-red-dragon",
@@ -222,7 +318,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-adult-red-dragon",
@@ -231,7 +331,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-adult-red-dragon",
@@ -240,7 +344,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-adult-silver-dragon",
@@ -249,7 +357,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-adult-silver-dragon",
@@ -258,7 +370,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-adult-silver-dragon",
@@ -267,7 +383,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-adult-white-dragon",
@@ -276,7 +396,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-adult-white-dragon",
@@ -285,7 +409,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-adult-white-dragon",
@@ -294,7 +422,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-ancient-black-dragon",
@@ -303,7 +435,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-ancient-black-dragon",
@@ -312,7 +448,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-ancient-black-dragon",
@@ -321,7 +461,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-ancient-blue-dragon",
@@ -330,7 +474,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-ancient-blue-dragon",
@@ -339,7 +487,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-ancient-blue-dragon",
@@ -348,7 +500,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-ancient-brass-dragon",
@@ -357,7 +513,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-ancient-brass-dragon",
@@ -366,7 +526,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-ancient-brass-dragon",
@@ -375,7 +539,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-ancient-bronze-dragon",
@@ -384,7 +552,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-ancient-bronze-dragon",
@@ -393,7 +565,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-ancient-bronze-dragon",
@@ -402,7 +578,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-ancient-copper-dragon",
@@ -411,7 +591,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-ancient-copper-dragon",
@@ -420,7 +604,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-ancient-copper-dragon",
@@ -429,7 +617,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-ancient-gold-dragon",
@@ -438,7 +630,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-ancient-gold-dragon",
@@ -447,7 +643,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-ancient-gold-dragon",
@@ -456,7 +656,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-ancient-green-dragon",
@@ -465,7 +669,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-ancient-green-dragon",
@@ -474,7 +682,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-ancient-green-dragon",
@@ -483,7 +695,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-ancient-red-dragon",
@@ -492,7 +708,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-ancient-red-dragon",
@@ -501,7 +721,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-ancient-red-dragon",
@@ -510,7 +734,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-ancient-silver-dragon",
@@ -519,7 +747,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-ancient-silver-dragon",
@@ -528,7 +760,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-ancient-silver-dragon",
@@ -537,7 +773,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "detect-ancient-white-dragon",
@@ -546,7 +786,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Detect",
-    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>"
+    "desc": "<p>The dragon makes a Wisdom (Perception) check.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tail-attack-ancient-white-dragon",
@@ -555,7 +799,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tail Attack",
-    "desc": "<p>The dragon makes a tail attack.</p>"
+    "desc": "<p>The dragon makes a tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "wing-attack-costs-2-actions-ancient-white-dragon",
@@ -564,7 +812,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Wing Attack (Costs 2 Actions)",
-    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>"
+    "desc": "<p>The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "claw-attack-androsphinx",
@@ -573,7 +825,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Claw Attack",
-    "desc": "<p>The sphinx makes one claw attack.</p>"
+    "desc": "<p>The sphinx makes one claw attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "teleport-costs-2-actions-androsphinx",
@@ -582,7 +838,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Teleport (Costs 2 Actions)",
-    "desc": "<p>The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.</p>"
+    "desc": "<p>The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "cast-a-spell-costs-3-actions-androsphinx",
@@ -591,7 +851,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Cast a Spell (Costs 3 Actions)",
-    "desc": "<p>The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.</p>"
+    "desc": "<p>The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "claw-attack-gynosphinx",
@@ -600,7 +864,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Claw Attack",
-    "desc": "<p>The sphinx makes one claw attack.</p>"
+    "desc": "<p>The sphinx makes one claw attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "teleport-costs-2-actions-gynosphinx",
@@ -609,7 +877,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Teleport (Costs 2 Actions)",
-    "desc": "<p>The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.</p>"
+    "desc": "<p>The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "cast-a-spell-costs-3-actions-gynosphinx",
@@ -618,7 +890,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Cast a Spell (Costs 3 Actions)",
-    "desc": "<p>The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.</p>"
+    "desc": "<p>The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "tentacle-attack-or-fling-kraken",
@@ -627,7 +903,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Tentacle Attack or Fling",
-    "desc": "<p>The kraken makes one tentacle attack or uses its Fling.</p>"
+    "desc": "<p>The kraken makes one tentacle attack or uses its Fling.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "lightning-storm-costs-2-actions-kraken",
@@ -636,7 +916,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Lightning Storm (Costs 2 Actions)",
-    "desc": "<p>The kraken uses Lightning Storm.</p>"
+    "desc": "<p>The kraken uses Lightning Storm.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "ink-cloud-costs-3-actions-kraken",
@@ -645,7 +929,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Ink Cloud (Costs 3 Actions)",
-    "desc": "<p>While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.</p>"
+    "desc": "<p>While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "cantrip-lich",
@@ -654,7 +942,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Cantrip",
-    "desc": "<p>The lich casts a cantrip.</p>"
+    "desc": "<p>The lich casts a cantrip.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "paralyzing-touch-costs-2-actions-lich",
@@ -663,7 +955,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Paralyzing Touch (Costs 2 Actions)",
-    "desc": "<p>The lich uses its Paralyzing Touch.</p>"
+    "desc": "<p>The lich uses its Paralyzing Touch.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "frightening-gaze-costs-2-actions-lich",
@@ -672,7 +968,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Frightening Gaze (Costs 2 Actions)",
-    "desc": "<p>The lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lich's gaze for the next 24 hours.</p>"
+    "desc": "<p>The lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lich's gaze for the next 24 hours.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "disrupt-life-costs-3-actions-lich",
@@ -681,7 +981,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Disrupt Life (Costs 3 Actions)",
-    "desc": "<p>Each living creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.</p>"
+    "desc": "<p>Each living creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "attack-mummy-lord",
@@ -690,7 +994,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Attack",
-    "desc": "<p>The mummy lord makes one attack with its rotting fist or uses its Dreadful Glare.</p>"
+    "desc": "<p>The mummy lord makes one attack with its rotting fist or uses its Dreadful Glare.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "blinding-dust-mummy-lord",
@@ -699,7 +1007,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Blinding Dust",
-    "desc": "<p>Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature's next turn.</p>"
+    "desc": "<p>Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature's next turn.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "blasphemous-word-costs-2-actions-mummy-lord",
@@ -708,7 +1020,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Blasphemous Word (Costs 2 Actions)",
-    "desc": "<p>The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the mummy lord's next turn.</p>"
+    "desc": "<p>The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the mummy lord's next turn.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "channel-negative-energy-costs-2-actions-mummy-lord",
@@ -717,7 +1033,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Channel Negative Energy (Costs 2 Actions)",
-    "desc": "<p>The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can't regain hit points until the end of the mummy lord's next turn.</p>"
+    "desc": "<p>The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can't regain hit points until the end of the mummy lord's next turn.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "whirlwind-of-sand-costs-2-actions-mummy-lord",
@@ -726,7 +1046,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Whirlwind of Sand (Costs 2 Actions)",
-    "desc": "<p>The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.</p>"
+    "desc": "<p>The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "teleport-solar",
@@ -735,7 +1059,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Teleport",
-    "desc": "<p>The solar magically teleports, along with any equipment it is wearing or carrying, up to 120 ft. to an unoccupied space it can see.</p>"
+    "desc": "<p>The solar magically teleports, along with any equipment it is wearing or carrying, up to 120 ft. to an unoccupied space it can see.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "searing-burst-costs-2-actions-solar",
@@ -744,7 +1072,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Searing Burst (Costs 2 Actions)",
-    "desc": "<p>The solar emits magical, divine energy. Each creature of its choice in a 10 -foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.</p>"
+    "desc": "<p>The solar emits magical, divine energy. Each creature of its choice in a 10 -foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "blinding-gaze-costs-3-actions-solar",
@@ -753,7 +1085,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Blinding Gaze (Costs 3 Actions)",
-    "desc": "<p>The solar targets one creature it can see within 30 ft. of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the lesser restoration spell removes the blindness.</p>"
+    "desc": "<p>The solar targets one creature it can see within 30 ft. of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the lesser restoration spell removes the blindness.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "attack-tarrasque",
@@ -762,7 +1098,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Attack",
-    "desc": "<p>The tarrasque makes one claw attack or tail attack.</p>"
+    "desc": "<p>The tarrasque makes one claw attack or tail attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "move-tarrasque",
@@ -771,7 +1111,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Move",
-    "desc": "<p>The tarrasque moves up to half its speed.</p>"
+    "desc": "<p>The tarrasque moves up to half its speed.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "chomp-costs-2-actions-tarrasque",
@@ -780,7 +1124,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Chomp (Costs 2 Actions)",
-    "desc": "<p>The tarrasque makes one bite attack or uses its Swallow.</p>"
+    "desc": "<p>The tarrasque makes one bite attack or uses its Swallow.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "legendary-hooves-unicorn",
@@ -789,7 +1137,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Hooves",
-    "desc": "<p>The unicorn makes one attack with its hooves.</p>"
+    "desc": "<p>The unicorn makes one attack with its hooves.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "shimmering-shield-costs-2-actions-unicorn",
@@ -798,7 +1150,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Shimmering Shield (Costs 2 Actions)",
-    "desc": "<p>The unicorn creates a shimmering, magical field around itself or another creature it can see within 60 ft. of it. The target gains a +2 bonus to AC until the end of the unicorn's next turn.</p>"
+    "desc": "<p>The unicorn creates a shimmering, magical field around itself or another creature it can see within 60 ft. of it. The target gains a +2 bonus to AC until the end of the unicorn's next turn.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "heal-self-costs-3-actions-unicorn",
@@ -807,7 +1163,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Heal Self (Costs 3 Actions)",
-    "desc": "<p>The unicorn magically regains 11 (2d8 + 2) hit points.</p>"
+    "desc": "<p>The unicorn magically regains 11 (2d8 + 2) hit points.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "move-vampire-vampire",
@@ -816,7 +1176,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Move",
-    "desc": "<p>The vampire moves up to its speed without provoking opportunity attacks.</p>"
+    "desc": "<p>The vampire moves up to its speed without provoking opportunity attacks.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "legendary-unarmed-strike-vampire-vampire",
@@ -825,7 +1189,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Unarmed Strike",
-    "desc": "<p>The vampire makes one unarmed strike.</p>"
+    "desc": "<p>The vampire makes one unarmed strike.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "bite-costs-2-actions-vampire-vampire",
@@ -834,7 +1202,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Bite (Costs 2 Actions)",
-    "desc": "<p>The vampire makes one bite attack.</p>"
+    "desc": "<p>The vampire makes one bite attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "move-vampire-bat",
@@ -843,7 +1215,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Move",
-    "desc": "<p>The vampire moves up to its speed without provoking opportunity attacks.</p>"
+    "desc": "<p>The vampire moves up to its speed without provoking opportunity attacks.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "unarmed-strike-vampire-bat",
@@ -852,7 +1228,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Unarmed Strike",
-    "desc": "<p>The vampire makes one unarmed strike.</p>"
+    "desc": "<p>The vampire makes one unarmed strike.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "bite-costs-2-actions-vampire-bat",
@@ -861,7 +1241,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Bite (Costs 2 Actions)",
-    "desc": "<p>The vampire makes one bite attack.</p>"
+    "desc": "<p>The vampire makes one bite attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "move-vampire-mist",
@@ -870,7 +1254,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Move",
-    "desc": "<p>The vampire moves up to its speed without provoking opportunity attacks.</p>"
+    "desc": "<p>The vampire moves up to its speed without provoking opportunity attacks.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "unarmed-strike-vampire-mist",
@@ -879,7 +1267,11 @@
       "name": "Monster Legendary Action"
     },
     "name": "Unarmed Strike",
-    "desc": "<p>The vampire makes one unarmed strike.</p>"
+    "desc": "<p>The vampire makes one unarmed strike.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   },
   {
     "slug": "bite-costs-2-actions-vampire-mist",
@@ -888,6 +1280,10 @@
       "name": "Monster Legendary Action"
     },
     "name": "Bite (Costs 2 Actions)",
-    "desc": "<p>The vampire makes one bite attack.</p>"
+    "desc": "<p>The vampire makes one bite attack.</p>",
+    "source": {
+      "slug": "PHB",
+      "name": "Player's Handbook"
+    }
   }
 ]
