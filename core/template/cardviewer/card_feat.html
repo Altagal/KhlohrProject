@@ -1,10 +1,5 @@
 <div class="card-header">
-    <div class="card-head-row">
-        <div class="card-title">{{card.name}}</div>
-        <div class="card-tools">
-            <button class="btn btn-danger" id="store_card"><i class="fa fa-print"></i></button>
-        </div>
-    </div>
+    {% include 'cardviewer/card_header.html'%}
     <div class="card-head-row">
         <div class="card-category mt-0">Feat</div>
     </div>
@@ -29,9 +24,6 @@
     {% autoescape off %}
     {{card.desc}}
     {% endautoescape %}
-    <div class="row">
-        <div class="col">
-            <button class="btn btn-light btn-xs" disabled=""><b>Source:</b> {{card.source.name}}</button>
-        </div>
-    </div>
+
+    {% include 'cardviewer/card_footer.html'%}
 </div>
