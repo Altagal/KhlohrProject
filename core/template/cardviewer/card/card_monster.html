@@ -1,6 +1,6 @@
 {% load custom_tag %}
 <div class="card-header">
-    {% include 'cardviewer/card_header.html'%}
+    {% include 'cardviewer/card/card_header.html'%}
     <div class="card-head-row">
         <div class="card-category mt-0">{{card.type.name}} - {{card.size | title}} {{card.monster_type.name | title}}, {{card.alignment|title}}</div>
     </div>
@@ -209,5 +209,5 @@
     </div>
     {% endif %}
 
-    {% include 'cardviewer/card_footer.html'%}
+    {% include 'cardviewer/card/card_footer.html'%}
 </div>

@@ -14,8 +14,7 @@
                     <table class="table table-hover generic-table">
                         <thead>
                         <tr>
-                            <th scope="col" style="width: 50%;">Name</th>
-                            <th scope="col" style="width: 40%;">Prerequisite</th>
+                            <th scope="col" style="width: 99%;">Name</th>
                             <th class="text-center" style="width: 1%;" scope="col"></th>
                         </tr>
                         </thead>
@@ -23,7 +22,6 @@
                         {% for card in table_list %}
                         <tr>
                             <td>{{card.name}}</td>
-                            <td>{% if card.prerequisite_artificer_level %}{{card.prerequisite_artificer_level}}th-level artificer{% endif %}</td>
                             <td>
                                 <a href="{% url 'card_view' card.slug %}"><i class="fas fa-search text-danger"></i></a>
                             </td>
@@ -31,7 +29,6 @@
                         {% endfor %}
                         </tbody>
                     </table>
-
                 </div>
             </div>
         </div>

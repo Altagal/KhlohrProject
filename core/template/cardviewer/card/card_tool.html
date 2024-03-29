@@ -1,5 +1,5 @@
 <div class="card-header">
-    {% include 'cardviewer/card_header.html'%}
+    {% include 'cardviewer/card/card_header.html'%}
     <div class="card-head-row">
         <div class="card-category mt-0">Tool{% if card.tool_category %} - {{card.tool_category.name}}{% endif %}</div>
     </div>
@@ -23,5 +23,5 @@
     {{card.desc}}
     {% endautoescape %}
 
-    {% include 'cardviewer/card_footer.html'%}
+    {% include 'cardviewer/card/card_footer.html'%}
 </div>

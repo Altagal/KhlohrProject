@@ -1,5 +1,5 @@
 <div class="card-header">
-    {% include 'cardviewer/card_header.html'%}
+    {% include 'cardviewer/card/card_header.html'%}
     <div class="card-head-row">
         <div class="card-category mt-0">Magic School</div>
     </div>
@@ -9,7 +9,7 @@
     {{card.desc}}
     {% endautoescape %}
 
-    {% include 'cardviewer/card_footer.html'%}
+    {% include 'cardviewer/card/card_footer.html'%}
 
     {% if table_list %}
     <ul class="nav nav-tabs nav-danger mt-3 mb-3">
@@ -28,7 +28,6 @@
                aria-controls="pills-home" aria-selected="false">{% if lvl == 0 %}Cantrips{% else %} {{lvl}}º Level {% endif %}</a>
         </li>
         {% endfor %}
-
     </ul>
     <!-- TAB ALL LEVELS -->
     <div class="tab-content">

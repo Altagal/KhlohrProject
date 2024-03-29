@@ -1,6 +1,6 @@
 {% extends "layout/base.html" %}
 {% load static %}
-{% block title %}{{plural_type_name}}{% endblock %}
+{% block title %}Classes and Subclasses{% endblock %}
 {% block stylesheet %}{% endblock %}
 {% block content %}
 <div class="page-inner">
@@ -8,39 +8,38 @@
         <div class="col">
             <div class="card">
                 <div class="card-header">
-                    <div class="card-title">{{plural_type_name}}</div>
+                    <div class="card-title">Classes and Subclasses</div>
                 </div>
                 <div class="card-body">
                     <table class="table table-hover infusion-table">
                         <thead>
                         <tr>
-                            <th scope="col" style="width: 30%;">Ability Score</th>
+                            <th scope="col" style="width: 30%;">Class</th>
                             <th class="text-center" style="width: 1%;" scope="col"></th>
-                            <th scope="col" style="width: 40%;">Skill</th>
+                            <th scope="col" style="width: 40%;">Subclass</th>
                             <th class="text-center" style="width: 1%;" scope="col"></th>
                         </tr>
                         </thead>
                         <tbody>
-                        {% for card_ability_score in ability_score_list %}
+                        {% for card_class in class_list %}
                         <tr>
-                            <td rowspan="{{ card_ability_score.skill|length|add:1 }}">{{card_ability_score.name}}</td>
-                            <td rowspan="{{ card_ability_score.skill|length| add:1 }}">
-                                <a href="{% url 'card_view' card_ability_score.slug %}"><i class="fas fa-search text-danger"></i></a>
+                            <td rowspan="{{ card_class.subclasses|length|add:1 }}">{{card_class.name}}</td>
+                            <td rowspan="{{ card_class.subclasses|length| add:1 }}">
+                                <a href="{% url 'card_view' card_class.slug %}"><i class="fas fa-search text-danger"></i></a>
                             </td>
-                            {% for card_skill in skill_list %}
-                            {% if card_ability_score.slug == card_skill.ability_score.slug %}
+                            {% for card_subclass in card_class.subclasses %}
                         <tr>
-                            <td rowspan="">{{card_skill.name}}</td>
+                            <td rowspan="">{{card_subclass.name}}</td>
                             <td>
-                                <a href="{% url 'card_view' card_skill.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                <a href="{% url 'card_view' card_subclass.slug %}"><i class="fas fa-search text-danger"></i></a>
                             </td>
                         </tr>
-                        {% endif %}
                         {% endfor %}
                         </tr>
                         {% endfor %}
                         </tbody>
                     </table>
+
                 </div>
             </div>
         </div>

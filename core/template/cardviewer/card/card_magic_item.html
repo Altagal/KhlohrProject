@@ -1,11 +1,11 @@
 <div class="card-header">
-    {% include 'cardviewer/card_header.html'%}
+    {% include 'cardviewer/card/card_header.html'%}
     <div class="card-head-row">
         <div class="card-category mt-0">Magic Item - {{card.rarity.name}} - {{card.category.name}}</div>
     </div>
 </div>
 <div class="card-body">
-    <div class="row mb-3">
+    <div class="row">
         <div class="col">
             {% if card.requires_attunement %}
             <div class="row">
@@ -22,5 +22,5 @@
         </div>
     </div>
 
-    {% include 'cardviewer/card_footer.html'%}
+    {% include 'cardviewer/card/card_footer.html'%}
 </div>
