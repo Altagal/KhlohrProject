@@ -57,7 +57,7 @@ def card_view(request, card_slug):
             'card': card,
         }
 
-    return render(request, 'cardviewer/card_view.html', context)
+    return render(request, 'cardviewer/card/card_view.html', context)
 
 
 def condition_list(request):
@@ -66,17 +66,16 @@ def condition_list(request):
         "table_list": get_deck("condition"),
     }
 
-    return render(request, 'cardviewer/table_view.html', context)
+    return render(request, 'cardviewer/table/table_generic.html', context)
 
 
 def spell_list(request):
     context = {
-        "plural_type_name": "Spells",
         "spell_level_range": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
         "table_list": get_deck("spell"),
     }
 
-    return render(request, 'cardviewer/spell_table_view.html', context)
+    return render(request, 'cardviewer/table/table_spell.html', context)
 
 
 def infusion_list(request):
@@ -85,35 +84,32 @@ def infusion_list(request):
         "table_list": get_deck("infusion"),
     }
 
-    return render(request, 'cardviewer/infuse_table_view.html', context)
+    return render(request, 'cardviewer/table/table_requirement.html', context)
 
 
 def ability_score_skill_list(request):
     context = {
-        "plural_type_name": "Ability Scores and Skills",
         "ability_score_list": get_deck("ability_score"),
         "skill_list": get_deck("skill"),
     }
 
-    return render(request, 'cardviewer/ability_score_skill_table_view.html', context)
+    return render(request, 'cardviewer/table/table_ability_score_skill.html', context)
 
 
 def feat_list(request):
     context = {
-        "plural_type_name": "Feats",
         "table_list": get_deck("feat"),
     }
 
-    return render(request, 'cardviewer/feat_table_view.html', context)
+    return render(request, 'cardviewer/table/table_feat.html', context)
 
 
 def class_subclass_list(request):
     context = {
-        "plural_type_name": "Classes and Subclasses",
         "class_list": get_deck("class"),
     }
 
-    return render(request, 'cardviewer/class_subclass_table_view.html', context)
+    return render(request, 'cardviewer/table/table_class_subclass.html', context)
 
 
 def metamagic_list(request):
@@ -122,16 +118,16 @@ def metamagic_list(request):
         "table_list": get_deck("metamagic"),
     }
 
-    return render(request, 'cardviewer/table_view.html', context)
+    return render(request, 'cardviewer/table/table_generic.html', context)
 
 
 def eldritch_invocation_list(request):
     context = {
-        "plural_type_name": "Eldritch Iinvocations",
+        "plural_type_name": "Eldritch Invocations",
         "table_list": get_deck("eldritch_invocation"),
     }
 
-    return render(request, 'cardviewer/eldritch_invocation_table_view.html', context)
+    return render(request, 'cardviewer/table/table_requirement.html', context)
 
 
 def battle_maneuver_list(request):
@@ -140,7 +136,7 @@ def battle_maneuver_list(request):
         "table_list": get_deck("battle_maneuver"),
     }
 
-    return render(request, 'cardviewer/table_view.html', context)
+    return render(request, 'cardviewer/table/table_generic.html', context)
 
 
 def fighting_style_list(request):
@@ -149,27 +145,25 @@ def fighting_style_list(request):
         "table_list": get_deck("fighting_style"),
     }
 
-    return render(request, 'cardviewer/table_view.html', context)
+    return render(request, 'cardviewer/table/table_generic.html', context)
 
 
 def monster_list(request):
     context = {
-        "plural_type_name": "Monsters",
         "table_list": get_deck("monster"),
         "challenge_rating_range": [0, 1 / 8, 1 / 4, 1 / 2, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
     }
 
-    return render(request, 'cardviewer/monster_table_view.html', context)
+    return render(request, 'cardviewer/table/table_monster.html', context)
 
 
 def magic_item_list(request):
     context = {
-        "plural_type_name": "Magic Itens",
         "rarity_list": ["Common", "Uncommon", "Rare", "Very Rare", "Legendary", "Artifact", "Other"],
         "table_list": get_deck("magic_item"),
     }
 
-    return render(request, 'cardviewer/magic_item_table_view.html', context)
+    return render(request, 'cardviewer/table/table_magic_item.html', context)
 
 
 def armor_list(request):
@@ -177,7 +171,7 @@ def armor_list(request):
         "table_list": get_deck("armor"),
     }
 
-    return render(request, 'cardviewer/armor_table_view.html', context)
+    return render(request, 'cardviewer/table/table_armor.html', context)
 
 
 def weapon_list(request):
@@ -185,7 +179,7 @@ def weapon_list(request):
         "table_list": get_deck("weapon"),
     }
 
-    return render(request, 'cardviewer/weapon_table_view.html', context)
+    return render(request, 'cardviewer/table/table_weapon.html', context)
 
 
 def adventuring_gear_list(request):
@@ -193,7 +187,7 @@ def adventuring_gear_list(request):
         "table_list": get_deck("adventuring_gear"),
     }
 
-    return render(request, 'cardviewer/adventuring_gear_table_view.html', context)
+    return render(request, 'cardviewer/table/table_adventuring_gear.html', context)
 
 
 def tool_list(request):
@@ -201,4 +195,4 @@ def tool_list(request):
         "table_list": get_deck("tool"),
     }
 
-    return render(request, 'cardviewer/tool_table_view.html', context)
+    return render(request, 'cardviewer/table/table_tool.html', context)
