@@ -5123,7 +5123,7 @@
     "passive_perception": 10,
     "languages": [
       "Blink Dog",
-      "understands Sylvan but can't speak it"
+      "Understands Sylvan but can't speak it."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -6328,7 +6328,7 @@
     ],
     "passive_perception": 18,
     "languages": [
-      "understands Draconic but can't speak"
+      "Understands Draconic but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -6417,7 +6417,7 @@
     ],
     "passive_perception": 14,
     "languages": [
-      "understands Deep Speech but can't speak"
+      "Understands Deep Speech but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -6513,7 +6513,7 @@
     ],
     "passive_perception": 9,
     "languages": [
-      "understands the languages of its creator but can't speak"
+      "Understands the languages of its creator but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -10035,7 +10035,7 @@
     ],
     "passive_perception": 10,
     "languages": [
-      "understands the languages of its creator but can't speak"
+      "Understands the languages of its creator but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -11732,7 +11732,7 @@
     "passive_perception": 14,
     "languages": [
       "Giant Eagle",
-      "understands Common and Auran but can't speak"
+      "Understands Common and Auran but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -11810,9 +11810,9 @@
     "passive_perception": 14,
     "languages": [
       "Giant Elk",
-      "understands Common",
+      "Understands Common",
       "Elvish",
-      "and Sylvan but can't speak"
+      "and Sylvan but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -12360,9 +12360,9 @@
     "passive_perception": 15,
     "languages": [
       "Giant Owl",
-      "understands Common",
+      "Understands Common",
       "Elvish",
-      "and Sylvan but can't speak"
+      "and Sylvan but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -13084,7 +13084,7 @@
     "senses": [],
     "passive_perception": 13,
     "languages": [
-      "understands Common but can't speak"
+      "Understands Common but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -15229,7 +15229,7 @@
     ],
     "passive_perception": 15,
     "languages": [
-      "understands Infernal but can't speak it"
+      "Understands Infernal but can't speak it."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -15666,7 +15666,7 @@
     ],
     "passive_perception": 10,
     "languages": [
-      "understands the languages of its creator but can't speak"
+      "Understands the languages of its creator but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -16469,7 +16469,7 @@
     "passive_perception": 18,
     "languages": [
       "Auran",
-      "understands Common but doesn't speak it"
+      "Understands Common but doesn't speak it."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -16594,7 +16594,7 @@
     ],
     "passive_perception": 10,
     "languages": [
-      "understands the languages of its creator but can't speak"
+      "Understands the languages of its creator but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -17066,10 +17066,10 @@
     ],
     "passive_perception": 14,
     "languages": [
-      "understands Abyssal",
+      "Understands Abyssal",
       "Celestial",
       "Infernal",
-      "and Primordial but can't speak",
+      "and Primordial but can't speak.",
       "telepathy 120 ft."
     ],
     "damage_vulnerabilities": [],
@@ -17286,7 +17286,7 @@
     ],
     "passive_perception": 10,
     "languages": [
-      "understands infernal but can't speak"
+      "Understands infernal but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -18855,7 +18855,7 @@
     ],
     "passive_perception": 9,
     "languages": [
-      "understands Abyssal but can't speak"
+      "Understands Abyssal but can't speak."
     ],
     "damage_vulnerabilities": [
       {
@@ -19528,9 +19528,9 @@
     "senses": [],
     "passive_perception": 11,
     "languages": [
-      "understands Abyssal",
+      "Understands Abyssal",
       "Common",
-      "and Infernal but can't speak"
+      "and Infernal but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -19976,7 +19976,7 @@
     ],
     "passive_perception": 8,
     "languages": [
-      "understands Common and Giant but can't speak"
+      "Understands Common and Giant but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -20568,10 +20568,10 @@
     "senses": [],
     "passive_perception": 16,
     "languages": [
-      "understands Celestial",
+      "Understands Celestial",
       "Common",
       "Elvish",
-      "and Sylvan but can't speak"
+      "and Sylvan but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -21349,7 +21349,7 @@
     ],
     "passive_perception": 13,
     "languages": [
-      "understands Common and Draconic but can't speak"
+      "Understands Common and Draconic but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -23674,7 +23674,7 @@
     ],
     "passive_perception": 10,
     "languages": [
-      "understands commands given in any language but can't speak"
+      "Understands commands given in any language but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -23964,7 +23964,7 @@
     ],
     "passive_perception": 9,
     "languages": [
-      "understands all languages it spoke in life but can't speak"
+      "Understands all languages it spoke in life but can't speak."
     ],
     "damage_vulnerabilities": [
       {
@@ -24216,7 +24216,7 @@
     ],
     "passive_perception": 10,
     "languages": [
-      "understands all languages it knew in life but can't speak"
+      "Understands all languages it knew in life but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [
@@ -24968,7 +24968,7 @@
     ],
     "passive_perception": 10,
     "languages": [
-      "understands the languages of its creator but can't speak"
+      "Understands the languages of its creator but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
@@ -31903,7 +31903,7 @@
     ],
     "passive_perception": 8,
     "languages": [
-      "understands all languages it spoke in life but can't speak"
+      "Understands all languages it spoke in life but can't speak."
     ],
     "damage_vulnerabilities": [],
     "damage_resistances": [],
