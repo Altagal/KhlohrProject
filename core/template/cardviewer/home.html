@@ -27,6 +27,7 @@
     </div>
 </div>
 {% endblock %}
+
 {% block javascript %}
 <script>
     $(document).ready(function() {
@@ -37,5 +38,8 @@
             });
         });
     });
+
+    $('.typeahead').typeahead({
+    })
 </script>
 {% endblock %}
