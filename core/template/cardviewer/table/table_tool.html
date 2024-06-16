@@ -32,7 +32,7 @@
                                         <td>{{tool.cost.quantity}} {{tool.cost.unit}}</td>
                                         <td>{% if tool.weight %}{{tool.weight}} lb.{% endif %}</td>
                                         <td>
-                                            <a href="{% url 'card_view' tool.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                            <a href="{% url 'card_view' tool.slug %}"><i class="bx bx-search text-secondary"></i></a>
                                         </td>
                                     </tr>
                                     {% endfor %}

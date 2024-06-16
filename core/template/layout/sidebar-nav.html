@@ -1,0 +1,141 @@
+<li class="menu-header small text-uppercase">
+    <span class="menu-header-text">Spell</span>
+</li>
+<li class="menu-item">
+    <a href="{% url 'spell_list' %}" class="menu-link">
+        <i class='menu-icon tf-icons bx bxs-meteor'></i>
+
+        <div>Spells</div>
+    </a>
+</li>
+<li class="menu-item">
+    <a class="menu-link menu-toggle">
+        <i class='menu-icon tf-icons bx bxs-school'></i>
+        <div>Magic Schools</div>
+    </a>
+    <ul class="menu-sub">
+        {% for cardbase in magic_school_list_context_processors %}
+        <li class="menu-item">
+            <a href="{% url 'card_view' cardbase.slug %}" class="menu-link">
+                <div>{{cardbase.name}}</div>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</li>
+<li class="menu-header small text-uppercase">
+    <span class="menu-header-text">Characters</span>
+</li>
+<li class="menu-item">
+    <a href="{% url 'ability_score_skill_list' %}" class="menu-link">
+        <i class="menu-icon tf-icons bx bx-collection"></i>
+        <div>Ability Score and Skills</div>
+    </a>
+</li>
+<li class="menu-item">
+    <a href="javascript:void(0);" class="menu-link">
+        <i class="menu-icon tf-icons bx bx-collection"></i>
+        <div>Races</div>
+    </a>
+</li>
+<li class="menu-item">
+    <a href="{% url 'class_subclass_list'%}" class="menu-link">
+        <i class='menu-icon tf-icons bx bxs-magic-wand'></i>
+        <div>Classes e Subclasses</div>
+    </a>
+</li>
+<li class="menu-item">
+    <a href="{% url 'feat_list'%}" class="menu-link">
+        <i class="menu-icon tf-icons bx bx-collection"></i>
+        <div>Feats</div>
+    </a>
+</li>
+<li class="menu-item">
+    <a href="{% url 'conditon_list' %}" class="menu-link">
+        <i class="menu-icon tf-icons bx bx-collection"></i>
+        <div>Conditions</div>
+    </a>
+</li>
+<li class="menu-header small text-uppercase">
+    <span class="menu-header-text">Monsters</span>
+</li>
+<li class="menu-item">
+    <a href="{% url 'monster_list' %}" class="menu-link">
+        <i class="menu-icon tf-icons bx bx-collection"></i>
+        <div>Monsters</div>
+    </a>
+</li>
+<li class="menu-header small text-uppercase">
+    <span class="menu-header-text">Itens</span>
+</li>
+<li class="menu-item">
+    <a href="{% url 'armor_list' %}" class="menu-link">
+        <i class="menu-icon tf-icons bx bx-collection"></i>
+        <div>Armors</div>
+    </a>
+</li>
+<li class="menu-item">
+    <a href="{% url 'weapon_list' %}" class="menu-link">
+        <i class="menu-icon tf-icons bx bx-collection"></i>
+        <div>Weapons</div>
+    </a>
+</li>
+<li class="menu-item">
+    <a href="{% url 'adventuring_gear_list' %}" class="menu-link">
+        <i class="menu-icon tf-icons bx bx-collection"></i>
+        <div>Adventuring Gears</div>
+    </a>
+</li>
+<li class="menu-item">
+    <a href="{% url 'tool_list' %}" class="menu-link">
+        <i class='menu-icon tf-icons bx bx-restaurant'></i>
+        <div>Tools</div>
+    </a>
+</li>
+
+<li class="menu-item">
+    <a href="{% url 'magic_item_list' %}" class="menu-link">
+        <i class="menu-icon tf-icons bx bx-collection"></i>
+        <div>Magic Itens</div>
+    </a>
+</li>
+<li class="menu-item">
+    <a href="{% url 'weapon_property_list' %}" class="menu-link">
+        <i class="menu-icon tf-icons bx bx-collection"></i>
+        <div>Weapon Properties</div>
+    </a>
+</li>
+<li class="menu-header small text-uppercase">
+    <span class="menu-header-text">Miscellaneous</span>
+</li>
+
+<li class="menu-item">
+    <a href="{% url 'battle_maneuver_list' %}" class="menu-link">
+        <i class="menu-icon tf-icons bx bx-collection"></i>
+        <div>Battle Maneuvers</div>
+    </a>
+</li>
+<li class="menu-item">
+    <a href="{% url 'eldritch_invocation_list' %}" class="menu-link">
+        <i class="menu-icon tf-icons bx bx-collection"></i>
+        <div>Eldritch Invocations</div>
+    </a>
+</li>
+<li class="menu-item">
+    <a href="{% url 'fighting_style_list' %}" class="menu-link">
+        <i class="menu-icon tf-icons bx bx-collection"></i>
+        <div>Fighting Styles</div>
+    </a>
+</li>
+<li class="menu-item">
+    <a href="{% url 'infusion_list' %}" class="menu-link">
+        <i class="menu-icon tf-icons bx bx-collection"></i>
+        <div>Infusions</div>
+    </a>
+</li>
+<li class="menu-item">
+    <a href="{% url 'metamagic_list' %}" class="menu-link">
+        <i class="menu-icon tf-icons bx bx-collection"></i>
+        <div>Metamagics</div>
+    </a>
+</li>

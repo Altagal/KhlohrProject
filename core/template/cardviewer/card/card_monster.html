@@ -1,9 +1,13 @@
 {% load custom_tag %}
-<div class="card-header">
-    {% include 'cardviewer/card/card_header.html'%}
-    <div class="card-head-row">
-        <div class="card-category mt-0">{{card.type.name}} - {{card.size | title}} {{card.monster_type.name | title}}, {{card.alignment|title}}</div>
+
+<div class="card-header d-flex align-items-center justify-content-between">
+    <div class="card-title mb-0">
+        <h5 class="m-0 me-2">{% block card_title %}{% endblock %}{{card.name}}</h5>
+        <small class="text-muted">{{card.type.name}} - {{card.size | title}} {{card.monster_type.name | title}}, {{card.alignment|title}}</small>
     </div>
+    <button type="button" class="btn btn-icon btn-secondary" id="store_card">
+        <span class="bx bxs-book-add"></span>
+    </button>
 </div>
 <div class="card-body">
     {% autoescape off %}
@@ -101,7 +105,7 @@
     {% for monster_trait in card.traits %}
     <div class="row">
         <div class="col">
-            <div class="card-title">{{monster_trait.name}}<a class="btn btn-sm" href="{% url 'card_view' monster_trait.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            <div class="card-title">{{monster_trait.name}}<a class="btn btn-sm" href="{% url 'card_view' monster_trait.slug %}"><i class="bx bx-search text-secondary"></i></a></div>
             {% for trait in monster_trait_list %}
             {% if trait.slug == monster_trait.slug %}
             {% autoescape off %}
@@ -130,7 +134,7 @@
     {% for monster_action in card.actions %}
     <div class="row">
         <div class="col">
-            <div class="card-title">{{monster_action.name}}<a class="btn btn-sm" href="{% url 'card_view' monster_action.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            <div class="card-title">{{monster_action.name}}<a class="btn btn-sm" href="{% url 'card_view' monster_action.slug %}"><i class="bx bx-search text-secondary"></i></a></div>
             {% for action in monster_action_list %}
             {% if action.slug == monster_action.slug %}
             {% autoescape off %}
@@ -159,7 +163,7 @@
     {% for monster_reaction in card.reactions %}
     <div class="row">
         <div class="col">
-            <div class="card-title">{{monster_reaction.name}}<a class="btn btn-sm" href="{% url 'card_view' monster_reaction.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            <div class="card-title">{{monster_reaction.name}}<a class="btn btn-sm" href="{% url 'card_view' monster_reaction.slug %}"><i class="bx bx-search text-secondary"></i></a></div>
             {% for reaction in monster_reaction_list %}
             {% if reaction.slug == monster_reaction.slug %}
             {% autoescape off %}
@@ -188,7 +192,7 @@
     {% for monster_legendary_action in card.legendary_actions %}
     <div class="row">
         <div class="col">
-            <div class="card-title">{{monster_legendary_action.name}}<a class="btn btn-sm" href="{% url 'card_view' monster_legendary_action.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            <div class="card-title">{{monster_legendary_action.name}}<a class="btn btn-sm" href="{% url 'card_view' monster_legendary_action.slug %}"><i class="bx bx-search text-secondary"></i></a></div>
             {% for legendary_action in monster_legendary_action_list %}
             {% if legendary_action.slug == monster_legendary_action.slug %}
             {% autoescape off %}

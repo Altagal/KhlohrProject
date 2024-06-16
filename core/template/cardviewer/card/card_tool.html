@@ -1,11 +1,13 @@
-<div class="card-header">
-    {% include 'cardviewer/card/card_header.html'%}
-    <div class="card-head-row">
-        <div class="card-category mt-0">Tool{% if card.tool_category %} - {{card.tool_category.name}}{% endif %}</div>
+<div class="card-header d-flex align-items-center justify-content-between">
+    <div class="card-title mb-0">
+        <h5 class="m-0 me-2">{% block card_title %}{% endblock %}{{card.name}}</h5>
+        <small class="text-muted">Tool{% if card.tool_category %} - {{card.tool_category.name}}{% endif %}</small>
     </div>
+    <button type="button" class="btn btn-icon btn-secondary" id="store_card">
+        <span class="bx bxs-book-add"></span>
+    </button>
 </div>
 <div class="card-body">
-
     <div class="row">
         <div class="col">
             <p>
@@ -22,6 +24,6 @@
     {% autoescape off %}
     {{card.desc}}
     {% endautoescape %}
-
     {% include 'cardviewer/card/card_footer.html'%}
 </div>
+

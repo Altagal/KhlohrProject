@@ -1,7 +1,7 @@
-<div class="card-header">
-    {% include 'cardviewer/card/card_header.html'%}
-    <div class="card-head-row">
-        <div class="card-category mt-0">Spell - {% if card.level == 0 %}Cantrip{% else %}{{ card.level }}º level
+<div class="card-header d-flex align-items-center justify-content-between">
+    <div class="card-title mb-0">
+        <h5 class="m-0 me-2">{% block card_title %}{% endblock %}{{card.name}}</h5>
+        <small class="text-muted">Spell - {% if card.level == 0 %}Cantrip{% else %}{{ card.level }}º level
             of
             {{card.magic_school.name}}
             {% if card.is_ritual or card.is_chronomancy or card.is_renaissance %}
@@ -16,8 +16,11 @@
             {% if card.is_renaissance %}
             Renaissance
             {% endif %}{% endif %}
-        </div>
+        </small>
     </div>
+    <button type="button" class="btn btn-icon btn-secondary" id="store_card">
+        <span class="bx bxs-book-add"></span>
+    </button>
 </div>
 <div class="card-body">
     <div class="row">

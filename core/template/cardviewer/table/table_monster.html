@@ -64,7 +64,7 @@
                                         <td class="text-center">{{monster.monster_type.name}}{% if monster.monster_subtype %}<br>({{monster.monster_subtype}}){% endif %}</td>
                                         <td class="text-center">{{monster.alignment| title}}</td>
                                         <td>
-                                            <a href="{% url 'card_view' monster.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                            <a href="{% url 'card_view' monster.slug %}"><i class="bx bx-search text-secondary"></i></a>
                                         </td>
                                     </tr>
                                     {% endfor %}
@@ -97,7 +97,7 @@
                                         <td class="text-center">{{monster.monster_type.name}}{% if monster.monster_subtype %}<br> ({{monster.monster_subtype}}){% endif %}</td>
                                         <td class="text-center">{{monster.alignment| title}}</td>
                                         <td>
-                                            <a href="{% url 'card_view' monster.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                            <a href="{% url 'card_view' monster.slug %}"><i class="bx bx-search text-secondary"></i></a>
                                         </td>
                                     </tr>
                                     {% endif %}

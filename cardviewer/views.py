@@ -57,7 +57,7 @@ def card_view(request, card_slug):
             'card': card,
         }
 
-    return render(request, 'cardviewer/card/card_view.html', context)
+    return render(request, 'cardviewer/card/include/card_view.html', context)
 
 
 def condition_list(request):
@@ -196,3 +196,22 @@ def tool_list(request):
     }
 
     return render(request, 'cardviewer/table/table_tool.html', context)
+
+
+def conditon_list(request):
+    context = {
+        "plural_type_name": "Conditions",
+        "table_list": get_deck("condition"),
+    }
+
+    return render(request, 'cardviewer/table/table_generic.html', context)
+
+
+def weapon_property_list(request):
+    context = {
+        "plural_type_name": "Weapon Properties",
+        "table_list": get_deck("weapon_property"),
+    }
+
+    return render(request, 'cardviewer/table/table_generic.html', context)
+

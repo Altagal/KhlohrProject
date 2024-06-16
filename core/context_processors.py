@@ -1,11 +1,19 @@
 from cardmaker.util import get_deck
 
 
-def sidebar_context(request):
+def layout_context(request):
+    if 'stored_cards' not in request.session:
+        request.session['stored_cards'] = []
+
+    cards_in_cart = 0
+    if request.session['stored_cards']:
+        cards_in_cart = len(request.session['stored_cards'])
+
+
+
     context = {
         "magic_school_list_context_processors": get_deck("magic_school"),
-        "conditon_list_context_processors": get_deck("condition"),
-        "weapon_property_list_context_processors": get_deck("weapon_property"),
-
+        "cards_in_cart": cards_in_cart
     }
     return context
+

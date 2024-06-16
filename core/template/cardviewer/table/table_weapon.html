@@ -37,7 +37,7 @@
                                         <td>{% if weapon.special %}Special<br>{% endif %}{% for property in weapon.weapon_properties %}{{property.name}}{%if property.min_range and property.max_range %}({{property.min_range}}/{{property.max_range}}){% endif %}<br>{% endfor %}
                                         </td>
                                         <td>
-                                            <a href="{% url 'card_view' weapon.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                            <a href="{% url 'card_view' weapon.slug %}"><i class="bx bx-search text-secondary"></i></a>
                                         </td>
                                     </tr>
                                     {% endfor %}

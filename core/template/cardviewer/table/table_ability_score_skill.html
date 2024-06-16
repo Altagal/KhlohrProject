@@ -25,14 +25,14 @@
                         <tr>
                             <td rowspan="{{ card_ability_score.skill|length|add:1 }}">{{card_ability_score.name}}</td>
                             <td rowspan="{{ card_ability_score.skill|length| add:1 }}">
-                                <a href="{% url 'card_view' card_ability_score.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                <a href="{% url 'card_view' card_ability_score.slug %}"><i class="bx bx-search text-secondary"></i></a>
                             </td>
                             {% for card_skill in skill_list %}
                             {% if card_ability_score.slug == card_skill.ability_score.slug %}
                         <tr>
                             <td rowspan="">{{card_skill.name}}</td>
                             <td>
-                                <a href="{% url 'card_view' card_skill.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                <a href="{% url 'card_view' card_skill.slug %}"><i class="bx bx-search text-secondary"></i></a>
                             </td>
                         </tr>
                         {% endif %}

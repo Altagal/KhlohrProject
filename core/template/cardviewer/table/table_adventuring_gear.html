@@ -32,7 +32,7 @@
                                         <td>{{adventuring_gear.cost.quantity}} {{adventuring_gear.cost.unit}}</td>
                                         <td>{% if adventuring_gear.weight %}{{adventuring_gear.weight}} lb.{% endif %}</td>
                                         <td>
-                                            <a href="{% url 'card_view' adventuring_gear.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                            <a href="{% url 'card_view' adventuring_gear.slug %}"><i class="bx bx-search text-secondary"></i></a>
                                         </td>
                                     </tr>
                                     {% endfor %}

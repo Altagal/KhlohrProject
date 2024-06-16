@@ -5,8 +5,8 @@ from cardmaker.util import get_card, get_card_from_slug
 
 
 def cart_view(request):
-    if 'stored_cards' not in request.session:
-        request.session['stored_cards'] = []
+    # if 'stored_cards' not in request.session:
+    #     request.session['stored_cards'] = []
 
     context = {
         "card_list": get_card(request.session['stored_cards'])
@@ -17,7 +17,7 @@ def cart_view(request):
 
 def card_print(request):
     lista_auxiliar = [
-
+        # lista de cartas upadas de modo artificial para teste
     ]
 
     card_list = []

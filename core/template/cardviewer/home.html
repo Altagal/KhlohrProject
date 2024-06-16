@@ -1,33 +1,30 @@
 {% extends "layout/base.html" %}
-{% block title %}Início{% endblock %}
+{% block title %}Home{% endblock %}
 {% block stylesheet %}{% endblock %}
 {% block content %}
 <div class="page-inner">
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-xl">
+
+            <h5 class="pt-3 pb-1 mb-2">Daily card</h5>
             <div class="card">
-                <div class="card-header">
-                    <div class="card-title text-center">Daily card</div>
-                </div>
-                {% with card=card_daily %}
-                {% include 'cardviewer/card/card_content.html'%}
-                {% endwith %}
-            </div>
+            {% with card=card_daily %}
+            {% include 'cardviewer/card/include/card_type_selector.html'%}
+            {% endwith %}
         </div>
-        <div class="col-md-6">
+        </div>
+        <div class="col-xl">
+
+            <h5 class="pt-3 pb-1 mb-2">Randon card</h5>
             <div class="card">
-                <div class="card-header">
-                    <div class="card-title text-center">Randon card</div>
-                </div>
                 {% with card=card_randon %}
-                {% include 'cardviewer/card/card_content.html'%}
+                {% include 'cardviewer/card/include/card_type_selector.html'%}
                 {% endwith %}
-            </div>
+        </div>
         </div>
     </div>
 </div>
 {% endblock %}
-
 {% block javascript %}
 <script>
     $(document).ready(function() {

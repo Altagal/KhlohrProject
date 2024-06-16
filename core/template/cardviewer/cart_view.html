@@ -8,13 +8,12 @@
     <div class="row">
         <div class="col">
             <div class="card">
-                <div class="card-header">
-                    <div class="card-head-row">
-                        <div class="card-title">Cart</div>
-                        <div class="card-tools">
-                            <a class="btn btn-danger" href="{% url 'card_print' %}"><i class="fas fa-print"></i> Print Cards</a>
-                        </div>
+                <div class="card-header d-flex align-items-center justify-content-between">
+                    <div class="card-title mb-0">
+                        <h5 class="m-0 me-2">Cart</h5>
+                        <small class="text-muted"></small>
                     </div>
+                    <a class="btn btn-secondary" href="{% url 'card_print' %}"><i class='bx bxs-printer'></i> Print Cards</a>
                 </div>
                 <div class="card-body">
                     <table class="table table-hover">
@@ -32,7 +31,8 @@
                             <td>Q</td>
                             <td>{{card.name}}</td>
                             <td>{{card.type.name | default_if_none:"" | title }}</td>
-                            <td><a href="{% url 'remove_stored_card' card.slug %}"><i class="fas fa-trash-alt text-danger"></i></a></td>
+                            <td>
+                                <a href="{% url 'remove_stored_card' card.slug %}"><i class='bx bxs-trash text-secondary'></i></a></td>
                         </tr>
                         {% endfor %}
                         </tbody>
@@ -70,6 +70,5 @@
 					}
 				});
 			});
-
 </script>
 {% endblock %}

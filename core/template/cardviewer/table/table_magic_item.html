@@ -50,7 +50,7 @@
                                         <td>{{item.rarity.name}}</td>
                                         <td>{% if item.requires_attunement %}{{item.requires_attunement}}{% endif %}</td>
                                         <td>
-                                            <a href="{% url 'card_view' item.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                            <a href="{% url 'card_view' item.slug %}"><i class="bx bx-search text-secondary"></i></a>
                                         </td>
                                     </tr>
                                     {% endfor %}
@@ -79,7 +79,7 @@
                                          <td>{{item.category.name}}</td>
                                         <td>{% if item.requires_attunement %}{{item.requires_attunement}}{% endif %}</td>
                                         <td>
-                                            <a href="{% url 'card_view' item.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                            <a href="{% url 'card_view' item.slug %}"><i class="bx bx-search text-secondary"></i></a>
                                         </td>
                                     </tr>
                                     {% endif %}

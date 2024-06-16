@@ -1,67 +1,70 @@
-<div class="card-header">
-    {% include 'cardviewer/card/card_header.html'%}
-    <div class="card-head-row">
-        <div class="card-category mt-0">Class</div>
-    </div>
-</div>
-<div class="card-body">
-    <div class="row">
-        <div class="col">
-            <p>
-                <b>{{card.multiclass_prerequisite}}</b>
-            </p>
+    <div class="card-header d-flex align-items-center justify-content-between">
+        <div class="card-title mb-0">
+            <h5 class="m-0 me-2">{% block card_title %}{% endblock %}{{card.name}}</h5>
+            <small class="text-muted">Class</small>
         </div>
+        <button type="button" class="btn btn-icon btn-secondary" id="store_card">
+            <span class="bx bxs-book-add"></span>
+        </button>
     </div>
-    <div class="row mb-3">
-        <div class="col">
-            {% autoescape off %}
-            {{card.desc}}
-            {% endautoescape %}
+    <div class="card-body">
+        <div class="row">
+            <div class="col">
+                <p>
+                    <b>{{card.multiclass_prerequisite}}</b>
+                </p>
+            </div>
         </div>
-    </div>
-    <div class="row">
-        <div class="col">
-            <div class="card-title">Hit Points</div>
-            <p>
-                <b>Hit Dice:</b> 1d{{card.hit_die}} per {{card.name|lower}} level<br>
-                <b>Hit Points at 1st Level:</b> {{card.hit_die}} + your Constitution modifier<br>
-                <b>Hit Points at Higher Levels:</b> 1d{{card.hit_die}} + your Constitution modifier per {{card.name|lower}} level after 1st<br>
-            </p>
+        <div class="row mb-3">
+            <div class="col">
+                {% autoescape off %}
+                {{card.desc}}
+                {% endautoescape %}
+            </div>
         </div>
-    </div>
-    <div class="row">
-        <div class="col">
-            <div class="card-title">Proficiencies</div>
-            <p>
-                <b>Armor:</b> {{card.armor_proficiency}}<br>
-                <b>Weapon:</b> {{card.weapon_proficiency}}<br>
-                <b>Tool:</b> {{card.tool_proficiency}}<br>
-                <b>Saving Throw:</b> {{card.saving_throw_proficiency}}<br>
-                <b>Skill:</b> {{card.skill_proficiency}}<br>
-            </p>
+        <div class="row">
+            <div class="col">
+                <div class="card-title">Hit Points</div>
+                <p>
+                    <b>Hit Dice:</b> 1d{{card.hit_die}} per {{card.name|lower}} level<br>
+                    <b>Hit Points at 1st Level:</b> {{card.hit_die}} + your Constitution modifier<br>
+                    <b>Hit Points at Higher Levels:</b> 1d{{card.hit_die}} + your Constitution modifier per {{card.name|lower}} level after 1st<br>
+                </p>
+            </div>
         </div>
-    </div>
-    <div class="row">
-        <div class="col">
-            <div class="card-title">Equipment</div>
-            {% autoescape off %}
-            {{card.equipment}}
-            {% endautoescape %}
+        <div class="row">
+            <div class="col">
+                <div class="card-title">Proficiencies</div>
+                <p>
+                    <b>Armor:</b> {{card.armor_proficiency}}<br>
+                    <b>Weapon:</b> {{card.weapon_proficiency}}<br>
+                    <b>Tool:</b> {{card.tool_proficiency}}<br>
+                    <b>Saving Throw:</b> {{card.saving_throw_proficiency}}<br>
+                    <b>Skill:</b> {{card.skill_proficiency}}<br>
+                </p>
+            </div>
         </div>
-    </div>
-    {% for class_feature in class_feature_list %}
-    {% if class_feature.class.slug == card.slug %}
-    <div class="row mb-2">
-        <div class="col">
-            <div class="card-title ">{{class_feature.name}}<a class="btn btn-sm" href="{% url 'card_view' class_feature.slug %}"><i class="fas fa-search text-danger"></i></a></div>
-            <div class="card-category mt-0 mb-2">{{class_feature.level}}º Level</div>
-            {% autoescape off %}
-            {{class_feature.desc}}
-            {% endautoescape %}
+        <div class="row">
+            <div class="col">
+                <div class="card-title">Equipment</div>
+                {% autoescape off %}
+                {{card.equipment}}
+                {% endautoescape %}
+            </div>
         </div>
-    </div>
-    {% endif %}
-    {% endfor %}
+        {% for class_feature in class_feature_list %}
+        {% if class_feature.class.slug == card.slug %}
+        <div class="row mb-2">
+            <div class="col">
+                <div class="card-title ">{{class_feature.name}}<a class="btn btn-sm" href="{% url 'card_view' class_feature.slug %}"><i class="bx bx-search text-secondary"></i></a></div>
+                <div class="card-category mt-0 mb-2">{{class_feature.level}}º Level</div>
+                {% autoescape off %}
+                {{class_feature.desc}}
+                {% endautoescape %}
+            </div>
+        </div>
+        {% endif %}
+        {% endfor %}
 
-    {% include 'cardviewer/card/card_footer.html'%}
-</div>
+        {% include 'cardviewer/card/card_footer.html'%}
+    </div>

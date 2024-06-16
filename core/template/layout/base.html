@@ -1,76 +1,61 @@
 {% load static %}
 <!DOCTYPE html>
-<html lang="pt_br">
+<html
+        lang="en"
+        class="light-style layout-menu-fixed"
+        dir="ltr"
+        data-theme="theme-default"
+        data-assets-path="{% static 'assets/' %}"
+        data-template="vertical-menu-template-free">
 <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"/>
     <title>{% block title %}{% endblock %} - Stone Mirror</title>
-    <meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport'/>
-    <link rel="icon" href="{% static 'assets/img/DnD-Emblem.ico' %}" type="image/x-icon"/>
-
-    <!-- Fonts and icons -->
-    <script src="{% static 'assets/js/plugin/webfont/webfont.min.js' %}"></script>
-    <script>
-		WebFont.load({
-			google: {"families":["Lato:300,400,700,900"]},
-			custom: {"families":["Flaticon", "Font Awesome 5 Solid", "Font Awesome 5 Regular", "Font Awesome 5 Brands", "simple-line-icons"], urls: ['{% static 'assets/css/fonts.min.css' %}']},
-			active: function() {
-				sessionStorage.fonts = true;
-			}
-		});
-
-    </script>
-
-    <!-- CSS Files -->
-    <link rel="stylesheet" href="{% static 'assets/css/bootstrap.min.css' %}">
-    <link rel="stylesheet" href="{% static 'assets/css/atlantis.min.css' %}">
-
+    <meta name="description" content=""/>
+    <link rel="icon" type="image/x-icon" href="{% static 'assets/img/favicon/DnD-Emblem.ico' %}"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet"/>
+    <link rel="stylesheet" href="{% static 'assets/vendor/fonts/boxicons.css' %}"/>
+    <link rel="stylesheet" href="{% static 'assets/vendor/css/core.css' %}" class="template-customizer-core-css"/>
+    <link rel="stylesheet" href="{% static 'assets/vendor/css/theme-default.css' %}" class="template-customizer-theme-css"/>
+    <link rel="stylesheet" href="{% static 'assets/css/demo.css' %}"/>
+    <link rel="stylesheet" href="{% static 'assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css' %}"/>
+    <link rel="stylesheet" href="{% static 'assets/vendor/libs/apex-charts/apex-charts.css' %}"/>
+    <script src="{% static 'assets/vendor/js/helpers.js' %}"></script>
+    <script src="{% static 'assets/js/config.js' %}"></script>
+    <link href="{% static 'assets/vendor/css/plugin/datatables/datatables.min.css' %}" rel="stylesheet">
 </head>
 <body>
-<div class="wrapper">
-    <div class="main-header">
-        <!-- Logo Header -->
-        {% include 'layout/logo-header.html' %}
-        <!-- End Logo Header -->
-        <!-- Navbar Header -->
-        {% include 'layout/header.html' %}
-        <!-- End Navbar -->
-    </div>
-    <!-- Sidebar -->
-    {% include 'layout/sidebar.html' %}
-    <!-- End Sidebar -->
-    <div class="main-panel">
-        <div class="content">
-            {% block content %}
-            {% endblock %}
+<div class="layout-wrapper layout-content-navbar">
+    <div class="layout-container">
+        {% include 'layout/sidebar.html' %}
+        <div class="layout-page">
+            {% include 'layout/header.html' %}
+            <div class="content-wrapper">
+                <div class="container-xxl flex-grow-1 container-p-y">
+                    {% block content %}
+
+                    {% endblock %}
+                </div>
+                {% include 'layout/footer.html' %}
+                <div class="content-backdrop fade"></div>
+            </div>
         </div>
     </div>
+    <div class="layout-overlay layout-menu-toggle"></div>
 </div>
-
-
-<!--   Core JS Files   -->
-<script src="{% static 'assets/js/core/jquery.3.2.1.min.js' %}"></script>
-<script src="{% static 'assets/js/core/popper.min.js' %}"></script>
-<script src="{% static 'assets/js/core/bootstrap.min.js' %}"></script>
-
-<!-- jQuery UI -->
-<script src="{% static 'assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js' %}"></script>
-<script src="{% static 'assets/js/plugin/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js' %}"></script>
-
-<!-- jQuery Scrollbar -->
-<script src="{% static 'assets/js/plugin/jquery-scrollbar/jquery.scrollbar.min.js' %}"></script>
-<!-- Datatables -->
-<script src="{% static 'assets/js/plugin/datatables/datatables.min.js' %}"></script>
-<!-- Sweetalert -->
-<script src="{% static 'assets/js/plugin/sweetalert/sweetalert.min.js' %}"></script>
-<!-- Atlantis JS -->
-<script src="{% static 'assets/js/atlantis.min.js' %}"></script>
-<!-- Typeahead -->
-<script src="{% static 'assets/js/custom/bootstrap-typeahead.js' %}"></script>
-
-
-
+<script src="{% static 'assets/vendor/libs/jquery/jquery.js' %}"></script>
+<script src="{% static 'assets/vendor/libs/popper/popper.js' %}"></script>
+<script src="{% static 'assets/vendor/js/bootstrap.js' %}"></script>
+<script src="{% static 'assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js' %}"></script>
+<script src="{% static 'assets/vendor/js/menu.js' %}"></script>
+<script src="{% static 'assets/vendor/libs/apex-charts/apexcharts.js' %}"></script>
+<script src="{% static 'assets/js/main.js' %}"></script>
+<script src="{% static 'assets/js/dashboards-analytics.js' %}"></script>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+<script src="{% static 'assets/vendor/js/plugin/datatables/datatables.min.js' %}></script>
 {% block javascript %}
 {% endblock %}
-
 </body>
 </html>

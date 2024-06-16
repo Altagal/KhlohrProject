@@ -25,13 +25,13 @@
                         <tr>
                             <td rowspan="{{ card_class.subclasses|length|add:1 }}">{{card_class.name}}</td>
                             <td rowspan="{{ card_class.subclasses|length| add:1 }}">
-                                <a href="{% url 'card_view' card_class.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                <a href="{% url 'card_view' card_class.slug %}"><i class="bx bx-search text-secondary"></i></a>
                             </td>
                             {% for card_subclass in card_class.subclasses %}
                         <tr>
                             <td rowspan="">{{card_subclass.name}}</td>
                             <td>
-                                <a href="{% url 'card_view' card_subclass.slug %}"><i class="fas fa-search text-danger"></i></a>
+                                <a href="{% url 'card_view' card_subclass.slug %}"><i class="bx bx-search text-secondary"></i></a>
                             </td>
                         </tr>
                         {% endfor %}

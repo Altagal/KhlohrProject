@@ -1,8 +1,11 @@
-<div class="card-header">
-    {% include 'cardviewer/card/card_header.html'%}
-    <div class="card-head-row">
-        <div class="card-category mt-0">Subclass</div>
+<div class="card-header d-flex align-items-center justify-content-between">
+    <div class="card-title mb-0">
+        <h5 class="m-0 me-2">{% block card_title %}{% endblock %}{{card.name}}</h5>
+        <small class="text-muted">Subclass</small>
     </div>
+    <button type="button" class="btn btn-icon btn-secondary" id="store_card">
+        <span class="bx bxs-book-add"></span>
+    </button>
 </div>
 <div class="card-body">
     <div class="row">
@@ -16,7 +19,7 @@
     {% if subclass_feature.subclass.slug == card.slug %}
     <div class="row">
         <div class="col">
-            <div class="card-title ">{{subclass_feature.name}}<a class="btn btn-sm" href="{% url 'card_view' subclass_feature.slug %}"><i class="fas fa-search text-danger"></i></a></div>
+            <div class="card-title ">{{subclass_feature.name}}<a class="btn btn-sm" href="{% url 'card_view' subclass_feature.slug %}"><i class="bx bx-search text-secondary"></i></a></div>
             <div class="card-category mt-0 mb-2">{{subclass_feature.level}}º Level</div>
             {% autoescape off %}
             {{subclass_feature.desc}}
@@ -28,3 +31,5 @@
 
     {% include 'cardviewer/card/card_footer.html'%}
 </div>
+
+
