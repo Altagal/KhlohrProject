@@ -1,32 +1,23 @@
 {% extends "layout/base.html" %}
-{% block title %}Home{% endblock %}
+{% load static %}
+{% block title %}{{card.name}}{% endblock %}
 {% block stylesheet %}{% endblock %}
 {% block content %}
 <div class="page-inner">
     <div class="row">
         <div class="col-xl">
-
-            <h5 class="pt-3 pb-1 mb-2">Daily card</h5>
-            {% with card=card_daily %}
             {% include 'cardviewer/card/include/card_view.html'%}
-            {% endwith %}
-        </div>
-        <div class="col-xl">
-
-            <h5 class="pt-3 pb-1 mb-2">Randon card</h5>
-                {% with card=card_randon %}
-                {% include 'cardviewer/card/include/card_view.html'%}
-                {% endwith %}
         </div>
     </div>
 </div>
 {% endblock %}
 {% block javascript %}
+<script src="{% static 'assets/js/custom/table_view_script.js' %}"></script>
 <script>
     $(document).ready(function() {
         $('#store_card').click(function() {
             $.ajax({
-                url: '{% url 'store_card_in_cart' card_daily.slug %}',
+                url: '{% url 'store_card_in_cart' card.slug %}',
                 type: 'GET',
             });
         });

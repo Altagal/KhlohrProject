@@ -57,7 +57,7 @@ def card_view(request, card_slug):
             'card': card,
         }
 
-    return render(request, 'cardviewer/card/include/card_view.html', context)
+    return render(request, 'cardviewer/card/include/card_page.html', context)
 
 
 def condition_list(request):
