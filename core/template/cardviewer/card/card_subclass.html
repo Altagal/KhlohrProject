@@ -19,7 +19,9 @@
     {% if subclass_feature.subclass.slug == card.slug %}
     <div class="row">
         <div class="col">
-            <div class="card-title ">{{subclass_feature.name}}<a class="btn btn-sm" href="{% url 'card_view' subclass_feature.slug %}"><i class="bx bx-search text-secondary"></i></a></div>
+             <div class="card-title mb-0">
+                <b>{{subclass_feature.name}}<a class="btn btn-sm" href="{% url 'card_view' subclass_feature.slug %}"><i class="bx bx-search text-secondary"></i></a></b>
+            </div>
             <div class="card-category mt-0 mb-2">{{subclass_feature.level}}º Level</div>
             {% autoescape off %}
             {{subclass_feature.desc}}
