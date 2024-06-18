@@ -54,7 +54,14 @@
 <script src="{% static 'assets/js/main.js' %}"></script>
 <script src="{% static 'assets/js/dashboards-analytics.js' %}"></script>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-<script src="{% static 'assets/vendor/js/plugin/datatables/datatables.min.js' %}></script>
+<script src="{% static 'assets/js/datatables/datatables.min.js' %}"></script>
+<script src="{% static 'assets/js/sweetalert/sweetalert.min.js' %}"></script>
+
+<script>
+    $('.typeahead').typeahead({
+    })
+</script>
+
 {% block javascript %}
 {% endblock %}
 </body>
