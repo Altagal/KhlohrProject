@@ -160,7 +160,7 @@
     }
   },
   {
-    "slug": "ilusion",
+    "slug": "illusion",
     "name": "Illusion",
     "type": {
       "slug": "magic_school",
@@ -25805,6 +25805,30 @@
     "type": {
       "slug": "tool",
       "name": "Tool"
+    }
+  },
+  {
+    "slug": "conjure-cannonball",
+    "name": "Conjure Cannonball",
+    "type": {
+      "slug": "spell",
+      "name": "Spell"
+    }
+  },
+  {
+    "slug": "conjure-cover",
+    "name": "Conjure Cover",
+    "type": {
+      "slug": "spell",
+      "name": "Spell"
+    }
+  },
+  {
+    "slug": "arcane-anomaly",
+    "name": "Arcane Anomaly",
+    "type": {
+      "slug": "spell",
+      "name": "Spell"
     }
   }
 ]
