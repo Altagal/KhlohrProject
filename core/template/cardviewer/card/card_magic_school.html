@@ -36,7 +36,7 @@
     <div class="tab-content">
         <div class="tab-pane fade active show" id="tab-level-all" role="tabpanel" aria-labelledby="pills-contact-tab">
             <div class="table-responsive">
-                <table class="table table-hover spell-school-table">
+                <table class="table table-sm table-hover spell-school-table">
                     <thead>
                     <tr>
                         <th scope="col">Name</th>
@@ -52,7 +52,7 @@
                     {% for spell in table_list %}
                     {% if spell.magic_school.slug == card.slug %}
                     <tr>
-                        <td>{{spell.name}}</td>
+                        <td><strong>{{spell.name}}</strong></td>
                         <td class="text-center">{% if spell.level == 0 %}Cantrip{% else %}{{spell.level}}º{% endif %}
                         </td>
                         <td class="text-center">
@@ -64,14 +64,13 @@
                             {{spell.duration}}
                         </td>
                         <td class="text-center">
-                            {% if spell.is_verbal %} Verbal<br> {% endif %}
-                            {% if spell.is_somatic %} Somatic<br> {% endif %}
-                            {% if spell.required_material %} Material<br> {% endif %}
-                            {% if spell.is_ritual %} Ritual<br> {% endif %}
-                            {% if spell.is_chronomancy %} Chronomancy<br> {% endif %}
-                            {% if spell.is_renaissance %} Renaissance<br> {% endif %}
+                            {% if spell.is_verbal %}<div><span class="badge bg-label-dark">Verbal</span></div>{% endif %}
+                            {% if spell.is_somatic %} <div><span class="badge bg-label-dark">Somatic</span></div>{% endif %}
+                            {% if spell.required_material %} <div><span class="badge bg-label-dark">Material</span></div> {% endif %}
+                            {% if spell.is_ritual %} <div><span class="badge bg-label-dark">Ritual</span></div> {% endif %}
+                            {% if spell.is_chronomancy %} <div><span class="badge bg-label-dark">Chronomancy</span></div> {% endif %}
+                            {% if spell.is_renaissance %} <div><span class="badge bg-label-dark">Renaissance</span></div> {% endif %}
                         </td>
-
                         <td>
                             <a href="{% url 'card_view' spell.slug %}"><i class="bx bx-search text-secondary"></i></a>
                         </td>
@@ -86,7 +85,7 @@
         {% for lvl in range %}
         <div class="tab-pane fade" id="tab-level-{{ lvl }}" role="tabpanel" aria-labelledby="pills-contact-tab">
             <div class="table-responsive">
-                <table class="table table-hover spells-table">
+                <table class="table table-sm table-hover spells-table">
                     <thead>
                     <tr>
                         <th scope="col">Name</th>
@@ -111,6 +110,7 @@
                             {{ spell.duration }}
                         </td>
                         <td class="text-center">
+
                             {% if spell.is_verbal %} Verbal<br> {% endif %}
                             {% if spell.is_somatic %} Somatic<br> {% endif %}
                             {% if spell.required_material %} Material<br> {% endif %}
