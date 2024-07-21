@@ -35,7 +35,6 @@
             <div class="content-wrapper">
                 <div class="container-xxl flex-grow-1 container-p-y">
                     {% block content %}
-
                     {% endblock %}
                 </div>
                 {% include 'layout/footer.html' %}
@@ -56,12 +55,6 @@
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <script src="{% static 'assets/js/datatables/datatables.min.js' %}"></script>
 <script src="{% static 'assets/js/sweetalert/sweetalert.min.js' %}"></script>
-
-<script>
-    $('.typeahead').typeahead({
-    })
-</script>
-
 {% block javascript %}
 {% endblock %}
 </body>

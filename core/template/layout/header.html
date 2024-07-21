@@ -9,16 +9,35 @@
         <div class="navbar-nav align-items-center">
             <div class="nav-item d-flex align-items-center">
                 <i class="bx bx-search fs-4 lh-0"></i>
-                <input type="text" class="form-control border-0 shadow-none" placeholder="Search..." aria-label="Search..."/>
+                <input type="text" class="form-control border-0 shadow-none" placeholder="Search...">
             </div>
         </div>
         <ul class="navbar-nav flex-row align-items-center ms-auto">
+
             <li class="nav-item navbar-dropdown dropdown-user dropdown">
-                <a class="nav-link dropdown-toggle hide-arrow" href="{% url 'cart_view' %}" >
+                <a class="nav-link dropdown-toggle hide-arrow" href="{% url 'cart_view' %}">
                     <button type="button" class="btn rounded-pill btn-secondary">
                         <span class="tf-icons bx bxs-book-bookmark"></span> {{cards_in_cart}}
                     </button>
                 </a>
+            </li>
+            <li class="nav-item navbar-dropdown dropdown-user dropdown">
+
+                <button type="button" class="btn btn-primary btn-icon rounded-pill dropdown-toggle hide-arrow" data-bs-toggle="dropdown" aria-expanded="false">
+                    <i class="bx bx-dots-vertical-rounded"></i>
+                </button>
+                <ul class="dropdown-menu dropdown-menu-end" style="">
+                    {% for index_item in index_list_context_processors %}
+                    {% if not forloop.first %}
+                    <hr class="dropdown-divider">
+                    {% endif %}
+                    <li>
+                        <a class="dropdown-item" href="javascript:void(0);">
+                        <div>{{index_item.name}}</div>
+                        <small class="text-muted">{{index_item.type.name}}</small></a>
+                    </li>
+                    {% endfor %}
+                </ul>
             </li>
         </ul>
     </div>
