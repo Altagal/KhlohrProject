@@ -2728,6 +2728,54 @@
     }
   },
   {
+    "slug": "hex",
+    "name": "Hex",
+    "type": {
+      "slug": "spell",
+      "name": "Spell"
+    }
+  },
+  {
+    "slug": "ceremony",
+    "name": "Ceremony",
+    "type": {
+      "slug": "spell",
+      "name": "Spell"
+    }
+  },
+  {
+    "slug": "compelled-duel",
+    "name": "Compelled Duel",
+    "type": {
+      "slug": "spell",
+      "name": "Spell"
+    }
+  },
+  {
+    "slug": "searing-smite",
+    "name": "Searing Smite",
+    "type": {
+      "slug": "spell",
+      "name": "Spell"
+    }
+  },
+  {
+    "slug": "thunderous-smite",
+    "name": "Thunderous Smite",
+    "type": {
+      "slug": "spell",
+      "name": "Spell"
+    }
+  },
+  {
+    "slug": "wrathful-smite",
+    "name": "Wrathful Smite",
+    "type": {
+      "slug": "spell",
+      "name": "Spell"
+    }
+  },
+  {
     "slug": "zone-of-truth",
     "name": "Zone of Truth",
     "type": {
