@@ -39,19 +39,15 @@
                                         <th scope="col" style="width: 20%;">Type</th>
                                         <th class="text-center" scope="col" style="width: 15%;">Rariry</th>
                                         <th scope="col" style="width: 35%;">Attunement</th>
-                                        <th class="text-center" scope="col"></th>
                                     </tr>
                                     </thead>
                                     <tbody>
                                     {% for item in table_list %}
                                     <tr>
-                                        <td>{{item.name}}</td>
+                                        <td><a href="{% url 'card_view' item.slug %}">{{item.name}}</a></td>
                                         <td>{{item.category.name}}</td>
                                         <td>{{item.rarity.name}}</td>
                                         <td>{% if item.requires_attunement %}{{item.requires_attunement}}{% endif %}</td>
-                                        <td>
-                                            <a href="{% url 'card_view' item.slug %}"><i class="bx bx-search text-secondary"></i></a>
-                                        </td>
                                     </tr>
                                     {% endfor %}
                                     </tbody>

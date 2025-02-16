@@ -17,18 +17,14 @@
                             <th scope="col" style="width: 25%;">Name</th>
                             <th>Prerequisite</th>
                             <th>Ability Score Increase</th>
-                            <th class="text-center" style="width: 1%;" scope="col"></th>
                         </tr>
                         </thead>
                         <tbody>
                         {% for card in table_list %}
                         <tr>
-                            <td>{{card.name}}</td>
+                            <td><a href="{% url 'card_view' card.slug %}">{{card.name}}</a></td>
                             <td>{% if card.prerequisite %}{{card.prerequisite}}{% endif %}</td>
                             <td>{% if card.ability_score_increase %}{{card.ability_score_increase}}{% endif %}</td>
-                            <td>
-                                <a href="{% url 'card_view' card.slug %}"><i class="bx bx-search text-secondary"></i></a>
-                            </td>
                         </tr>
                         {% endfor %}
                         </tbody>

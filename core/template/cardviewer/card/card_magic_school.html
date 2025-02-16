@@ -1,6 +1,4 @@
 <div class="card">
-
-
     <div class="card-header">
         <div class="d-flex align-items-center justify-content-between">
             <div class="card-title mb-0">
@@ -47,14 +45,13 @@
                             <th class="text-center" scope="col">Range</th>
                             <th class="text-center" scope="col">Duration</th>
                             <th class="text-center" scope="col" style="width: 5%;">Components and Tags</th>
-                            <th class="text-center" scope="col"></th>
                         </tr>
                         </thead>
                         <tbody>
                         {% for spell in table_list %}
                         {% if spell.magic_school.slug == card.slug %}
                         <tr>
-                            <td><strong>{{spell.name}}</strong></td>
+                            <td><strong><a href="{% url 'card_view' spell.slug %}">{{spell.name}}</a></strong></td>
                             <td class="text-center">{% if spell.level == 0 %}Cantrip{% else %}{{spell.level}}º{% endif %}
                             </td>
                             <td class="text-center">
@@ -85,9 +82,6 @@
                                 <div><span class="badge bg-label-dark">Renaissance</span></div>
                                 {% endif %}
                             </td>
-                            <td>
-                                <a href="{% url 'card_view' spell.slug %}"><i class="bx bx-search text-secondary"></i></a>
-                            </td>
                         </tr>
                         {% endif %}
                         {% endfor %}
@@ -106,14 +100,13 @@
                             <th class="text-center" scope="col">Range</th>
                             <th class="text-center" scope="col">Duration</th>
                             <th class="text-center" scope="col" style="width: 5%;">Components and Tags</th>
-                            <th class="text-center" scope="col"></th>
                         </tr>
                         </thead>
                         <tbody>
                         {% for spell in table_list %}
                         {% if spell.level == lvl and spell.magic_school.slug == card.slug %}
                         <tr>
-                            <td><strong>{{spell.name}}</strong></td>
+                            <td><strong><a href="{% url 'card_view' spell.slug %}">{{spell.name}}</a></strong></td>
 
                             <td class="text-center">
                                 {{spell.casting_time}}
@@ -142,9 +135,6 @@
                                 {% if spell.is_renaissance %}
                                 <div><span class="badge bg-label-dark">Renaissance</span></div>
                                 {% endif %}
-                            </td>
-                            <td>
-                                <a href="{% url 'card_view' spell.slug %}"><i class="bx bx-search text-secondary"></i></a>
                             </td>
                         </tr>
                         {% endif %}

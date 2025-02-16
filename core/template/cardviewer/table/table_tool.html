@@ -21,19 +21,15 @@
                                         <th scope="col" style="width: 40%;">Category</th>
                                         <th scope="col" style="width: 15%;">Cost</th>
                                         <th scope="col" style="width: 10%;">Weight</th>
-                                        <th class="text-center" scope="col"></th>
                                     </tr>
                                     </thead>
                                     <tbody>
                                     {% for tool in table_list %}
                                     <tr>
-                                        <td>{{tool.name}}</td>
+                                        <td><a href="{% url 'card_view' tool.slug %}">{{tool.name}}</a></td>
                                         <td>{{tool.tool_category.name}}</td>
                                         <td>{{tool.cost.quantity}} {{tool.cost.unit}}</td>
                                         <td>{% if tool.weight %}{{tool.weight}} lb.{% endif %}</td>
-                                        <td>
-                                            <a href="{% url 'card_view' tool.slug %}"><i class="bx bx-search text-secondary"></i></a>
-                                        </td>
                                     </tr>
                                     {% endfor %}
                                     </tbody>

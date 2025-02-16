@@ -15,20 +15,12 @@
                         <thead>
                         <tr>
                             <th scope="col" style="width: 99%;">Name</th>
-                            <th class="text-center" style="width: 1%;" scope="col"></th>
-                            <th class="text-center" style="width: 1%;" scope="col"></th>
                         </tr>
                         </thead>
                         <tbody>
                         {% for card in table_list %}
                         <tr>
-                            <td>{{card.name}}</td>
-                            <td>
-                                <a href="{% url 'card_view' card.slug %}"><i class="bx bx-search text-secondary"></i></a>
-                            </td>
-                            <td>
-                                <a href="{% url 'card_view' card.slug %}" data-bs-toggle="modal" data-bs-target="#basicModal"><i class="bx bxs-detail text-secondary"></i></a>
-                            </td>
+                            <td><a href="{% url 'card_view' card.slug %}" data-bs-toggle="modal" data-bs-target="#basicModal">{{card.name}}</a></td>
                         </tr>
                         {% endfor %}
                         </tbody>

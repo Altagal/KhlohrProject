@@ -8,26 +8,22 @@
         <div class="col">
             <div class="card">
                 <div class="card-header">
-                    <h5 class="card-title">{{plural_type_name}}</div>
+                    <h5 class="card-title">{{plural_type_name}}</h5>
                 </div>
+
                 <div class="card-body">
                     <table class="table table-sm table-hover generic-table">
                         <thead>
                         <tr>
                             <th scope="col" style="width: 50%;">Name</th>
                             <th scope="col" style="width: 40%;">Prerequisite</th>
-                            <th class="text-center" style="width: 1%;" scope="col"></th>
                         </tr>
                         </thead>
                         <tbody>
                         {% for card in table_list %}
                         <tr>
-                            <td>{{card.name}}</td>
+                            <td><a href="{% url 'card_view' card.slug %}">{{card.name}}</a></td>
                             <td>{% if card.prerequisite %}{{card.prerequisite}}{% endif %}</td>
-                            <td>
-                                <a href="{% url 'card_view' card.slug %}"><i class="bx bx-search text-secondary"></i></a>
-
-                            </td>
                         </tr>
                         {% endfor %}
                         </tbody>
@@ -36,8 +32,7 @@
             </div>
         </div>
     </div>
-</div>
-{% endblock %}
-{% block javascript %}
-<script src="{% static 'assets/js/custom/table_view_script.js' %}"></script>
-{% endblock %}
+    {% endblock %}
+    {% block javascript %}
+    <script src="{% static 'assets/js/custom/table_view_script.js' %}"></script>
+    {% endblock %}

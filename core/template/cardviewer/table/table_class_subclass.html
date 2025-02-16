@@ -16,31 +16,22 @@
                         <thead>
                         <tr>
                             <th scope="col" style="width: 30%;">Class</th>
-                            <th class="text-center" style="width: 1%;" scope="col"></th>
                             <th scope="col" style="width: 40%;">Subclass</th>
-                            <th class="text-center" style="width: 1%;" scope="col"></th>
                         </tr>
                         </thead>
                         <tbody>
                         {% for card_class in class_list %}
                         <tr>
-                            <td rowspan="{{ card_class.subclasses|length|add:1 }}">{{card_class.name}}</td>
-                            <td rowspan="{{ card_class.subclasses|length| add:1 }}">
-                                <a href="{% url 'card_view' card_class.slug %}"><i class="bx bx-search text-secondary"></i></a>
-                            </td>
+                            <td rowspan="{{ card_class.subclasses|length|add:1 }}"><a href="{% url 'card_view' card_class.slug %}">{{card_class.name}}</a></td>
                             {% for card_subclass in card_class.subclasses %}
                         <tr>
-                            <td rowspan="">{{card_subclass.name}}</td>
-                            <td>
-                                <a href="{% url 'card_view' card_subclass.slug %}"><i class="bx bx-search text-secondary"></i></a>
-                            </td>
+                            <td rowspan=""><a href="{% url 'card_view' card_subclass.slug %}">{{card_subclass.name}}</a></td>
                         </tr>
                         {% endfor %}
                         </tr>
                         {% endfor %}
                         </tbody>
                     </table>
-
                 </div>
             </div>
         </div>

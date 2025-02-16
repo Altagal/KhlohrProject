@@ -23,21 +23,17 @@
                                         <th scope="col" style="width: 10%;">Cost</th>
                                         <th scope="col" style="width: 10%;">Weight</th>
                                         <th scope="col" style="width: 40%;">Properties</th>
-                                        <th class="text-center" scope="col"></th>
                                     </tr>
                                     </thead>
                                     <tbody>
                                     {% for weapon in table_list %}
                                     <tr>
-                                        <td>{{weapon.name}}</td>
+                                        <td><a href="{% url 'card_view' weapon.slug %}">{{weapon.name}}</a></td>
                                         <td>{% if weapon.damage %}{{weapon.damage.damage_dice}} {{weapon.damage.damage_type.name}}{% endif %}</td>
                                         <td>{{weapon.weapon_category.name}} {{weapon.weapon_range.name}}</td>
                                         <td>{{weapon.cost.quantity}} {{weapon.cost.unit}}</td>
                                         <td>{{weapon.weight}} lb.</td>
                                         <td>{% if weapon.special %}Special<br>{% endif %}{% for property in weapon.weapon_properties %}{{property.name}}{%if property.min_range and property.max_range %}({{property.min_range}}/{{property.max_range}}){% endif %}<br>{% endfor %}
-                                        </td>
-                                        <td>
-                                            <a href="{% url 'card_view' weapon.slug %}"><i class="bx bx-search text-secondary"></i></a>
                                         </td>
                                     </tr>
                                     {% endfor %}

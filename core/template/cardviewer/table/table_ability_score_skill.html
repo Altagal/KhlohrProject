@@ -15,25 +15,17 @@
                         <thead>
                         <tr>
                             <th scope="col" style="width: 30%;">Ability Score</th>
-                            <th class="text-center" style="width: 1%;" scope="col"></th>
                             <th scope="col" style="width: 40%;">Skill</th>
-                            <th class="text-center" style="width: 1%;" scope="col"></th>
                         </tr>
                         </thead>
                         <tbody>
                         {% for card_ability_score in ability_score_list %}
                         <tr>
-                            <td rowspan="{{ card_ability_score.skill|length|add:1 }}">{{card_ability_score.name}}</td>
-                            <td rowspan="{{ card_ability_score.skill|length| add:1 }}">
-                                <a href="{% url 'card_view' card_ability_score.slug %}"><i class="bx bx-search text-secondary"></i></a>
-                            </td>
+                            <td rowspan="{{ card_ability_score.skill|length|add:1 }}"><a href="{% url 'card_view' card_ability_score.slug %}">{{card_ability_score.name}}</a></td>
                             {% for card_skill in skill_list %}
                             {% if card_ability_score.slug == card_skill.ability_score.slug %}
                         <tr>
-                            <td rowspan="">{{card_skill.name}}</td>
-                            <td>
-                                <a href="{% url 'card_view' card_skill.slug %}"><i class="bx bx-search text-secondary"></i></a>
-                            </td>
+                            <td rowspan=""><a href="{% url 'card_view' card_skill.slug %}">{{card_skill.name}}</a></td>
                         </tr>
                         {% endif %}
                         {% endfor %}

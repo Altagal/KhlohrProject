@@ -24,22 +24,18 @@
                                         <th scope="col" style="width: 5%;">Strength</th>
                                         <th scope="col" style="width: 5%;">Stealth</th>
                                         <th scope="col" style="width: 5%;">Weight</th>
-                                        <th class="text-center" scope="col"></th>
                                     </tr>
                                     </thead>
                                     <tbody>
                                     {% for armor in table_list %}
                                     <tr>
-                                        <td>{{armor.name}}</td>
+                                        <td><a href="{% url 'card_view' armor.slug %}">{{armor.name}}</a></td>
                                         <td>{{armor.armor_category.name}}</td>
                                         <td>{{armor.cost.quantity}} {{armor.cost.unit}}</td>
                                         <td>{{armor.armor_class}} {% if armor.dex_bonus %}+ Dex{% endif %}{% if armor.dex_max_bonus %} (max {{armor.dex_max_bonus}}){% endif %}</td>
                                         <td>{% if armor.str_min %}Str {{armor.str_min}} {% endif %}</td>
                                         <td>{% if armor.stealth_disadvantage %}Disadvantage on stealth{% endif %}</td>
                                         <td>{{armor.weight}} lb.</td>
-                                        <td>
-                                            <a href="{% url 'card_view' armor.slug %}"><i class="bx bx-search text-secondary"></i></a>
-                                        </td>
                                     </tr>
                                     {% endfor %}
                                     </tbody>

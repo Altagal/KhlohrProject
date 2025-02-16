@@ -21,19 +21,15 @@
                                         <th scope="col" style="width: 40%;">Category</th>
                                         <th scope="col" style="width: 15%;">Cost</th>
                                         <th scope="col" style="width: 10%;">Weight</th>
-                                        <th class="text-center" scope="col"></th>
                                     </tr>
                                     </thead>
                                     <tbody>
                                     {% for adventuring_gear in table_list %}
                                     <tr>
-                                        <td>{{adventuring_gear.name}}</td>
+                                        <td><a href="{% url 'card_view' adventuring_gear.slug %}">{{adventuring_gear.name}}</a></td>
                                         <td>{{adventuring_gear.gear_category.name}}</td>
                                         <td>{{adventuring_gear.cost.quantity}} {{adventuring_gear.cost.unit}}</td>
                                         <td>{% if adventuring_gear.weight %}{{adventuring_gear.weight}} lb.{% endif %}</td>
-                                        <td>
-                                            <a href="{% url 'card_view' adventuring_gear.slug %}"><i class="bx bx-search text-secondary"></i></a>
-                                        </td>
                                     </tr>
                                     {% endfor %}
                                     </tbody>
