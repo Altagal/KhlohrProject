@@ -1,0 +1,16 @@
+<tr>
+    <td colspan="8" class="card_type">
+        <div class="reduce_to_fit">
+            Subclass Feature - {{card.subclass.name}} {{card.class.name}} {{card.level}}º Level
+        </div>
+    </td>
+</tr>
+<tr class="card_description">
+    <td colspan="8">
+        <div style="font-size:mm">
+            {% autoescape on %}
+            {{ card.desc | safe }}
+            {% endautoescape %}
+        </div>
+    </td>
+</tr>
