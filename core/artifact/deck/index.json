@@ -25878,5 +25878,277 @@
       "slug": "spell",
       "name": "Spell"
     }
+  },
+  {
+    "slug": "tool-proficiency-alchemist",
+    "name": "Tool Proficiency",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "alchemist-spells",
+    "name": "Alchemist Spells",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "experimental-elixir",
+    "name": "Experimental Elixir",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "alchemical-savant",
+    "name": "Alchemical Savant",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "restorative-reagents",
+    "name": "Restorative Reagents",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "chemical-mastery",
+    "name": "Chemical Mastery",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "tools-of-the-trade",
+    "name": "Tools of the Trade",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "armorer-spells",
+    "name": "Armorer Spells",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "arcane-armor",
+    "name": "Arcane Armor",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "armor-model",
+    "name": "Armor Model",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "extra-attack",
+    "name": "Extra Attack",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "armor-modifications",
+    "name": "Armor Modifications",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "perfected-armor",
+    "name": "Perfected Armor",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "tool-proficiency-artillerist",
+    "name": "Tool Proficiency",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "artillerist-spells",
+    "name": "Artillerist Spells",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "eldritch-cannon",
+    "name": "Eldritch Cannon",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "arcane-firearm",
+    "name": "Arcane Firearm",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "explosive-cannon",
+    "name": "Explosive Cannon",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "fortified-position",
+    "name": "Fortified Position",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "tool-proficiency-battle-smith",
+    "name": "Tool Proficiency",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "battle-smith-spells",
+    "name": "Battle Smith Spells",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "battle-ready",
+    "name": "Battle Ready",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "steel-defender",
+    "name": "Steel Defender",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "extra-attack",
+    "name": "Extra Attack",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "arcane-jolt",
+    "name": "Arcane Jolt",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "improved-defender",
+    "name": "Improved Defender",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "ancestral-protectors",
+    "name": "Ancestral Protectors",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "spirit-shield",
+    "name": "Spirit Shield",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "consult-the-spirits",
+    "name": "Consult the Spirits",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "vengeful-ancestors",
+    "name": "Vengeful Ancestors",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "battlerager-armor",
+    "name": "Battlerager Armor",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "reckless-abandon",
+    "name": "Reckless Abandon",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "battlerager-charge",
+    "name": "Battlerager Charge",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
+  },
+  {
+    "slug": "spiked-retribution",
+    "name": "Spiked Retribution",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    }
   }
 ]
