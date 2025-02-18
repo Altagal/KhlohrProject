@@ -13,6 +13,7 @@ def layout_context(request):
 
     context = {
         "magic_school_list_context_processors": get_deck("magic_school"),
+        "index_list_context_processors": get_deck("index"),
         "cards_in_cart": cards_in_cart
     }
     return context
