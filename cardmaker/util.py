@@ -8,13 +8,12 @@ from core import settings
 
 
 def get_card_from_slug(card_slug):
-
     card_slug = slugify(card_slug)
 
     with open("core/artifact/deck/index.json", 'r') as f:
         index_data = json.load(f)
 
-    #SETUP NOT FOUND CARD
+    # SETUP NOT FOUND CARD
     card = {
         "slug": "err",
         "name": "Card Not Found",
@@ -22,7 +21,7 @@ def get_card_from_slug(card_slug):
             "slug": "error",
             "name": "Error"
         },
-        "desc": "<p>This card may not be indexed yet.</p>",
+        "desc": "<p>This card may not be indexed yet.</p><p>" + card_slug + "</p>",
         "source": "Stone Mirror"
     }
 
