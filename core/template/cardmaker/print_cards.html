@@ -24,16 +24,28 @@
 
         {% if card.type.slug == "spell" %}
         {% include 'cardmaker/card_spell.html'%}
+
         {% elif card.type.slug == "infusion" %}
         {% include 'cardmaker/card_infusion.html'%}
+
         {% elif card.type.slug == "feat" %}
         {% include 'cardmaker/card_feat.html'%}
+
         {% elif card.type.slug == "class" %}
         {% include 'cardmaker/card_class.html'%}
+
+        {% elif card.type.slug == "subclass" %}
+        {% include 'cardmaker/card_subclass.html'%}
+
+        {% elif card.type.slug == "class_feature" %}
+        {% include 'cardmaker/card_class_feature.html'%}
+
         {% elif card.type.slug == "subclass_feature" %}
         {% include 'cardmaker/card_subclass_feature.html'%}
+
         {% elif card.type.slug == "magic_item" %}
         {% include 'cardmaker/card_magic_item.html'%}
+
         {% else %}
         {% include 'cardmaker/card_generic.html'%}
         {% endif %}
