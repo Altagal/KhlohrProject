@@ -878,5 +878,137 @@
       "name": "Xanathar's Guide to Everything",
       "slug": "XGE"
     }
+  },
+  {
+    "slug": "circle-of-spores-spells",
+    "name": "Circle of Spores Spells",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "desc": "<p>Your symbiotic link to fungi and your ability to tap into the cycle of life and death grants you access to certain spells. At 2nd level, you learn the Chill Touch cantrip.</p><p>At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Spores Spells table. Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.</p><table class=\"table\"><tr><th colspan=\"2\">Circle of Spores Spells</th></tr><tr><th>DruidLevel</th><th>Spells</th></tr><tr><td>2rd</td><td>Chill Touch</td></tr><tr><td>3rd</td><td>Blindness/Deafness, Gentle Repose</td></tr><tr><td>5th</td><td>Animate Dead, Gaseous Form</td></tr><tr><td>7th</td><td>Blight, Confusion</td></tr><tr><td>9th</td><td>Cloudkill, Contagion</td></tr></table>",
+    "class": {
+      "slug": "druid",
+      "name": "Druid"
+    },
+    "subclass": {
+      "slug": "circle-of-spores",
+      "name": "Circle of Spores"
+    },
+    "level": 2,
+    "source": {
+      "name": "Tasha's Cauldron of Everything",
+      "slug": "TCE"
+    }
+  },
+  {
+    "slug": "halo-of-spores",
+    "name": "Halo of Spores",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "desc": "<p>Starting at 2nd level, you are surrounded by invisible, necrotic spores that are harmless until you unleash them on a creature nearby. When a creature you can see moves into a space within 10 feet of you or starts its turn there, you can use your reaction to deal 1d4 necrotic damage to that creature unless it succeeds on a Constitution saving throw against your spell save DC. The necrotic damage increases to 1d6 at 6th level, 1d8 at 10th level, and 1d10 at 14th level.</p>",
+    "class": {
+      "slug": "druid",
+      "name": "Druid"
+    },
+    "subclass": {
+      "slug": "circle-of-spores",
+      "name": "Circle of Spores"
+    },
+    "level": 2,
+    "source": {
+      "name": "Tasha's Cauldron of Everything",
+      "slug": "TCE"
+    }
+  },
+  {
+    "slug": "symbiotic-entity",
+    "name": "Symbiotic Entity",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "desc": "<p>Also at 2nd level, you gain the ability to channel magic into your spores. As an action, you can expend a use of your Wild Shape feature to awaken those spores, rather than transforming into a beast form, and you gain 4 temporary hit points for each level you have in this class. While this feature is active, you gain the following benefits:</p><ul><li>When you deal your Halo of Spores damage, roll the damage die a second time and add it to the total.</li></ul><ul><li>Your melee weapon attacks deal an extra 1d6 necrotic damage to any target they hit.</li></ul><p></p>",
+    "class": {
+      "slug": "druid",
+      "name": "Druid"
+    },
+    "subclass": {
+      "slug": "circle-of-spores",
+      "name": "Circle of Spores"
+    },
+    "level": 2,
+    "source": {
+      "name": "Tasha's Cauldron of Everything",
+      "slug": "TCE"
+    }
+  },
+  {
+    "slug": "fungal-infestation",
+    "name": "Fungal Infestation",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "desc": "<p>At 6th level, your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use your reaction to animate it, causing it to stand up immediately with 1 hit point. The creature uses the Zombie stat block in the Monster Manual. It remains animate for 1 hour, after which time it collapses and dies.</p><p>In combat, the zombie's turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the Attack action, making one melee attack.</p><p>You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</p>",
+    "class": {
+      "slug": "druid",
+      "name": "Druid"
+    },
+    "subclass": {
+      "slug": "circle-of-spores",
+      "name": "Circle of Spores"
+    },
+    "level": 6,
+    "source": {
+      "name": "Tasha's Cauldron of Everything",
+      "slug": "TCE"
+    }
+  },
+  {
+    "slug": "spreading-spores",
+    "name": "Spreading Spores",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "desc": "<p>At 10th level, you gain the ability to seed an area with deadly spores. As a bonus action while your Symbiotic Entity feature is active, you can hurl spores up to 30 feet away, where they swirl in a 10-foot cube for 1 minute. The spores disappear early if you use this feature again, if you dismiss them as a bonus action, or if your Symbiotic Entity feature is no longer active.</p><p>Whenever a creature moves into the cube or starts its turn there, that creature takes your Halo of Spores damage, unless the creature succeeds on a Constitution saving throw against your spell save DC. A creature can take this damage no more than once per turn.</p><p>While the cube of spores persists, you can't use your Halo of Spores reaction.</p>",
+    "class": {
+      "slug": "druid",
+      "name": "Druid"
+    },
+    "subclass": {
+      "slug": "circle-of-spores",
+      "name": "Circle of Spores"
+    },
+    "level": 10,
+    "source": {
+      "name": "Tasha's Cauldron of Everything",
+      "slug": "TCE"
+    }
+  },
+  {
+    "slug": "fungal-body",
+    "name": "Fungal Body",
+    "type": {
+      "slug": "subclass_feature",
+      "name": "Subclass Feature"
+    },
+    "desc": "<p>At 14th level, the fungal spores in your body alter you: you can't be blinded, deafened, frightened, or poisoned, and any critical hit against you counts as a normal hit instead, unless you're incapacitated.</p>",
+    "class": {
+      "slug": "druid",
+      "name": "Druid"
+    },
+    "subclass": {
+      "slug": "circle-of-spores",
+      "name": "Circle of Spores"
+    },
+    "level": 14,
+    "source": {
+      "name": "Tasha's Cauldron of Everything",
+      "slug": "TCE"
+    }
   }
 ]
