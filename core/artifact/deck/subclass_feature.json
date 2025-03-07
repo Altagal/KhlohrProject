@@ -886,7 +886,7 @@
       "slug": "subclass_feature",
       "name": "Subclass Feature"
     },
-    "desc": "<p>Your symbiotic link to fungi and your ability to tap into the cycle of life and death grants you access to certain spells. At 2nd level, you learn the Chill Touch cantrip.</p><p>At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Spores Spells table. Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.</p><table class=\"table\"><tr><th colspan=\"2\">Circle of Spores Spells</th></tr><tr><th>DruidLevel</th><th>Spells</th></tr><tr><td>2rd</td><td>Chill Touch</td></tr><tr><td>3rd</td><td>Blindness/Deafness, Gentle Repose</td></tr><tr><td>5th</td><td>Animate Dead, Gaseous Form</td></tr><tr><td>7th</td><td>Blight, Confusion</td></tr><tr><td>9th</td><td>Cloudkill, Contagion</td></tr></table>",
+    "desc": "<p>Your symbiotic link to fungi and your ability to tap into the cycle of life and death grants you access to certain spells. At 2nd level, you learn the Chill Touch cantrip.</p><p>At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Spores Spells table. Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.</p><table class=\"table\"><tr><th colspan=\"2\">Circle of Spores Spells</th></tr><tr><th>Druid Level</th><th>Spells</th></tr><tr><td>2rd</td><td>Chill Touch</td></tr><tr><td>3rd</td><td>Blindness/Deafness, Gentle Repose</td></tr><tr><td>5th</td><td>Animate Dead, Gaseous Form</td></tr><tr><td>7th</td><td>Blight, Confusion</td></tr><tr><td>9th</td><td>Cloudkill, Contagion</td></tr></table>",
     "class": {
       "slug": "druid",
       "name": "Druid"
@@ -930,7 +930,7 @@
       "slug": "subclass_feature",
       "name": "Subclass Feature"
     },
-    "desc": "<p>Also at 2nd level, you gain the ability to channel magic into your spores. As an action, you can expend a use of your Wild Shape feature to awaken those spores, rather than transforming into a beast form, and you gain 4 temporary hit points for each level you have in this class. While this feature is active, you gain the following benefits:</p><ul><li>When you deal your Halo of Spores damage, roll the damage die a second time and add it to the total.</li></ul><ul><li>Your melee weapon attacks deal an extra 1d6 necrotic damage to any target they hit.</li></ul><p></p>",
+    "desc": "<p>Also at 2nd level, you gain the ability to channel magic into your spores. As an action, you can expend a use of your Wild Shape feature to awaken those spores, rather than transforming into a beast form, and you gain 4 temporary hit points for each level you have in this class. While this feature is active, you gain the following benefits:</p><ul><li>When you deal your Halo of Spores damage, roll the damage die a second time and add it to the total.</li></ul><ul><li>Your melee weapon attacks deal an extra 1d6 necrotic damage to any target they hit.</li></ul><p>These benefits last for 10 minutes, until you lose all these temporary hit points. or until you use your Wild Shape again.</p>",
     "class": {
       "slug": "druid",
       "name": "Druid"
