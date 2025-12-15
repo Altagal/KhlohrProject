@@ -1,0 +1,76 @@
+.card {
+    display: inline-block;
+    margin: 2mm;
+}
+
+.card>table {
+    /* <!-- A6 paper size 148mm x 105mm --> */
+    width: 105mm;
+    height: 148mm;
+    border: 2mm solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 4.5mm;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+
+td {
+    border: 1mm solid black;
+
+}
+
+hr {
+    margin-top: 5mm;
+}
+
+.title {
+    height: 13mm;
+    font-size: 7.5mm;
+
+}
+
+.label {
+    font-size: 4mm;
+}
+
+.label>td {
+    padding: 1mm;
+}
+
+.tiny_label {
+    font-size: 3mm;
+    padding: 0mm 1mm 0mm 1mm;
+}
+
+.content {
+    font-size: 4mm;
+    text-align: left;
+    vertical-align: top;
+    height: 100%;
+    padding: 1mm;
+}
+
+.content td {
+    border: 0.8mm solid black;
+}
+
+.source {
+    padding: 1mm;
+    text-align: left;
+    font-size: 2.5mm;
+}
+
+@media print {
+    table {
+        page-break-inside: avoid;
+    }
+
+    .no_print,
+    .no_print * {
+        display: none !important;
+    }
+}
